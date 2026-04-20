@@ -1,0 +1,129 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 33703407,
+    "resource_state": 1
+  },
+  "name": "Morning Row",
+  "distance": 0.0,
+  "moving_time": 601,
+  "elapsed_time": 601,
+  "total_elevation_gain": 0,
+  "type": "Rowing",
+  "sport_type": "Rowing",
+  "device_name": "Garmin Forerunner 965",
+  "id": 17726605192,
+  "start_date": "2026-03-15T06:26:31Z",
+  "start_date_local": "2026-03-15T07:26:31Z",
+  "timezone": "(GMT+01:00) Africa/Algiers",
+  "utc_offset": 3600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 3,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a17726605192",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "followers_only",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.0,
+  "max_speed": 0.0,
+  "average_cadence": 29.7,
+  "has_heartrate": true,
+  "average_heartrate": 121.1,
+  "max_heartrate": 139.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 18825296453,
+  "upload_id_str": "18825296453",
+  "external_id": "garmin_ping_546373348751",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 2.0,
+  "description": null,
+  "calories": 82.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "laps": [
+    {
+      "id": 63375969751,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 17726605192,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 600,
+      "moving_time": 600,
+      "start_date": "2026-03-15T06:26:31Z",
+      "start_date_local": "2026-03-15T07:26:31Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 252,
+      "total_elevation_gain": 0,
+      "average_cadence": 29.7,
+      "device_watts": false,
+      "average_heartrate": 121.1,
+      "max_heartrate": 139.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "11ea63f416c37db9b1414227f85d144968640d22",
+  "available_zones": [
+    "heartrate"
+  ]
+}

@@ -1,0 +1,5320 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 33703407,
+    "resource_state": 1
+  },
+  "name": "Lunch Alpine Ski",
+  "distance": 41692.2,
+  "moving_time": 6603,
+  "elapsed_time": 18980,
+  "total_elevation_gain": 163.0,
+  "type": "AlpineSki",
+  "sport_type": "AlpineSki",
+  "device_name": "Garmin Forerunner 965",
+  "id": 17416941640,
+  "start_date": "2026-02-16T10:22:12Z",
+  "start_date_local": "2026-02-16T11:22:12Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 3600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 30,
+  "kudos_count": 5,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a17416941640",
+    "polyline": "yxrnJcxdy@^a@Tk@XMTSTIJMXCLQ`@KVQ~@YPHR@PGRL\\?PLFBJIHO@UEQEG_@MyAy@qc@y\\F[TeCJe@p@}B|@}BPk@^y@\\gAl@}BVyALe@TsBJuAnAwIToAFk@PcAJgATqAb@cBHk@Ja@PkA|@wERsA~@oFHw@?SNEEAQk@CUBUb@kAZo@Rs@\\{Bl@uDbA_Fl@gClAgEhAcCx@{A`BqCLMHQnAcB~AoCNS\\o@\\g@b@{@f@y@p@_Ax@wAx@qAZ]f@]TU\\q@r@_ALEb@Yb@c@TIZIPB^ATJDKPCFCT@HQJEXILQD?NIL@HETCHBHEHQPCDGNIH?FEZ@LMHBFANMP@JMNCJSNBLOPANOR?HERDRGF@HETAJ@PMP@HCVM`Dk@nAg@n@]JMHOH?Z_@POFCLQRId@c@d@WDKFEJCNYFGHAFGHSNIFKPs@?QBACIAg@@YPcAA{@B]CkBC[?e@Ga@@g@@WEu@Hm@@]Es@D{@Aa@B_@?gAF_@Be@EmA@oADe@?c@A_@BiAA_@D_A?c@H{@A]HkAAYFk@@[Ey@Hu@?iAHs@Em@Lu@@_@CeAHcAEoAJ{@D{@H[F]B_AJkACm@GKBBFGH?@]DKBSMq@A]Dq@CWGUBq@A]E[GqAe@kBQWa@QQMSGODMCQi@MKUBEK?SFGDK@y@F_@JsAJe@Fg@BaBRsADgCEm@M[SSa@u@QMSGISQ}@Yc@_@gBQgBA}@FyBFy@B}@G}B@_AAaAQsBAy@Eu@SsAGo@YyAIs@YaBQiBOm@YyAc@oA[sAOg@QYq@_@IAm@NOVGDEFBNAb@eEt~DJNZj@b@h@Tf@ZbAZj@JJXLN@j@?\\F\\@p@[tBw@p@k@LDDCz@_Af@e@l@_@TS^s@L_@TSFSBo@NaABq@JW@g@D_ACkABs@G_ADs@@_@G}@H{@Ag@Ca@JeACmADg@?k@Ek@HuAAm@Ei@CuA@k@De@@g@?gATsFHuABwAJc@N_@Lc@Fm@?q@F_BMuA?m@Hi@AsAHc@JYDc@?c@Qy@@WVSFSBWSq@@iCMgCYiBQo@W]YO[CYOQWSO[AGM@QHM@QA[PyBTcBDoBT}ABm@IgBIo@M_@q@WSYQ_@e@u@u@{DEaA@}@HcA@_GCuBIqB?w@K_DKk@Oe@YgB_@_BKu@a@iBUsBQs@Sm@_AmBm@q@WQQAKFGn@UFCHBjAGZGpCoDrwDJJH\\Tj@f@^JPd@`BL^NRTNp@HZ@|Cw@|@ORKfA_ATMHKnAy@PSXIb@s@TSDQJeAAM?FV}C?q@AWFuAESDk@?]Mu@EkCF{BH_B?q@N{AFaB?yAHqAEiAOgA?k@PkADi@@k@Fc@J_@Fg@?m@Eq@AeBBq@He@Dm@@}AJ_BGsAHkA?i@KgABa@T}@Fg@ASAGB?ADBEDc@E[JyA@g@?m@KaBAw@Iy@Os@Uk@]Y[_@YSYAUBSO[uACk@Bg@\\oARgBNo@Hu@HsBC{@Iy@Qg@SY]QW[Qg@Uc@SWSe@Mk@Ms@E{@?eATiG?iEQeC?eAEcAUqBmAgGGw@A{@Iy@Mk@Qg@[iBQo@Se@U]UMWASIKSWEIB[PSZCL?RDR?`@CFKv@cD`|DRn@j@r@LX`@jAZh@XVNFLBN?|@InBc@nA]J?NEdDkCLOFOHIJGLMHSX[DOBe@Ja@@QP]DS@k@HaACgBMeCD{@AaALeDAm@PeEBsBAy@BmDFw@@{BLwB?y@FwB?uBJoB?w@FmB?mBHuA@k@Bg@Pu@De@?IOw@@]HUJBPGHO?UOu@?]Da@?e@Ec@AuAKiBI{@Qo@OQUCa@Qs@s@m@IMYE_@Fe@VuALsBJu@B}@TqBBy@Ay@[mBWc@y@s@[]s@oAOu@SeCDqCHeADcA?eCCaAOaCEeCIaAYkBG}@]kBI{@q@_DeA_Ei@uAU_@i@]_@MIHYFKJENAZFP?AAr@ETGdAiDb{Dd@|@^f@hA|BRZLJLBl@@jAOrBk@j@Un@a@l@i@j@_@r@u@j@YNKl@wAHWFw@Jm@B}BRmAB_@A]Iy@?]L}@Bg@MsA@gCDq@?kDD{B?cC@eCHcCLkCAkCBcAHiGNwB?w@HgBE}ALuADsAHID?DAJ@RGHO?UGWC[@_@EqAO{A@gBGw@Ok@M]WMW_@YQWCUDSEMSMWC_@@c@FaBVoBLwBJs@HsBE{@Os@Ue@W[[Ui@oAW]Sg@[eBEaAAgABkAPoCBiAGuCMoCEiA]wDKw@q@eDy@oFc@qBSs@Wi@W_@a@eAOOWAUNQDMRMFEF@r@CF@FKpDuDjxD^p@PRDNLL^r@\\bANVTVZN^DNAn@Gz@W|Ag@h@WPABDVGd@c@VOp@k@p@[l@i@JQVq@J_@?KD[JUDCFc@LUPQXSLCLIDQ@UPe@BWFUHKHOLi@JMFU@u@F{@ImCB_@BcEDk@?o@Cm@?q@Dq@?s@Eq@?s@PcBBkBFq@BgDToBL{CCwAH{AEqAFmBA_@Oq@?EB?@MGi@BSHOZ[FY@a@Fe@LYJ_@Fg@Je@PURMNUFa@LWRILKDSOe@A[FWLYFa@?e@Ei@Dg@Hi@Hk@B_BDq@?u@Gw@K{@Ow@Se@u@q@c@eASWc@{AGsAIe@M_@WyBMgB[yAIs@g@yA]kBg@{A_AeCgAaESm@s@cAUk@Yc@W[e@eAIe@E}AU{AIu@[eBUoBa@wA_@aBSc@WUWIm@Gw@QM@q@VCJAR?PDL?VBR?AABOzCsDpxD`@~@h@p@`AzBT\\JJNF^BNAn@QvAUd@OjAGf@]l@i@|@o@zAs@f@s@V[TcARUN_AVu@FMd@WHUB[HYJUDcAJ]NWJ_@Ba@Cc@?c@He@Dk@CwDBq@AkBBw@MoFDoBCq@DwCAy@Dy@Ls@PwB`@iBDw@CoBBs@?q@Gc@IQGU?WRq@Fe@C}ADi@P]Ni@Fo@Lm@NYTW^eAj@g@FUAiAPiAFgBFs@By@ZoDCaAM{@Sq@Wk@c@{Ak@cA]uAg@_AK{AOa@Q[Ka@I{AIi@M]QWO_@UuAK{AKk@c@gAaA_DMc@U{AQe@Ua@c@uAUg@eAkBg@mAS{AMo@UiB_@_BIw@]iBKs@k@uCQa@U]WMUEi@Hk@E_A\\Af@@FBABF?VC@AA?B@?AF?CFK@X?CS|CyD`yDHRZh@r@t@~@nBR\\ZVNF~@Cn@K\\GrAc@xAo@V[^OpAcAt@[JQTo@T_@Nq@Hw@XaA@s@EmBDw@AcADc@AmABg@?sCDu@GsBHuBC}@@{@F{@A}BH}BA_AD}@Jy@B}@@}BD}@B{BF{@BuBJsB?y@Du@TsA?o@Ec@Kc@Ci@Fa@JOFDII@C?H?I?@JI@QAY?_AEc@BiAEoA@m@Es@Kq@Sm@Ug@[[YIYCo@a@SWKa@?i@PsADw@VmBD}@R}BD}@E_AI{@Qm@wAyAo@sASo@My@GcA?iALqC?eAKiCD{BOwBEy@Ay@Ew@U}AOmBIu@Mq@SmBKy@_@mBOq@w@oCS_@UQcAe@M@IF_@JAHKLIl@@ZH\\MxCoDdyDN`@t@jA~@fBT\\JJLHNB~@@NAlAY\\MlB{@d@[h@Qb@]t@_A|@c@LSPm@Tk@HYBq@BSV{@@w@IkABSHEFO@SUiDHeDAm@J_BCiBFq@EkDHsDA}@NoBBw@?y@NmB?y@EmBDq@Jk@Do@?s@H}ACo@Bm@PoAAk@QmA?i@F[JOJY@]Gq@BKBA?@HEVY@WEUUc@C]Lm@?YOi@Ay@C]AsBIm@O[o@s@UKk@Ba@[OEKKGYR_B@u@XkBH}BP{B@_AEaAa@aB[S]QWc@Ui@o@gAMo@M}@CeAJkCR}BA{BG_AGyBKy@EwB_@oCYaD_@}AIs@OwBMq@_@sAY_BO_@QUu@a@MMIUC[?BBOC]C@@C?FCCB??EBB?E}GhdEPXRh@b@j@NVL\\TfAL^PVVPJBv@BXCfASz@UnAi@bAo@Za@JGJCb@[p@]h@c@LIJBHJHb@Cx@LJB?JLAFCDEGADB?CABECCBD?CA@?C?@FO?AC@@C@@?DUA?EGA?IDS?_AH{@FuADc@HeAPiA?iAH_ACu@F{@G}@?c@Da@CqADgC?q@Cq@Bo@Fk@BiBIgBHeB@q@Cs@@q@NsA?m@Ek@?k@Be@@k@Cm@Bg@AqAPyABm@CaBBo@Bs@Ji@NeBBs@CoBDg@Jc@Hk@?WIKBDJCL]Da@?i@Eg@Am@GaB?y@E{@O{@Uq@]k@a@W_@M_@G[WS]Ig@@k@VgDXwBFcARwB?}@Ky@Sk@Wg@y@c@S_@Si@Ue@Qk@Mu@E}@AgABgAHcABgAIcCA}DO_CG{BQgB[eBa@eDe@uAOo@QuCYuA_@_AOYQQQIM?MB_@KG@GJC?c@d@EV?\\AEyDz_Ed@t@h@f@Nj@Db@Pn@\\r@JJJDv@Eh@?pAUxAk@^GVCFM`As@VO`BuAZ[Ts@Ve@FWHy@No@BW@mAPkBCs@Lg@B_@C]Ow@@]J}@?i@Gg@?k@JoA?o@Es@H}A@u@Gu@?w@HaBEu@?yCRoGPiBAiBDo@Li@Fo@?s@Eo@Aw@NsADk@Gg@Am@Bk@\\m@Ha@Di@Ga@GQGCA@?GB@NETUBUA]Yo@@UJm@?g@QqA?}AEo@Iq@Ok@S_@YSYKY@YHWCWQQ[Ea@?g@Ha@Zo@Ha@?_ADQNMFWEi@Kc@AWDYRm@FyBCi@Ic@KWGWCYAFCG[MM@KCQk@MSOIOSK]MYYkAIq@Cs@@{@PqBBk@Gc@S_AAm@Aq@HmB@y@F{BAy@QeBc@oCk@sCYiDg@mC_@sA]cAQWQQQMk@UWAQHQNQVETBx@BFB@@LMnBCfAoDvwDVl@r@lAp@tB^b@\\Jz@DZEr@Qz@GlA_@VOv@o@p@u@zBiB\\g@JYB_@?]O{ACq@@kBFu@EQDa@Ge@?YFs@GaAHeAAkAIoA?g@HmAEqADwAGwALoAG}AByAAq@Bo@Hi@Bm@CcBL}AEcBBq@Fo@Aq@Eo@@o@Fm@@q@Cq@Io@?m@Bi@Ci@Ig@Ek@@m@V_BNk@P_@VUVGRJNn@D\\JNF@PQ?UIe@AUBUHODYA_AOu@CkAGo@WgBSe@YOW[YQs@@SKMYAc@VmBFgBVuAHcBHo@@uCEq@Me@SSUMWCOOSy@M[Q[c@q@Kc@MqCA{@VaDAw@KoBEqHOmBE}A[uAcAyFa@cBYaBa@uAc@cA]iAMYMGq@^]DKPGT?b@DFBXBAOxCwDjyD^t@p@~@t@pB^j@LHNBhAAjBYn@Q`A}@dAg@VOfA_Av@g@PQn@qAFYBkAHk@VeA@YEm@H{@Ey@Fy@EcA?c@GkABg@NkAAo@D_B?u@DiBAs@HeBCs@Es@F_B@q@L_BBs@CkBFs@@oBH}ACaBViABk@?q@Im@Cs@@q@IsADg@FUNIFMBSAQCIB@HIP]PUFSAUGMOS?SHe@AUQi@A[DW?_@MaADsAEq@Ki@Sc@m@_AWSYCUDOMYg@KEI@KGCS?QRe@He@?s@Dq@ZqA?eBFm@Le@Hm@@m@Gm@WyAQa@QSOEQ?EGGe@MOOEQQKYEg@Ka@O_@Ik@GmEPyA?m@SiI@sBEs@YmAGc@EuAe@cCIo@i@eCSiBKm@sAuDc@q@QOQCMD[RSDKd@@`@B@F`@MvBAx@oDnxDb@`A`@p@z@pBb@f@LJNFP@\\E\\?XOnDkARSb@[f@W^c@r@i@VIFKVOJMJe@TY@s@F]Zi@Jg@Ds@GgAFk@?YGm@?[Pm@@a@QeA?c@TaA@m@QwA@k@Je@Jm@@q@MiBNcB?u@Ew@Aw@LcBEiBR{A@o@G}ABm@A_BDmCFk@Bm@?o@Bg@Hc@Bk@Ak@Di@ViA?g@Ee@Ag@Ba@JUb@[HO@SGOQOEMBe@FQ@WEwAOmA?}AIo@Se@i@gAW]WISHOBKKGOAa@GCW@GEAK@SDG@OAiAFg@L_@Lc@@k@EwAFa@N]Fa@Dc@GkAc@gCOc@USUGSQSQO]]iAYaBG{@BqBD{@Js@Fq@Au@Cw@?u@KgB@mBEw@Mq@EgBIi@_@kAIo@Ao@Gq@_@qAGq@MiBKm@Oi@YcBOc@QUQOq@}@]Y[@IDYRMXC\\Hz@I`AGnBeD~xDNXd@d@b@z@\\dA\\l@LJLDn@Bz@Ax@Mt@OpAa@^Sj@g@xAkAb@Qf@[N@LHFR?RCTBPBhCIv@BXZ`@JEJKBSAIATLL?HBB?L?E@FBCCE?BAG@`@h@~@L\\H`@Dl@BfBKrKHd@PXJHJBXC~@i@`@C^D^Lb@Z`AfAb@^b@RlBf@\\N\\\\JPXv@b@`B`@fADz@Eb@]~AQlAYnD",
+    "resource_state": 3,
+    "summary_polyline": "}nrnJo~dy@hCUwg@{_@h@gErGgTlDiXlG}\\WyArAoD|DySpEgLrWu`@dG{ApYmIvHiGv@qBXmh@v@w\\f@wJ`@aAS_Gs@yEuDeCvAwQeEgKGwSeCaUyBsI{Bk@]d@cEh`ExC|F|Cd@lF}BrFuGj@cHJqd@b@aLp@uCLkRb@_AkA}MqDyBrAgPSwCkCgDu@{DQc[kDaRiBwDmAa@a@`AKxFoDrwDrChGrBn@zEgAvHwGRiTr@wRU}Dt@mGN{Wn@}He@}ImDgC[uApAaPaDmGo@eCGeZwBgPwBqH_DA}ChbEvBbEdB^zFmAhGkGt@yFMkJvAmu@XeJp@_Ag@{LoEoEtAiQ[mBqD{FAiRaAsNiE}QoCm@yDnaEbD~FhAPtFwA|GyGx@iJF{_@v@_b@RiD~@a@u@cNuDmC`AuPUoBkCeEo@mCHeQ}@iMcD{PaB_D}Ap@eEf`EdEzGpI_BzEwDxCaGzAeFHkZjAiZQoIhBiHrB}C`@cR[sBeDqGqDoUcEqMaDuFcDeTiFcAaEz`E~D~G`H{@vFmDhE{IfAeFN{DEq^lAgKYaHVmE|@oExBuD~@yOQ}BaEsKkDuRiCgJoE_KwDaUuAsAuC`@aE~`ElD`GxA\\lGiB~DkC~@wBl@oDXci@tAw]UaD`@sAYkLiE{EhA}QsBcEqA}D?kRoBeUsBiJeDaAyD`cEvC|ElBLhHqCvCaCt@mBx@}ICeXxAwd@ScDdAyEs@cMgE_DfA}RgEmILmKc@gNaCmRiAsE_B{AEiAyGfdE`EzHtEi@tIoFv@nC_@e@bAcP\\sp@fA}Wb@}@e@sKs@}A{CkCnAeQw@mCwCuFA{SgBoRqCkMwCNaEjaEtCpG|IaA~EcEt@qB~@wL?w_@bA_^p@eDY}@l@o@_AwNkDiAW}@lAsGHqIa@mB{@OsBaFH_IMaP{BsPwB}H}CEyDv`E|BpFxBt@xE_AfHaHMqd@l@{`@]wHrAoFj@Bz@lAFqCu@yIuDgChAcNCgE_B{AcBgEa@u_@{CuO_CeGcBlAyDh`EfDrGfBJzCk@`JaIr@{INm]bAkZUyG|AuEy@wNyEkE`BkPq@iDqBoBw@oDGsWm@{F}DeReAcBoAZ}DlaE`CdFrA|@dGaBxGiGv@wEr@sy@t@yPz@uA_@m@QcKuAkC{@B_AqAdAwPs@kDcB}Aw@kDReKg@uOiDqTcCaDqArAmDl`EtCnFjAT|FaAnGiDDjHt@MxAbG@`PdECxI|E"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "followers_only",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    60.23069,
+    9.532348
+  ],
+  "end_latlng": [
+    60.213952,
+    9.557052
+  ],
+  "average_speed": 6.314,
+  "max_speed": 21.76,
+  "has_heartrate": true,
+  "average_heartrate": 95.9,
+  "max_heartrate": 142.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 1052.4,
+  "elev_low": 143.6,
+  "upload_id": 18513976899,
+  "upload_id_str": "18513976899",
+  "external_id": "garmin_ping_536073256571",
+  "from_accepted_tag": false,
+  "pr_count": 11,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 15.0,
+  "description": null,
+  "calories": 950.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3458504213195514166,
+      "resource_state": 2,
+      "name": "25 - Skivei 25",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 283,
+      "moving_time": 283,
+      "start_date": "2026-02-16T10:29:45Z",
+      "start_date_local": "2026-02-16T11:29:45Z",
+      "distance": 861.1,
+      "start_index": 70,
+      "end_index": 181,
+      "device_watts": false,
+      "average_heartrate": 109.3,
+      "max_heartrate": 127.0,
+      "segment": {
+        "id": 34081035,
+        "resource_state": 2,
+        "name": "25 - Skivei 25",
+        "activity_type": "AlpineSki",
+        "distance": 861.1,
+        "average_grade": -5.7,
+        "maximum_grade": -1.4,
+        "elevation_high": 1042.1,
+        "elevation_low": 993.0,
+        "start_latlng": [
+          60.235028,
+          9.538196
+        ],
+        "end_latlng": [
+          60.231195,
+          9.551494
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213194113334,
+      "resource_state": 2,
+      "name": "15 - Toseterløypa",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 200,
+      "moving_time": 199,
+      "start_date": "2026-02-16T10:42:36Z",
+      "start_date_local": "2026-02-16T11:42:36Z",
+      "distance": 775.1,
+      "start_index": 363,
+      "end_index": 487,
+      "device_watts": false,
+      "average_heartrate": 99.0,
+      "max_heartrate": 108.0,
+      "segment": {
+        "id": 33755122,
+        "resource_state": 2,
+        "name": "15 - Toseterløypa",
+        "activity_type": "AlpineSki",
+        "distance": 775.1,
+        "average_grade": -15.0,
+        "maximum_grade": -2.3,
+        "elevation_high": 755.8,
+        "elevation_low": 639.4,
+        "start_latlng": [
+          60.224319,
+          9.564257
+        ],
+        "end_latlng": [
+          60.217786,
+          9.567704
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213192900918,
+      "resource_state": 2,
+      "name": "10 - Trekanten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 137,
+      "moving_time": 115,
+      "start_date": "2026-02-16T10:46:57Z",
+      "start_date_local": "2026-02-16T11:46:57Z",
+      "distance": 770.5,
+      "start_index": 506,
+      "end_index": 604,
+      "device_watts": false,
+      "average_heartrate": 102.6,
+      "max_heartrate": 115.0,
+      "segment": {
+        "id": 34080886,
+        "resource_state": 2,
+        "name": "10 - Trekanten",
+        "activity_type": "AlpineSki",
+        "distance": 770.5,
+        "average_grade": -29.8,
+        "maximum_grade": -16.0,
+        "elevation_high": 754.5,
+        "elevation_low": 525.1,
+        "start_latlng": [
+          60.217547,
+          9.568828
+        ],
+        "end_latlng": [
+          60.216756,
+          9.581517
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213193534774,
+      "resource_state": 2,
+      "name": "Ol-løypa variant",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 236,
+      "moving_time": 214,
+      "start_date": "2026-02-16T10:46:57Z",
+      "start_date_local": "2026-02-16T11:46:57Z",
+      "distance": 1755.4,
+      "start_index": 506,
+      "end_index": 703,
+      "device_watts": false,
+      "average_heartrate": 102.4,
+      "max_heartrate": 115.0,
+      "segment": {
+        "id": 27924346,
+        "resource_state": 2,
+        "name": "Ol-løypa variant",
+        "activity_type": "AlpineSki",
+        "distance": 1755.4,
+        "average_grade": -31.8,
+        "maximum_grade": -8.4,
+        "elevation_high": 753.3,
+        "elevation_low": 195.1,
+        "start_latlng": [
+          60.217445,
+          9.568764
+        ],
+        "end_latlng": [
+          60.219653,
+          9.598189
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Noresund",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213195153718,
+      "resource_state": 2,
+      "name": "Norefjell- langs vinkelheisen ned!",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 328,
+      "moving_time": 247,
+      "start_date": "2026-02-16T10:47:13Z",
+      "start_date_local": "2026-02-16T11:47:13Z",
+      "distance": 1830.88,
+      "start_index": 516,
+      "end_index": 741,
+      "device_watts": false,
+      "average_heartrate": 104.9,
+      "max_heartrate": 122.0,
+      "segment": {
+        "id": 3735030,
+        "resource_state": 2,
+        "name": "Norefjell- langs vinkelheisen ned!",
+        "activity_type": "AlpineSki",
+        "distance": 1830.88,
+        "average_grade": -30.3,
+        "maximum_grade": 21.8,
+        "elevation_high": 746.3,
+        "elevation_low": 180.6,
+        "start_latlng": [
+          60.217412,
+          9.57
+        ],
+        "end_latlng": [
+          60.220637,
+          9.598275
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213193739574,
+      "resource_state": 2,
+      "name": "9 - OL Nedre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 83,
+      "start_date": "2026-02-16T10:49:17Z",
+      "start_date_local": "2026-02-16T11:49:17Z",
+      "distance": 930.9,
+      "start_index": 607,
+      "end_index": 690,
+      "device_watts": false,
+      "average_heartrate": 102.0,
+      "max_heartrate": 111.0,
+      "segment": {
+        "id": 33755045,
+        "resource_state": 2,
+        "name": "9 - OL Nedre",
+        "activity_type": "AlpineSki",
+        "distance": 930.9,
+        "average_grade": -30.4,
+        "maximum_grade": -16.9,
+        "elevation_high": 404.6,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          60.216803,
+          9.581746
+        ],
+        "end_latlng": [
+          60.218944,
+          9.595212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213194060086,
+      "resource_state": 2,
+      "name": "Norefjell, nedre sorte trase",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 62,
+      "moving_time": 62,
+      "start_date": "2026-02-16T10:49:26Z",
+      "start_date_local": "2026-02-16T11:49:26Z",
+      "distance": 612.127,
+      "start_index": 616,
+      "end_index": 678,
+      "device_watts": false,
+      "average_heartrate": 101.5,
+      "max_heartrate": 111.0,
+      "segment": {
+        "id": 3735431,
+        "resource_state": 2,
+        "name": "Norefjell, nedre sorte trase",
+        "activity_type": "AlpineSki",
+        "distance": 612.127,
+        "average_grade": -36.5,
+        "maximum_grade": -14.8,
+        "elevation_high": 513.5,
+        "elevation_low": 290.0,
+        "start_latlng": [
+          60.216962,
+          9.582759
+        ],
+        "end_latlng": [
+          60.218539,
+          9.591922
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213194271030,
+      "resource_state": 2,
+      "name": "10 - Trekanten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 82,
+      "moving_time": 81,
+      "start_date": "2026-02-16T11:02:56Z",
+      "start_date_local": "2026-02-16T12:02:56Z",
+      "distance": 770.5,
+      "start_index": 804,
+      "end_index": 884,
+      "device_watts": false,
+      "average_heartrate": 101.5,
+      "max_heartrate": 142.0,
+      "segment": {
+        "id": 34080886,
+        "resource_state": 2,
+        "name": "10 - Trekanten",
+        "activity_type": "AlpineSki",
+        "distance": 770.5,
+        "average_grade": -29.8,
+        "maximum_grade": -16.0,
+        "elevation_high": 754.5,
+        "elevation_low": 525.1,
+        "start_latlng": [
+          60.217547,
+          9.568828
+        ],
+        "end_latlng": [
+          60.216756,
+          9.581517
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213192803638,
+      "resource_state": 2,
+      "name": "Ol-løypa variant",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 163,
+      "moving_time": 162,
+      "start_date": "2026-02-16T11:02:56Z",
+      "start_date_local": "2026-02-16T12:02:56Z",
+      "distance": 1755.4,
+      "start_index": 804,
+      "end_index": 964,
+      "device_watts": false,
+      "average_heartrate": 109.4,
+      "max_heartrate": 142.0,
+      "segment": {
+        "id": 27924346,
+        "resource_state": 2,
+        "name": "Ol-løypa variant",
+        "activity_type": "AlpineSki",
+        "distance": 1755.4,
+        "average_grade": -31.8,
+        "maximum_grade": -8.4,
+        "elevation_high": 753.3,
+        "elevation_low": 195.1,
+        "start_latlng": [
+          60.217445,
+          9.568764
+        ],
+        "end_latlng": [
+          60.219653,
+          9.598189
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Noresund",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213195370806,
+      "resource_state": 2,
+      "name": "9 - OL Nedre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 67,
+      "moving_time": 67,
+      "start_date": "2026-02-16T11:04:21Z",
+      "start_date_local": "2026-02-16T12:04:21Z",
+      "distance": 930.9,
+      "start_index": 887,
+      "end_index": 953,
+      "device_watts": false,
+      "average_heartrate": 116.4,
+      "max_heartrate": 137.0,
+      "segment": {
+        "id": 33755045,
+        "resource_state": 2,
+        "name": "9 - OL Nedre",
+        "activity_type": "AlpineSki",
+        "distance": 930.9,
+        "average_grade": -30.4,
+        "maximum_grade": -16.9,
+        "elevation_high": 404.6,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          60.216803,
+          9.581746
+        ],
+        "end_latlng": [
+          60.218944,
+          9.595212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213192260918,
+      "resource_state": 2,
+      "name": "Norefjell, nedre sorte trase",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 49,
+      "moving_time": 49,
+      "start_date": "2026-02-16T11:04:27Z",
+      "start_date_local": "2026-02-16T12:04:27Z",
+      "distance": 612.127,
+      "start_index": 893,
+      "end_index": 941,
+      "device_watts": false,
+      "average_heartrate": 115.3,
+      "max_heartrate": 129.0,
+      "segment": {
+        "id": 3735431,
+        "resource_state": 2,
+        "name": "Norefjell, nedre sorte trase",
+        "activity_type": "AlpineSki",
+        "distance": 612.127,
+        "average_grade": -36.5,
+        "maximum_grade": -14.8,
+        "elevation_high": 513.5,
+        "elevation_low": 290.0,
+        "start_latlng": [
+          60.216962,
+          9.582759
+        ],
+        "end_latlng": [
+          60.218539,
+          9.591922
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213196026166,
+      "resource_state": 2,
+      "name": "10 - Trekanten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 92,
+      "moving_time": 82,
+      "start_date": "2026-02-16T11:17:14Z",
+      "start_date_local": "2026-02-16T12:17:14Z",
+      "distance": 770.5,
+      "start_index": 1072,
+      "end_index": 1149,
+      "device_watts": false,
+      "average_heartrate": 98.4,
+      "max_heartrate": 119.0,
+      "segment": {
+        "id": 34080886,
+        "resource_state": 2,
+        "name": "10 - Trekanten",
+        "activity_type": "AlpineSki",
+        "distance": 770.5,
+        "average_grade": -29.8,
+        "maximum_grade": -16.0,
+        "elevation_high": 754.5,
+        "elevation_low": 525.1,
+        "start_latlng": [
+          60.217547,
+          9.568828
+        ],
+        "end_latlng": [
+          60.216756,
+          9.581517
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213192497462,
+      "resource_state": 2,
+      "name": "Ol-løypa variant",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 172,
+      "moving_time": 160,
+      "start_date": "2026-02-16T11:17:14Z",
+      "start_date_local": "2026-02-16T12:17:14Z",
+      "distance": 1755.4,
+      "start_index": 1072,
+      "end_index": 1222,
+      "device_watts": false,
+      "average_heartrate": 106.0,
+      "max_heartrate": 121.0,
+      "segment": {
+        "id": 27924346,
+        "resource_state": 2,
+        "name": "Ol-løypa variant",
+        "activity_type": "AlpineSki",
+        "distance": 1755.4,
+        "average_grade": -31.8,
+        "maximum_grade": -8.4,
+        "elevation_high": 753.3,
+        "elevation_low": 195.1,
+        "start_latlng": [
+          60.217445,
+          9.568764
+        ],
+        "end_latlng": [
+          60.219653,
+          9.598189
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Noresund",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213196122422,
+      "resource_state": 2,
+      "name": "9 - OL Nedre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 64,
+      "moving_time": 64,
+      "start_date": "2026-02-16T11:18:51Z",
+      "start_date_local": "2026-02-16T12:18:51Z",
+      "distance": 930.9,
+      "start_index": 1153,
+      "end_index": 1211,
+      "device_watts": false,
+      "average_heartrate": 114.3,
+      "max_heartrate": 121.0,
+      "segment": {
+        "id": 33755045,
+        "resource_state": 2,
+        "name": "9 - OL Nedre",
+        "activity_type": "AlpineSki",
+        "distance": 930.9,
+        "average_grade": -30.4,
+        "maximum_grade": -16.9,
+        "elevation_high": 404.6,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          60.216803,
+          9.581746
+        ],
+        "end_latlng": [
+          60.218944,
+          9.595212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213192867126,
+      "resource_state": 2,
+      "name": "Norefjell, nedre sorte trase",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 42,
+      "moving_time": 42,
+      "start_date": "2026-02-16T11:19:02Z",
+      "start_date_local": "2026-02-16T12:19:02Z",
+      "distance": 612.127,
+      "start_index": 1159,
+      "end_index": 1201,
+      "device_watts": false,
+      "average_heartrate": 113.8,
+      "max_heartrate": 120.0,
+      "segment": {
+        "id": 3735431,
+        "resource_state": 2,
+        "name": "Norefjell, nedre sorte trase",
+        "activity_type": "AlpineSki",
+        "distance": 612.127,
+        "average_grade": -36.5,
+        "maximum_grade": -14.8,
+        "elevation_high": 513.5,
+        "elevation_low": 290.0,
+        "start_latlng": [
+          60.216962,
+          9.582759
+        ],
+        "end_latlng": [
+          60.218539,
+          9.591922
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213195323702,
+      "resource_state": 2,
+      "name": "10 - Trekanten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 81,
+      "moving_time": 79,
+      "start_date": "2026-02-16T11:30:46Z",
+      "start_date_local": "2026-02-16T12:30:46Z",
+      "distance": 770.5,
+      "start_index": 1316,
+      "end_index": 1382,
+      "device_watts": false,
+      "average_heartrate": 96.9,
+      "max_heartrate": 109.0,
+      "segment": {
+        "id": 34080886,
+        "resource_state": 2,
+        "name": "10 - Trekanten",
+        "activity_type": "AlpineSki",
+        "distance": 770.5,
+        "average_grade": -29.8,
+        "maximum_grade": -16.0,
+        "elevation_high": 754.5,
+        "elevation_low": 525.1,
+        "start_latlng": [
+          60.217547,
+          9.568828
+        ],
+        "end_latlng": [
+          60.216756,
+          9.581517
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213196015926,
+      "resource_state": 2,
+      "name": "Norefjell- langs vinkelheisen ned!",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 169,
+      "moving_time": 166,
+      "start_date": "2026-02-16T11:30:59Z",
+      "start_date_local": "2026-02-16T12:30:59Z",
+      "distance": 1830.88,
+      "start_index": 1323,
+      "end_index": 1472,
+      "device_watts": false,
+      "average_heartrate": 105.1,
+      "max_heartrate": 122.0,
+      "segment": {
+        "id": 3735030,
+        "resource_state": 2,
+        "name": "Norefjell- langs vinkelheisen ned!",
+        "activity_type": "AlpineSki",
+        "distance": 1830.88,
+        "average_grade": -30.3,
+        "maximum_grade": 21.8,
+        "elevation_high": 746.3,
+        "elevation_low": 180.6,
+        "start_latlng": [
+          60.217412,
+          9.57
+        ],
+        "end_latlng": [
+          60.220637,
+          9.598275
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213194847542,
+      "resource_state": 2,
+      "name": "9 - OL Nedre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 57,
+      "moving_time": 57,
+      "start_date": "2026-02-16T11:32:10Z",
+      "start_date_local": "2026-02-16T12:32:10Z",
+      "distance": 930.9,
+      "start_index": 1385,
+      "end_index": 1442,
+      "device_watts": false,
+      "average_heartrate": 113.8,
+      "max_heartrate": 119.0,
+      "segment": {
+        "id": 33755045,
+        "resource_state": 2,
+        "name": "9 - OL Nedre",
+        "activity_type": "AlpineSki",
+        "distance": 930.9,
+        "average_grade": -30.4,
+        "maximum_grade": -16.9,
+        "elevation_high": 404.6,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          60.216803,
+          9.581746
+        ],
+        "end_latlng": [
+          60.218944,
+          9.595212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213194759478,
+      "resource_state": 2,
+      "name": "Norefjell, nedre sorte trase",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 41,
+      "moving_time": 41,
+      "start_date": "2026-02-16T11:32:16Z",
+      "start_date_local": "2026-02-16T12:32:16Z",
+      "distance": 612.127,
+      "start_index": 1391,
+      "end_index": 1432,
+      "device_watts": false,
+      "average_heartrate": 115.9,
+      "max_heartrate": 119.0,
+      "segment": {
+        "id": 3735431,
+        "resource_state": 2,
+        "name": "Norefjell, nedre sorte trase",
+        "activity_type": "AlpineSki",
+        "distance": 612.127,
+        "average_grade": -36.5,
+        "maximum_grade": -14.8,
+        "elevation_high": 513.5,
+        "elevation_low": 290.0,
+        "start_latlng": [
+          60.216962,
+          9.582759
+        ],
+        "end_latlng": [
+          60.218539,
+          9.591922
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213194601782,
+      "resource_state": 2,
+      "name": "10 - Trekanten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 108,
+      "moving_time": 64,
+      "start_date": "2026-02-16T11:44:52Z",
+      "start_date_local": "2026-02-16T12:44:52Z",
+      "distance": 770.5,
+      "start_index": 1552,
+      "end_index": 1621,
+      "device_watts": false,
+      "average_heartrate": 105.4,
+      "max_heartrate": 121.0,
+      "segment": {
+        "id": 34080886,
+        "resource_state": 2,
+        "name": "10 - Trekanten",
+        "activity_type": "AlpineSki",
+        "distance": 770.5,
+        "average_grade": -29.8,
+        "maximum_grade": -16.0,
+        "elevation_high": 754.5,
+        "elevation_low": 525.1,
+        "start_latlng": [
+          60.217547,
+          9.568828
+        ],
+        "end_latlng": [
+          60.216756,
+          9.581517
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213195671862,
+      "resource_state": 2,
+      "name": "9 - OL Nedre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 57,
+      "moving_time": 57,
+      "start_date": "2026-02-16T11:46:43Z",
+      "start_date_local": "2026-02-16T12:46:43Z",
+      "distance": 930.9,
+      "start_index": 1624,
+      "end_index": 1680,
+      "device_watts": false,
+      "average_heartrate": 101.2,
+      "max_heartrate": 121.0,
+      "segment": {
+        "id": 33755045,
+        "resource_state": 2,
+        "name": "9 - OL Nedre",
+        "activity_type": "AlpineSki",
+        "distance": 930.9,
+        "average_grade": -30.4,
+        "maximum_grade": -16.9,
+        "elevation_high": 404.6,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          60.216803,
+          9.581746
+        ],
+        "end_latlng": [
+          60.218944,
+          9.595212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213194638646,
+      "resource_state": 2,
+      "name": "Norefjell, nedre sorte trase",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 41,
+      "moving_time": 41,
+      "start_date": "2026-02-16T11:46:49Z",
+      "start_date_local": "2026-02-16T12:46:49Z",
+      "distance": 612.127,
+      "start_index": 1630,
+      "end_index": 1671,
+      "device_watts": false,
+      "average_heartrate": 99.2,
+      "max_heartrate": 113.0,
+      "segment": {
+        "id": 3735431,
+        "resource_state": 2,
+        "name": "Norefjell, nedre sorte trase",
+        "activity_type": "AlpineSki",
+        "distance": 612.127,
+        "average_grade": -36.5,
+        "maximum_grade": -14.8,
+        "elevation_high": 513.5,
+        "elevation_low": 290.0,
+        "start_latlng": [
+          60.216962,
+          9.582759
+        ],
+        "end_latlng": [
+          60.218539,
+          9.591922
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213192644918,
+      "resource_state": 2,
+      "name": "5 - Nore Øvre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 67,
+      "moving_time": 67,
+      "start_date": "2026-02-16T11:58:56Z",
+      "start_date_local": "2026-02-16T12:58:56Z",
+      "distance": 760.8,
+      "start_index": 1798,
+      "end_index": 1863,
+      "device_watts": false,
+      "average_heartrate": 95.0,
+      "max_heartrate": 111.0,
+      "segment": {
+        "id": 34080821,
+        "resource_state": 2,
+        "name": "5 - Nore Øvre",
+        "activity_type": "AlpineSki",
+        "distance": 760.8,
+        "average_grade": -25.7,
+        "maximum_grade": -19.2,
+        "elevation_high": 743.3,
+        "elevation_low": 547.5,
+        "start_latlng": [
+          60.216927,
+          9.568785
+        ],
+        "end_latlng": [
+          60.216102,
+          9.580271
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213193364790,
+      "resource_state": 2,
+      "name": "OL Øvre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 52,
+      "moving_time": 52,
+      "start_date": "2026-02-16T11:58:59Z",
+      "start_date_local": "2026-02-16T12:58:59Z",
+      "distance": 605.3,
+      "start_index": 1801,
+      "end_index": 1852,
+      "device_watts": false,
+      "average_heartrate": 92.7,
+      "max_heartrate": 100.0,
+      "segment": {
+        "id": 33688618,
+        "resource_state": 2,
+        "name": "OL Øvre",
+        "activity_type": "AlpineSki",
+        "distance": 605.3,
+        "average_grade": -26.7,
+        "maximum_grade": -22.5,
+        "elevation_high": 732.3,
+        "elevation_low": 570.4,
+        "start_latlng": [
+          60.216713,
+          9.568928
+        ],
+        "end_latlng": [
+          60.216,
+          9.579079
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213195781430,
+      "resource_state": 2,
+      "name": "NORE ØVRE",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 66,
+      "moving_time": 66,
+      "start_date": "2026-02-16T11:59:04Z",
+      "start_date_local": "2026-02-16T12:59:04Z",
+      "distance": 642.0,
+      "start_index": 1806,
+      "end_index": 1870,
+      "device_watts": false,
+      "average_heartrate": 97.6,
+      "max_heartrate": 111.0,
+      "segment": {
+        "id": 33500666,
+        "resource_state": 2,
+        "name": "NORE ØVRE",
+        "activity_type": "AlpineSki",
+        "distance": 642.0,
+        "average_grade": -29.7,
+        "maximum_grade": -23.3,
+        "elevation_high": 730.6,
+        "elevation_low": 539.9,
+        "start_latlng": [
+          60.216707,
+          9.569619
+        ],
+        "end_latlng": [
+          60.215982,
+          9.580739
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213194158390,
+      "resource_state": 2,
+      "name": "NORE ØVRE-MIDTRE-NEDRE - Hele sulamitten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 154,
+      "moving_time": 154,
+      "start_date": "2026-02-16T11:59:04Z",
+      "start_date_local": "2026-02-16T12:59:04Z",
+      "distance": 1864.2,
+      "start_index": 1806,
+      "end_index": 1958,
+      "device_watts": false,
+      "average_heartrate": 101.8,
+      "max_heartrate": 120.0,
+      "segment": {
+        "id": 33500827,
+        "resource_state": 2,
+        "name": "NORE ØVRE-MIDTRE-NEDRE - Hele sulamitten",
+        "activity_type": "AlpineSki",
+        "distance": 1864.2,
+        "average_grade": -28.5,
+        "maximum_grade": -12.3,
+        "elevation_high": 730.6,
+        "elevation_low": 199.5,
+        "start_latlng": [
+          60.216707,
+          9.569619
+        ],
+        "end_latlng": [
+          60.219411,
+          9.598202
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213193096502,
+      "resource_state": 2,
+      "name": "NORE MIDTRE",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 40,
+      "moving_time": 40,
+      "start_date": "2026-02-16T12:00:10Z",
+      "start_date_local": "2026-02-16T13:00:10Z",
+      "distance": 475.5,
+      "start_index": 1870,
+      "end_index": 1910,
+      "device_watts": false,
+      "average_heartrate": 105.3,
+      "max_heartrate": 109.0,
+      "segment": {
+        "id": 33500616,
+        "resource_state": 2,
+        "name": "NORE MIDTRE",
+        "activity_type": "AlpineSki",
+        "distance": 475.5,
+        "average_grade": -34.3,
+        "maximum_grade": -19.0,
+        "elevation_high": 539.9,
+        "elevation_low": 376.8,
+        "start_latlng": [
+          60.215982,
+          9.580739
+        ],
+        "end_latlng": [
+          60.215864,
+          9.587376
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213193954614,
+      "resource_state": 2,
+      "name": "NORE NEDRE",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 47,
+      "moving_time": 47,
+      "start_date": "2026-02-16T12:00:52Z",
+      "start_date_local": "2026-02-16T13:00:52Z",
+      "distance": 736.9,
+      "start_index": 1912,
+      "end_index": 1959,
+      "device_watts": false,
+      "average_heartrate": 105.0,
+      "max_heartrate": 120.0,
+      "segment": {
+        "id": 33500358,
+        "resource_state": 2,
+        "name": "NORE NEDRE",
+        "activity_type": "AlpineSki",
+        "distance": 736.9,
+        "average_grade": -23.3,
+        "maximum_grade": -9.0,
+        "elevation_high": 369.7,
+        "elevation_low": 197.7,
+        "start_latlng": [
+          60.215964,
+          9.58774
+        ],
+        "end_latlng": [
+          60.21945,
+          9.598464
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213195816246,
+      "resource_state": 2,
+      "name": "Norebakken",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 143,
+      "moving_time": 143,
+      "start_date": "2026-02-16T12:12:41Z",
+      "start_date_local": "2026-02-16T13:12:41Z",
+      "distance": 1948.5,
+      "start_index": 2074,
+      "end_index": 2216,
+      "device_watts": false,
+      "average_heartrate": 90.4,
+      "max_heartrate": 100.0,
+      "segment": {
+        "id": 27924271,
+        "resource_state": 2,
+        "name": "Norebakken",
+        "activity_type": "AlpineSki",
+        "distance": 1948.5,
+        "average_grade": -28.4,
+        "maximum_grade": -5.8,
+        "elevation_high": 749.5,
+        "elevation_low": 196.2,
+        "start_latlng": [
+          60.217056,
+          9.568616
+        ],
+        "end_latlng": [
+          60.219781,
+          9.598268
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Noresund",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213193465142,
+      "resource_state": 2,
+      "name": "5 - Nore Øvre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 52,
+      "moving_time": 52,
+      "start_date": "2026-02-16T12:12:43Z",
+      "start_date_local": "2026-02-16T13:12:43Z",
+      "distance": 760.8,
+      "start_index": 2076,
+      "end_index": 2128,
+      "device_watts": false,
+      "average_heartrate": 87.0,
+      "max_heartrate": 97.0,
+      "segment": {
+        "id": 34080821,
+        "resource_state": 2,
+        "name": "5 - Nore Øvre",
+        "activity_type": "AlpineSki",
+        "distance": 760.8,
+        "average_grade": -25.7,
+        "maximum_grade": -19.2,
+        "elevation_high": 743.3,
+        "elevation_low": 547.5,
+        "start_latlng": [
+          60.216927,
+          9.568785
+        ],
+        "end_latlng": [
+          60.216102,
+          9.580271
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213194389814,
+      "resource_state": 2,
+      "name": "OL Øvre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 41,
+      "moving_time": 41,
+      "start_date": "2026-02-16T12:12:46Z",
+      "start_date_local": "2026-02-16T13:12:46Z",
+      "distance": 605.3,
+      "start_index": 2079,
+      "end_index": 2120,
+      "device_watts": false,
+      "average_heartrate": 86.9,
+      "max_heartrate": 97.0,
+      "segment": {
+        "id": 33688618,
+        "resource_state": 2,
+        "name": "OL Øvre",
+        "activity_type": "AlpineSki",
+        "distance": 605.3,
+        "average_grade": -26.7,
+        "maximum_grade": -22.5,
+        "elevation_high": 732.3,
+        "elevation_low": 570.4,
+        "start_latlng": [
+          60.216713,
+          9.568928
+        ],
+        "end_latlng": [
+          60.216,
+          9.579079
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213195094326,
+      "resource_state": 2,
+      "name": "NORE ØVRE",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 49,
+      "moving_time": 49,
+      "start_date": "2026-02-16T12:12:49Z",
+      "start_date_local": "2026-02-16T13:12:49Z",
+      "distance": 642.0,
+      "start_index": 2082,
+      "end_index": 2131,
+      "device_watts": false,
+      "average_heartrate": 86.9,
+      "max_heartrate": 97.0,
+      "segment": {
+        "id": 33500666,
+        "resource_state": 2,
+        "name": "NORE ØVRE",
+        "activity_type": "AlpineSki",
+        "distance": 642.0,
+        "average_grade": -29.7,
+        "maximum_grade": -23.3,
+        "elevation_high": 730.6,
+        "elevation_low": 539.9,
+        "start_latlng": [
+          60.216707,
+          9.569619
+        ],
+        "end_latlng": [
+          60.215982,
+          9.580739
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213195257142,
+      "resource_state": 2,
+      "name": "NORE ØVRE-MIDTRE-NEDRE - Hele sulamitten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 132,
+      "moving_time": 132,
+      "start_date": "2026-02-16T12:12:49Z",
+      "start_date_local": "2026-02-16T13:12:49Z",
+      "distance": 1864.2,
+      "start_index": 2082,
+      "end_index": 2213,
+      "device_watts": false,
+      "average_heartrate": 90.4,
+      "max_heartrate": 100.0,
+      "segment": {
+        "id": 33500827,
+        "resource_state": 2,
+        "name": "NORE ØVRE-MIDTRE-NEDRE - Hele sulamitten",
+        "activity_type": "AlpineSki",
+        "distance": 1864.2,
+        "average_grade": -28.5,
+        "maximum_grade": -12.3,
+        "elevation_high": 730.6,
+        "elevation_low": 199.5,
+        "start_latlng": [
+          60.216707,
+          9.569619
+        ],
+        "end_latlng": [
+          60.219411,
+          9.598202
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213196110134,
+      "resource_state": 2,
+      "name": "NORE MIDTRE",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 32,
+      "moving_time": 32,
+      "start_date": "2026-02-16T12:13:38Z",
+      "start_date_local": "2026-02-16T13:13:38Z",
+      "distance": 475.5,
+      "start_index": 2131,
+      "end_index": 2162,
+      "device_watts": false,
+      "average_heartrate": 93.3,
+      "max_heartrate": 98.0,
+      "segment": {
+        "id": 33500616,
+        "resource_state": 2,
+        "name": "NORE MIDTRE",
+        "activity_type": "AlpineSki",
+        "distance": 475.5,
+        "average_grade": -34.3,
+        "maximum_grade": -19.0,
+        "elevation_high": 539.9,
+        "elevation_low": 376.8,
+        "start_latlng": [
+          60.215982,
+          9.580739
+        ],
+        "end_latlng": [
+          60.215864,
+          9.587376
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213192907062,
+      "resource_state": 2,
+      "name": "Norefjell,nedre fellestrase-glistrekk",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 51,
+      "moving_time": 51,
+      "start_date": "2026-02-16T12:14:09Z",
+      "start_date_local": "2026-02-16T13:14:09Z",
+      "distance": 733.968,
+      "start_index": 2161,
+      "end_index": 2212,
+      "device_watts": false,
+      "average_heartrate": 92.1,
+      "max_heartrate": 100.0,
+      "segment": {
+        "id": 3735350,
+        "resource_state": 2,
+        "name": "Norefjell,nedre fellestrase-glistrekk",
+        "activity_type": "AlpineSki",
+        "distance": 733.968,
+        "average_grade": -26.0,
+        "maximum_grade": -19.5,
+        "elevation_high": 388.7,
+        "elevation_low": 197.7,
+        "start_latlng": [
+          60.215542,
+          9.587469
+        ],
+        "end_latlng": [
+          60.219613,
+          9.597742
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213193367862,
+      "resource_state": 2,
+      "name": "NORE NEDRE",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 50,
+      "moving_time": 50,
+      "start_date": "2026-02-16T12:14:12Z",
+      "start_date_local": "2026-02-16T13:14:12Z",
+      "distance": 736.9,
+      "start_index": 2164,
+      "end_index": 2214,
+      "device_watts": false,
+      "average_heartrate": 91.8,
+      "max_heartrate": 100.0,
+      "segment": {
+        "id": 33500358,
+        "resource_state": 2,
+        "name": "NORE NEDRE",
+        "activity_type": "AlpineSki",
+        "distance": 736.9,
+        "average_grade": -23.3,
+        "maximum_grade": -9.0,
+        "elevation_high": 369.7,
+        "elevation_low": 197.7,
+        "start_latlng": [
+          60.215964,
+          9.58774
+        ],
+        "end_latlng": [
+          60.21945,
+          9.598464
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213192373558,
+      "resource_state": 2,
+      "name": "10 - Trekanten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 232,
+      "moving_time": 76,
+      "start_date": "2026-02-16T12:27:11Z",
+      "start_date_local": "2026-02-16T13:27:11Z",
+      "distance": 770.5,
+      "start_index": 2329,
+      "end_index": 2432,
+      "device_watts": false,
+      "average_heartrate": 99.7,
+      "max_heartrate": 110.0,
+      "segment": {
+        "id": 34080886,
+        "resource_state": 2,
+        "name": "10 - Trekanten",
+        "activity_type": "AlpineSki",
+        "distance": 770.5,
+        "average_grade": -29.8,
+        "maximum_grade": -16.0,
+        "elevation_high": 754.5,
+        "elevation_low": 525.1,
+        "start_latlng": [
+          60.217547,
+          9.568828
+        ],
+        "end_latlng": [
+          60.216756,
+          9.581517
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213194456374,
+      "resource_state": 2,
+      "name": "Ol-løypa variant",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 301,
+      "moving_time": 145,
+      "start_date": "2026-02-16T12:27:11Z",
+      "start_date_local": "2026-02-16T13:27:11Z",
+      "distance": 1755.4,
+      "start_index": 2329,
+      "end_index": 2501,
+      "device_watts": false,
+      "average_heartrate": 96.7,
+      "max_heartrate": 110.0,
+      "segment": {
+        "id": 27924346,
+        "resource_state": 2,
+        "name": "Ol-løypa variant",
+        "activity_type": "AlpineSki",
+        "distance": 1755.4,
+        "average_grade": -31.8,
+        "maximum_grade": -8.4,
+        "elevation_high": 753.3,
+        "elevation_low": 195.1,
+        "start_latlng": [
+          60.217445,
+          9.568764
+        ],
+        "end_latlng": [
+          60.219653,
+          9.598189
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Noresund",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213194206518,
+      "resource_state": 2,
+      "name": "Norefjell- langs vinkelheisen ned!",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 336,
+      "moving_time": 171,
+      "start_date": "2026-02-16T12:27:19Z",
+      "start_date_local": "2026-02-16T13:27:19Z",
+      "distance": 1830.88,
+      "start_index": 2337,
+      "end_index": 2520,
+      "device_watts": false,
+      "average_heartrate": 96.9,
+      "max_heartrate": 110.0,
+      "segment": {
+        "id": 3735030,
+        "resource_state": 2,
+        "name": "Norefjell- langs vinkelheisen ned!",
+        "activity_type": "AlpineSki",
+        "distance": 1830.88,
+        "average_grade": -30.3,
+        "maximum_grade": 21.8,
+        "elevation_high": 746.3,
+        "elevation_low": 180.6,
+        "start_latlng": [
+          60.217412,
+          9.57
+        ],
+        "end_latlng": [
+          60.220637,
+          9.598275
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213194948918,
+      "resource_state": 2,
+      "name": "9 - OL Nedre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 57,
+      "moving_time": 57,
+      "start_date": "2026-02-16T12:31:04Z",
+      "start_date_local": "2026-02-16T13:31:04Z",
+      "distance": 930.9,
+      "start_index": 2433,
+      "end_index": 2490,
+      "device_watts": false,
+      "average_heartrate": 85.2,
+      "max_heartrate": 91.0,
+      "segment": {
+        "id": 33755045,
+        "resource_state": 2,
+        "name": "9 - OL Nedre",
+        "activity_type": "AlpineSki",
+        "distance": 930.9,
+        "average_grade": -30.4,
+        "maximum_grade": -16.9,
+        "elevation_high": 404.6,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          60.216803,
+          9.581746
+        ],
+        "end_latlng": [
+          60.218944,
+          9.595212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213195222326,
+      "resource_state": 2,
+      "name": "Norefjell, nedre sorte trase",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 39,
+      "moving_time": 39,
+      "start_date": "2026-02-16T12:31:10Z",
+      "start_date_local": "2026-02-16T13:31:10Z",
+      "distance": 612.127,
+      "start_index": 2439,
+      "end_index": 2478,
+      "device_watts": false,
+      "average_heartrate": 84.6,
+      "max_heartrate": 90.0,
+      "segment": {
+        "id": 3735431,
+        "resource_state": 2,
+        "name": "Norefjell, nedre sorte trase",
+        "activity_type": "AlpineSki",
+        "distance": 612.127,
+        "average_grade": -36.5,
+        "maximum_grade": -14.8,
+        "elevation_high": 513.5,
+        "elevation_low": 290.0,
+        "start_latlng": [
+          60.216962,
+          9.582759
+        ],
+        "end_latlng": [
+          60.218539,
+          9.591922
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213193503030,
+      "resource_state": 2,
+      "name": "10 - Trekanten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 72,
+      "moving_time": 70,
+      "start_date": "2026-02-16T12:43:06Z",
+      "start_date_local": "2026-02-16T13:43:06Z",
+      "distance": 770.5,
+      "start_index": 2593,
+      "end_index": 2660,
+      "device_watts": false,
+      "average_heartrate": 91.6,
+      "max_heartrate": 105.0,
+      "segment": {
+        "id": 34080886,
+        "resource_state": 2,
+        "name": "10 - Trekanten",
+        "activity_type": "AlpineSki",
+        "distance": 770.5,
+        "average_grade": -29.8,
+        "maximum_grade": -16.0,
+        "elevation_high": 754.5,
+        "elevation_low": 525.1,
+        "start_latlng": [
+          60.217547,
+          9.568828
+        ],
+        "end_latlng": [
+          60.216756,
+          9.581517
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213192709430,
+      "resource_state": 2,
+      "name": "Ol-løypa variant",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 154,
+      "moving_time": 152,
+      "start_date": "2026-02-16T12:43:06Z",
+      "start_date_local": "2026-02-16T13:43:06Z",
+      "distance": 1755.4,
+      "start_index": 2593,
+      "end_index": 2741,
+      "device_watts": false,
+      "average_heartrate": 93.7,
+      "max_heartrate": 105.0,
+      "segment": {
+        "id": 27924346,
+        "resource_state": 2,
+        "name": "Ol-løypa variant",
+        "activity_type": "AlpineSki",
+        "distance": 1755.4,
+        "average_grade": -31.8,
+        "maximum_grade": -8.4,
+        "elevation_high": 753.3,
+        "elevation_low": 195.1,
+        "start_latlng": [
+          60.217445,
+          9.568764
+        ],
+        "end_latlng": [
+          60.219653,
+          9.598189
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Noresund",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213194680630,
+      "resource_state": 2,
+      "name": "9 - OL Nedre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 65,
+      "moving_time": 65,
+      "start_date": "2026-02-16T12:44:23Z",
+      "start_date_local": "2026-02-16T13:44:23Z",
+      "distance": 930.9,
+      "start_index": 2664,
+      "end_index": 2729,
+      "device_watts": false,
+      "average_heartrate": 96.6,
+      "max_heartrate": 105.0,
+      "segment": {
+        "id": 33755045,
+        "resource_state": 2,
+        "name": "9 - OL Nedre",
+        "activity_type": "AlpineSki",
+        "distance": 930.9,
+        "average_grade": -30.4,
+        "maximum_grade": -16.9,
+        "elevation_high": 404.6,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          60.216803,
+          9.581746
+        ],
+        "end_latlng": [
+          60.218944,
+          9.595212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213195918646,
+      "resource_state": 2,
+      "name": "Norefjell, nedre sorte trase",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 46,
+      "moving_time": 46,
+      "start_date": "2026-02-16T12:44:30Z",
+      "start_date_local": "2026-02-16T13:44:30Z",
+      "distance": 612.127,
+      "start_index": 2671,
+      "end_index": 2717,
+      "device_watts": false,
+      "average_heartrate": 96.4,
+      "max_heartrate": 102.0,
+      "segment": {
+        "id": 3735431,
+        "resource_state": 2,
+        "name": "Norefjell, nedre sorte trase",
+        "activity_type": "AlpineSki",
+        "distance": 612.127,
+        "average_grade": -36.5,
+        "maximum_grade": -14.8,
+        "elevation_high": 513.5,
+        "elevation_low": 290.0,
+        "start_latlng": [
+          60.216962,
+          9.582759
+        ],
+        "end_latlng": [
+          60.218539,
+          9.591922
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213193076022,
+      "resource_state": 2,
+      "name": "10 - Trekanten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 72,
+      "moving_time": 72,
+      "start_date": "2026-02-16T13:58:20Z",
+      "start_date_local": "2026-02-16T14:58:20Z",
+      "distance": 770.5,
+      "start_index": 2974,
+      "end_index": 3041,
+      "device_watts": false,
+      "average_heartrate": 102.1,
+      "max_heartrate": 110.0,
+      "segment": {
+        "id": 34080886,
+        "resource_state": 2,
+        "name": "10 - Trekanten",
+        "activity_type": "AlpineSki",
+        "distance": 770.5,
+        "average_grade": -29.8,
+        "maximum_grade": -16.0,
+        "elevation_high": 754.5,
+        "elevation_low": 525.1,
+        "start_latlng": [
+          60.217547,
+          9.568828
+        ],
+        "end_latlng": [
+          60.216756,
+          9.581517
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213194190134,
+      "resource_state": 2,
+      "name": "Ol-løypa variant",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 138,
+      "moving_time": 138,
+      "start_date": "2026-02-16T13:58:21Z",
+      "start_date_local": "2026-02-16T14:58:21Z",
+      "distance": 1755.4,
+      "start_index": 2975,
+      "end_index": 3107,
+      "device_watts": false,
+      "average_heartrate": 100.7,
+      "max_heartrate": 110.0,
+      "segment": {
+        "id": 27924346,
+        "resource_state": 2,
+        "name": "Ol-løypa variant",
+        "activity_type": "AlpineSki",
+        "distance": 1755.4,
+        "average_grade": -31.8,
+        "maximum_grade": -8.4,
+        "elevation_high": 753.3,
+        "elevation_low": 195.1,
+        "start_latlng": [
+          60.217445,
+          9.568764
+        ],
+        "end_latlng": [
+          60.219653,
+          9.598189
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Noresund",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213195946294,
+      "resource_state": 2,
+      "name": "Norefjell- langs vinkelheisen ned!",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 283,
+      "moving_time": 205,
+      "start_date": "2026-02-16T13:58:30Z",
+      "start_date_local": "2026-02-16T14:58:30Z",
+      "distance": 1830.88,
+      "start_index": 2982,
+      "end_index": 3165,
+      "device_watts": false,
+      "average_heartrate": 98.6,
+      "max_heartrate": 117.0,
+      "segment": {
+        "id": 3735030,
+        "resource_state": 2,
+        "name": "Norefjell- langs vinkelheisen ned!",
+        "activity_type": "AlpineSki",
+        "distance": 1830.88,
+        "average_grade": -30.3,
+        "maximum_grade": 21.8,
+        "elevation_high": 746.3,
+        "elevation_low": 180.6,
+        "start_latlng": [
+          60.217412,
+          9.57
+        ],
+        "end_latlng": [
+          60.220637,
+          9.598275
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213195001142,
+      "resource_state": 2,
+      "name": "9 - OL Nedre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 53,
+      "moving_time": 53,
+      "start_date": "2026-02-16T13:59:33Z",
+      "start_date_local": "2026-02-16T14:59:33Z",
+      "distance": 930.9,
+      "start_index": 3042,
+      "end_index": 3094,
+      "device_watts": false,
+      "average_heartrate": 100.6,
+      "max_heartrate": 106.0,
+      "segment": {
+        "id": 33755045,
+        "resource_state": 2,
+        "name": "9 - OL Nedre",
+        "activity_type": "AlpineSki",
+        "distance": 930.9,
+        "average_grade": -30.4,
+        "maximum_grade": -16.9,
+        "elevation_high": 404.6,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          60.216803,
+          9.581746
+        ],
+        "end_latlng": [
+          60.218944,
+          9.595212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213196059958,
+      "resource_state": 2,
+      "name": "Norefjell, nedre sorte trase",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 37,
+      "moving_time": 37,
+      "start_date": "2026-02-16T13:59:38Z",
+      "start_date_local": "2026-02-16T14:59:38Z",
+      "distance": 612.127,
+      "start_index": 3047,
+      "end_index": 3084,
+      "device_watts": false,
+      "average_heartrate": 101.1,
+      "max_heartrate": 106.0,
+      "segment": {
+        "id": 3735431,
+        "resource_state": 2,
+        "name": "Norefjell, nedre sorte trase",
+        "activity_type": "AlpineSki",
+        "distance": 612.127,
+        "average_grade": -36.5,
+        "maximum_grade": -14.8,
+        "elevation_high": 513.5,
+        "elevation_low": 290.0,
+        "start_latlng": [
+          60.216962,
+          9.582759
+        ],
+        "end_latlng": [
+          60.218539,
+          9.591922
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213192341814,
+      "resource_state": 2,
+      "name": "10 - Trekanten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 90,
+      "moving_time": 76,
+      "start_date": "2026-02-16T14:13:43Z",
+      "start_date_local": "2026-02-16T15:13:43Z",
+      "distance": 770.5,
+      "start_index": 3233,
+      "end_index": 3305,
+      "device_watts": false,
+      "average_heartrate": 105.9,
+      "max_heartrate": 116.0,
+      "segment": {
+        "id": 34080886,
+        "resource_state": 2,
+        "name": "10 - Trekanten",
+        "activity_type": "AlpineSki",
+        "distance": 770.5,
+        "average_grade": -29.8,
+        "maximum_grade": -16.0,
+        "elevation_high": 754.5,
+        "elevation_low": 525.1,
+        "start_latlng": [
+          60.217547,
+          9.568828
+        ],
+        "end_latlng": [
+          60.216756,
+          9.581517
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213195911478,
+      "resource_state": 2,
+      "name": "Ol-løypa variant",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 470,
+      "moving_time": 202,
+      "start_date": "2026-02-16T14:13:43Z",
+      "start_date_local": "2026-02-16T15:13:43Z",
+      "distance": 1755.4,
+      "start_index": 3233,
+      "end_index": 3475,
+      "device_watts": false,
+      "average_heartrate": 101.8,
+      "max_heartrate": 120.0,
+      "segment": {
+        "id": 27924346,
+        "resource_state": 2,
+        "name": "Ol-løypa variant",
+        "activity_type": "AlpineSki",
+        "distance": 1755.4,
+        "average_grade": -31.8,
+        "maximum_grade": -8.4,
+        "elevation_high": 753.3,
+        "elevation_low": 195.1,
+        "start_latlng": [
+          60.217445,
+          9.568764
+        ],
+        "end_latlng": [
+          60.219653,
+          9.598189
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Noresund",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213192184118,
+      "resource_state": 2,
+      "name": "Norefjell- langs vinkelheisen ned!",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 504,
+      "moving_time": 236,
+      "start_date": "2026-02-16T14:13:53Z",
+      "start_date_local": "2026-02-16T15:13:53Z",
+      "distance": 1830.88,
+      "start_index": 3243,
+      "end_index": 3492,
+      "device_watts": false,
+      "average_heartrate": 102.2,
+      "max_heartrate": 120.0,
+      "segment": {
+        "id": 3735030,
+        "resource_state": 2,
+        "name": "Norefjell- langs vinkelheisen ned!",
+        "activity_type": "AlpineSki",
+        "distance": 1830.88,
+        "average_grade": -30.3,
+        "maximum_grade": 21.8,
+        "elevation_high": 746.3,
+        "elevation_low": 180.6,
+        "start_latlng": [
+          60.217412,
+          9.57
+        ],
+        "end_latlng": [
+          60.220637,
+          9.598275
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213195355446,
+      "resource_state": 2,
+      "name": "9 - OL Nedre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 365,
+      "moving_time": 111,
+      "start_date": "2026-02-16T14:15:16Z",
+      "start_date_local": "2026-02-16T15:15:16Z",
+      "distance": 930.9,
+      "start_index": 3308,
+      "end_index": 3464,
+      "device_watts": false,
+      "average_heartrate": 100.8,
+      "max_heartrate": 120.0,
+      "segment": {
+        "id": 33755045,
+        "resource_state": 2,
+        "name": "9 - OL Nedre",
+        "activity_type": "AlpineSki",
+        "distance": 930.9,
+        "average_grade": -30.4,
+        "maximum_grade": -16.9,
+        "elevation_high": 404.6,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          60.216803,
+          9.581746
+        ],
+        "end_latlng": [
+          60.218944,
+          9.595212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213194073398,
+      "resource_state": 2,
+      "name": "Norefjell, nedre sorte trase",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 346,
+      "moving_time": 92,
+      "start_date": "2026-02-16T14:15:22Z",
+      "start_date_local": "2026-02-16T15:15:22Z",
+      "distance": 612.127,
+      "start_index": 3314,
+      "end_index": 3451,
+      "device_watts": false,
+      "average_heartrate": 100.9,
+      "max_heartrate": 120.0,
+      "segment": {
+        "id": 3735431,
+        "resource_state": 2,
+        "name": "Norefjell, nedre sorte trase",
+        "activity_type": "AlpineSki",
+        "distance": 612.127,
+        "average_grade": -36.5,
+        "maximum_grade": -14.8,
+        "elevation_high": 513.5,
+        "elevation_low": 290.0,
+        "start_latlng": [
+          60.216962,
+          9.582759
+        ],
+        "end_latlng": [
+          60.218539,
+          9.591922
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213192666422,
+      "resource_state": 2,
+      "name": "11 - Vinkelheisløypa",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 66,
+      "moving_time": 66,
+      "start_date": "2026-02-16T14:32:21Z",
+      "start_date_local": "2026-02-16T15:32:21Z",
+      "distance": 700.8,
+      "start_index": 3575,
+      "end_index": 3636,
+      "device_watts": false,
+      "average_heartrate": 97.0,
+      "max_heartrate": 106.0,
+      "segment": {
+        "id": 33751805,
+        "resource_state": 2,
+        "name": "11 - Vinkelheisløypa",
+        "activity_type": "AlpineSki",
+        "distance": 700.8,
+        "average_grade": -26.8,
+        "maximum_grade": -6.2,
+        "elevation_high": 629.0,
+        "elevation_low": 441.4,
+        "start_latlng": [
+          60.21774,
+          9.569356
+        ],
+        "end_latlng": [
+          60.217735,
+          9.581454
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213193930038,
+      "resource_state": 2,
+      "name": "9 - OL Nedre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 70,
+      "moving_time": 70,
+      "start_date": "2026-02-16T14:34:37Z",
+      "start_date_local": "2026-02-16T15:34:37Z",
+      "distance": 930.9,
+      "start_index": 3663,
+      "end_index": 3732,
+      "device_watts": false,
+      "average_heartrate": 102.0,
+      "max_heartrate": 117.0,
+      "segment": {
+        "id": 33755045,
+        "resource_state": 2,
+        "name": "9 - OL Nedre",
+        "activity_type": "AlpineSki",
+        "distance": 930.9,
+        "average_grade": -30.4,
+        "maximum_grade": -16.9,
+        "elevation_high": 404.6,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          60.216803,
+          9.581746
+        ],
+        "end_latlng": [
+          60.218944,
+          9.595212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213195072822,
+      "resource_state": 2,
+      "name": "Norefjell, nedre sorte trase",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 49,
+      "moving_time": 49,
+      "start_date": "2026-02-16T14:34:46Z",
+      "start_date_local": "2026-02-16T15:34:46Z",
+      "distance": 612.127,
+      "start_index": 3672,
+      "end_index": 3720,
+      "device_watts": false,
+      "average_heartrate": 99.3,
+      "max_heartrate": 111.0,
+      "segment": {
+        "id": 3735431,
+        "resource_state": 2,
+        "name": "Norefjell, nedre sorte trase",
+        "activity_type": "AlpineSki",
+        "distance": 612.127,
+        "average_grade": -36.5,
+        "maximum_grade": -14.8,
+        "elevation_high": 513.5,
+        "elevation_low": 290.0,
+        "start_latlng": [
+          60.216962,
+          9.582759
+        ],
+        "end_latlng": [
+          60.218539,
+          9.591922
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213192056118,
+      "resource_state": 2,
+      "name": "10 - Trekanten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 80,
+      "start_date": "2026-02-16T14:47:48Z",
+      "start_date_local": "2026-02-16T15:47:48Z",
+      "distance": 770.5,
+      "start_index": 3859,
+      "end_index": 3939,
+      "device_watts": false,
+      "average_heartrate": 100.8,
+      "max_heartrate": 114.0,
+      "segment": {
+        "id": 34080886,
+        "resource_state": 2,
+        "name": "10 - Trekanten",
+        "activity_type": "AlpineSki",
+        "distance": 770.5,
+        "average_grade": -29.8,
+        "maximum_grade": -16.0,
+        "elevation_high": 754.5,
+        "elevation_low": 525.1,
+        "start_latlng": [
+          60.217547,
+          9.568828
+        ],
+        "end_latlng": [
+          60.216756,
+          9.581517
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213195159862,
+      "resource_state": 2,
+      "name": "Ol-løypa variant",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 179,
+      "moving_time": 176,
+      "start_date": "2026-02-16T14:47:48Z",
+      "start_date_local": "2026-02-16T15:47:48Z",
+      "distance": 1755.4,
+      "start_index": 3859,
+      "end_index": 4033,
+      "device_watts": false,
+      "average_heartrate": 103.5,
+      "max_heartrate": 115.0,
+      "segment": {
+        "id": 27924346,
+        "resource_state": 2,
+        "name": "Ol-løypa variant",
+        "activity_type": "AlpineSki",
+        "distance": 1755.4,
+        "average_grade": -31.8,
+        "maximum_grade": -8.4,
+        "elevation_high": 753.3,
+        "elevation_low": 195.1,
+        "start_latlng": [
+          60.217445,
+          9.568764
+        ],
+        "end_latlng": [
+          60.219653,
+          9.598189
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Noresund",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213194582326,
+      "resource_state": 2,
+      "name": "Norefjell- langs vinkelheisen ned!",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 203,
+      "moving_time": 199,
+      "start_date": "2026-02-16T14:47:58Z",
+      "start_date_local": "2026-02-16T15:47:58Z",
+      "distance": 1830.88,
+      "start_index": 3869,
+      "end_index": 4049,
+      "device_watts": false,
+      "average_heartrate": 101.0,
+      "max_heartrate": 115.0,
+      "segment": {
+        "id": 3735030,
+        "resource_state": 2,
+        "name": "Norefjell- langs vinkelheisen ned!",
+        "activity_type": "AlpineSki",
+        "distance": 1830.88,
+        "average_grade": -30.3,
+        "maximum_grade": 21.8,
+        "elevation_high": 746.3,
+        "elevation_low": 180.6,
+        "start_latlng": [
+          60.217412,
+          9.57
+        ],
+        "end_latlng": [
+          60.220637,
+          9.598275
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213193630006,
+      "resource_state": 2,
+      "name": "9 - OL Nedre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 83,
+      "start_date": "2026-02-16T14:49:12Z",
+      "start_date_local": "2026-02-16T15:49:12Z",
+      "distance": 930.9,
+      "start_index": 3940,
+      "end_index": 4021,
+      "device_watts": false,
+      "average_heartrate": 107.0,
+      "max_heartrate": 115.0,
+      "segment": {
+        "id": 33755045,
+        "resource_state": 2,
+        "name": "9 - OL Nedre",
+        "activity_type": "AlpineSki",
+        "distance": 930.9,
+        "average_grade": -30.4,
+        "maximum_grade": -16.9,
+        "elevation_high": 404.6,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          60.216803,
+          9.581746
+        ],
+        "end_latlng": [
+          60.218944,
+          9.595212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213195913526,
+      "resource_state": 2,
+      "name": "Norefjell, nedre sorte trase",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 59,
+      "moving_time": 59,
+      "start_date": "2026-02-16T14:49:22Z",
+      "start_date_local": "2026-02-16T15:49:22Z",
+      "distance": 612.127,
+      "start_index": 3950,
+      "end_index": 4008,
+      "device_watts": false,
+      "average_heartrate": 106.9,
+      "max_heartrate": 112.0,
+      "segment": {
+        "id": 3735431,
+        "resource_state": 2,
+        "name": "Norefjell, nedre sorte trase",
+        "activity_type": "AlpineSki",
+        "distance": 612.127,
+        "average_grade": -36.5,
+        "maximum_grade": -14.8,
+        "elevation_high": 513.5,
+        "elevation_low": 290.0,
+        "start_latlng": [
+          60.216962,
+          9.582759
+        ],
+        "end_latlng": [
+          60.218539,
+          9.591922
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213188951350,
+      "resource_state": 2,
+      "name": "Ol-løypa variant",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 192,
+      "moving_time": 177,
+      "start_date": "2026-02-16T15:01:33Z",
+      "start_date_local": "2026-02-16T16:01:33Z",
+      "distance": 1755.4,
+      "start_index": 4131,
+      "end_index": 4298,
+      "device_watts": false,
+      "average_heartrate": 91.8,
+      "max_heartrate": 106.0,
+      "segment": {
+        "id": 27924346,
+        "resource_state": 2,
+        "name": "Ol-løypa variant",
+        "activity_type": "AlpineSki",
+        "distance": 1755.4,
+        "average_grade": -31.8,
+        "maximum_grade": -8.4,
+        "elevation_high": 753.3,
+        "elevation_low": 195.1,
+        "start_latlng": [
+          60.217445,
+          9.568764
+        ],
+        "end_latlng": [
+          60.219653,
+          9.598189
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Noresund",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213195607350,
+      "resource_state": 2,
+      "name": "10 - Trekanten",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 68,
+      "moving_time": 68,
+      "start_date": "2026-02-16T15:01:34Z",
+      "start_date_local": "2026-02-16T16:01:34Z",
+      "distance": 770.5,
+      "start_index": 4132,
+      "end_index": 4200,
+      "device_watts": false,
+      "average_heartrate": 89.8,
+      "max_heartrate": 94.0,
+      "segment": {
+        "id": 34080886,
+        "resource_state": 2,
+        "name": "10 - Trekanten",
+        "activity_type": "AlpineSki",
+        "distance": 770.5,
+        "average_grade": -29.8,
+        "maximum_grade": -16.0,
+        "elevation_high": 754.5,
+        "elevation_low": 525.1,
+        "start_latlng": [
+          60.217547,
+          9.568828
+        ],
+        "end_latlng": [
+          60.216756,
+          9.581517
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458504213188317494,
+      "resource_state": 2,
+      "name": "9 - OL Nedre",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 109,
+      "moving_time": 94,
+      "start_date": "2026-02-16T15:02:44Z",
+      "start_date_local": "2026-02-16T16:02:44Z",
+      "distance": 930.9,
+      "start_index": 4202,
+      "end_index": 4286,
+      "device_watts": false,
+      "average_heartrate": 93.2,
+      "max_heartrate": 106.0,
+      "segment": {
+        "id": 33755045,
+        "resource_state": 2,
+        "name": "9 - OL Nedre",
+        "activity_type": "AlpineSki",
+        "distance": 930.9,
+        "average_grade": -30.4,
+        "maximum_grade": -16.9,
+        "elevation_high": 404.6,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          60.216803,
+          9.581746
+        ],
+        "end_latlng": [
+          60.218944,
+          9.595212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3458504213188445494,
+      "resource_state": 2,
+      "name": "Norefjell, nedre sorte trase",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 87,
+      "moving_time": 72,
+      "start_date": "2026-02-16T15:02:53Z",
+      "start_date_local": "2026-02-16T16:02:53Z",
+      "distance": 612.127,
+      "start_index": 4210,
+      "end_index": 4273,
+      "device_watts": false,
+      "average_heartrate": 94.3,
+      "max_heartrate": 106.0,
+      "segment": {
+        "id": 3735431,
+        "resource_state": 2,
+        "name": "Norefjell, nedre sorte trase",
+        "activity_type": "AlpineSki",
+        "distance": 612.127,
+        "average_grade": -36.5,
+        "maximum_grade": -14.8,
+        "elevation_high": 513.5,
+        "elevation_low": 290.0,
+        "start_latlng": [
+          60.216962,
+          9.582759
+        ],
+        "end_latlng": [
+          60.218539,
+          9.591922
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Krødsherad, Norway",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "followers_only",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1011.5,
+      "elapsed_time": 684,
+      "elevation_difference": 124.4,
+      "moving_time": 390,
+      "split": 1,
+      "average_speed": 1.48,
+      "average_grade_adjusted_speed": 1.44,
+      "average_heartrate": 100.7492795389049,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.4,
+      "elapsed_time": 401,
+      "elevation_difference": -94.8,
+      "moving_time": 401,
+      "split": 2,
+      "average_speed": 2.47,
+      "average_grade_adjusted_speed": 2.25,
+      "average_heartrate": 106.3887240356083,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.6,
+      "elapsed_time": 323,
+      "elevation_difference": -153.4,
+      "moving_time": 323,
+      "split": 3,
+      "average_speed": 3.11,
+      "average_grade_adjusted_speed": 3.15,
+      "average_heartrate": 97.21254355400697,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 225,
+      "elevation_difference": -278.6,
+      "moving_time": 225,
+      "split": 4,
+      "average_speed": 4.43,
+      "average_grade_adjusted_speed": 6.41,
+      "average_heartrate": 99.67058823529412,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.7,
+      "elapsed_time": 82,
+      "elevation_difference": -314.8,
+      "moving_time": 82,
+      "split": 5,
+      "average_speed": 12.14,
+      "average_grade_adjusted_speed": 18.76,
+      "average_heartrate": 101.4390243902439,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1010.2,
+      "elapsed_time": 760,
+      "elevation_difference": 531.6,
+      "moving_time": 266,
+      "split": 6,
+      "average_speed": 1.33,
+      "average_grade_adjusted_speed": 1.44,
+      "average_heartrate": 96.26633165829146,
+      "pace_zone": 0
+    },
+    {
+      "distance": 989.3,
+      "elapsed_time": 90,
+      "elevation_difference": -334.4,
+      "moving_time": 90,
+      "split": 7,
+      "average_speed": 10.99,
+      "average_grade_adjusted_speed": 17.89,
+      "average_heartrate": 113.5505617977528,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.3,
+      "elapsed_time": 619,
+      "elevation_difference": 447.4,
+      "moving_time": 163,
+      "split": 8,
+      "average_speed": 1.63,
+      "average_grade_adjusted_speed": 2.22,
+      "average_heartrate": 102.34013605442176,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 170,
+      "elevation_difference": -217.2,
+      "moving_time": 170,
+      "split": 9,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": 7.31,
+      "average_heartrate": 92.2875816993464,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.7,
+      "elapsed_time": 100,
+      "elevation_difference": -332.4,
+      "moving_time": 100,
+      "split": 10,
+      "average_speed": 9.93,
+      "average_grade_adjusted_speed": 16.13,
+      "average_heartrate": 111.57954545454545,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 638,
+      "elevation_difference": 517.0,
+      "moving_time": 175,
+      "split": 11,
+      "average_speed": 1.57,
+      "average_grade_adjusted_speed": 1.83,
+      "average_heartrate": 105.71337579617834,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 116,
+      "elevation_difference": -297.6,
+      "moving_time": 116,
+      "split": 12,
+      "average_speed": 8.62,
+      "average_grade_adjusted_speed": 12.77,
+      "average_heartrate": 97.2280701754386,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.0,
+      "elapsed_time": 57,
+      "elevation_difference": -313.8,
+      "moving_time": 57,
+      "split": 13,
+      "average_speed": 17.65,
+      "average_grade_adjusted_speed": 27.0,
+      "average_heartrate": 112.12280701754386,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 719,
+      "elevation_difference": 528.2,
+      "moving_time": 215,
+      "split": 14,
+      "average_speed": 1.39,
+      "average_grade_adjusted_speed": 1.53,
+      "average_heartrate": 99.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1014.1,
+      "elapsed_time": 121,
+      "elevation_difference": -342.6,
+      "moving_time": 121,
+      "split": 15,
+      "average_speed": 8.38,
+      "average_grade_adjusted_speed": 13.79,
+      "average_heartrate": 104.54545454545455,
+      "pace_zone": 0
+    },
+    {
+      "distance": 981.4,
+      "elapsed_time": 620,
+      "elevation_difference": 455.0,
+      "moving_time": 165,
+      "split": 16,
+      "average_speed": 1.58,
+      "average_grade_adjusted_speed": 2.11,
+      "average_heartrate": 98.79136690647482,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.5,
+      "elapsed_time": 132,
+      "elevation_difference": -221.6,
+      "moving_time": 132,
+      "split": 17,
+      "average_speed": 7.65,
+      "average_grade_adjusted_speed": 9.53,
+      "average_heartrate": 88.7741935483871,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 84,
+      "elevation_difference": -328.2,
+      "moving_time": 84,
+      "split": 18,
+      "average_speed": 11.87,
+      "average_grade_adjusted_speed": 18.98,
+      "average_heartrate": 106.67857142857143,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 657,
+      "elevation_difference": 532.8,
+      "moving_time": 204,
+      "split": 19,
+      "average_speed": 1.51,
+      "average_grade_adjusted_speed": 1.62,
+      "average_heartrate": 90.56024096385542,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 92,
+      "elevation_difference": -281.4,
+      "moving_time": 92,
+      "split": 20,
+      "average_speed": 10.84,
+      "average_grade_adjusted_speed": 15.57,
+      "average_heartrate": 86.51086956521739,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1008.7,
+      "elapsed_time": 68,
+      "elevation_difference": -298.6,
+      "moving_time": 68,
+      "split": 21,
+      "average_speed": 14.83,
+      "average_grade_adjusted_speed": 21.78,
+      "average_heartrate": 93.1470588235294,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.1,
+      "elapsed_time": 746,
+      "elevation_difference": 550.2,
+      "moving_time": 285,
+      "split": 22,
+      "average_speed": 1.33,
+      "average_grade_adjusted_speed": 1.39,
+      "average_heartrate": 86.97916666666667,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 246,
+      "elevation_difference": -312.8,
+      "moving_time": 246,
+      "split": 23,
+      "average_speed": 4.06,
+      "average_grade_adjusted_speed": 6.37,
+      "average_heartrate": 96.96666666666667,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 75,
+      "elevation_difference": -288.0,
+      "moving_time": 75,
+      "split": 24,
+      "average_speed": 13.31,
+      "average_grade_adjusted_speed": 19.65,
+      "average_heartrate": 90.57971014492753,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1014.9,
+      "elapsed_time": 665,
+      "elevation_difference": 497.4,
+      "moving_time": 198,
+      "split": 25,
+      "average_speed": 1.53,
+      "average_grade_adjusted_speed": 1.86,
+      "average_heartrate": 86.71978021978022,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.1,
+      "elapsed_time": 86,
+      "elevation_difference": -326.2,
+      "moving_time": 86,
+      "split": 26,
+      "average_speed": 11.55,
+      "average_grade_adjusted_speed": 18.63,
+      "average_heartrate": 97.9047619047619,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 4009,
+      "elevation_difference": 476.6,
+      "moving_time": 314,
+      "split": 27,
+      "average_speed": 0.25,
+      "average_grade_adjusted_speed": 0.32,
+      "average_heartrate": 81.82191780821918,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.0,
+      "elapsed_time": 436,
+      "elevation_difference": -228.2,
+      "moving_time": 436,
+      "split": 28,
+      "average_speed": 2.27,
+      "average_grade_adjusted_speed": 2.94,
+      "average_heartrate": 91.48132780082987,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 68,
+      "elevation_difference": -341.8,
+      "moving_time": 68,
+      "split": 29,
+      "average_speed": 14.72,
+      "average_grade_adjusted_speed": 24.42,
+      "average_heartrate": 102.76470588235294,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 806,
+      "elevation_difference": 528.0,
+      "moving_time": 296,
+      "split": 30,
+      "average_speed": 1.24,
+      "average_grade_adjusted_speed": 1.33,
+      "average_heartrate": 96.80975609756098,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1008.7,
+      "elapsed_time": 106,
+      "elevation_difference": -310.8,
+      "moving_time": 106,
+      "split": 31,
+      "average_speed": 9.52,
+      "average_grade_adjusted_speed": 14.63,
+      "average_heartrate": 105.3586956521739,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.2,
+      "elapsed_time": 363,
+      "elevation_difference": -285.0,
+      "moving_time": 363,
+      "split": 32,
+      "average_speed": 2.74,
+      "average_grade_adjusted_speed": 4.01,
+      "average_heartrate": 97.6697247706422,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.4,
+      "elapsed_time": 679,
+      "elevation_difference": 531.8,
+      "moving_time": 225,
+      "split": 33,
+      "average_speed": 1.46,
+      "average_grade_adjusted_speed": 1.71,
+      "average_heartrate": 96.99526066350711,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.6,
+      "elapsed_time": 136,
+      "elevation_difference": -325.2,
+      "moving_time": 136,
+      "split": 34,
+      "average_speed": 7.42,
+      "average_grade_adjusted_speed": 11.98,
+      "average_heartrate": 99.37362637362638,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.4,
+      "elapsed_time": 687,
+      "elevation_difference": 443.2,
+      "moving_time": 232,
+      "split": 35,
+      "average_speed": 1.45,
+      "average_grade_adjusted_speed": 1.95,
+      "average_heartrate": 99.43661971830986,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 115,
+      "elevation_difference": -214.6,
+      "moving_time": 115,
+      "split": 36,
+      "average_speed": 8.74,
+      "average_grade_adjusted_speed": 10.69,
+      "average_heartrate": 95.51304347826087,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 107,
+      "elevation_difference": -331.4,
+      "moving_time": 107,
+      "split": 37,
+      "average_speed": 9.35,
+      "average_grade_adjusted_speed": 14.83,
+      "average_heartrate": 104.9423076923077,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 648,
+      "elevation_difference": 512.8,
+      "moving_time": 185,
+      "split": 38,
+      "average_speed": 1.54,
+      "average_grade_adjusted_speed": 1.86,
+      "average_heartrate": 87.2289156626506,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.0,
+      "elapsed_time": 103,
+      "elevation_difference": -282.0,
+      "moving_time": 103,
+      "split": 39,
+      "average_speed": 9.66,
+      "average_grade_adjusted_speed": 13.97,
+      "average_heartrate": 88.84466019417475,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 108,
+      "elevation_difference": -315.6,
+      "moving_time": 108,
+      "split": 40,
+      "average_speed": 9.28,
+      "average_grade_adjusted_speed": 14.42,
+      "average_heartrate": 91.53763440860214,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 1942,
+      "elevation_difference": 565.0,
+      "moving_time": 1435,
+      "split": 41,
+      "average_speed": 0.51,
+      "average_grade_adjusted_speed": 0.56,
+      "average_heartrate": 81.7749196141479,
+      "pace_zone": 0
+    },
+    {
+      "distance": 689.4,
+      "elapsed_time": 91,
+      "elevation_difference": -33.8,
+      "moving_time": 91,
+      "split": 42,
+      "average_speed": 7.58,
+      "average_grade_adjusted_speed": 7.37,
+      "average_heartrate": 66.46153846153847,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1617.8,
+      "elapsed_time": 999,
+      "elevation_difference": 82.2,
+      "moving_time": 705,
+      "split": 1,
+      "average_speed": 1.62,
+      "average_grade_adjusted_speed": 1.53,
+      "average_heartrate": 104.79431438127091,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.1,
+      "elapsed_time": 499,
+      "elevation_difference": -234.4,
+      "moving_time": 499,
+      "split": 2,
+      "average_speed": 3.21,
+      "average_grade_adjusted_speed": 3.17,
+      "average_heartrate": 96.34418604651162,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 206,
+      "elevation_difference": -524.4,
+      "moving_time": 206,
+      "split": 3,
+      "average_speed": 7.81,
+      "average_grade_adjusted_speed": 12.44,
+      "average_heartrate": 101.92934782608695,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.6,
+      "elapsed_time": 805,
+      "elevation_difference": 350.4,
+      "moving_time": 311,
+      "split": 4,
+      "average_speed": 2.01,
+      "average_grade_adjusted_speed": 2.48,
+      "average_heartrate": 97.51639344262296,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.2,
+      "elapsed_time": 683,
+      "elevation_difference": 247.0,
+      "moving_time": 227,
+      "split": 5,
+      "average_speed": 2.37,
+      "average_grade_adjusted_speed": 3.43,
+      "average_heartrate": 106.29523809523809,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.8,
+      "elapsed_time": 243,
+      "elevation_difference": -435.6,
+      "moving_time": 243,
+      "split": 6,
+      "average_speed": 6.6,
+      "average_grade_adjusted_speed": 9.32,
+      "average_heartrate": 98.66822429906541,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.9,
+      "elapsed_time": 704,
+      "elevation_difference": 356.8,
+      "moving_time": 241,
+      "split": 7,
+      "average_speed": 2.29,
+      "average_grade_adjusted_speed": 2.87,
+      "average_heartrate": 103.67713004484305,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.1,
+      "elapsed_time": 119,
+      "elevation_difference": -523.8,
+      "moving_time": 119,
+      "split": 8,
+      "average_speed": 13.5,
+      "average_grade_adjusted_speed": 21.34,
+      "average_heartrate": 105.76923076923077,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.1,
+      "elapsed_time": 754,
+      "elevation_difference": 327.0,
+      "moving_time": 250,
+      "split": 9,
+      "average_speed": 2.12,
+      "average_grade_adjusted_speed": 2.73,
+      "average_heartrate": 101.13617021276596,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.2,
+      "elapsed_time": 725,
+      "elevation_difference": 270.4,
+      "moving_time": 270,
+      "split": 10,
+      "average_speed": 2.23,
+      "average_grade_adjusted_speed": 3.12,
+      "average_heartrate": 97.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 185,
+      "elevation_difference": -452.6,
+      "moving_time": 185,
+      "split": 11,
+      "average_speed": 8.71,
+      "average_grade_adjusted_speed": 12.65,
+      "average_heartrate": 95.64406779661017,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.1,
+      "elapsed_time": 720,
+      "elevation_difference": 381.6,
+      "moving_time": 267,
+      "split": 12,
+      "average_speed": 2.23,
+      "average_grade_adjusted_speed": 2.56,
+      "average_heartrate": 91.43668122270742,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618.7,
+      "elapsed_time": 111,
+      "elevation_difference": -499.8,
+      "moving_time": 111,
+      "split": 13,
+      "average_speed": 14.58,
+      "average_grade_adjusted_speed": 22.26,
+      "average_heartrate": 90.65765765765765,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 785,
+      "elevation_difference": 368.4,
+      "moving_time": 324,
+      "split": 14,
+      "average_speed": 2.05,
+      "average_grade_adjusted_speed": 2.47,
+      "average_heartrate": 88.91341991341992,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.7,
+      "elapsed_time": 850,
+      "elevation_difference": 222.2,
+      "moving_time": 383,
+      "split": 15,
+      "average_speed": 1.89,
+      "average_grade_adjusted_speed": 2.9,
+      "average_heartrate": 91.4390243902439,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.0,
+      "elapsed_time": 174,
+      "elevation_difference": -401.0,
+      "moving_time": 174,
+      "split": 16,
+      "average_speed": 9.22,
+      "average_grade_adjusted_speed": 12.58,
+      "average_heartrate": 90.24418604651163,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618.9,
+      "elapsed_time": 4406,
+      "elevation_difference": 349.6,
+      "moving_time": 711,
+      "split": 17,
+      "average_speed": 0.37,
+      "average_grade_adjusted_speed": 0.46,
+      "average_heartrate": 86.24712643678161,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617.5,
+      "elapsed_time": 120,
+      "elevation_difference": -524.2,
+      "moving_time": 120,
+      "split": 18,
+      "average_speed": 13.48,
+      "average_grade_adjusted_speed": 21.45,
+      "average_heartrate": 101.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.4,
+      "elapsed_time": 853,
+      "elevation_difference": 347.2,
+      "moving_time": 343,
+      "split": 19,
+      "average_speed": 1.88,
+      "average_grade_adjusted_speed": 2.33,
+      "average_heartrate": 97.82539682539682,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1598.0,
+      "elapsed_time": 974,
+      "elevation_difference": 237.0,
+      "moving_time": 520,
+      "split": 20,
+      "average_speed": 1.64,
+      "average_grade_adjusted_speed": 2.5,
+      "average_heartrate": 102.13025210084034,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.9,
+      "elapsed_time": 249,
+      "elevation_difference": -374.0,
+      "moving_time": 249,
+      "split": 21,
+      "average_speed": 6.49,
+      "average_grade_adjusted_speed": 8.46,
+      "average_heartrate": 94.95588235294117,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.3,
+      "elapsed_time": 765,
+      "elevation_difference": 322.2,
+      "moving_time": 310,
+      "split": 22,
+      "average_speed": 2.09,
+      "average_grade_adjusted_speed": 2.71,
+      "average_heartrate": 96.80454545454545,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1624.1,
+      "elapsed_time": 160,
+      "elevation_difference": -505.2,
+      "moving_time": 160,
+      "split": 23,
+      "average_speed": 10.15,
+      "average_grade_adjusted_speed": 15.48,
+      "average_heartrate": 103.7452229299363,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 714,
+      "elevation_difference": 356.4,
+      "moving_time": 251,
+      "split": 24,
+      "average_speed": 2.25,
+      "average_grade_adjusted_speed": 2.84,
+      "average_heartrate": 87.4353448275862,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1595.7,
+      "elapsed_time": 191,
+      "elevation_difference": -466.8,
+      "moving_time": 191,
+      "split": 25,
+      "average_speed": 8.35,
+      "average_grade_adjusted_speed": 12.5,
+      "average_heartrate": 92.18497109826589,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1458.5,
+      "elapsed_time": 1986,
+      "elevation_difference": 560.0,
+      "moving_time": 1479,
+      "split": 26,
+      "average_speed": 0.73,
+      "average_grade_adjusted_speed": 0.76,
+      "average_heartrate": 76.22067039106145,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 62219287937,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 162,
+      "moving_time": 0,
+      "start_date": "2026-02-16T10:22:12Z",
+      "start_date_local": "2026-02-16T11:22:12Z",
+      "distance": 360.1,
+      "average_speed": 2.22,
+      "max_speed": 5.66,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 38,
+      "total_elevation_gain": 9.8,
+      "device_watts": false,
+      "average_heartrate": 88.2,
+      "max_heartrate": 97.0
+    },
+    {
+      "id": 62219287962,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 1691,
+      "moving_time": 0,
+      "start_date": "2026-02-16T10:29:47Z",
+      "start_date_local": "2026-02-16T11:29:47Z",
+      "distance": 4858.2,
+      "average_speed": 2.87,
+      "max_speed": 18.42,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 39,
+      "end_index": 714,
+      "total_elevation_gain": 9.4,
+      "device_watts": false,
+      "average_heartrate": 102.9,
+      "max_heartrate": 132.0
+    },
+    {
+      "id": 62219288011,
+      "resource_state": 2,
+      "name": "Lap 3",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 824,
+      "moving_time": 0,
+      "start_date": "2026-02-16T11:01:18Z",
+      "start_date_local": "2026-02-16T12:01:18Z",
+      "distance": 2656.3,
+      "average_speed": 3.22,
+      "max_speed": 19.2,
+      "lap_index": 3,
+      "split": 3,
+      "start_index": 715,
+      "end_index": 965,
+      "total_elevation_gain": 11.2,
+      "device_watts": false,
+      "average_heartrate": 103.9,
+      "max_heartrate": 142.0
+    },
+    {
+      "id": 62219288034,
+      "resource_state": 2,
+      "name": "Lap 4",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 879,
+      "moving_time": 0,
+      "start_date": "2026-02-16T11:14:27Z",
+      "start_date_local": "2026-02-16T12:14:27Z",
+      "distance": 2675.6,
+      "average_speed": 3.04,
+      "max_speed": 20.02,
+      "lap_index": 4,
+      "split": 4,
+      "start_index": 966,
+      "end_index": 1223,
+      "total_elevation_gain": 6.8,
+      "device_watts": false,
+      "average_heartrate": 102.6,
+      "max_heartrate": 134.0
+    },
+    {
+      "id": 62219288058,
+      "resource_state": 2,
+      "name": "Lap 5",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 808,
+      "moving_time": 0,
+      "start_date": "2026-02-16T11:29:12Z",
+      "start_date_local": "2026-02-16T12:29:12Z",
+      "distance": 2639.8,
+      "average_speed": 3.27,
+      "max_speed": 20.94,
+      "lap_index": 5,
+      "split": 5,
+      "start_index": 1224,
+      "end_index": 1462,
+      "total_elevation_gain": 10.4,
+      "device_watts": false,
+      "average_heartrate": 100.2,
+      "max_heartrate": 122.0
+    },
+    {
+      "id": 62219288095,
+      "resource_state": 2,
+      "name": "Lap 6",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 862,
+      "moving_time": 0,
+      "start_date": "2026-02-16T11:43:22Z",
+      "start_date_local": "2026-02-16T12:43:22Z",
+      "distance": 2630.8,
+      "average_speed": 3.05,
+      "max_speed": 21.76,
+      "lap_index": 6,
+      "split": 6,
+      "start_index": 1463,
+      "end_index": 1700,
+      "total_elevation_gain": 8.2,
+      "device_watts": false,
+      "average_heartrate": 101.4,
+      "max_heartrate": 121.0
+    },
+    {
+      "id": 62219288129,
+      "resource_state": 2,
+      "name": "Lap 7",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 853,
+      "moving_time": 0,
+      "start_date": "2026-02-16T11:56:53Z",
+      "start_date_local": "2026-02-16T12:56:53Z",
+      "distance": 2786.8,
+      "average_speed": 3.27,
+      "max_speed": 17.84,
+      "lap_index": 7,
+      "split": 7,
+      "start_index": 1701,
+      "end_index": 1969,
+      "total_elevation_gain": 10.0,
+      "device_watts": false,
+      "average_heartrate": 95.5,
+      "max_heartrate": 120.0
+    },
+    {
+      "id": 62219288161,
+      "resource_state": 2,
+      "name": "Lap 8",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 871,
+      "moving_time": 0,
+      "start_date": "2026-02-16T12:11:05Z",
+      "start_date_local": "2026-02-16T13:11:05Z",
+      "distance": 2789.2,
+      "average_speed": 3.2,
+      "max_speed": 19.32,
+      "lap_index": 8,
+      "split": 8,
+      "start_index": 1970,
+      "end_index": 2236,
+      "total_elevation_gain": 11.6,
+      "device_watts": false,
+      "average_heartrate": 86.6,
+      "max_heartrate": 105.0
+    },
+    {
+      "id": 62219288198,
+      "resource_state": 2,
+      "name": "Lap 9",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 956,
+      "moving_time": 0,
+      "start_date": "2026-02-16T12:25:44Z",
+      "start_date_local": "2026-02-16T13:25:44Z",
+      "distance": 2656.8,
+      "average_speed": 2.78,
+      "max_speed": 20.88,
+      "lap_index": 9,
+      "split": 9,
+      "start_index": 2237,
+      "end_index": 2508,
+      "total_elevation_gain": 8.4,
+      "device_watts": false,
+      "average_heartrate": 90.9,
+      "max_heartrate": 110.0
+    },
+    {
+      "id": 62219288219,
+      "resource_state": 2,
+      "name": "Lap 10",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 918,
+      "moving_time": 0,
+      "start_date": "2026-02-16T12:41:48Z",
+      "start_date_local": "2026-02-16T13:41:48Z",
+      "distance": 2590.9,
+      "average_speed": 2.82,
+      "max_speed": 20.04,
+      "lap_index": 10,
+      "split": 10,
+      "start_index": 2509,
+      "end_index": 2781,
+      "total_elevation_gain": 9.4,
+      "device_watts": false,
+      "average_heartrate": 90.1,
+      "max_heartrate": 105.0
+    },
+    {
+      "id": 62219288232,
+      "resource_state": 2,
+      "name": "Lap 11",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 4464,
+      "moving_time": 0,
+      "start_date": "2026-02-16T13:50:52Z",
+      "start_date_local": "2026-02-16T14:50:52Z",
+      "distance": 2752.2,
+      "average_speed": 0.62,
+      "max_speed": 20.44,
+      "lap_index": 11,
+      "split": 11,
+      "start_index": 2782,
+      "end_index": 3140,
+      "total_elevation_gain": 10.0,
+      "device_watts": false,
+      "average_heartrate": 91.3,
+      "max_heartrate": 117.0
+    },
+    {
+      "id": 62219288266,
+      "resource_state": 2,
+      "name": "Lap 12",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 1170,
+      "moving_time": 0,
+      "start_date": "2026-02-16T14:12:13Z",
+      "start_date_local": "2026-02-16T15:12:13Z",
+      "distance": 2742.2,
+      "average_speed": 2.34,
+      "max_speed": 16.98,
+      "lap_index": 12,
+      "split": 12,
+      "start_index": 3141,
+      "end_index": 3485,
+      "total_elevation_gain": 16.2,
+      "device_watts": false,
+      "average_heartrate": 101.3,
+      "max_heartrate": 120.0
+    },
+    {
+      "id": 62219288288,
+      "resource_state": 2,
+      "name": "Lap 13",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 935,
+      "moving_time": 0,
+      "start_date": "2026-02-16T14:30:47Z",
+      "start_date_local": "2026-02-16T15:30:47Z",
+      "distance": 2737.3,
+      "average_speed": 2.93,
+      "max_speed": 17.88,
+      "lap_index": 13,
+      "split": 13,
+      "start_index": 3486,
+      "end_index": 3768,
+      "total_elevation_gain": 10.6,
+      "device_watts": false,
+      "average_heartrate": 97.7,
+      "max_heartrate": 117.0
+    },
+    {
+      "id": 62219288308,
+      "resource_state": 2,
+      "name": "Lap 14",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 812,
+      "moving_time": 0,
+      "start_date": "2026-02-16T14:46:23Z",
+      "start_date_local": "2026-02-16T15:46:23Z",
+      "distance": 2684.1,
+      "average_speed": 3.31,
+      "max_speed": 16.88,
+      "lap_index": 14,
+      "split": 14,
+      "start_index": 3769,
+      "end_index": 4036,
+      "total_elevation_gain": 11.0,
+      "device_watts": false,
+      "average_heartrate": 96.5,
+      "max_heartrate": 115.0
+    },
+    {
+      "id": 62219288332,
+      "resource_state": 2,
+      "name": "Lap 15",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 831,
+      "moving_time": 0,
+      "start_date": "2026-02-16T15:00:04Z",
+      "start_date_local": "2026-02-16T16:00:04Z",
+      "distance": 2681.0,
+      "average_speed": 3.23,
+      "max_speed": 17.26,
+      "lap_index": 15,
+      "split": 15,
+      "start_index": 4037,
+      "end_index": 4308,
+      "total_elevation_gain": 9.6,
+      "device_watts": false,
+      "average_heartrate": 89.6,
+      "max_heartrate": 106.0
+    },
+    {
+      "id": 62219288353,
+      "resource_state": 2,
+      "name": "Lap 16",
+      "activity": {
+        "id": 17416941640,
+        "visibility": "followers_only",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 33703407,
+        "resource_state": 1
+      },
+      "elapsed_time": 1944,
+      "moving_time": 0,
+      "start_date": "2026-02-16T15:14:41Z",
+      "start_date_local": "2026-02-16T16:14:41Z",
+      "distance": 1380.7,
+      "average_speed": 0.71,
+      "max_speed": 10.55,
+      "lap_index": 16,
+      "split": 16,
+      "start_index": 4309,
+      "end_index": 4617,
+      "total_elevation_gain": 10.4,
+      "device_watts": false,
+      "average_heartrate": 74.3,
+      "max_heartrate": 104.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "4771829ba3d921940db5c7bd4f9895c898a833d6",
+  "available_zones": [
+    "heartrate"
+  ]
+}
