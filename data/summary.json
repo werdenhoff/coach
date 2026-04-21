@@ -1,5 +1,25 @@
 [
   {
+    "id": 18185597285,
+    "name": "Ukas langtur",
+    "type": "Run",
+    "sport_type": "Run",
+    "start_date": "2026-04-20T14:37:54Z",
+    "start_date_local": "2026-04-20T16:37:54Z",
+    "distance_m": 12013.3,
+    "moving_time_s": 4489,
+    "elapsed_time_s": 4489,
+    "total_elevation_gain_m": 104.0,
+    "average_speed_mps": 2.676,
+    "max_speed_mps": 4.56,
+    "average_heartrate": 148.5,
+    "max_heartrate": 171.0,
+    "average_cadence": 79.7,
+    "suffer_score": 92.0,
+    "has_heartrate": true,
+    "workout_type": 2
+  },
+  {
     "id": 18155364181,
     "name": "Terskel",
     "type": "Run",
