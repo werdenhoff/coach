@@ -2,9 +2,9 @@ name: Sync Strava activities
 
 on:
   schedule:
-    # 05:00 UTC daily = 07:00 Oslo sommertid / 06:00 Oslo vintertid.
+    # 19:30 UTC daily = 21:30 Oslo sommertid / 20:30 Oslo vintertid.
     # GitHub runs cron in UTC; drift of a few minutes under load is normal.
-    - cron: "0 5 * * *"
+    - cron: "30 19 * * *"
   workflow_dispatch:  # allow manual triggering from the Actions tab
 
 permissions:
