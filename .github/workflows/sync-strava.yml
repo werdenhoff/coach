@@ -24,16 +24,6 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Check secrets are set
-        env:
-          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
-          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
-          STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
-        run: |
-          echo "STRAVA_CLIENT_ID length: ${#STRAVA_CLIENT_ID}"
-          echo "STRAVA_CLIENT_SECRET length: ${#STRAVA_CLIENT_SECRET}"
-          echo "STRAVA_REFRESH_TOKEN length: ${#STRAVA_REFRESH_TOKEN}"
-
       - name: Fetch activities from Strava
         env:
           STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
