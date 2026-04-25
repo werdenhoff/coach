@@ -31,10 +31,11 @@ from pathlib import Path
 CLIENT_ID = os.environ["STRAVA_CLIENT_ID"]
 CLIENT_SECRET = os.environ["STRAVA_CLIENT_SECRET"]
 REFRESH_TOKEN = os.environ["STRAVA_REFRESH_TOKEN"]
+USER_SLUG = os.environ["USER_SLUG"]
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-ACTIVITIES_DIR = REPO_ROOT / "data" / "activities"
-SUMMARY_PATH = REPO_ROOT / "data" / "summary.json"
+ACTIVITIES_DIR = REPO_ROOT / "data" / USER_SLUG / "activities"
+SUMMARY_PATH = REPO_ROOT / "data" / USER_SLUG / "summary.json"
 
 # On first run, pull the last 90 days so we get meaningful baseline volume.
 FIRST_RUN_LOOKBACK_DAYS = 90

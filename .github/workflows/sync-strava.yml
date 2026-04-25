@@ -17,6 +17,13 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          - user_slug: pal
+            refresh_token_secret: STRAVA_REFRESH_TOKEN_PAL
+          - user_slug: karin_annette
+            refresh_token_secret: STRAVA_REFRESH_TOKEN_KARIN_ANNETTE
     steps:
       - uses: actions/checkout@v4
 
@@ -28,7 +35,8 @@ jobs:
         env:
           STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
           STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
-          STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
+          STRAVA_REFRESH_TOKEN: ${{ secrets[matrix.refresh_token_secret] }}
+          USER_SLUG: ${{ matrix.user_slug }}
         run: python scripts/fetch_activities.py
 
       - name: Commit any new activities
@@ -39,6 +47,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No new activities — nothing to commit."
           else
-            git commit -m "Sync Strava activities ($(date -u +'%Y-%m-%d'))"
+            git commit -m "Sync Strava activities – ${{ matrix.user_slug }} ($(date -u +'%Y-%m-%d'))"
             git push
           fi
