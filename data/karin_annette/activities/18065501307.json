@@ -1,0 +1,764 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "resource_state": 1
+  },
+  "name": "Oppvarming Drammen 10 km",
+  "distance": 2405.8,
+  "moving_time": 946,
+  "elapsed_time": 960,
+  "total_elevation_gain": 15.6,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 235",
+  "id": 18065501307,
+  "start_date": "2026-04-11T12:06:00Z",
+  "start_date_local": "2026-04-11T14:06:00Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 6,
+  "kudos_count": 3,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a18065501307",
+    "polyline": "kzqkJ_~g}@Na@t@Hh@PvAZb@UNWT_ANiAT_AZu@|@}A\\o@PUd@OVu@N_ADiASy@OQ@WZaB|@sDTcAd@kCJu@PaAZmAZcCm@hDm@hEm@rDgAnFYp@a@Oc@ScAu@}@cAIDyCbO_@nCQbAIFe@CQ~@?DZl@b@Pf@Dh@L`@Dd@KZo@x@gEZq@`@i@\\m@Xu@`@GXs@P}@DmAIaAa@_@c@Ue@]a@_@c@Yi@g@Ux@QdAmA`GQfAQ~@_@pCYz@EJe@Bi@vBw@nBMD_@k@MWUl@GZq@~AC@",
+    "resource_state": 3,
+    "summary_polyline": "kzqkJ_~g}@Na@t@Hh@PvAZb@UNWT_ANiAT_AZu@|@}A\\o@PUd@OVu@N_ADiASy@OQ@WZaB|@sDTcAd@kCJu@PaAZmAZcCm@hDm@hEm@rDgAnFYp@a@Oc@ScAu@}@cAIDyCbO_@nCQbAIFe@CQ~@?DZl@b@Pf@Dh@L`@Dd@KZo@x@gEZq@`@i@\\m@Xu@`@GXs@P}@DmAIaAa@_@c@Ue@]a@_@c@Yi@g@Ux@QdAmA`GQfAQ~@_@pCYz@EJe@Bi@vBw@nBMD_@k@MWUl@GZq@~AC@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "g28225025",
+  "start_latlng": [
+    59.734304,
+    10.204005
+  ],
+  "end_latlng": [
+    59.735312,
+    10.203007
+  ],
+  "average_speed": 2.543,
+  "max_speed": 3.144,
+  "average_cadence": 85.2,
+  "has_heartrate": true,
+  "average_heartrate": 136.4,
+  "max_heartrate": 157.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 11.6,
+  "elev_low": 2.4,
+  "upload_id": 19166937921,
+  "upload_id_str": "19166937921",
+  "external_id": "garmin_ping_557255152002",
+  "from_accepted_tag": false,
+  "pr_count": 3,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 20.0,
+  "description": "",
+  "calories": 129.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3478023366784817126,
+      "resource_state": 2,
+      "name": "Marienlyst skole-Elsters gate",
+      "activity": {
+        "id": 18065501307,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 144,
+      "moving_time": 144,
+      "start_date": "2026-04-11T12:06:26Z",
+      "start_date_local": "2026-04-11T14:06:26Z",
+      "distance": 371.9,
+      "start_index": 6,
+      "end_index": 28,
+      "average_cadence": 86.2,
+      "device_watts": false,
+      "average_heartrate": 123.0,
+      "max_heartrate": 128.0,
+      "segment": {
+        "id": 15552748,
+        "resource_state": 2,
+        "name": "Marienlyst skole-Elsters gate",
+        "activity_type": "Run",
+        "distance": 371.9,
+        "average_grade": 1.3,
+        "maximum_grade": 6.6,
+        "elevation_high": 24.2,
+        "elevation_low": 13.1,
+        "start_latlng": [
+          59.733985,
+          10.204199
+        ],
+        "end_latlng": [
+          59.731535,
+          10.207545
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Drammen",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3478023366781236198,
+      "resource_state": 2,
+      "name": "250m Bikkjestykket",
+      "activity": {
+        "id": 18065501307,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 103,
+      "moving_time": 103,
+      "start_date": "2026-04-11T12:06:44Z",
+      "start_date_local": "2026-04-11T14:06:44Z",
+      "distance": 239.1,
+      "start_index": 10,
+      "end_index": 25,
+      "average_cadence": 86.1,
+      "device_watts": false,
+      "average_heartrate": 123.3,
+      "max_heartrate": 128.0,
+      "segment": {
+        "id": 22191467,
+        "resource_state": 2,
+        "name": "250m Bikkjestykket",
+        "activity_type": "Run",
+        "distance": 239.1,
+        "average_grade": 2.8,
+        "maximum_grade": 15.9,
+        "elevation_high": 44.8,
+        "elevation_low": 36.4,
+        "start_latlng": [
+          59.733613,
+          10.203909
+        ],
+        "end_latlng": [
+          59.731942,
+          10.206142
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Drammen",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3478023366783248358,
+      "resource_state": 2,
+      "name": "200m bikkjestykket",
+      "activity": {
+        "id": 18065501307,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 86,
+      "moving_time": 86,
+      "start_date": "2026-04-11T12:06:52Z",
+      "start_date_local": "2026-04-11T14:06:52Z",
+      "distance": 211.1,
+      "start_index": 11,
+      "end_index": 24,
+      "average_cadence": 86.3,
+      "device_watts": false,
+      "average_heartrate": 123.7,
+      "max_heartrate": 128.0,
+      "segment": {
+        "id": 22191525,
+        "resource_state": 2,
+        "name": "200m bikkjestykket",
+        "activity_type": "Run",
+        "distance": 211.1,
+        "average_grade": 3.6,
+        "maximum_grade": 15.9,
+        "elevation_high": 44.0,
+        "elevation_low": 36.4,
+        "start_latlng": [
+          59.733437,
+          10.203865
+        ],
+        "end_latlng": [
+          59.731995,
+          10.206107
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Drammen",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3478023366783285222,
+      "resource_state": 2,
+      "name": "Vestfoldveien GP",
+      "activity": {
+        "id": 18065501307,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 98,
+      "moving_time": 98,
+      "start_date": "2026-04-11T12:11:04Z",
+      "start_date_local": "2026-04-11T14:11:04Z",
+      "distance": 276.8,
+      "start_index": 46,
+      "end_index": 63,
+      "average_cadence": 85.4,
+      "device_watts": false,
+      "average_heartrate": 129.3,
+      "max_heartrate": 139.0,
+      "segment": {
+        "id": 14880028,
+        "resource_state": 2,
+        "name": "Vestfoldveien GP",
+        "activity_type": "Run",
+        "distance": 276.8,
+        "average_grade": 0.5,
+        "maximum_grade": 3.6,
+        "elevation_high": 17.0,
+        "elevation_low": 14.0,
+        "start_latlng": [
+          59.730511,
+          10.212102
+        ],
+        "end_latlng": [
+          59.731681,
+          10.207796
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Drammen",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3478023366784645094,
+      "resource_state": 2,
+      "name": "Marienlyst skole-Elsters gate",
+      "activity": {
+        "id": 18065501307,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 139,
+      "moving_time": 139,
+      "start_date": "2026-04-11T12:15:35Z",
+      "start_date_local": "2026-04-11T14:15:35Z",
+      "distance": 371.9,
+      "start_index": 88,
+      "end_index": 106,
+      "average_cadence": 90.5,
+      "device_watts": false,
+      "average_heartrate": 153.0,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 15552748,
+        "resource_state": 2,
+        "name": "Marienlyst skole-Elsters gate",
+        "activity_type": "Run",
+        "distance": 371.9,
+        "average_grade": 1.3,
+        "maximum_grade": 6.6,
+        "elevation_high": 24.2,
+        "elevation_low": 13.1,
+        "start_latlng": [
+          59.733985,
+          10.204199
+        ],
+        "end_latlng": [
+          59.731535,
+          10.207545
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Drammen",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3478023366784469990,
+      "resource_state": 2,
+      "name": "250m Bikkjestykket",
+      "activity": {
+        "id": 18065501307,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 93,
+      "moving_time": 93,
+      "start_date": "2026-04-11T12:15:51Z",
+      "start_date_local": "2026-04-11T14:15:51Z",
+      "distance": 239.1,
+      "start_index": 90,
+      "end_index": 102,
+      "average_cadence": 91.1,
+      "device_watts": false,
+      "average_heartrate": 153.8,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 22191467,
+        "resource_state": 2,
+        "name": "250m Bikkjestykket",
+        "activity_type": "Run",
+        "distance": 239.1,
+        "average_grade": 2.8,
+        "maximum_grade": 15.9,
+        "elevation_high": 44.8,
+        "elevation_low": 36.4,
+        "start_latlng": [
+          59.733613,
+          10.203909
+        ],
+        "end_latlng": [
+          59.731942,
+          10.206142
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Drammen",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3478023366785009638,
+      "resource_state": 2,
+      "name": "200m bikkjestykket",
+      "activity": {
+        "id": 18065501307,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 85,
+      "moving_time": 85,
+      "start_date": "2026-04-11T12:15:59Z",
+      "start_date_local": "2026-04-11T14:15:59Z",
+      "distance": 211.1,
+      "start_index": 91,
+      "end_index": 102,
+      "average_cadence": 91.1,
+      "device_watts": false,
+      "average_heartrate": 154.1,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 22191525,
+        "resource_state": 2,
+        "name": "200m bikkjestykket",
+        "activity_type": "Run",
+        "distance": 211.1,
+        "average_grade": 3.6,
+        "maximum_grade": 15.9,
+        "elevation_high": 44.0,
+        "elevation_low": 36.4,
+        "start_latlng": [
+          59.733437,
+          10.203865
+        ],
+        "end_latlng": [
+          59.731995,
+          10.206107
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Drammen",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1018.3,
+      "elapsed_time": 417,
+      "elevation_difference": 3.2,
+      "moving_time": 417,
+      "split": 1,
+      "average_speed": 2.44,
+      "average_grade_adjusted_speed": 2.47,
+      "average_heartrate": 126.04796163069544,
+      "pace_zone": 2
+    },
+    {
+      "distance": 993.2,
+      "elapsed_time": 368,
+      "elevation_difference": -3.3,
+      "moving_time": 357,
+      "split": 2,
+      "average_speed": 2.78,
+      "average_grade_adjusted_speed": 2.79,
+      "average_heartrate": 146.21848739495798,
+      "pace_zone": 3
+    },
+    {
+      "distance": 396.1,
+      "elapsed_time": 175,
+      "elevation_difference": -0.6,
+      "moving_time": 172,
+      "split": 3,
+      "average_speed": 2.3,
+      "average_grade_adjusted_speed": 2.3,
+      "average_heartrate": 141.1453488372093,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1625.5,
+      "elapsed_time": 645,
+      "elevation_difference": 6.2,
+      "moving_time": 634,
+      "split": 1,
+      "average_speed": 2.56,
+      "average_grade_adjusted_speed": 2.61,
+      "average_heartrate": 132.38643533123027,
+      "pace_zone": 2
+    },
+    {
+      "distance": 782.1,
+      "elapsed_time": 315,
+      "elevation_difference": -6.9,
+      "moving_time": 312,
+      "split": 2,
+      "average_speed": 2.51,
+      "average_grade_adjusted_speed": 2.47,
+      "average_heartrate": 144.57051282051282,
+      "pace_zone": 2
+    }
+  ],
+  "laps": [
+    {
+      "id": 64621692489,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 18065501307,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 959,
+      "moving_time": 959,
+      "start_date": "2026-04-11T12:06:00Z",
+      "start_date_local": "2026-04-11T14:06:00Z",
+      "distance": 2407.63,
+      "average_speed": 2.51,
+      "max_speed": 3.144,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 143,
+      "total_elevation_gain": 15.6,
+      "average_cadence": 85.2,
+      "device_watts": false,
+      "average_heartrate": 136.4,
+      "max_heartrate": 157.0,
+      "pace_zone": 2
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 75921025334,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 18065501307,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 146,
+      "moving_time": 146,
+      "start_date": "2026-04-11T12:06:00Z",
+      "start_date_local": "2026-04-11T14:06:00Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 89,
+      "end_index": 108
+    },
+    {
+      "id": 75921025335,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 18065501307,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 292,
+      "moving_time": 292,
+      "start_date": "2026-04-11T12:06:00Z",
+      "start_date_local": "2026-04-11T14:06:00Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 91,
+      "end_index": 131
+    },
+    {
+      "id": 75921025336,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 18065501307,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 361,
+      "moving_time": 361,
+      "start_date": "2026-04-11T12:06:00Z",
+      "start_date_local": "2026-04-11T14:06:00Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 75,
+      "end_index": 125
+    },
+    {
+      "id": 75921025333,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 18065501307,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 601,
+      "moving_time": 601,
+      "start_date": "2026-04-11T12:06:00Z",
+      "start_date_local": "2026-04-11T14:06:00Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 47,
+      "end_index": 133
+    }
+  ],
+  "gear": {
+    "id": "g28225025",
+    "primary": false,
+    "name": "New Balance WRCXCS4",
+    "nickname": null,
+    "resource_state": 2,
+    "retired": false,
+    "distance": 85639,
+    "converted_distance": 85.6
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "35de8c9c4015fd2ed6c5a6d83a964c6e6b356030",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 2.5431289640591968,
+    "min_average_speed": 2.5431289640591968,
+    "mid_average_speed": 2.5431289640591968,
+    "max_average_speed": 2.5431289640591968,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.5431289640591968
+      ],
+      "current_activity_index": 0,
+      "min_speed": 2.5431289640591968,
+      "mid_speed": 2.5431289640591968,
+      "max_speed": 2.5431289640591968,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}

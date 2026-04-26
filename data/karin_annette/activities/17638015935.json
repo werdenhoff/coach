@@ -1,0 +1,846 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "resource_state": 1
+  },
+  "name": "Hytta - Stamstadbua - Torsdalen - Sjøsetra - hytta",
+  "distance": 20061.5,
+  "moving_time": 7785,
+  "elapsed_time": 8724,
+  "total_elevation_gain": 387.4,
+  "type": "NordicSki",
+  "sport_type": "NordicSki",
+  "device_name": "Strava App",
+  "id": 17638015935,
+  "start_date": "2026-03-07T13:16:52Z",
+  "start_date_local": "2026-03-07T14:16:52Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 3600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 6,
+  "kudos_count": 9,
+  "comment_count": 1,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a17638015935",
+    "polyline": "ybyuJ}t{|@?RAAAD?H?DFCABCIF@DWCF@[JSD?DMN}@@UCOEGeAiAKSOaCAs@Hq@@@CA@@AoCFeAf@qBRm@JSFEFARBPNV\\VlADr@Lp@Zd@\\ZTLN@FITsBNaAN_@NMZHRQNGZ?`@NpCn@r@^F@^_@f@cB|@_BbAaAv@mAl@w@R]Tu@H_@Fu@?c@Fi@FIFCD?BDVCXHn@`@d@l@VFH?HCJ@h@TRB\\KF?PEf@ABD?@B??IABCADL@CJB@BAGFGd@?nAWr@HHADCHBJC\\PXF`@CJ@FCL?P@TE^?RDX@NCRM\\c@\\i@PMNDNN|@`B|@vARNTHrAx@RDVIFKZARV`@Zd@RJ@j@e@XO?EXIF@X|@jAzCRv@ZrBRdCPrAr@dCrAzITpCnA~EHxA@`@H|AFx@LhEJbA\\nBJdB\\nCPt@b@v@p@hCHh@Fp@Ln@Td@`@l@HHTb@BRDx@?DRzCFj@Nx@LL\\HFFBNFrA?hCFz@JnCAlABh@Ld@R\\^f@Vj@Rl@Nt@Hj@DdCJz@h@z@DPd@bAj@jBj@jATnADv@^fB~AdER`@bApBX\\n@l@ND`@\\v@dAzArAd@\\LFVB@B@CXdAlApCVx@H|@Ap@U`E[fDCvIExBKjB?l@FdBD~CDl@j@dE^vDLhBN~@TfALrBTt@TR\\h@JZNzA\\nAd@zCRj@^f@H@f@|@b@jAb@tAtBzHV`BLjALv@b@jBNz@`@fA`@t@jAx@z@fAv@lAdB~Ct@~@l@h@XJL@TLX`@JVXzA~@fDj@zA`@t@LJR?JBf@\\PFNANOXGFEXA^MLA?A?@^C`@F~@\\h@BZF^VTXt@~AzBnDDPlBtALLdAf@T^Nd@FpARpCDr@E|AKhAO|@?dAFv@ZfAP\\LNJJf@Rl@^PFREbBgAR]Pi@Xi@X_@bA_AfAuA\\{@^yAh@gAn@iAl@}@n@w@^[R]Ru@P_@fA{Cv@k@h@g@JQVWJER]h@mBJWl@k@LQPg@H_@v@gGNo@d@gATs@R_A^_CLk@FOTUR[v@{BRc@JMTOr@Ut@s@l@{@ZY~@mAZg@f@eApAuAvA{B@G^i@RQv@k@h@i@p@]`@a@`AuALOFCJWr@cA`B}CJ[hAcBnBkBRUFQj@i@f@i@pAmAb@WRGFBTKVAR@p@R^B\\?VEN?HCJ?f@YFA|@o@VMHAl@]r@u@r@aAnAwAdAoBp@_Ar@y@p@m@r@w@v@}@p@}@JURSHQb@m@d@w@~@iAz@q@VMXUHCnAu@POz@a@^MfBcA~DqBzBoB@OAMKKaAyCWg@m@w@iAaAWc@oBeCm@_AaBkDmBcCyCwEqDaFM[eCiIi@sAUg@s@w@cAqAcA_AU[_ByEsAyEkByFs@eCc@oA{A_DeC_Gi@aAwBwCaAcCS{@iAsJIg@SaBIa@IYOYGIKGSC}@T[BQSK[IcA@yDEyFWwHGwC@WHu@V_BJmAKiELcLD_AHm@FWp@cBN]^c@`CuARQNQFILk@Bo@CWKQGE{@US[[_Ae@aBUa@EGw@g@cAc@S]O_@U_DOw@C[A{@Ba@Cc@Ky@K[MeAAc@B}CCy@Iw@O{@Ss@G_@A{A@k@G_@EEC?CD@@EECJWh@o@v@y@dB{@jAeA~BQh@Qr@[hCEFKp@WbAOXQVQHI?YJWVY^yA~BSVWb@SViAj@SRo@jAWRUX[t@c@rAiAhB]VSTQJc@@OFgALuBGc@F_@Nc@Vk@R_Bx@ONSZMXYrASf@_@p@ITYbCMbHGjAEtCFfARlAAVELGBCAWKMM[IGBSPSZUzAKV]Va@b@_@TWHMNS`@Yb@UJ[j@g@f@c@l@[Nm@HY@WFK?_@DeAFc@@q@A_@CKEqAEwA@_@CY@}@As@GwB[a@Cc@FGBk@Fo@@a@CaB_@Q@MIa@OiBiAUIWCcABm@Gy@DU?QAi@QASXyBDo@EuJIu@c@yBSmBA_HQ_DOm@MWi@y@Wu@SoA}@uIM}CIuFHkFCkAIo@WcAuAkDu@cB_@uAyAaDk@aA_@g@GUQgASi@{@wA_AqAmBeB_@a@OMOCuAG}@QMOI[?_@R{BBu@I{AO]WQa@S{@o@][OAEGg@MOCy@QqAw@CEQIEEc@SsAYi@HKDOX_@pAYnBMj@EVi@lAEXAr@Hv@Pr@p@rBLn@Dj@Al@G~@Kn@Qr@m@xAMTQN_@L]?WCu@FGFSD]NEDqA^GDo@Ho@RIFWHk@\\q@t@_@x@O`@On@E\\EnC@dACJDbAC`AE`@YvBG^GLKJMB_@@k@HqAn@UTQ^Oj@Ob@Oz@Cn@I\\Yh@GHUN[Bc@AOIEGSMEOU[QEK@Y?]Di@Ag@H]BgAA[@_A^y@b@g@Zm@Va@^Q^YVeA\\_Ad@_@V[La@Xm@JkBHu@_@K@}@Ek@MK?UHKFENAd@g@`CSlBOhCIl@Sn@Yj@wApBkApA]j@OLYp@Kd@KXIPWZO@m@UcAYkAUe@Q]@MDKJI?OGK?MHEFQp@_@`DIJI@MCa@][]KW[oCEQM[W[YMMDMLYz@e@hBElA?|BGn@@BAPJ?ACC@AZDp@FbBHT\\X",
+    "resource_state": 3,
+    "summary_polyline": "ybyuJ}t{|@C`@DDFs@Va@PsA{AuBQuDJo@BuEfAsDb@Ch@l@j@rDnAnAVGd@uD^m@zAOnF`B^_@f@cB|@_BbAaAxBcD^uANcCNMz@JtAnAtB^fBU?NNBDOtBWxABv@XxDAb@QlA{A^TzBxD|BrAnAQt@r@p@TdA{@`@GxBpG`AlIr@dCrAzITpCnA~Ej@|MrAhLt@lBp@hC^jCvA`C\\nFVdBj@VJV\\`P`AjBj@xAX`BDdCJz@h@z@bClGz@nFrBfF|AnC`BpAv@dAzArAnAh@~BpGFnBq@hJCvIQdFLrHp@rFl@`Hd@fCLrBTt@~@xArAfIRj@pAfBfA`DtBzHr@dFr@fD`@fA`@t@jAx@z@fArElHjBdAX`@dBzGlApCfBt@hDu@fDp@t@p@vD`H`EjCT^Nd@`@vGE|A[fCF|Br@lBzBnAvBmA~@qBdDuDfB}E|AgCbBqBlBqFbD}Cv@iCl@k@^y@`AgHjAkD`AkFp@aAjA_DjCgBhCcDbAmBpAuAxBmDhEgDvCeElByDhAcB~EgFtBeBhAQdBXzAI|DyBvDoEvBoDpE}EdFiHxE_DbKeFrBeBHYiB_FuBuBgCiDoCkFyL}PgEoM}EwFwJc[aF_LaDyEaAcCS{@{ByPWc@_@KyAX]o@IcACsL_@oMn@{FKiERcNPeA`AaCdE}CTu@Bo@Oi@cA[S[wAcEaCsAc@}@i@sFAaCe@{CA{Fu@gE?kCMa@K@kAlBy@dB{@jAeA~Bc@|Am@bEg@|A_BdA_DzEqBvA}AxB_AhCiAhBcAx@uGVoEtBc@j@g@lB}@nBYbC[dOZtCGd@uA]g@l@a@rBwBzA{@tAUJcCpCuFb@_KSmEg@iDPsB]oDmByEA{@S\\}DEuJaA}GA_HQ_DOm@oAgCqAeLWsKDwHa@sBkCoG_@uAyAaDkAiBm@gC{BiD}CuCqDm@I{@VqDI{AO]sCqBgCm@qCaB}BO[^_@pAg@zCu@~BFjBbAfDRzAIlB]bBm@xA_@d@kCPyFfBmAn@q@t@o@zAUlAEfJg@xDSXyANgBdAq@nB]hCYh@]X_A@i@_@m@q@wGRoEvBmAvAcFbCyCTu@_@wCGQVAd@g@`Cc@vF]|AqB|CyBjCq@pBa@l@sFuA}AJSPQp@_@`DSLo@a@g@u@[oCSm@q@i@[R_AdDMzF?TJ?GXLtCf@n@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    61.409892,
+    10.141111
+  ],
+  "end_latlng": [
+    61.409897,
+    10.142134
+  ],
+  "average_speed": 2.577,
+  "max_speed": 10.68,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 1004.6,
+  "elev_low": 823.2,
+  "upload_id": 18736126312,
+  "upload_id_str": "18736126312",
+  "external_id": "D98FF681-E7B3-4506-B417-29F4CA511A75-activity.fit",
+  "from_accepted_tag": false,
+  "pr_count": 3,
+  "total_photo_count": 3,
+  "has_kudoed": false,
+  "description": "Deilig tur, ganske bløtt med plussgrader i lufta selv uten sol",
+  "calories": 0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3465394830846625996,
+      "resource_state": 2,
+      "name": "under bånseterkampane",
+      "activity": {
+        "id": 17638015935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 653,
+      "moving_time": 371,
+      "start_date": "2026-03-07T13:39:23Z",
+      "start_date_local": "2026-03-07T14:39:23Z",
+      "distance": 934.0,
+      "start_index": 1345,
+      "end_index": 1993,
+      "device_watts": false,
+      "segment": {
+        "id": 27713340,
+        "resource_state": 2,
+        "name": "under bånseterkampane",
+        "activity_type": "NordicSki",
+        "distance": 934.0,
+        "average_grade": 7.1,
+        "maximum_grade": 31.3,
+        "elevation_high": 963.6,
+        "elevation_low": 897.6,
+        "start_latlng": [
+          61.396682,
+          10.146002
+        ],
+        "end_latlng": [
+          61.39293,
+          10.130828
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Fåvang",
+        "state": "Innlandet",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3465394830845149388,
+      "resource_state": 2,
+      "name": "Bårdstjønnet opp",
+      "activity": {
+        "id": 17638015935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 449,
+      "moving_time": 257,
+      "start_date": "2026-03-07T13:58:55Z",
+      "start_date_local": "2026-03-07T14:58:55Z",
+      "distance": 721.2,
+      "start_index": 2512,
+      "end_index": 2958,
+      "device_watts": false,
+      "segment": {
+        "id": 27688798,
+        "resource_state": 2,
+        "name": "Bårdstjønnet opp",
+        "activity_type": "NordicSki",
+        "distance": 721.2,
+        "average_grade": 5.9,
+        "maximum_grade": 26.8,
+        "elevation_high": 1020.6,
+        "elevation_low": 976.4,
+        "start_latlng": [
+          61.387491,
+          10.118384
+        ],
+        "end_latlng": [
+          61.38627,
+          10.106267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Svingvoll",
+        "state": "Innlandet",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3465394830845557964,
+      "resource_state": 2,
+      "name": "Torsdalen utfor",
+      "activity": {
+        "id": 17638015935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 97,
+      "moving_time": 92,
+      "start_date": "2026-03-07T14:19:23Z",
+      "start_date_local": "2026-03-07T15:19:23Z",
+      "distance": 507.8,
+      "start_index": 3737,
+      "end_index": 3834,
+      "device_watts": false,
+      "segment": {
+        "id": 31442461,
+        "resource_state": 2,
+        "name": "Torsdalen utfor",
+        "activity_type": "NordicSki",
+        "distance": 507.8,
+        "average_grade": -5.7,
+        "maximum_grade": 47.2,
+        "elevation_high": 972.5,
+        "elevation_low": 937.6,
+        "start_latlng": [
+          61.373875,
+          10.087755
+        ],
+        "end_latlng": [
+          61.370187,
+          10.093147
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Skei",
+        "state": "Innlandet",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3465394830847464652,
+      "resource_state": 2,
+      "name": "1 kilometer flate",
+      "activity": {
+        "id": 17638015935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 254,
+      "moving_time": 250,
+      "start_date": "2026-03-07T14:22:19Z",
+      "start_date_local": "2026-03-07T15:22:19Z",
+      "distance": 1003.1,
+      "start_index": 3913,
+      "end_index": 4167,
+      "device_watts": false,
+      "segment": {
+        "id": 31442542,
+        "resource_state": 2,
+        "name": "1 kilometer flate",
+        "activity_type": "NordicSki",
+        "distance": 1003.1,
+        "average_grade": -2.0,
+        "maximum_grade": 9.5,
+        "elevation_high": 931.5,
+        "elevation_low": 909.5,
+        "start_latlng": [
+          61.368352,
+          10.098007
+        ],
+        "end_latlng": [
+          61.360532,
+          10.107172
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Svingvoll",
+        "state": "Innlandet",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3465394830848017612,
+      "resource_state": 2,
+      "name": "Flate 2",
+      "activity": {
+        "id": 17638015935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 134,
+      "moving_time": 134,
+      "start_date": "2026-03-07T14:29:41Z",
+      "start_date_local": "2026-03-07T15:29:41Z",
+      "distance": 473.1,
+      "start_index": 4355,
+      "end_index": 4488,
+      "device_watts": false,
+      "segment": {
+        "id": 31442490,
+        "resource_state": 2,
+        "name": "Flate 2",
+        "activity_type": "NordicSki",
+        "distance": 473.1,
+        "average_grade": -0.8,
+        "maximum_grade": 0.0,
+        "elevation_high": 927.5,
+        "elevation_low": 923.6,
+        "start_latlng": [
+          61.357485,
+          10.108727
+        ],
+        "end_latlng": [
+          61.353765,
+          10.112942
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Skei",
+        "state": "Innlandet",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3465394830845901004,
+      "resource_state": 2,
+      "name": "flat out",
+      "activity": {
+        "id": 17638015935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 421,
+      "moving_time": 316,
+      "start_date": "2026-03-07T15:04:10Z",
+      "start_date_local": "2026-03-07T16:04:10Z",
+      "distance": 872.2,
+      "start_index": 6419,
+      "end_index": 6837,
+      "device_watts": false,
+      "segment": {
+        "id": 27778889,
+        "resource_state": 2,
+        "name": "flat out",
+        "activity_type": "NordicSki",
+        "distance": 872.2,
+        "average_grade": 2.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 901.8,
+        "elevation_low": 880.5,
+        "start_latlng": [
+          61.37576,
+          10.140111
+        ],
+        "end_latlng": [
+          61.383532,
+          10.140944
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Svingvoll",
+        "state": "Innlandet",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1002.4,
+      "elapsed_time": 752,
+      "elevation_difference": -9.7,
+      "moving_time": 505,
+      "split": 1,
+      "average_speed": 1.98,
+      "average_grade_adjusted_speed": 2.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 604,
+      "elevation_difference": 20.5,
+      "moving_time": 504,
+      "split": 2,
+      "average_speed": 1.99,
+      "average_grade_adjusted_speed": 2.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 683,
+      "elevation_difference": 64.3,
+      "moving_time": 683,
+      "split": 3,
+      "average_speed": 1.46,
+      "average_grade_adjusted_speed": 1.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 522,
+      "elevation_difference": -6.0,
+      "moving_time": 363,
+      "split": 4,
+      "average_speed": 2.75,
+      "average_grade_adjusted_speed": 2.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 537,
+      "elevation_difference": 39.2,
+      "moving_time": 537,
+      "split": 5,
+      "average_speed": 1.86,
+      "average_grade_adjusted_speed": 2.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 444,
+      "elevation_difference": -23.1,
+      "moving_time": 354,
+      "split": 6,
+      "average_speed": 2.82,
+      "average_grade_adjusted_speed": 2.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 283,
+      "elevation_difference": -34.4,
+      "moving_time": 233,
+      "split": 7,
+      "average_speed": 4.29,
+      "average_grade_adjusted_speed": 4.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 228,
+      "elevation_difference": -25.8,
+      "moving_time": 228,
+      "split": 8,
+      "average_speed": 4.39,
+      "average_grade_adjusted_speed": 4.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 376,
+      "elevation_difference": 11.5,
+      "moving_time": 376,
+      "split": 9,
+      "average_speed": 2.66,
+      "average_grade_adjusted_speed": 2.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 237,
+      "elevation_difference": -44.0,
+      "moving_time": 237,
+      "split": 10,
+      "average_speed": 4.23,
+      "average_grade_adjusted_speed": 4.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 171,
+      "elevation_difference": -43.6,
+      "moving_time": 171,
+      "split": 11,
+      "average_speed": 5.84,
+      "average_grade_adjusted_speed": 5.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 266,
+      "elevation_difference": -14.7,
+      "moving_time": 266,
+      "split": 12,
+      "average_speed": 3.75,
+      "average_grade_adjusted_speed": 3.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 609,
+      "elevation_difference": 11.3,
+      "moving_time": 382,
+      "split": 13,
+      "average_speed": 2.62,
+      "average_grade_adjusted_speed": 2.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 419,
+      "elevation_difference": 15.6,
+      "moving_time": 419,
+      "split": 14,
+      "average_speed": 2.39,
+      "average_grade_adjusted_speed": 2.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 583,
+      "elevation_difference": 49.5,
+      "moving_time": 583,
+      "split": 15,
+      "average_speed": 1.72,
+      "average_grade_adjusted_speed": 2.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 408,
+      "elevation_difference": 2.5,
+      "moving_time": 408,
+      "split": 16,
+      "average_speed": 2.45,
+      "average_grade_adjusted_speed": 2.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 241,
+      "elevation_difference": -24.8,
+      "moving_time": 241,
+      "split": 17,
+      "average_speed": 4.15,
+      "average_grade_adjusted_speed": 4.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 390,
+      "elevation_difference": -6.6,
+      "moving_time": 390,
+      "split": 18,
+      "average_speed": 2.56,
+      "average_grade_adjusted_speed": 2.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.7,
+      "elapsed_time": 441,
+      "elevation_difference": 2.2,
+      "moving_time": 410,
+      "split": 19,
+      "average_speed": 2.45,
+      "average_grade_adjusted_speed": 2.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.9,
+      "elapsed_time": 470,
+      "elevation_difference": 9.3,
+      "moving_time": 435,
+      "split": 20,
+      "average_speed": 2.29,
+      "average_grade_adjusted_speed": 2.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 60.2,
+      "elapsed_time": 60,
+      "elevation_difference": 2.4,
+      "moving_time": 60,
+      "split": 21,
+      "average_speed": 1.0,
+      "average_grade_adjusted_speed": 1.16,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1613.3,
+      "elapsed_time": 1236,
+      "elevation_difference": 17.2,
+      "moving_time": 889,
+      "split": 1,
+      "average_speed": 1.81,
+      "average_grade_adjusted_speed": 1.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.7,
+      "elapsed_time": 877,
+      "elevation_difference": 53.4,
+      "moving_time": 877,
+      "split": 2,
+      "average_speed": 1.83,
+      "average_grade_adjusted_speed": 2.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.8,
+      "elapsed_time": 923,
+      "elevation_difference": 35.5,
+      "moving_time": 764,
+      "split": 3,
+      "average_speed": 2.11,
+      "average_grade_adjusted_speed": 2.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 691,
+      "elevation_difference": -22.2,
+      "moving_time": 551,
+      "split": 4,
+      "average_speed": 2.92,
+      "average_grade_adjusted_speed": 2.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.7,
+      "elapsed_time": 337,
+      "elevation_difference": -58.9,
+      "moving_time": 337,
+      "split": 5,
+      "average_speed": 4.78,
+      "average_grade_adjusted_speed": 4.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.0,
+      "elapsed_time": 535,
+      "elevation_difference": -15.7,
+      "moving_time": 535,
+      "split": 6,
+      "average_speed": 3.01,
+      "average_grade_adjusted_speed": 3.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 272,
+      "elevation_difference": -73.7,
+      "moving_time": 272,
+      "split": 7,
+      "average_speed": 5.92,
+      "average_grade_adjusted_speed": 5.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 800,
+      "elevation_difference": 7.2,
+      "moving_time": 573,
+      "split": 8,
+      "average_speed": 2.81,
+      "average_grade_adjusted_speed": 2.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 771,
+      "elevation_difference": 47.7,
+      "moving_time": 771,
+      "split": 9,
+      "average_speed": 2.09,
+      "average_grade_adjusted_speed": 2.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 711,
+      "elevation_difference": 22.8,
+      "moving_time": 711,
+      "split": 10,
+      "average_speed": 2.26,
+      "average_grade_adjusted_speed": 2.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 454,
+      "elevation_difference": -38.4,
+      "moving_time": 454,
+      "split": 11,
+      "average_speed": 3.54,
+      "average_grade_adjusted_speed": 3.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 757,
+      "elevation_difference": 20.0,
+      "moving_time": 726,
+      "split": 12,
+      "average_speed": 2.22,
+      "average_grade_adjusted_speed": 2.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 748.1,
+      "elapsed_time": 360,
+      "elevation_difference": 0.7,
+      "moving_time": 325,
+      "split": 13,
+      "average_speed": 2.3,
+      "average_grade_adjusted_speed": 2.42,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 63046321931,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 17638015935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 9891,
+      "moving_time": 8724,
+      "start_date": "2026-03-07T13:16:52Z",
+      "start_date_local": "2026-03-07T14:16:52Z",
+      "distance": 20061.5,
+      "average_speed": 2.3,
+      "max_speed": 10.68,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 8692,
+      "total_elevation_gain": 387.4,
+      "device_watts": false
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "4A8375D3-71D3-4ACC-B4C0-E834C87F63D4",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/A4Cz1R5uhVPWA3uE9_CIw1-gptE2c3kZNqzYrzJqNZY-768x355.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/A4Cz1R5uhVPWA3uE9_CIw1-gptE2c3kZNqzYrzJqNZY-128x59.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 3
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "355a7dcb2376d33c6dfc8a7410dddba77b26febe",
+  "available_zones": []
+}

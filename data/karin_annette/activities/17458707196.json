@@ -1,0 +1,214 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "resource_state": 1
+  },
+  "name": "Topptur til Gubben",
+  "distance": 3136.2,
+  "moving_time": 2766,
+  "elapsed_time": 4360,
+  "total_elevation_gain": 199.0,
+  "type": "BackcountrySki",
+  "sport_type": "BackcountrySki",
+  "device_name": "Garmin Forerunner 235",
+  "id": 17458707196,
+  "start_date": "2026-02-20T08:09:41Z",
+  "start_date_local": "2026-02-20T09:09:41Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 3600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 7,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a17458707196",
+    "polyline": "qayuJku{|@@DAGBFD\\\\b@\\~@DTh@~@ZEbAPNHf@PhAlAdAzCF@VZDHDXLR`@JJDZ@d@SABl@QROXJNNT@FWPSLENKNAR@RUf@OFg@Rw@P]`AbAB~AAd@LF@p@Ab@DpBGT?\\NXHtARfAXLb@t@\\FPHLAPG@@VIF@j@m@Ze@@ECQDS`@hAPJHCJGt@eAT@p@WHGFAp@aAN[f@w@^XpAb@|ALvAOXSd@k@V?XJXd@]bA?G@HQTa@r@m@^}@P[h@GAMDUc@GJS~@@PILu@xBw@fBK\\{@pAu@vAEq@OPUMEOK}@_@UMHIISGMWg@?GUCAGDM?]ISYOm@OCSHOGGKKo@CqAIGq@|@]k@_@`@OOa@lCKDAPQNiAHEEeAUqAu@BIg@c@MSm@wBa@[G@EIOoBm@Ac@w@]Oa@H_A]SM_@e@a@y@q@sBoAeAG?[u@G_@WyDs@cCE{@G[?Y[K?FIT",
+    "resource_state": 3,
+    "summary_polyline": "qayuJku{|@@DAGBFD\\\\b@\\~@DTh@~@ZEbAPNHf@PhAlAdAzCF@VZDHDXLR`@JJDZ@d@SABl@QROXJNNT@FWPSLENKNAR@RUf@OFg@Rw@P]`AbAB~AAd@LF@p@Ab@DpBGT?\\NXHtARfAXLb@t@\\FPHLAPG@@VIF@j@m@Ze@@ECQDS`@hAPJHCJGt@eAT@p@WHGFAp@aAN[f@w@^XpAb@|ALvAOXSd@k@V?XJXd@]bA?G@HQTa@r@m@^}@P[h@GAMDUc@GJS~@@PILu@xBw@fBK\\{@pAu@vAEq@OPUMEOK}@_@UMHIISGMWg@?GUCAGDM?]ISYOm@OCSHOGGKKo@CqAIGq@|@]k@_@`@OOa@lCKDAPQNiAHEEeAUqAu@BIg@c@MSm@wBa@[G@EIOoBm@Ac@w@]Oa@H_A]SM_@e@a@y@q@sBoAeAG?[u@G_@WyDs@cCE{@G[?Y[K?FIT"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    61.409699,
+    10.141187
+  ],
+  "end_latlng": [
+    61.409925,
+    10.140975
+  ],
+  "average_speed": 1.134,
+  "max_speed": 6.08,
+  "average_cadence": 61.9,
+  "has_heartrate": true,
+  "average_heartrate": 111.0,
+  "max_heartrate": 151.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 1090.6,
+  "elev_low": 888.5,
+  "upload_id": 18555863650,
+  "upload_id_str": "18555863650",
+  "external_id": "garmin_ping_537508649536",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 2,
+  "has_kudoed": false,
+  "suffer_score": 11.0,
+  "description": "Første tur retur hytteveggen før de andre stod opp - med Pål.",
+  "calories": 346.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 1015.0,
+      "elapsed_time": 1753,
+      "elevation_difference": 113.3,
+      "moving_time": 1205,
+      "split": 1,
+      "average_speed": 0.58,
+      "average_grade_adjusted_speed": 0.94,
+      "average_heartrate": 108.81994928148774,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.3,
+      "elapsed_time": 1710,
+      "elevation_difference": 25.9,
+      "moving_time": 857,
+      "split": 2,
+      "average_speed": 0.58,
+      "average_grade_adjusted_speed": 0.87,
+      "average_heartrate": 112.45879458794587,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 715,
+      "elevation_difference": -134.7,
+      "moving_time": 576,
+      "split": 3,
+      "average_speed": 1.4,
+      "average_grade_adjusted_speed": 1.37,
+      "average_heartrate": 112.76286764705883,
+      "pace_zone": 0
+    },
+    {
+      "distance": 129.8,
+      "elapsed_time": 182,
+      "elevation_difference": -6.5,
+      "moving_time": 128,
+      "split": 4,
+      "average_speed": 0.71,
+      "average_grade_adjusted_speed": 0.65,
+      "average_heartrate": 114.671875,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1617.3,
+      "elapsed_time": 3250,
+      "elevation_difference": 195.5,
+      "moving_time": 1888,
+      "split": 1,
+      "average_speed": 0.5,
+      "average_grade_adjusted_speed": 0.85,
+      "average_heartrate": 110.49617486338798,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1518.9,
+      "elapsed_time": 1110,
+      "elevation_difference": -197.5,
+      "moving_time": 878,
+      "split": 2,
+      "average_speed": 1.37,
+      "average_grade_adjusted_speed": 1.32,
+      "average_heartrate": 112.14319809069212,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 62372679404,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 17458707196,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 4358,
+      "moving_time": 4358,
+      "start_date": "2026-02-20T08:09:41Z",
+      "start_date_local": "2026-02-20T09:09:41Z",
+      "distance": 3136.24,
+      "average_speed": 0.72,
+      "max_speed": 6.08,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 415,
+      "total_elevation_gain": 199.0,
+      "average_cadence": 61.9,
+      "device_watts": false,
+      "average_heartrate": 111.0,
+      "max_heartrate": 151.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "D08911A6-7685-481C-940A-79ADF5AE355B",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/w2kOCxhIfCH8dj15EyXfWFDQ-L7c1CpAKZ2UY5vWfkU-768x576.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/w2kOCxhIfCH8dj15EyXfWFDQ-L7c1CpAKZ2UY5vWfkU-128x96.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 2
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "9839da8266467b34ce94ace83a5579f23d4e9cb7",
+  "available_zones": [
+    "heartrate"
+  ]
+}

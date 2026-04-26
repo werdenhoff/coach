@@ -1,0 +1,927 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "resource_state": 1
+  },
+  "name": "Påske pre-camp🐣",
+  "distance": 10448.5,
+  "moving_time": 3981,
+  "elapsed_time": 4068,
+  "total_elevation_gain": 188.2,
+  "type": "NordicSki",
+  "sport_type": "NordicSki",
+  "device_name": "Garmin Forerunner 235",
+  "id": 17858627112,
+  "start_date": "2026-03-25T17:03:45Z",
+  "start_date_local": "2026-03-25T18:03:45Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 3600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 8,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a17858627112",
+    "polyline": "iowmJuls~@EEAQm@o@sAXm@Cm@MOEoBaBSa@oAsAGAo@RUTyADkCK{ALe@EwAg@[AiAMCKhAJfCj@|B?KFgA?yARw@WHOHCx@PbABb@Gd@?|@VZDHEI@oBUa@@WD}ACwA_@q@I}AA}@Ow@YwAy@sA}@WWs@g@aCwAcGuBi@_@qAkAoDaEsAaAuAd@M?wAd@q@XsA|@o@j@oAhBiAlBcBbCcAhBUXQLoAvAuAx@sArAYPyAn@aCO{@MyAm@qCqCoA_Bw@k@yAi@{@M}Ae@qB_@k@LECM@aA^mCVm@NyAVe@LwBt@yAp@Y@mAz@o@B]K_AsAOc@_@eBkAeEq@{CY}@Co@Bi@Je@\\iAT{@De@Am@Ks@i@kHGeCFw@FqAAo@Q_EGYECWCKFeBUo@Co@RcCpDq@`BEl@EzCQbCE~@c@tEs@|CYv@_@l@c@dAMd@a@fFUpHSbE}@lHFJ[`BuAlDU~AOzD[jBmArDBf@DC?IJ_A~@cCXwAHsABiAXaC|@aCf@qBb@iD\\gDlAwSp@wChAuBb@oB^}BPkBRmDBuBAo@@e@Bg@Jk@Rq@hAgBf@gARi@tAg@xAPr@T^|ABfCGl@WjABnALbCFtDD^b@~AAt@[tB]hD|@rCVxADFdA~Cp@|C?R?AJJZf@fAXXBLCT[t@c@n@MR?z@o@V@f@W|AQzAa@j@I?G?BNBpA[TCjAg@b@K|AXxAb@xAHjAf@jAt@jA`BjDjDxAb@nAJhAZTBXCv@g@bBkBlCqBjAeBbCwDtAeBfBmCPMrAuA^SXCp@SvAo@bA[TDd@X`A|@xC~CjB`BjDvAzAb@p@b@rA~@nDxC`CbAtAPpAE|@HlB`@T@hBOT@h@PN@VAh@Kn@H^Ib@a@RE|@XPRbA~Ah@j@~Av@j@Rh@?\\Uj@Ep@lA",
+    "resource_state": 3,
+    "summary_polyline": "iowmJuls~@EEAQm@o@sAXm@Cm@MOEoBaBSa@oAsAGAo@RUTyADkCK{ALe@EwAg@[AiAMCKhAJfCj@|B?KFgA?yARw@WHOHCx@PbABb@Gd@?|@VZDHEI@oBUa@@WD}ACwA_@q@I}AA}@Ow@YwAy@sA}@WWs@g@aCwAcGuBi@_@qAkAoDaEsAaAuAd@M?wAd@q@XsA|@o@j@oAhBiAlBcBbCcAhBUXQLoAvAuAx@sArAYPyAn@aCO{@MyAm@qCqCoA_Bw@k@yAi@{@M}Ae@qB_@k@LECM@aA^mCVm@NyAVe@LwBt@yAp@Y@mAz@o@B]K_AsAOc@_@eBkAeEq@{CY}@Co@Bi@Je@\\iAT{@De@Am@Ks@i@kHGeCFw@FqAAo@Q_EGYECWCKFeBUo@Co@RcCpDq@`BEl@EzCQbCE~@c@tEs@|CYv@_@l@c@dAMd@a@fFUpHSbE}@lHFJ[`BuAlDU~AOzD[jBmArDBf@DC?IJ_A~@cCXwAHsABiAXaC|@aCf@qBb@iD\\gDlAwSp@wChAuBb@oB^}BPkBRmDBuBAo@@e@Bg@Jk@Rq@hAgBf@gARi@tAg@xAPr@T^|ABfCGl@WjABnALbCFtDD^b@~AAt@[tB]hD|@rCVxADFdA~Cp@|C?R?AJJZf@fAXXBLCT[t@c@n@MR?z@o@V@f@W|AQzAa@j@I?G?BNBpA[TCjAg@b@K|AXxAb@xAHjAf@jAt@jA`BjDjDxAb@nAJhAZTBXCv@g@bBkBlCqBjAeBbCwDtAeBfBmCPMrAuA^SXCp@SvAo@bA[TDd@X`A|@xC~CjB`BjDvAzAb@p@b@rA~@nDxC`CbAtAPpAE|@HlB`@T@hBOT@h@PN@VAh@Kn@H^Ib@a@RE|@XPRbA~Ah@j@~Av@j@Rh@?\\Uj@Ep@lA"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    60.090933,
+    10.426515
+  ],
+  "end_latlng": [
+    60.090818,
+    10.426372
+  ],
+  "average_speed": 2.625,
+  "max_speed": 8.98,
+  "average_cadence": 53.5,
+  "has_heartrate": true,
+  "average_heartrate": 136.9,
+  "max_heartrate": 166.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 599.0,
+  "elev_low": 468.0,
+  "upload_id": 18958130279,
+  "upload_id_str": "18958130279",
+  "external_id": "garmin_ping_550566725981",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 2,
+  "has_kudoed": false,
+  "suffer_score": 98.0,
+  "description": "Nydelig kveldstur med gamle kollegaer, labradoren Glenn og setteren Arne. Labradoren passer på at alle har det bra, setteren går frem og tilbake🐶 Skareføre og nydelig lys☀️",
+  "calories": 490.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3472269870594407304,
+      "resource_state": 2,
+      "name": "Stubbdalsflaka mot Vasendvika",
+      "activity": {
+        "id": 17858627112,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 428,
+      "moving_time": 428,
+      "start_date": "2026-03-25T17:18:47Z",
+      "start_date_local": "2026-03-25T18:18:47Z",
+      "distance": 1328.5,
+      "start_index": 105,
+      "end_index": 150,
+      "average_cadence": 51.4,
+      "device_watts": false,
+      "average_heartrate": 138.8,
+      "max_heartrate": 150.0,
+      "segment": {
+        "id": 11623772,
+        "resource_state": 2,
+        "name": "Stubbdalsflaka mot Vasendvika",
+        "activity_type": "NordicSki",
+        "distance": 1328.5,
+        "average_grade": -1.8,
+        "maximum_grade": 43.1,
+        "elevation_high": 606.0,
+        "elevation_low": 577.1,
+        "start_latlng": [
+          60.098425,
+          10.429045
+        ],
+        "end_latlng": [
+          60.109331,
+          10.42731
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Hønefoss",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3472269870596794248,
+      "resource_state": 2,
+      "name": "Stubbdalsflaka - stak mot krysset, spiste du for mye bolle på Løvlia?",
+      "activity": {
+        "id": 17858627112,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 122,
+      "moving_time": 122,
+      "start_date": "2026-03-25T17:18:57Z",
+      "start_date_local": "2026-03-25T18:18:57Z",
+      "distance": 462.0,
+      "start_index": 106,
+      "end_index": 118,
+      "average_cadence": 46.5,
+      "device_watts": false,
+      "average_heartrate": 136.9,
+      "max_heartrate": 147.0,
+      "segment": {
+        "id": 22567067,
+        "resource_state": 2,
+        "name": "Stubbdalsflaka - stak mot krysset, spiste du for mye bolle på Løvlia?",
+        "activity_type": "NordicSki",
+        "distance": 462.0,
+        "average_grade": 5.9,
+        "maximum_grade": 26.4,
+        "elevation_high": 746.4,
+        "elevation_low": 719.2,
+        "start_latlng": [
+          60.098592,
+          10.429172
+        ],
+        "end_latlng": [
+          60.102427,
+          10.432004
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Hønefoss",
+        "state": null,
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3472269870593987464,
+      "resource_state": 2,
+      "name": "Suser avgårde mot Vasendvika",
+      "activity": {
+        "id": 17858627112,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 429,
+      "moving_time": 429,
+      "start_date": "2026-03-25T17:22:32Z",
+      "start_date_local": "2026-03-25T18:22:32Z",
+      "distance": 1243.5,
+      "start_index": 126,
+      "end_index": 177,
+      "average_cadence": 55.2,
+      "device_watts": false,
+      "average_heartrate": 137.6,
+      "max_heartrate": 151.0,
+      "segment": {
+        "id": 36130906,
+        "resource_state": 2,
+        "name": "Suser avgårde mot Vasendvika",
+        "activity_type": "NordicSki",
+        "distance": 1243.5,
+        "average_grade": -0.7,
+        "maximum_grade": 12.2,
+        "elevation_high": 595.2,
+        "elevation_low": 583.8,
+        "start_latlng": [
+          60.104716,
+          10.430424
+        ],
+        "end_latlng": [
+          60.115112,
+          10.428767
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ringerike",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3472269870596880264,
+      "resource_state": 2,
+      "name": "Skottaveien vestover fra Vassendvika kryss",
+      "activity": {
+        "id": 17858627112,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 205,
+      "moving_time": 205,
+      "start_date": "2026-03-25T17:33:17Z",
+      "start_date_local": "2026-03-25T18:33:17Z",
+      "distance": 987.0,
+      "start_index": 214,
+      "end_index": 255,
+      "average_cadence": 57.6,
+      "device_watts": false,
+      "average_heartrate": 115.2,
+      "max_heartrate": 132.0,
+      "segment": {
+        "id": 22930779,
+        "resource_state": 2,
+        "name": "Skottaveien vestover fra Vassendvika kryss",
+        "activity_type": "NordicSki",
+        "distance": 987.0,
+        "average_grade": -5.0,
+        "maximum_grade": 1.6,
+        "elevation_high": 523.6,
+        "elevation_low": 474.3,
+        "start_latlng": [
+          60.118584,
+          10.437572
+        ],
+        "end_latlng": [
+          60.122823,
+          10.423504
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Hønefoss",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3472269870595564424,
+      "resource_state": 2,
+      "name": "Opp fra Damtjern",
+      "activity": {
+        "id": 17858627112,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 451,
+      "moving_time": 451,
+      "start_date": "2026-03-25T17:38:03Z",
+      "start_date_local": "2026-03-25T18:38:03Z",
+      "distance": 993.2,
+      "start_index": 268,
+      "end_index": 304,
+      "average_cadence": 50.5,
+      "device_watts": false,
+      "average_heartrate": 151.3,
+      "max_heartrate": 159.0,
+      "segment": {
+        "id": 11469387,
+        "resource_state": 2,
+        "name": "Opp fra Damtjern",
+        "activity_type": "NordicSki",
+        "distance": 993.2,
+        "average_grade": 6.2,
+        "maximum_grade": 23.2,
+        "elevation_high": 534.0,
+        "elevation_low": 472.1,
+        "start_latlng": [
+          60.123309,
+          10.421637
+        ],
+        "end_latlng": [
+          60.119553,
+          10.436997
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Hønefoss",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3472269870593699720,
+      "resource_state": 2,
+      "name": "Stigningen Sandviksveien østover",
+      "activity": {
+        "id": 17858627112,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 467,
+      "moving_time": 467,
+      "start_date": "2026-03-25T17:38:08Z",
+      "start_date_local": "2026-03-25T18:38:08Z",
+      "distance": 1053.9,
+      "start_index": 270,
+      "end_index": 306,
+      "average_cadence": 50.2,
+      "device_watts": false,
+      "average_heartrate": 151.9,
+      "max_heartrate": 159.0,
+      "segment": {
+        "id": 14210908,
+        "resource_state": 2,
+        "name": "Stigningen Sandviksveien østover",
+        "activity_type": "NordicSki",
+        "distance": 1053.9,
+        "average_grade": 5.9,
+        "maximum_grade": 10.0,
+        "elevation_high": 536.2,
+        "elevation_low": 474.4,
+        "start_latlng": [
+          60.123278,
+          10.421824
+        ],
+        "end_latlng": [
+          60.119121,
+          10.437503
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Hønefoss",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3472269870595217288,
+      "resource_state": 2,
+      "name": "Oppover mot Løvlia ",
+      "activity": {
+        "id": 17858627112,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 916,
+      "moving_time": 887,
+      "start_date": "2026-03-25T17:46:59Z",
+      "start_date_local": "2026-03-25T18:46:59Z",
+      "distance": 1713.9,
+      "start_index": 311,
+      "end_index": 381,
+      "average_cadence": 55.1,
+      "device_watts": false,
+      "average_heartrate": 149.6,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 36322311,
+        "resource_state": 2,
+        "name": "Oppover mot Løvlia ",
+        "activity_type": "NordicSki",
+        "distance": 1713.9,
+        "average_grade": 4.4,
+        "maximum_grade": 25.8,
+        "elevation_high": 601.8,
+        "elevation_low": 526.6,
+        "start_latlng": [
+          60.118113,
+          10.437112
+        ],
+        "end_latlng": [
+          60.106968,
+          10.427709
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ringerike",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3472269870595513224,
+      "resource_state": 2,
+      "name": "Løvlia - nesten 3 km bollefokus",
+      "activity": {
+        "id": 17858627112,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 944,
+      "moving_time": 925,
+      "start_date": "2026-03-25T17:55:21Z",
+      "start_date_local": "2026-03-25T18:55:21Z",
+      "distance": 2845.3,
+      "start_index": 349,
+      "end_index": 453,
+      "average_cadence": 52.5,
+      "device_watts": false,
+      "average_heartrate": 138.1,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 36130852,
+        "resource_state": 2,
+        "name": "Løvlia - nesten 3 km bollefokus",
+        "activity_type": "NordicSki",
+        "distance": 2845.3,
+        "average_grade": -0.6,
+        "maximum_grade": 9.5,
+        "elevation_high": 595.8,
+        "elevation_low": 563.6,
+        "start_latlng": [
+          60.115185,
+          10.428606
+        ],
+        "end_latlng": [
+          60.091186,
+          10.426912
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ringerike",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3472269870597115784,
+      "resource_state": 2,
+      "name": "Løvlia bort",
+      "activity": {
+        "id": 17858627112,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 933,
+      "moving_time": 905,
+      "start_date": "2026-03-25T17:56:00Z",
+      "start_date_local": "2026-03-25T18:56:00Z",
+      "distance": 2860.3,
+      "start_index": 352,
+      "end_index": 457,
+      "average_cadence": 53.2,
+      "device_watts": false,
+      "average_heartrate": 136.8,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 11385156,
+        "resource_state": 2,
+        "name": "Løvlia bort",
+        "activity_type": "NordicSki",
+        "distance": 2860.3,
+        "average_grade": -1.0,
+        "maximum_grade": 33.1,
+        "elevation_high": 605.0,
+        "elevation_low": 563.1,
+        "start_latlng": [
+          60.1147,
+          10.428725
+        ],
+        "end_latlng": [
+          60.090853,
+          10.426339
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Hønefoss",
+        "state": "Buskerud",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3472269870596543368,
+      "resource_state": 2,
+      "name": "Stubbdalsflaka-Løvlia",
+      "activity": {
+        "id": 17858627112,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 332,
+      "moving_time": 332,
+      "start_date": "2026-03-25T18:05:09Z",
+      "start_date_local": "2026-03-25T19:05:09Z",
+      "distance": 1207.3,
+      "start_index": 399,
+      "end_index": 449,
+      "average_cadence": 48.8,
+      "device_watts": false,
+      "average_heartrate": 131.1,
+      "max_heartrate": 145.0,
+      "segment": {
+        "id": 33672447,
+        "resource_state": 2,
+        "name": "Stubbdalsflaka-Løvlia",
+        "activity_type": "NordicSki",
+        "distance": 1207.3,
+        "average_grade": -2.0,
+        "maximum_grade": 5.5,
+        "elevation_high": 601.6,
+        "elevation_low": 572.6,
+        "start_latlng": [
+          60.102461,
+          10.432011
+        ],
+        "end_latlng": [
+          60.092301,
+          10.426898
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ringerike",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1003.1,
+      "elapsed_time": 631,
+      "elevation_difference": 25.9,
+      "moving_time": 582,
+      "split": 1,
+      "average_speed": 1.72,
+      "average_grade_adjusted_speed": 1.89,
+      "average_heartrate": 124.59605026929982,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1022.6,
+      "elapsed_time": 378,
+      "elevation_difference": 5.3,
+      "moving_time": 378,
+      "split": 2,
+      "average_speed": 2.71,
+      "average_grade_adjusted_speed": 2.78,
+      "average_heartrate": 133.35656836461126,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1021.9,
+      "elapsed_time": 349,
+      "elevation_difference": -4.0,
+      "moving_time": 349,
+      "split": 3,
+      "average_speed": 2.93,
+      "average_grade_adjusted_speed": 2.91,
+      "average_heartrate": 138.54154727793696,
+      "pace_zone": 0
+    },
+    {
+      "distance": 976.7,
+      "elapsed_time": 266,
+      "elevation_difference": -39.8,
+      "moving_time": 266,
+      "split": 4,
+      "average_speed": 3.67,
+      "average_grade_adjusted_speed": 3.5,
+      "average_heartrate": 134.68796992481202,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1020.6,
+      "elapsed_time": 253,
+      "elevation_difference": -48.4,
+      "moving_time": 253,
+      "split": 5,
+      "average_speed": 4.03,
+      "average_grade_adjusted_speed": 3.72,
+      "average_heartrate": 116.52892561983471,
+      "pace_zone": 0
+    },
+    {
+      "distance": 980.9,
+      "elapsed_time": 389,
+      "elevation_difference": -6.5,
+      "moving_time": 370,
+      "split": 6,
+      "average_speed": 2.65,
+      "average_grade_adjusted_speed": 2.78,
+      "average_heartrate": 131.00278551532034,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.2,
+      "elapsed_time": 446,
+      "elevation_difference": 45.9,
+      "moving_time": 446,
+      "split": 7,
+      "average_speed": 2.23,
+      "average_grade_adjusted_speed": 2.63,
+      "average_heartrate": 154.55381165919283,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.5,
+      "elapsed_time": 595,
+      "elevation_difference": 47.8,
+      "moving_time": 576,
+      "split": 8,
+      "average_speed": 1.75,
+      "average_grade_adjusted_speed": 2.12,
+      "average_heartrate": 151.42932862190813,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.1,
+      "elapsed_time": 369,
+      "elevation_difference": 7.3,
+      "moving_time": 369,
+      "split": 9,
+      "average_speed": 2.73,
+      "average_grade_adjusted_speed": 2.77,
+      "average_heartrate": 141.88075880758808,
+      "pace_zone": 0
+    },
+    {
+      "distance": 968.8,
+      "elapsed_time": 284,
+      "elevation_difference": -10.7,
+      "moving_time": 284,
+      "split": 10,
+      "average_speed": 3.41,
+      "average_grade_adjusted_speed": 3.34,
+      "average_heartrate": 134.39788732394365,
+      "pace_zone": 0
+    },
+    {
+      "distance": 448.1,
+      "elapsed_time": 108,
+      "elevation_difference": -24.3,
+      "moving_time": 108,
+      "split": 11,
+      "average_speed": 4.15,
+      "average_grade_adjusted_speed": 3.74,
+      "average_heartrate": 116.15151515151516,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1620.9,
+      "elapsed_time": 902,
+      "elevation_difference": 35.2,
+      "moving_time": 853,
+      "split": 1,
+      "average_speed": 1.9,
+      "average_grade_adjusted_speed": 2.06,
+      "average_heartrate": 126.78857837181044,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1650.0,
+      "elapsed_time": 519,
+      "elevation_difference": -12.4,
+      "moving_time": 519,
+      "split": 2,
+      "average_speed": 3.18,
+      "average_grade_adjusted_speed": 3.14,
+      "average_heartrate": 138.0597302504817,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1585.8,
+      "elapsed_time": 423,
+      "elevation_difference": -75.5,
+      "moving_time": 423,
+      "split": 3,
+      "average_speed": 3.75,
+      "average_grade_adjusted_speed": 3.5,
+      "average_heartrate": 125.23543689320388,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.2,
+      "elapsed_time": 612,
+      "elevation_difference": 4.2,
+      "moving_time": 593,
+      "split": 4,
+      "average_speed": 2.71,
+      "average_grade_adjusted_speed": 2.87,
+      "average_heartrate": 138.40549828178695,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.1,
+      "elapsed_time": 866,
+      "elevation_difference": 75.1,
+      "moving_time": 847,
+      "split": 5,
+      "average_speed": 1.89,
+      "average_grade_adjusted_speed": 2.28,
+      "average_heartrate": 151.9330943847073,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.4,
+      "elapsed_time": 555,
+      "elevation_difference": 7.5,
+      "moving_time": 555,
+      "split": 6,
+      "average_speed": 2.89,
+      "average_grade_adjusted_speed": 2.92,
+      "average_heartrate": 140.53873873873874,
+      "pace_zone": 0
+    },
+    {
+      "distance": 780.1,
+      "elapsed_time": 191,
+      "elevation_difference": -35.6,
+      "moving_time": 191,
+      "split": 7,
+      "average_speed": 4.08,
+      "average_grade_adjusted_speed": 3.74,
+      "average_heartrate": 120.3076923076923,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 63862496776,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 17858627112,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 4067,
+      "moving_time": 4067,
+      "start_date": "2026-03-25T17:03:45Z",
+      "start_date_local": "2026-03-25T18:03:45Z",
+      "distance": 10448.5,
+      "average_speed": 2.57,
+      "max_speed": 8.98,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 457,
+      "total_elevation_gain": 188.2,
+      "average_cadence": 53.5,
+      "device_watts": false,
+      "average_heartrate": 136.9,
+      "max_heartrate": 166.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "48250C5C-716E-49B8-85C8-35C50818FD54",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/Y2TueLJy_hHkwMQZu8O-TrzSNqyhTQyK2x0oCZyouNk-768x576.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/Y2TueLJy_hHkwMQZu8O-TrzSNqyhTQyK2x0oCZyouNk-128x96.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 2
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "f55f314ceaeb3d5320bb52ca41a67fc740c74809",
+  "available_zones": [
+    "heartrate"
+  ]
+}

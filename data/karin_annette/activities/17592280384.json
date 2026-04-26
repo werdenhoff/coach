@@ -1,0 +1,88 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "resource_state": 1
+  },
+  "name": "Styrke",
+  "distance": 0.0,
+  "moving_time": 1200,
+  "elapsed_time": 1200,
+  "total_elevation_gain": 0,
+  "type": "Workout",
+  "sport_type": "HighIntensityIntervalTraining",
+  "workout_type": null,
+  "id": 17592280384,
+  "start_date": "2026-03-03T19:09:04Z",
+  "start_date_local": "2026-03-03T20:09:04Z",
+  "timezone": "(GMT+01:00) Europe/Stockholm",
+  "utc_offset": 3600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 7,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a17592280384",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": true,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.0,
+  "max_speed": 0,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "upload_id": null,
+  "external_id": null,
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": "",
+  "calories": 0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "c0f6519473a4bd08015164de4019ac446dc2d2e4",
+  "available_zones": []
+}

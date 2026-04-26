@@ -1,0 +1,933 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "resource_state": 1
+  },
+  "name": "Retur fra øving",
+  "distance": 6471.3,
+  "moving_time": 1532,
+  "elapsed_time": 1554,
+  "total_elevation_gain": 71.7,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 235",
+  "id": 18046075974,
+  "start_date": "2026-04-09T16:16:15Z",
+  "start_date_local": "2026-04-09T18:16:15Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 5,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a18046075974",
+    "polyline": "gwklJex~~@ISy@mAq@FQQs@sCMiAScC_@cDGWKQQQcAP_@FCAKLyAJwBDiAJsATg@Fa@LWTKTWzAa@?_AeBmBc@mBu@kAs@{@gA_@y@e@_Bs@iE_@eAC[B}@Ca@aD_UsAkKuAuJ_AwBYg@A_@?mEKy@s@uCoCyGyAmByAgBoA}B@OVoAg@uCVmEJy@N}BOgC_@oBsAgFOw@YmCQeDu@sDSc@}@y@gAs@k@g@c@c@y@gA{@uAwAsCgCoEsCmGcBaBkAQWBsDlAmAIs@YYUSk@g@e@[PwBgEaA{AsAsC_BmBEC_AwBi@u@[qAJm@Mu@aB_FoA_D[yAoAyCQg@OyEC{BkA_Si@kEc@uCqBmJ{AuKcAiFa@iAWMg@e@oAeBqAgCg@u@mDiHoCqG}AeCqBkB{AcBQm@E{@D_A\\uARa@H_@COaAi@cAgBeAsBFwCCuEJ{Be@wA{A}Bi@eE_AiD{@uDqBmLq@iE]yCQmCJoAFDFXCI@YGF?B",
+    "resource_state": 3,
+    "summary_polyline": "gwklJex~~@ISy@mAq@FQQs@sCMiAScC_@cDGWKQQQcAP_@FCAKLyAJwBDiAJsATg@Fa@LWTKTWzAa@?_AeBmBc@mBu@kAs@{@gA_@y@e@_Bs@iE_@eAC[B}@Ca@aD_UsAkKuAuJ_AwBYg@A_@?mEKy@s@uCoCyGyAmByAgBoA}B@OVoAg@uCVmEJy@N}BOgC_@oBsAgFOw@YmCQeDu@sDSc@}@y@gAs@k@g@c@c@y@gA{@uAwAsCgCoEsCmGcBaBkAQWBsDlAmAIs@YYUSk@g@e@[PwBgEaA{AsAsC_BmBEC_AwBi@u@[qAJm@Mu@aB_FoA_D[yAoAyCQg@OyEC{BkA_Si@kEc@uCqBmJ{AuKcAiFa@iAWMg@e@oAeBqAgCg@u@mDiHoCqG}AeCqBkB{AcBQm@E{@D_A\\uARa@H_@COaAi@cAgBeAsBFwCCuEJ{Be@wA{A}Bi@eE_AiD"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    59.866921,
+    10.484673
+  ],
+  "end_latlng": [
+    59.900867,
+    10.559342
+  ],
+  "average_speed": 4.224,
+  "max_speed": 9.56,
+  "average_watts": 53.4,
+  "device_watts": false,
+  "kilojoules": 81.8,
+  "has_heartrate": true,
+  "average_heartrate": 129.1,
+  "max_heartrate": 169.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 34.8,
+  "elev_low": 2.5,
+  "upload_id": 19147331705,
+  "upload_id_str": "19147331705",
+  "external_id": "garmin_ping_556600453991",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 27.0,
+  "description": "",
+  "calories": 171.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3477424663033732282,
+      "resource_state": 2,
+      "name": "Nesbru VGS - Sandvika Storsenter",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 626,
+      "moving_time": 619,
+      "start_date": "2026-04-09T16:17:09Z",
+      "start_date_local": "2026-04-09T18:17:09Z",
+      "distance": 3042.8,
+      "start_index": 19,
+      "end_index": 158,
+      "device_watts": false,
+      "average_heartrate": 142.3,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 11856830,
+        "resource_state": 2,
+        "name": "Nesbru VGS - Sandvika Storsenter",
+        "activity_type": "Ride",
+        "distance": 3042.8,
+        "average_grade": 0.1,
+        "maximum_grade": 5.2,
+        "elevation_high": 13.6,
+        "elevation_low": -2.4,
+        "start_latlng": [
+          59.868283,
+          10.48818
+        ],
+        "end_latlng": [
+          59.886287,
+          10.518482
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Billingstad",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3477424663035651258,
+      "resource_state": 2,
+      "name": "Billingstadsletta retning Oslo",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 145,
+      "moving_time": 145,
+      "start_date": "2026-04-09T16:20:11Z",
+      "start_date_local": "2026-04-09T18:20:11Z",
+      "distance": 792.42,
+      "start_index": 69,
+      "end_index": 97,
+      "device_watts": false,
+      "average_heartrate": 151.8,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 1032723,
+        "resource_state": 2,
+        "name": "Billingstadsletta retning Oslo",
+        "activity_type": "Ride",
+        "distance": 792.42,
+        "average_grade": -0.3,
+        "maximum_grade": 0.0,
+        "elevation_high": -1.2,
+        "elevation_low": -3.2,
+        "start_latlng": [
+          59.874213645234704,
+          10.490518854930997
+        ],
+        "end_latlng": [
+          59.877369767054915,
+          10.502883922308683
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3477424663034606778,
+      "resource_state": 2,
+      "name": "Billingstadspurten",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 79,
+      "moving_time": 79,
+      "start_date": "2026-04-09T16:20:25Z",
+      "start_date_local": "2026-04-09T18:20:25Z",
+      "distance": 472.063,
+      "start_index": 76,
+      "end_index": 89,
+      "device_watts": false,
+      "average_heartrate": 151.3,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 1513607,
+        "resource_state": 2,
+        "name": "Billingstadspurten",
+        "activity_type": "Ride",
+        "distance": 472.063,
+        "average_grade": -0.3,
+        "maximum_grade": 1.4,
+        "elevation_high": 14.3,
+        "elevation_low": 10.5,
+        "start_latlng": [
+          59.874447,
+          10.491169
+        ],
+        "end_latlng": [
+          59.876186,
+          10.49887
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Billingstad",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3477424663034482874,
+      "resource_state": 2,
+      "name": "Slependen - Sandvika (sheraton hotel)",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 255,
+      "moving_time": 255,
+      "start_date": "2026-04-09T16:23:06Z",
+      "start_date_local": "2026-04-09T18:23:06Z",
+      "distance": 1224.86,
+      "start_index": 100,
+      "end_index": 152,
+      "device_watts": false,
+      "average_heartrate": 146.8,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 2498357,
+        "resource_state": 2,
+        "name": "Slependen - Sandvika (sheraton hotel)",
+        "activity_type": "Ride",
+        "distance": 1224.86,
+        "average_grade": 0.7,
+        "maximum_grade": 17.7,
+        "elevation_high": 24.8,
+        "elevation_low": 6.7,
+        "start_latlng": [
+          59.878728850744665,
+          10.504522332921624
+        ],
+        "end_latlng": [
+          59.88538877572864,
+          10.518279215320945
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Slependen",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3477424663035139258,
+      "resource_state": 2,
+      "name": "Møkkabakken",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 113,
+      "moving_time": 113,
+      "start_date": "2026-04-09T16:23:39Z",
+      "start_date_local": "2026-04-09T18:23:39Z",
+      "distance": 446.3,
+      "start_index": 104,
+      "end_index": 121,
+      "device_watts": false,
+      "average_heartrate": 143.8,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 4601189,
+        "resource_state": 2,
+        "name": "Møkkabakken",
+        "activity_type": "Ride",
+        "distance": 446.3,
+        "average_grade": 3.0,
+        "maximum_grade": 4.1,
+        "elevation_high": 23.5,
+        "elevation_low": 10.2,
+        "start_latlng": [
+          59.879113,
+          10.505727
+        ],
+        "end_latlng": [
+          59.880077,
+          10.512993
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3477424663036361914,
+      "resource_state": 2,
+      "name": "Møkkabakken ✨",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 157,
+      "moving_time": 157,
+      "start_date": "2026-04-09T16:23:39Z",
+      "start_date_local": "2026-04-09T18:23:39Z",
+      "distance": 659.8,
+      "start_index": 104,
+      "end_index": 136,
+      "device_watts": false,
+      "average_heartrate": 141.2,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 39244360,
+        "resource_state": 2,
+        "name": "Møkkabakken ✨",
+        "activity_type": "Ride",
+        "distance": 659.8,
+        "average_grade": 2.2,
+        "maximum_grade": 6.7,
+        "elevation_high": 22.8,
+        "elevation_low": 6.0,
+        "start_latlng": [
+          59.879108,
+          10.505892
+        ],
+        "end_latlng": [
+          59.881794,
+          10.514932
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Asker",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3477424663035685050,
+      "resource_state": 2,
+      "name": "Testing for sofagriser",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 207,
+      "moving_time": 207,
+      "start_date": "2026-04-09T16:24:12Z",
+      "start_date_local": "2026-04-09T18:24:12Z",
+      "distance": 1142.4,
+      "start_index": 107,
+      "end_index": 161,
+      "device_watts": false,
+      "average_heartrate": 144.9,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 19166648,
+        "resource_state": 2,
+        "name": "Testing for sofagriser",
+        "activity_type": "Ride",
+        "distance": 1142.4,
+        "average_grade": 0.0,
+        "maximum_grade": 5.1,
+        "elevation_high": 18.0,
+        "elevation_low": 6.4,
+        "start_latlng": [
+          59.878865,
+          10.507793
+        ],
+        "end_latlng": [
+          59.886425,
+          10.518599
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Slependen",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3477424663035620538,
+      "resource_state": 2,
+      "name": "Den store meggejakten",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 128,
+      "moving_time": 128,
+      "start_date": "2026-04-09T16:25:32Z",
+      "start_date_local": "2026-04-09T18:25:32Z",
+      "distance": 838.6,
+      "start_index": 121,
+      "end_index": 162,
+      "device_watts": false,
+      "average_heartrate": 148.5,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 7283853,
+        "resource_state": 2,
+        "name": "Den store meggejakten",
+        "activity_type": "Ride",
+        "distance": 838.6,
+        "average_grade": -0.4,
+        "maximum_grade": 10.9,
+        "elevation_high": 16.4,
+        "elevation_low": 4.8,
+        "start_latlng": [
+          59.879939,
+          10.51277
+        ],
+        "end_latlng": [
+          59.886403,
+          10.518735
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3477424663033935034,
+      "resource_state": 2,
+      "name": "Sheraton flyer",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 71,
+      "moving_time": 71,
+      "start_date": "2026-04-09T16:26:18Z",
+      "start_date_local": "2026-04-09T18:26:18Z",
+      "distance": 532.6,
+      "start_index": 137,
+      "end_index": 155,
+      "device_watts": false,
+      "average_heartrate": 155.5,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 4530367,
+        "resource_state": 2,
+        "name": "Sheraton flyer",
+        "activity_type": "Ride",
+        "distance": 532.6,
+        "average_grade": -0.2,
+        "maximum_grade": 7.3,
+        "elevation_high": 25.1,
+        "elevation_low": 17.2,
+        "start_latlng": [
+          59.881837,
+          10.515088
+        ],
+        "end_latlng": [
+          59.885998,
+          10.518099
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "1397 Nesøya, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3477424663036036282,
+      "resource_state": 2,
+      "name": "Mate på igjennom SS",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 171,
+      "moving_time": 171,
+      "start_date": "2026-04-09T16:27:34Z",
+      "start_date_local": "2026-04-09T18:27:34Z",
+      "distance": 704.5,
+      "start_index": 157,
+      "end_index": 191,
+      "device_watts": false,
+      "average_heartrate": 148.7,
+      "max_heartrate": 167.0,
+      "segment": {
+        "id": 31729168,
+        "resource_state": 2,
+        "name": "Mate på igjennom SS",
+        "activity_type": "Ride",
+        "distance": 704.5,
+        "average_grade": 0.2,
+        "maximum_grade": 5.3,
+        "elevation_high": 1.6,
+        "elevation_low": -5.8,
+        "start_latlng": [
+          59.886232,
+          10.518399
+        ],
+        "end_latlng": [
+          59.890808,
+          10.526652
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3477424663035907258,
+      "resource_state": 2,
+      "name": "Monét spurt exit",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 52,
+      "moving_time": 52,
+      "start_date": "2026-04-09T16:29:29Z",
+      "start_date_local": "2026-04-09T18:29:29Z",
+      "distance": 303.5,
+      "start_index": 181,
+      "end_index": 190,
+      "device_watts": false,
+      "average_heartrate": 136.0,
+      "max_heartrate": 146.0,
+      "segment": {
+        "id": 24068547,
+        "resource_state": 2,
+        "name": "Monét spurt exit",
+        "activity_type": "Ride",
+        "distance": 303.5,
+        "average_grade": -0.4,
+        "maximum_grade": 0.8,
+        "elevation_high": 10.0,
+        "elevation_low": 8.4,
+        "start_latlng": [
+          59.88948,
+          10.522409
+        ],
+        "end_latlng": [
+          59.890618,
+          10.526341
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1029.4,
+      "elapsed_time": 233,
+      "elevation_difference": -10.2,
+      "moving_time": 233,
+      "split": 1,
+      "average_speed": 4.42,
+      "average_grade_adjusted_speed": 4.35,
+      "average_heartrate": 117.23287671232876,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1020.4,
+      "elapsed_time": 189,
+      "elevation_difference": -4.4,
+      "moving_time": 189,
+      "split": 2,
+      "average_speed": 5.4,
+      "average_grade_adjusted_speed": 5.38,
+      "average_heartrate": 151.63492063492063,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1015.9,
+      "elapsed_time": 213,
+      "elevation_difference": 6.0,
+      "moving_time": 213,
+      "split": 3,
+      "average_speed": 4.77,
+      "average_grade_adjusted_speed": 4.93,
+      "average_heartrate": 145.7605633802817,
+      "pace_zone": 0
+    },
+    {
+      "distance": 940.9,
+      "elapsed_time": 199,
+      "elevation_difference": -5.6,
+      "moving_time": 199,
+      "split": 4,
+      "average_speed": 4.73,
+      "average_grade_adjusted_speed": 4.69,
+      "average_heartrate": 150.5929648241206,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.7,
+      "elapsed_time": 274,
+      "elevation_difference": 27.7,
+      "moving_time": 274,
+      "split": 5,
+      "average_speed": 3.63,
+      "average_grade_adjusted_speed": 3.96,
+      "average_heartrate": 123.17883211678833,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1043.0,
+      "elapsed_time": 241,
+      "elevation_difference": -5.7,
+      "moving_time": 241,
+      "split": 6,
+      "average_speed": 4.33,
+      "average_grade_adjusted_speed": 4.34,
+      "average_heartrate": 111.80082987551867,
+      "pace_zone": 0
+    },
+    {
+      "distance": 427.0,
+      "elapsed_time": 205,
+      "elevation_difference": 3.2,
+      "moving_time": 183,
+      "split": 7,
+      "average_speed": 2.33,
+      "average_grade_adjusted_speed": 2.4,
+      "average_heartrate": 108.52459016393442,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1627.3,
+      "elapsed_time": 342,
+      "elevation_difference": -13.8,
+      "moving_time": 342,
+      "split": 1,
+      "average_speed": 4.76,
+      "average_grade_adjusted_speed": 4.71,
+      "average_heartrate": 128.40853658536585,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.3,
+      "elapsed_time": 317,
+      "elevation_difference": 2.5,
+      "moving_time": 317,
+      "split": 2,
+      "average_speed": 5.08,
+      "average_grade_adjusted_speed": 5.17,
+      "average_heartrate": 148.1608832807571,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1598.2,
+      "elapsed_time": 386,
+      "elevation_difference": 17.2,
+      "moving_time": 386,
+      "split": 3,
+      "average_speed": 4.14,
+      "average_grade_adjusted_speed": 4.31,
+      "average_heartrate": 135.78756476683938,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.4,
+      "elapsed_time": 460,
+      "elevation_difference": 5.4,
+      "moving_time": 438,
+      "split": 4,
+      "average_speed": 3.66,
+      "average_grade_adjusted_speed": 3.75,
+      "average_heartrate": 111.8082191780822,
+      "pace_zone": 0
+    },
+    {
+      "distance": 30.1,
+      "elapsed_time": 49,
+      "elevation_difference": -0.3,
+      "moving_time": 49,
+      "split": 5,
+      "average_speed": 0.61,
+      "average_grade_adjusted_speed": 0.61,
+      "average_heartrate": 110.85714285714286,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 64551318261,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 1106,
+      "moving_time": 1106,
+      "start_date": "2026-04-09T16:16:15Z",
+      "start_date_local": "2026-04-09T18:16:15Z",
+      "distance": 5000.0,
+      "average_speed": 4.52,
+      "max_speed": 9.04,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 212,
+      "total_elevation_gain": 55.2,
+      "device_watts": false,
+      "average_watts": 58.4,
+      "average_heartrate": 136.3,
+      "max_heartrate": 169.0
+    },
+    {
+      "id": 64551318268,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 18046075974,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 446,
+      "moving_time": 446,
+      "start_date": "2026-04-09T16:35:01Z",
+      "start_date_local": "2026-04-09T18:35:01Z",
+      "distance": 1471.3,
+      "average_speed": 3.3,
+      "max_speed": 9.56,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 213,
+      "end_index": 239,
+      "total_elevation_gain": 16.0,
+      "device_watts": false,
+      "average_watts": 39.3,
+      "average_heartrate": 110.2,
+      "max_heartrate": 118.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "6f443e803f66789049b1d96874570cd472356c9e",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "resource_state": 1
+  },
+  "name": "Mini-topptur med Maren",
+  "distance": 1011.9,
+  "moving_time": 597,
+  "elapsed_time": 1296,
+  "total_elevation_gain": 72.3,
+  "type": "BackcountrySki",
+  "sport_type": "BackcountrySki",
+  "device_name": "Garmin Forerunner 235",
+  "id": 17989156178,
+  "start_date": "2026-04-05T14:50:07Z",
+  "start_date_local": "2026-04-05T16:50:07Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 8,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a17989156178",
+    "polyline": "iayuJmo{|@CnDBzA_@zCH|@FpAG~@OnAc@dCKrBFzBZdAP^?x@_@p@Ch@Hb@TVNJ?A@BGCBB@B?EA@EE_@_@Ie@@g@l@gAMkAa@aAQq@Ha@CWYa@CO@e@L[TU?BHkAJm@f@aAJi@Cg@Sg@EgBGu@Dk@\\eAB_A?_BDw@?e@Ek@YuACEIC",
+    "resource_state": 3,
+    "summary_polyline": "iayuJmo{|@CnDBzA_@zCH|@FpAG~@OnAc@dCKrBFzBZdAP^?x@_@p@Ch@Hb@TVNJ?A@BGCBB@B?EA@EE_@_@Ie@@g@l@gAMkAa@aAQq@Ha@CWYa@CO@e@L[TU?BHkAJm@f@aAJi@Cg@Sg@EgBGu@Dk@\\eAB_A?_BDw@?e@Ek@YuACEIC"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    61.409654,
+    10.140237
+  ],
+  "end_latlng": [
+    61.409848,
+    10.140913
+  ],
+  "average_speed": 1.695,
+  "max_speed": 7.05,
+  "average_cadence": 60.5,
+  "has_heartrate": true,
+  "average_heartrate": 98.1,
+  "max_heartrate": 118.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 962.7,
+  "elev_low": 886.5,
+  "upload_id": 19089683051,
+  "upload_id_str": "19089683051",
+  "external_id": "garmin_ping_554824344196",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 1.0,
+  "description": "Gikk opp til skiløypa og kjørte ned i supert pudder!",
+  "calories": 86.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 1003.3,
+      "elapsed_time": 1278,
+      "elevation_difference": -0.4,
+      "moving_time": 579,
+      "split": 1,
+      "average_speed": 0.79,
+      "average_grade_adjusted_speed": 1.14,
+      "average_heartrate": 98.02956521739131,
+      "pace_zone": 0
+    },
+    {
+      "distance": 8.6,
+      "elapsed_time": 18,
+      "elevation_difference": 0.1,
+      "moving_time": 18,
+      "split": 2,
+      "average_speed": 0.48,
+      "average_grade_adjusted_speed": 0.48,
+      "average_heartrate": 104.1,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1011.9,
+      "elapsed_time": 1296,
+      "elevation_difference": -0.3,
+      "moving_time": 597,
+      "split": 1,
+      "average_speed": 0.78,
+      "average_grade_adjusted_speed": 1.13,
+      "average_heartrate": 98.13333333333334,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 64349621333,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 17989156178,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 1295,
+      "moving_time": 1295,
+      "start_date": "2026-04-05T14:50:07Z",
+      "start_date_local": "2026-04-05T16:50:07Z",
+      "distance": 1011.91,
+      "average_speed": 0.78,
+      "max_speed": 7.05,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 134,
+      "total_elevation_gain": 72.3,
+      "average_cadence": 60.5,
+      "device_watts": false,
+      "average_heartrate": 98.1,
+      "max_heartrate": 118.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "c345540bba631d8b8632e83753a876017fa35427",
+  "available_zones": [
+    "heartrate"
+  ]
+}

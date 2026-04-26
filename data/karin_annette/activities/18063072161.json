@@ -1,0 +1,214 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "resource_state": 1
+  },
+  "name": "Hjem fra speidertur",
+  "distance": 3017.6,
+  "moving_time": 2284,
+  "elapsed_time": 2476,
+  "total_elevation_gain": 15.1,
+  "type": "Walk",
+  "sport_type": "Walk",
+  "device_name": "Garmin Forerunner 235",
+  "id": 18063072161,
+  "start_date": "2026-04-11T08:47:33Z",
+  "start_date_local": "2026-04-11T10:47:33Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 4,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a18063072161",
+    "polyline": "ybpmJkrc~@CFwAHe@EI@o@QQFYd@Yr@Kp@_@|@ODq@f@G?JSROT?BEFOf@eCl@}@NGVETFVAz@LPJn@Ct@yANyAIGEQFa@L^F~@]dBe@f@IHOD]@UGa@Ee@AICSOMDc@b@KTe@bB]r@WFOHOVE?GJsA`AcCjCcAjBMt@K^@JNf@Zd@p@x@`A`BL^j@t@\\r@NHt@Pv@TxATd@TvA\\XvA}@dCYjDq@bBa@|Ch@bBAjDg@`D@p@hAzA^AxAJhC|@xAv@x@t@D^?t@qAhF}@dAcArBA~@SlCm@bCK~@AjB_@tCEpDKhC@pD|@~BbAf@nBn@bATv@\\s@l@QFAR",
+    "resource_state": 3,
+    "summary_polyline": "ybpmJkrc~@CFwAHe@EI@o@QQFYd@Yr@Kp@_@|@ODq@f@G?JSROT?BEFOf@eCl@}@NGVETFVAz@LPJn@Ct@yANyAIGEQFa@L^F~@]dBe@f@IHOD]@UGa@Ee@AICSOMDc@b@KTe@bB]r@WFOHOVE?GJsA`AcCjCcAjBMt@K^@JNf@Zd@p@x@`A`BL^j@t@\\r@NHt@Pv@TxATd@TvA\\XvA}@dCYjDq@bBa@|Ch@bBAjDg@`D@p@hAzA^AxAJhC|@xAv@x@t@D^?t@qAhF}@dAcArBA~@SlCm@bCK~@AjB_@tCEpDKhC@pD|@~BbAf@nBn@bATv@\\s@l@QFAR"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    60.053092,
+    10.345505
+  ],
+  "end_latlng": [
+    60.052089,
+    10.322592
+  ],
+  "average_speed": 1.321,
+  "max_speed": 2.1,
+  "average_cadence": 61.2,
+  "has_heartrate": true,
+  "average_heartrate": 101.3,
+  "max_heartrate": 136.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 485.9,
+  "elev_low": 400.4,
+  "upload_id": 19164485253,
+  "upload_id_str": "19164485253",
+  "external_id": "garmin_ping_557203555296",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 3,
+  "has_kudoed": false,
+  "suffer_score": 7.0,
+  "description": "Vært anstand på speidertur. Tok med meg Marte og Kompis og sov i Trollstua. Gutta klarte seg fint selv!",
+  "calories": 168.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 1008.9,
+      "elapsed_time": 910,
+      "elevation_difference": -20.8,
+      "moving_time": 807,
+      "split": 1,
+      "average_speed": 1.25,
+      "average_grade_adjusted_speed": 1.23,
+      "average_heartrate": 107.78829389788294,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.2,
+      "elapsed_time": 708,
+      "elevation_difference": -36.6,
+      "moving_time": 708,
+      "split": 2,
+      "average_speed": 1.41,
+      "average_grade_adjusted_speed": 1.31,
+      "average_heartrate": 98.44774011299435,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.6,
+      "elapsed_time": 803,
+      "elevation_difference": -27.6,
+      "moving_time": 714,
+      "split": 3,
+      "average_speed": 1.39,
+      "average_grade_adjusted_speed": 1.32,
+      "average_heartrate": 97.26050420168067,
+      "pace_zone": 0
+    },
+    {
+      "distance": 16.9,
+      "elapsed_time": 55,
+      "elevation_difference": -0.1,
+      "moving_time": 55,
+      "split": 4,
+      "average_speed": 0.31,
+      "average_grade_adjusted_speed": 0.31,
+      "average_heartrate": 94.0,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1643.7,
+      "elapsed_time": 1363,
+      "elevation_difference": -42.1,
+      "moving_time": 1260,
+      "split": 1,
+      "average_speed": 1.3,
+      "average_grade_adjusted_speed": 1.26,
+      "average_heartrate": 105.88136942675159,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1373.9,
+      "elapsed_time": 1113,
+      "elevation_difference": -43.0,
+      "moving_time": 1024,
+      "split": 2,
+      "average_speed": 1.34,
+      "average_grade_adjusted_speed": 1.27,
+      "average_heartrate": 95.587890625,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 64610840183,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 18063072161,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "resource_state": 1
+      },
+      "elapsed_time": 2474,
+      "moving_time": 2474,
+      "start_date": "2026-04-11T08:47:33Z",
+      "start_date_local": "2026-04-11T10:47:33Z",
+      "distance": 3017.62,
+      "average_speed": 1.22,
+      "max_speed": 2.1,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 221,
+      "total_elevation_gain": 15.1,
+      "average_cadence": 61.2,
+      "device_watts": false,
+      "average_heartrate": 101.3,
+      "max_heartrate": 136.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "56438700-7D2C-455F-8AF1-F65FA0BA5CAD",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/MDdab-7qeLIr8auN6rMeFhDf97vqQul-hs-nxBjtQrs-576x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/MDdab-7qeLIr8auN6rMeFhDf97vqQul-hs-nxBjtQrs-96x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 3
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "c13e049ebaa6e7a4d027f6b6d353ab2122578caf",
+  "available_zones": [
+    "heartrate"
+  ]
+}
