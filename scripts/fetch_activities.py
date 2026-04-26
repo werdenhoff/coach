@@ -54,8 +54,13 @@ def _http_post(url: str, data: dict) -> dict:
         data=urllib.parse.urlencode(data).encode(),
         method="POST",
     )
-    with urllib.request.urlopen(req) as resp:
-        return json.loads(resp.read())
+    try:
+        with urllib.request.urlopen(req) as resp:
+            return json.loads(resp.read())
+    except urllib.error.HTTPError as e:
+        body = e.read().decode()
+        print(f"HTTP {e.code} from {url}: {body}", file=sys.stderr)
+        raise
 
 
 def _http_get(url: str, access_token: str, params: dict | None = None) -> dict | list:
