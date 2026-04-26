@@ -21,8 +21,12 @@ jobs:
       matrix:
         include:
           - user_slug: pal
+            client_id_secret: STRAVA_CLIENT_ID_PAL
+            client_secret_secret: STRAVA_CLIENT_SECRET_PAL
             refresh_token_secret: STRAVA_REFRESH_TOKEN_PAL
           - user_slug: karin_annette
+            client_id_secret: STRAVA_CLIENT_ID_KARIN_ANNETTE
+            client_secret_secret: STRAVA_CLIENT_SECRET_KARIN_ANNETTE
             refresh_token_secret: STRAVA_REFRESH_TOKEN_KARIN_ANNETTE
     steps:
       - uses: actions/checkout@v4
@@ -33,8 +37,8 @@ jobs:
 
       - name: Fetch activities from Strava
         env:
-          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
-          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
+          STRAVA_CLIENT_ID: ${{ secrets[matrix.client_id_secret] }}
+          STRAVA_CLIENT_SECRET: ${{ secrets[matrix.client_secret_secret] }}
           STRAVA_REFRESH_TOKEN: ${{ secrets[matrix.refresh_token_secret] }}
           USER_SLUG: ${{ matrix.user_slug }}
         run: python scripts/fetch_activities.py

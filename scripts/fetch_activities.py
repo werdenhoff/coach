@@ -33,6 +33,7 @@ CLIENT_SECRET = os.environ["STRAVA_CLIENT_SECRET"]
 REFRESH_TOKEN = os.environ["STRAVA_REFRESH_TOKEN"]
 USER_SLUG = os.environ["USER_SLUG"]
 
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ACTIVITIES_DIR = REPO_ROOT / "data" / USER_SLUG / "activities"
 SUMMARY_PATH = REPO_ROOT / "data" / USER_SLUG / "summary.json"
