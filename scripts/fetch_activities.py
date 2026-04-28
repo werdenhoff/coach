@@ -140,6 +140,8 @@ def newest_local_timestamp() -> int:
 def save_activity(activity: dict) -> Path:
     ACTIVITIES_DIR.mkdir(parents=True, exist_ok=True)
     path = ACTIVITIES_DIR / f"{activity['id']}.json"
+    if path.exists():
+        return path
     with open(path, "w") as f:
         json.dump(activity, f, indent=2, ensure_ascii=False)
     return path
