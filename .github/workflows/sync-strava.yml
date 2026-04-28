@@ -17,6 +17,7 @@ jobs:
       group: sync-strava-${{ matrix.user_slug }}
       cancel-in-progress: false
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - user_slug: pal
