@@ -1,5 +1,25 @@
 [
   {
+    "id": 18294849654,
+    "name": "Uke 18 økt 1",
+    "type": "Run",
+    "sport_type": "Run",
+    "start_date": "2026-04-28T16:38:47Z",
+    "start_date_local": "2026-04-28T18:38:47Z",
+    "distance_m": 4651.4,
+    "moving_time_s": 1798,
+    "elapsed_time_s": 1813,
+    "total_elevation_gain_m": 34.7,
+    "average_speed_mps": 2.587,
+    "max_speed_mps": 3.238,
+    "average_heartrate": 141.6,
+    "max_heartrate": 163.0,
+    "average_cadence": 86.7,
+    "suffer_score": 54.0,
+    "has_heartrate": true,
+    "workout_type": null
+  },
+  {
     "id": 18184680585,
     "name": "Hjem fra jobb",
     "type": "EBikeRide",
