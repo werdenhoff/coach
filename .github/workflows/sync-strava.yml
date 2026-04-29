@@ -4,7 +4,7 @@ on:
   schedule:
     # 19:30 UTC daily = 21:30 Oslo sommertid / 20:30 Oslo vintertid.
     # GitHub runs cron in UTC; drift of a few minutes under load is normal.
-    - cron: "30 19 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:  # allow manual triggering from the Actions tab
 
 permissions:
