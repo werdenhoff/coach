@@ -1,5 +1,25 @@
 [
   {
+    "id": 18321321349,
+    "name": "Uke 18 økt 2",
+    "type": "Run",
+    "sport_type": "Run",
+    "start_date": "2026-04-30T16:07:02Z",
+    "start_date_local": "2026-04-30T18:07:02Z",
+    "distance_m": 5299.2,
+    "moving_time_s": 2112,
+    "elapsed_time_s": 2119,
+    "total_elevation_gain_m": 64.2,
+    "average_speed_mps": 2.509,
+    "max_speed_mps": 3.717,
+    "average_heartrate": 142.4,
+    "max_heartrate": 163.0,
+    "average_cadence": 83.9,
+    "suffer_score": 66.0,
+    "has_heartrate": true,
+    "workout_type": null
+  },
+  {
     "id": 18306943288,
     "name": "Hjem igjen",
     "type": "EBikeRide",
