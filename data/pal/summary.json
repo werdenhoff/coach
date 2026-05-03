@@ -1,5 +1,25 @@
 [
   {
+    "id": 18356974500,
+    "name": "Langtur med 🐕",
+    "type": "Run",
+    "sport_type": "Run",
+    "start_date": "2026-05-03T08:44:54Z",
+    "start_date_local": "2026-05-03T10:44:54Z",
+    "distance_m": 13756.4,
+    "moving_time_s": 4592,
+    "elapsed_time_s": 4784,
+    "total_elevation_gain_m": 270.0,
+    "average_speed_mps": 2.996,
+    "max_speed_mps": 5.611,
+    "average_heartrate": 127.3,
+    "max_heartrate": 146.0,
+    "average_cadence": 82.9,
+    "suffer_score": 19.0,
+    "has_heartrate": true,
+    "workout_type": 0
+  },
+  {
     "id": 18347044203,
     "name": "Afternoon Run",
     "type": "Run",
