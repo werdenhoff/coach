@@ -1,5 +1,25 @@
 [
   {
+    "id": 18427748897,
+    "name": "Evening Run",
+    "type": "Run",
+    "sport_type": "Run",
+    "start_date": "2026-05-08T16:06:31Z",
+    "start_date_local": "2026-05-08T18:06:31Z",
+    "distance_m": 5280.4,
+    "moving_time_s": 2110,
+    "elapsed_time_s": 2449,
+    "total_elevation_gain_m": 0,
+    "average_speed_mps": 2.503,
+    "max_speed_mps": 2.967,
+    "average_heartrate": 118.1,
+    "max_heartrate": 136.0,
+    "average_cadence": 87.4,
+    "suffer_score": 24.0,
+    "has_heartrate": true,
+    "workout_type": null
+  },
+  {
     "id": 18395370282,
     "name": "Morning Run",
     "type": "Run",
