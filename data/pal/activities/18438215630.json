@@ -1,0 +1,820 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 321503,
+    "resource_state": 1
+  },
+  "name": "HS - Etappe 10",
+  "distance": 2894.5,
+  "moving_time": 562,
+  "elapsed_time": 566,
+  "total_elevation_gain": 14.0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 745",
+  "id": 18438215630,
+  "start_date": "2026-05-09T12:37:01Z",
+  "start_date_local": "2026-05-09T14:37:01Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 7,
+  "kudos_count": 9,
+  "comment_count": 1,
+  "athlete_count": 29,
+  "photo_count": 0,
+  "map": {
+    "id": "a18438215630",
+    "polyline": "w}zlJc{d`A`@{@bAyAj@s@~@u@l@e@f@UvAa@rAe@hAShCDpE_@`ABz@Hl@NvB~@PLPTh@jAH`@HtBDNFHd@@z@UbAM\\?RDVVFLH\\Jr@Zn@h@p@\\l@Xz@fCvGbB~EZdAXfAPjAJXJR`AmC@QMa@c@e@c@kAa@yAc@eAsBcH}@gDe@mCSs@C]?ORy@Ve@~@eA\\g@|@iBX}@^cBVgBp@qCzA}EdAsCRy@P{@|@{GHaAZkBd@mBnA}Dp@_BjBwDvD}G`GwJ",
+    "resource_state": 3,
+    "summary_polyline": "otzlJ_ee`AvAa@rAe@|@Qn@AdBDpE_@`ABz@Hl@NvB~@PLPTh@jAH`@HtBDNFHd@@z@UbAM\\?RDVVFLH\\Jr@Zn@h@p@\\l@Xz@fCvGbB~EZdAXfAPjAJXJR`AmC@QMa@c@e@c@kAa@yAc@eAsBcH}@gDe@mCSs@C]?ORy@Ve@~@eA\\g@|@iBX}@^cBVgBp@qCzA}EdAsCRy@P{@|@{GHaAZkBd@mB|@wCn@aBbBmDrEkI"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    59.944769,
+    10.679705
+  ],
+  "end_latlng": [
+    59.929543,
+    10.695038
+  ],
+  "average_speed": 5.15,
+  "max_speed": 6.8,
+  "average_cadence": 88.3,
+  "average_temp": 17,
+  "has_heartrate": true,
+  "average_heartrate": 165.1,
+  "max_heartrate": 179.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 117.8,
+  "elev_low": 61.0,
+  "upload_id": 19543072155,
+  "upload_id_str": "19543072155",
+  "external_id": "garmin_ping_569094195812",
+  "from_accepted_tag": false,
+  "pr_count": 7,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 21.0,
+  "description": "Ny PB - målt til 9:22. 38 sek bedre enn 2022",
+  "calories": 155.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3488176581537936168,
+      "resource_state": 2,
+      "name": "Holmenkollstafetten Etappe 10",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 555,
+      "moving_time": 555,
+      "start_date": "2026-05-09T12:37:07Z",
+      "start_date_local": "2026-05-09T14:37:07Z",
+      "distance": 2795.94,
+      "start_index": 2,
+      "end_index": 210,
+      "average_cadence": 88.3,
+      "device_watts": false,
+      "average_heartrate": 165.3,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 1327158,
+        "resource_state": 2,
+        "name": "Holmenkollstafetten Etappe 10",
+        "activity_type": "Run",
+        "distance": 2795.94,
+        "average_grade": -2.5,
+        "maximum_grade": 4.8,
+        "elevation_high": 119.6,
+        "elevation_low": 43.5,
+        "start_latlng": [
+          59.94469279423356,
+          10.679938551038504
+        ],
+        "end_latlng": [
+          59.92962975986302,
+          10.694883484393358
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488176581537641256,
+      "resource_state": 2,
+      "name": "HK 10, del1",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 124,
+      "moving_time": 124,
+      "start_date": "2026-05-09T12:37:10Z",
+      "start_date_local": "2026-05-09T14:37:10Z",
+      "distance": 680.0,
+      "start_index": 4,
+      "end_index": 55,
+      "average_cadence": 87.1,
+      "device_watts": false,
+      "average_heartrate": 152.6,
+      "max_heartrate": 162.0,
+      "segment": {
+        "id": 11998212,
+        "resource_state": 2,
+        "name": "HK 10, del1",
+        "activity_type": "Run",
+        "distance": 680.0,
+        "average_grade": -5.2,
+        "maximum_grade": -2.2,
+        "elevation_high": 137.8,
+        "elevation_low": 102.6,
+        "start_latlng": [
+          59.944492,
+          10.680018
+        ],
+        "end_latlng": [
+          59.938644,
+          10.681239
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488176581535853352,
+      "resource_state": 2,
+      "name": "HK 10, del2",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 219,
+      "moving_time": 219,
+      "start_date": "2026-05-09T12:39:20Z",
+      "start_date_local": "2026-05-09T14:39:20Z",
+      "distance": 1040.3,
+      "start_index": 58,
+      "end_index": 144,
+      "average_cadence": 87.6,
+      "device_watts": false,
+      "average_heartrate": 166.1,
+      "max_heartrate": 172.0,
+      "segment": {
+        "id": 11998217,
+        "resource_state": 2,
+        "name": "HK 10, del2",
+        "activity_type": "Run",
+        "distance": 1040.3,
+        "average_grade": -2.2,
+        "maximum_grade": 6.8,
+        "elevation_high": 100.0,
+        "elevation_low": 71.0,
+        "start_latlng": [
+          59.938382,
+          10.680873
+        ],
+        "end_latlng": [
+          59.935632,
+          10.680886
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488176581536021288,
+      "resource_state": 2,
+      "name": "Sletta",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 33,
+      "moving_time": 33,
+      "start_date": "2026-05-09T12:40:32Z",
+      "start_date_local": "2026-05-09T14:40:32Z",
+      "distance": 174.2,
+      "start_index": 88,
+      "end_index": 99,
+      "average_cadence": 87.4,
+      "device_watts": false,
+      "average_heartrate": 164.5,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 8556626,
+        "resource_state": 2,
+        "name": "Sletta",
+        "activity_type": "Run",
+        "distance": 174.2,
+        "average_grade": -0.9,
+        "maximum_grade": 1.8,
+        "elevation_high": 61.2,
+        "elevation_low": 59.3,
+        "start_latlng": [
+          59.935825,
+          10.677541
+        ],
+        "end_latlng": [
+          59.934824,
+          10.675146
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488176581538406184,
+      "resource_state": 2,
+      "name": "Monolitveien-Frognerparken",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 223,
+      "moving_time": 223,
+      "start_date": "2026-05-09T12:42:44Z",
+      "start_date_local": "2026-05-09T14:42:44Z",
+      "distance": 1153.6,
+      "start_index": 139,
+      "end_index": 211,
+      "average_cadence": 89.4,
+      "device_watts": false,
+      "average_heartrate": 173.1,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 6020691,
+        "resource_state": 2,
+        "name": "Monolitveien-Frognerparken",
+        "activity_type": "Run",
+        "distance": 1153.6,
+        "average_grade": -0.9,
+        "maximum_grade": 6.3,
+        "elevation_high": 64.3,
+        "elevation_low": 44.6,
+        "start_latlng": [
+          59.936433,
+          10.680705
+        ],
+        "end_latlng": [
+          59.92945,
+          10.695276
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488176581536939816,
+      "resource_state": 2,
+      "name": "Monolittveien ned til Konventveien",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 72,
+      "moving_time": 72,
+      "start_date": "2026-05-09T12:42:44Z",
+      "start_date_local": "2026-05-09T14:42:44Z",
+      "distance": 397.9,
+      "start_index": 139,
+      "end_index": 166,
+      "average_cadence": 87.1,
+      "device_watts": false,
+      "average_heartrate": 170.5,
+      "max_heartrate": 172.0,
+      "segment": {
+        "id": 15938932,
+        "resource_state": 2,
+        "name": "Monolittveien ned til Konventveien",
+        "activity_type": "Run",
+        "distance": 397.9,
+        "average_grade": -4.1,
+        "maximum_grade": -0.7,
+        "elevation_high": 211.2,
+        "elevation_low": 195.0,
+        "start_latlng": [
+          59.93653,
+          10.680548
+        ],
+        "end_latlng": [
+          59.933999,
+          10.685236
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488176581537313576,
+      "resource_state": 2,
+      "name": "HK 10, del 3",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 199,
+      "moving_time": 199,
+      "start_date": "2026-05-09T12:42:59Z",
+      "start_date_local": "2026-05-09T14:42:59Z",
+      "distance": 1033.3,
+      "start_index": 144,
+      "end_index": 209,
+      "average_cadence": 89.6,
+      "device_watts": false,
+      "average_heartrate": 173.0,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 12014158,
+        "resource_state": 2,
+        "name": "HK 10, del 3",
+        "activity_type": "Run",
+        "distance": 1033.3,
+        "average_grade": -1.3,
+        "maximum_grade": 5.3,
+        "elevation_high": 71.2,
+        "elevation_low": 56.6,
+        "start_latlng": [
+          59.935827,
+          10.681143
+        ],
+        "end_latlng": [
+          59.929791,
+          10.694693
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3488176581537125160,
+      "resource_state": 2,
+      "name": "Konventveien - Frognerparken",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 151,
+      "moving_time": 151,
+      "start_date": "2026-05-09T12:43:56Z",
+      "start_date_local": "2026-05-09T14:43:56Z",
+      "distance": 780.2,
+      "start_index": 166,
+      "end_index": 211,
+      "average_cadence": 90.6,
+      "device_watts": false,
+      "average_heartrate": 174.4,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 16788138,
+        "resource_state": 2,
+        "name": "Konventveien - Frognerparken",
+        "activity_type": "Run",
+        "distance": 780.2,
+        "average_grade": 0.3,
+        "maximum_grade": 8.2,
+        "elevation_high": 41.6,
+        "elevation_low": 34.2,
+        "start_latlng": [
+          59.934014,
+          10.685461
+        ],
+        "end_latlng": [
+          59.929322,
+          10.695436
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1008.7,
+      "elapsed_time": 188,
+      "elevation_difference": -43.4,
+      "moving_time": 184,
+      "split": 1,
+      "average_speed": 5.48,
+      "average_grade_adjusted_speed": 5.04,
+      "average_heartrate": 154.05434782608697,
+      "pace_zone": 6
+    },
+    {
+      "distance": 992.7,
+      "elapsed_time": 200,
+      "elevation_difference": -6.0,
+      "moving_time": 200,
+      "split": 2,
+      "average_speed": 4.96,
+      "average_grade_adjusted_speed": 4.98,
+      "average_heartrate": 167.89,
+      "pace_zone": 5
+    },
+    {
+      "distance": 893.1,
+      "elapsed_time": 178,
+      "elevation_difference": -4.0,
+      "moving_time": 178,
+      "split": 3,
+      "average_speed": 5.02,
+      "average_grade_adjusted_speed": 5.04,
+      "average_heartrate": 173.53370786516854,
+      "pace_zone": 6
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1630.6,
+      "elapsed_time": 314,
+      "elevation_difference": -46.8,
+      "moving_time": 310,
+      "split": 1,
+      "average_speed": 5.26,
+      "average_grade_adjusted_speed": 5.0,
+      "average_heartrate": 158.93870967741935,
+      "pace_zone": 6
+    },
+    {
+      "distance": 1263.9,
+      "elapsed_time": 252,
+      "elevation_difference": -6.6,
+      "moving_time": 252,
+      "split": 2,
+      "average_speed": 5.02,
+      "average_grade_adjusted_speed": 5.03,
+      "average_heartrate": 172.78571428571428,
+      "pace_zone": 6
+    }
+  ],
+  "laps": [
+    {
+      "id": 65961994357,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 565,
+      "moving_time": 565,
+      "start_date": "2026-05-09T12:37:01Z",
+      "start_date_local": "2026-05-09T14:37:01Z",
+      "distance": 2894.5,
+      "average_speed": 5.12,
+      "max_speed": 6.8,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 182,
+      "total_elevation_gain": 17.6,
+      "average_cadence": 88.3,
+      "device_watts": false,
+      "average_heartrate": 165.1,
+      "max_heartrate": 179.0,
+      "pace_zone": 6
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 77498097043,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 71,
+      "moving_time": 71,
+      "start_date": "2026-05-09T12:37:01Z",
+      "start_date_local": "2026-05-09T14:37:01Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1,
+      "end_index": 34
+    },
+    {
+      "id": 77498097044,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 147,
+      "moving_time": 147,
+      "start_date": "2026-05-09T12:37:01Z",
+      "start_date_local": "2026-05-09T14:37:01Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 2,
+      "end_index": 65
+    },
+    {
+      "id": 77498097045,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 183,
+      "moving_time": 183,
+      "start_date": "2026-05-09T12:37:01Z",
+      "start_date_local": "2026-05-09T14:37:01Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 2,
+      "end_index": 82
+    },
+    {
+      "id": 77498097042,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 18438215630,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 308,
+      "moving_time": 308,
+      "start_date": "2026-05-09T12:37:01Z",
+      "start_date_local": "2026-05-09T14:37:01Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 2,
+      "end_index": 127
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "4fa4dc1d9bc064339ba99cc5da3719455c841927",
+  "similar_activities": {
+    "effort_count": 2,
+    "average_speed": 4.878348778433025,
+    "min_average_speed": 4.63376,
+    "mid_average_speed": 4.8784199487020965,
+    "max_average_speed": 5.150355871886121,
+    "pr_rank": 1,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        4.63376,
+        4.8784199487020965
+      ],
+      "current_activity_index": 1,
+      "min_speed": 4.63376,
+      "mid_speed": 4.8784199487020965,
+      "max_speed": 5.150355871886121,
+      "direction": 1
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}
