@@ -1,0 +1,2219 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 321503,
+    "resource_state": 1
+  },
+  "name": "Ukens lange med Oscar 💪😊",
+  "distance": 16050.0,
+  "moving_time": 5352,
+  "elapsed_time": 5393,
+  "total_elevation_gain": 169.0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 745",
+  "id": 18452587037,
+  "start_date": "2026-05-10T11:54:58Z",
+  "start_date_local": "2026-05-10T13:54:58Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 1,
+  "kudos_count": 8,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a18452587037",
+    "polyline": "cirlJm|l_ABh@NnBJ~@Rp@P~@BZL`Aj@xB~@~Ex@dB?XEV@TNr@PlA~@rBf@f@Vt@N~@Bz@E~AAhAEf@@lBIn@B`ABP^j@VR^p@?Tb@ZHL`@XF?^C`@y@^k@t@s@X_@Zk@Tm@Zi@lB{Cj@{@XELf@f@nADATYr@c@bAiCAY^{@PSb@h@Ne@RmALe@f@Uf@]`@e@ZUdBeBV]Zm@b@MLu@BcALoABqAK_AAu@PcBR{@BCPEn@Ed@Ld@j@l@dA\\d@r@p@h@p@\\d@Vr@v@lDX~ANf@r@pB\\t@V^p@d@H?HGl@WVm@Fi@@iCEw@[yBGeB@SDOTOL`@RX^[`@c@Ro@FmCA_AHo@No@B]A{Ae@yCIWIi@@qA@MCc@OUI{@M_EBmALgAAMJ]x@oEViABmAKiAi@aDGaAa@kCaAyGI[M}@DmDNeA`@y@H}@K_B]cC[aAa@Sa@CSIYAu@{@WOSGO[Kq@GEM_@a@cCGaAWs@M{@]Y[}@Yo@Kc@G{AOq@K}@EMMMBm@Mu@EoA?c@c@a@Wo@Sw@]q@o@aDu@sAWkAOQ_@O_@e@_AcCSc@_@g@KSOgA?mBLu@Vk@Fm@GUIq@WqDe@eDU}@Q_@[OKa@Uc@s@]_@Ge@]SGg@Ms@_@UC[KU^Yt@EFUNYFq@Ac@F}@Z]RGCEM]{BI]MeBM{@a@y@k@{@Us@?aAB_APa@\\WVo@@o@e@eC[qAqDqKeByFkAeDc@}@I_AUu@MiAGeAWwAIwA?iAEW]cAg@]_@Ra@f@IBa@?[T]CYUU{@Yq@i@}@u@{AMeA@c@MqBQkAYmAw@oB_@gAu@qCYmCOiCIsBC_FGgCBoB?qADWHGdAUv@MHCXYB}@Gw@[}A]mAKk@M]MSy@oC[k@SoCcAiES}AOkDF}@?u@Hw@Pm@F[D}@G_AF{@R[\\UPC@FbAzEr@jCb@rA\\t@xAlBx@nAXr@F^`@lATjA?|@s@hABZx@dAj@l@X\\`@t@n@bBJRb@h@v@j@TJb@AVa@Na@P[`@Q`@j@`@jATt@NvAz@|DVvALb@f@`B\\v@h@f@j@^ZDb@Wb@?h@Kt@g@j@ORMHMg@d@UB_Ad@o@Ro@@]Va@Is@i@]g@MUs@mDyAqGOeAo@yBc@u@QIMBKHk@vAYXSGoA_Ae@q@oAsC]g@gA{@g@k@EOBWl@[DQFo@Ko@Y{@I_@CCKg@s@gBSc@cA}A_AcA}@mDUaA_@eAOs@MkASu@GAQDWXWp@@rCI~@Op@Gd@Bp@Gz@DjAFrAHhAPdALf@JRNr@NXBPDpADXZjALT^jA@d@f@zAf@dBNv@Nv@@j@Df@ANIL]NUD}Ab@UPELBjBAb@BxAAlAXpH?~@HdBFl@Bl@FdAd@fBT`@x@hBXx@h@jCLrAFdAA`@Bz@hDdHb@FVQd@ELIPU^a@N@JDZr@Xz@JnCT~AH|@TlBVnAr@dBl@rBp@fBxAzE~BzG~@nDTnAJhAIp@EFy@~@Cb@?rAF`@vAbCPz@FfAJp@d@fCHTLFl@[TSRGbA@f@GVQX_AZWh@FTH`A|@`@Hb@XF?b@PZXn@`ALFHFP`@RbALhAB`@JVNtB?PJp@Nh@BZ?z@AFKJUl@Ez@BfAPvAVd@f@r@hAnC\\l@Pl@FD\\t@@FDf@CR@XPRVFNJHRLz@LZAx@LfBRtA@FHHJp@Fr@l@z@DBVj@LnAHb@FJAXj@z@BVDR~@|ARvA?\\Jr@V~@DZLXH^TV\\TH?LDH`@NFZn@d@CRFHLNLZDDFRd@FXFf@XtDCv@i@|AMhA?vDFXHR~@zEd@pDVvCVrBFjAMbA_AdFAn@OrABx@GnB@v@NpDJn@JdAd@xCNlC?LO`AAp@FxBEZK\\A\\GZUVC?_Av@UUISGEENEd@LbCPbB@hAAvAI|@Up@]Jg@?UOSWg@}@cAmCUw@K{@Sk@Iw@[yASc@c@u@u@_Ae@_@mBoCa@Wc@De@RQNMr@KfACxAFZAn@Kt@?d@Qv@Bt@Cf@GNWB]\\aBnB[d@c@`@a@^mAf@MZi@xBC@IAOQWSa@lAQx@kBbDEk@Kj@k@mBMGE@IVYZU`@OICGOw@C]SeAWy@QWGCOBMAe@I_@Oa@YKOy@u@i@WMSyAcAi@i@m@]_CwBOS",
+    "resource_state": 3,
+    "summary_polyline": "mbrlJicl_Af@dACfA`@`C~@rBf@f@f@tBMlNzAbC?TvAbA^C`AeBnAsAlAcCxCwEXEt@vBnA_AbAiCAY^{@PSb@h@p@yCnAs@bDaDr@kAb@M^iEBqAMuBPcBV_AfB@pBvCzBhCxBhJr@pBt@tAz@d@v@_@^wA@kBa@oEEyBZ_@`@z@`A_ARo@DmE\\}BA{Ay@{EB_BCc@YqAM_ENcD|AwHBmAu@kFGaA{B_ODmDNeA`@y@H}@k@kFYy@qBc@u@{@{@s@Kq@Ue@i@eEe@oB]YaAqCG{A[oBS[Bm@Mu@EsBc@a@iAyCo@aDu@sAWkAoAgA_AcC_A_BOgA?mBLu@Vk@Fm@QgAWqD{@cFQ_@[Oa@eA{GiCo@tA[VoBLcBj@m@gD[aDmAuBUs@BaCPa@t@gA@o@aAwEwGkSoBcFmA}IOyD]cAg@]aAz@eBTYUo@mB_ByCMeAKuCQkAqBeGu@qCi@wGU{MHyEbD_AHO?cAkAcGqBmFSoCcAiES}AOkDPkDXiADyDp@q@RBbAzEvA~E\\t@lDpF~@xD?|@s@hABZ~BpC|AlDzAtAx@Hx@_B`@Q`@j@v@`CNvArAtGrA|DtAfAZDpBc@~BsAg@d@eC|@mAXuAs@k@}@}CeOo@yBc@u@_@Ew@`BYXSGoA_AsCmFoBgBAg@r@m@Fo@Ko@s@gCgAkCcCaDcCiJa@aCYBo@jA@rCa@vCClBL~CZnCx@hCN|BhAlD@d@~AxFVjCK\\qCx@[^BvH\\tKXbFd@fBhBdEh@jCTxC@|AhDdH`BO~@aAZFt@nBJnClAzIlJxX~@nD`@xCOx@y@~@CvBF`@vAbCPz@RxBn@|CLFvAw@jBEVQX_AZW~@P`A|@pBt@bBjBP`@p@fENfC^vB?z@c@`AEz@BfAPvA~@xA~CfHD|AbAz@ZvAJ`Dr@lEjAjB\\xCt@fB~@|A^hDt@tCjAr@H`@j@v@x@Bz@h@Z~@^hEAjAi@|AMhA?vDpAhGtA|LFjAmAhHQbCChDPhF|@nGNzCQrBFxB[rByAnA_@i@MHEd@`@pHKtCUp@eAJi@g@kBkE{AqHSc@_CuCmBoCa@WiAXQNMr@KfA@dD]rC?|A}@p@aDvDoBfAw@tCu@e@s@fCkBbDEk@Kj@k@mBMG_AvAOIk@cDi@qAkB[iAaA"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    59.900502,
+    10.557032
+  ],
+  "end_latlng": [
+    59.899173,
+    10.552546
+  ],
+  "average_speed": 2.999,
+  "max_speed": 4.543,
+  "average_cadence": 83.9,
+  "average_temp": 21,
+  "has_heartrate": true,
+  "average_heartrate": 128.7,
+  "max_heartrate": 147.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 53.4,
+  "elev_low": -1.2,
+  "upload_id": 19557639726,
+  "upload_id_str": "19557639726",
+  "external_id": "garmin_ping_569538512099",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 22.0,
+  "description": "",
+  "calories": 1141.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3488548670777842926,
+      "resource_state": 2,
+      "name": "Solvikbukta sprint",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 58,
+      "moving_time": 58,
+      "start_date": "2026-05-10T12:01:43Z",
+      "start_date_local": "2026-05-10T14:01:43Z",
+      "distance": 188.4,
+      "start_index": 118,
+      "end_index": 131,
+      "average_cadence": 85.7,
+      "device_watts": false,
+      "average_heartrate": 126.0,
+      "max_heartrate": 127.0,
+      "segment": {
+        "id": 8332899,
+        "resource_state": 2,
+        "name": "Solvikbukta sprint",
+        "activity_type": "Run",
+        "distance": 188.4,
+        "average_grade": -0.6,
+        "maximum_grade": 3.9,
+        "elevation_high": 20.2,
+        "elevation_low": 18.4,
+        "start_latlng": [
+          59.893492,
+          10.551097
+        ],
+        "end_latlng": [
+          59.891979,
+          10.552492
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Kingdom of Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670779223278,
+      "resource_state": 2,
+      "name": "Solvikbukta marina - Sonia Henies vei",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 215,
+      "moving_time": 215,
+      "start_date": "2026-05-10T12:03:36Z",
+      "start_date_local": "2026-05-10T14:03:36Z",
+      "distance": 643.5,
+      "start_index": 144,
+      "end_index": 196,
+      "average_cadence": 85.3,
+      "device_watts": false,
+      "average_heartrate": 130.3,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 8332909,
+        "resource_state": 2,
+        "name": "Solvikbukta marina - Sonia Henies vei",
+        "activity_type": "Run",
+        "distance": 643.5,
+        "average_grade": 0.8,
+        "maximum_grade": 14.1,
+        "elevation_high": 25.2,
+        "elevation_low": 19.4,
+        "start_latlng": [
+          59.891664,
+          10.555232
+        ],
+        "end_latlng": [
+          59.888183,
+          10.553635
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Kingdom of Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670779690222,
+      "resource_state": 2,
+      "name": "Sonia Henies vei - Veritas",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 247,
+      "moving_time": 247,
+      "start_date": "2026-05-10T12:07:11Z",
+      "start_date_local": "2026-05-10T14:07:11Z",
+      "distance": 752.2,
+      "start_index": 196,
+      "end_index": 270,
+      "average_cadence": 84.4,
+      "device_watts": false,
+      "average_heartrate": 127.1,
+      "max_heartrate": 133.0,
+      "segment": {
+        "id": 8332921,
+        "resource_state": 2,
+        "name": "Sonia Henies vei - Veritas",
+        "activity_type": "Run",
+        "distance": 752.2,
+        "average_grade": -0.7,
+        "maximum_grade": 11.2,
+        "elevation_high": 27.6,
+        "elevation_low": 18.8,
+        "start_latlng": [
+          59.888112,
+          10.553744
+        ],
+        "end_latlng": [
+          59.88798,
+          10.565282
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Kingdom of Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3488548670777649390,
+      "resource_state": 2,
+      "name": "Henie-Onstad til Veritasstranden",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 308,
+      "moving_time": 308,
+      "start_date": "2026-05-10T12:07:26Z",
+      "start_date_local": "2026-05-10T14:07:26Z",
+      "distance": 929.4,
+      "start_index": 201,
+      "end_index": 286,
+      "average_cadence": 84.6,
+      "device_watts": false,
+      "average_heartrate": 126.9,
+      "max_heartrate": 132.0,
+      "segment": {
+        "id": 6973943,
+        "resource_state": 2,
+        "name": "Henie-Onstad til Veritasstranden",
+        "activity_type": "Run",
+        "distance": 929.4,
+        "average_grade": -0.9,
+        "maximum_grade": 37.5,
+        "elevation_high": 13.4,
+        "elevation_low": 0.0,
+        "start_latlng": [
+          59.887869,
+          10.553707
+        ],
+        "end_latlng": [
+          59.888085,
+          10.56898
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3488548670778612974,
+      "resource_state": 2,
+      "name": "Sandstranden fra \"Tinius' hus\" (Søndre Høvikodden, Sølyst) til odden ved Veritas",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 164,
+      "moving_time": 164,
+      "start_date": "2026-05-10T12:07:32Z",
+      "start_date_local": "2026-05-10T14:07:32Z",
+      "distance": 516.5,
+      "start_index": 202,
+      "end_index": 258,
+      "average_cadence": 84.3,
+      "device_watts": false,
+      "average_heartrate": 126.7,
+      "max_heartrate": 132.0,
+      "segment": {
+        "id": 38657381,
+        "resource_state": 2,
+        "name": "Sandstranden fra \"Tinius' hus\" (Søndre Høvikodden, Sølyst) til odden ved Veritas",
+        "activity_type": "Run",
+        "distance": 516.5,
+        "average_grade": 0.7,
+        "maximum_grade": 6.2,
+        "elevation_high": -25.4,
+        "elevation_low": -29.6,
+        "start_latlng": [
+          59.887394,
+          10.553255
+        ],
+        "end_latlng": [
+          59.88713,
+          10.561987
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3488548670777560302,
+      "resource_state": 2,
+      "name": "Veritas BIL \"1000 m\" eastwards",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 282,
+      "moving_time": 282,
+      "start_date": "2026-05-10T12:07:53Z",
+      "start_date_local": "2026-05-10T14:07:53Z",
+      "distance": 864.9,
+      "start_index": 209,
+      "end_index": 287,
+      "average_cadence": 84.9,
+      "device_watts": false,
+      "average_heartrate": 126.7,
+      "max_heartrate": 131.0,
+      "segment": {
+        "id": 14505529,
+        "resource_state": 2,
+        "name": "Veritas BIL \"1000 m\" eastwards",
+        "activity_type": "Run",
+        "distance": 864.9,
+        "average_grade": -0.3,
+        "maximum_grade": 4.7,
+        "elevation_high": -9.8,
+        "elevation_low": -13.0,
+        "start_latlng": [
+          59.887491,
+          10.554848
+        ],
+        "end_latlng": [
+          59.888117,
+          10.569231
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3488548670775787758,
+      "resource_state": 2,
+      "name": "Veritas BIL 600 m eastwards",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 191,
+      "moving_time": 191,
+      "start_date": "2026-05-10T12:08:03Z",
+      "start_date_local": "2026-05-10T14:08:03Z",
+      "distance": 588.412,
+      "start_index": 212,
+      "end_index": 269,
+      "average_cadence": 84.9,
+      "device_watts": false,
+      "average_heartrate": 126.5,
+      "max_heartrate": 131.0,
+      "segment": {
+        "id": 3844214,
+        "resource_state": 2,
+        "name": "Veritas BIL 600 m eastwards",
+        "activity_type": "Run",
+        "distance": 588.412,
+        "average_grade": 2.3,
+        "maximum_grade": 88.2,
+        "elevation_high": 13.5,
+        "elevation_low": 0.0,
+        "start_latlng": [
+          59.887479,
+          10.555285
+        ],
+        "end_latlng": [
+          59.887922,
+          10.564998
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670777043182,
+      "resource_state": 2,
+      "name": "Strandintervaller",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 73,
+      "moving_time": 73,
+      "start_date": "2026-05-10T12:08:11Z",
+      "start_date_local": "2026-05-10T14:08:11Z",
+      "distance": 211.0,
+      "start_index": 215,
+      "end_index": 241,
+      "average_cadence": 84.9,
+      "device_watts": false,
+      "average_heartrate": 126.0,
+      "max_heartrate": 130.0,
+      "segment": {
+        "id": 23116227,
+        "resource_state": 2,
+        "name": "Strandintervaller",
+        "activity_type": "Run",
+        "distance": 211.0,
+        "average_grade": -0.1,
+        "maximum_grade": 5.5,
+        "elevation_high": 2.6,
+        "elevation_low": 0.4,
+        "start_latlng": [
+          59.887325,
+          10.555895
+        ],
+        "end_latlng": [
+          59.88796,
+          10.559224
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Blommenholm",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670778289390,
+      "resource_state": 2,
+      "name": "VBIL 400 m østover",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 124,
+      "moving_time": 124,
+      "start_date": "2026-05-10T12:09:10Z",
+      "start_date_local": "2026-05-10T14:09:10Z",
+      "distance": 398.3,
+      "start_index": 235,
+      "end_index": 269,
+      "average_cadence": 84.8,
+      "device_watts": false,
+      "average_heartrate": 127.4,
+      "max_heartrate": 131.0,
+      "segment": {
+        "id": 38872963,
+        "resource_state": 2,
+        "name": "VBIL 400 m østover",
+        "activity_type": "Run",
+        "distance": 398.3,
+        "average_grade": -0.1,
+        "maximum_grade": 4.1,
+        "elevation_high": 4.7,
+        "elevation_low": 2.7,
+        "start_latlng": [
+          59.887816,
+          10.55842
+        ],
+        "end_latlng": [
+          59.887978,
+          10.565036
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670776043758,
+      "resource_state": 2,
+      "name": "Skogen opp til banen",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 86,
+      "moving_time": 86,
+      "start_date": "2026-05-10T12:12:35Z",
+      "start_date_local": "2026-05-10T14:12:35Z",
+      "distance": 175.8,
+      "start_index": 287,
+      "end_index": 316,
+      "average_cadence": 79.7,
+      "device_watts": false,
+      "average_heartrate": 136.0,
+      "max_heartrate": 142.0,
+      "segment": {
+        "id": 19179026,
+        "resource_state": 2,
+        "name": "Skogen opp til banen",
+        "activity_type": "Run",
+        "distance": 175.8,
+        "average_grade": 11.3,
+        "maximum_grade": 17.7,
+        "elevation_high": 21.1,
+        "elevation_low": 1.2,
+        "start_latlng": [
+          59.888141,
+          10.569272
+        ],
+        "end_latlng": [
+          59.889523,
+          10.570484
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670777176302,
+      "resource_state": 2,
+      "name": "Onkel Eriks vei - Sarbuvollveien",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 134,
+      "moving_time": 134,
+      "start_date": "2026-05-10T12:17:29Z",
+      "start_date_local": "2026-05-10T14:17:29Z",
+      "distance": 365.4,
+      "start_index": 374,
+      "end_index": 407,
+      "average_cadence": 83.1,
+      "device_watts": false,
+      "average_heartrate": 125.8,
+      "max_heartrate": 130.0,
+      "segment": {
+        "id": 8332961,
+        "resource_state": 2,
+        "name": "Onkel Eriks vei - Sarbuvollveien",
+        "activity_type": "Run",
+        "distance": 365.4,
+        "average_grade": -0.2,
+        "maximum_grade": 17.1,
+        "elevation_high": 21.8,
+        "elevation_low": 18.2,
+        "start_latlng": [
+          59.892344,
+          10.578251
+        ],
+        "end_latlng": [
+          59.893557,
+          10.58346
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Kingdom of Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670778902766,
+      "resource_state": 2,
+      "name": "Sarbuvollveien bom - Toppen Bjerkealleen",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 207,
+      "moving_time": 207,
+      "start_date": "2026-05-10T12:19:48Z",
+      "start_date_local": "2026-05-10T14:19:48Z",
+      "distance": 603.4,
+      "start_index": 408,
+      "end_index": 458,
+      "average_cadence": 84.4,
+      "device_watts": false,
+      "average_heartrate": 131.6,
+      "max_heartrate": 140.0,
+      "segment": {
+        "id": 31802604,
+        "resource_state": 2,
+        "name": "Sarbuvollveien bom - Toppen Bjerkealleen",
+        "activity_type": "Run",
+        "distance": 603.4,
+        "average_grade": 3.3,
+        "maximum_grade": 13.0,
+        "elevation_high": 24.8,
+        "elevation_low": 5.0,
+        "start_latlng": [
+          59.893681,
+          10.583815
+        ],
+        "end_latlng": [
+          59.897115,
+          10.587452
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Høvik",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670778335470,
+      "resource_state": 2,
+      "name": "Oksneøya fotball field sprint challenge",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 42,
+      "moving_time": 42,
+      "start_date": "2026-05-10T12:33:13Z",
+      "start_date_local": "2026-05-10T14:33:13Z",
+      "distance": 143.2,
+      "start_index": 610,
+      "end_index": 618,
+      "average_cadence": 83.7,
+      "device_watts": false,
+      "average_heartrate": 126.2,
+      "max_heartrate": 127.0,
+      "segment": {
+        "id": 8324709,
+        "resource_state": 2,
+        "name": "Oksneøya fotball field sprint challenge",
+        "activity_type": "Run",
+        "distance": 143.2,
+        "average_grade": -1.7,
+        "maximum_grade": 0.8,
+        "elevation_high": 21.4,
+        "elevation_low": 18.6,
+        "start_latlng": [
+          59.903935,
+          10.612135
+        ],
+        "end_latlng": [
+          59.903818,
+          10.614555
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Fornebu",
+        "state": "Akershus",
+        "country": "Kingdom of Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670776954094,
+      "resource_state": 2,
+      "name": "Holtekilen panorama retning Lilleøya",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 257,
+      "moving_time": 257,
+      "start_date": "2026-05-10T12:34:10Z",
+      "start_date_local": "2026-05-10T14:34:10Z",
+      "distance": 780.2,
+      "start_index": 621,
+      "end_index": 676,
+      "average_cadence": 84.0,
+      "device_watts": false,
+      "average_heartrate": 126.4,
+      "max_heartrate": 129.0,
+      "segment": {
+        "id": 7291528,
+        "resource_state": 2,
+        "name": "Holtekilen panorama retning Lilleøya",
+        "activity_type": "Run",
+        "distance": 780.2,
+        "average_grade": 0.1,
+        "maximum_grade": 8.6,
+        "elevation_high": 2.0,
+        "elevation_low": -1.2,
+        "start_latlng": [
+          59.903261,
+          10.614739
+        ],
+        "end_latlng": [
+          59.898762,
+          10.607054
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670777664750,
+      "resource_state": 2,
+      "name": "Holtekilen panorama retning Lysaker",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 256,
+      "moving_time": 256,
+      "start_date": "2026-05-10T12:43:02Z",
+      "start_date_local": "2026-05-10T14:43:02Z",
+      "distance": 805.3,
+      "start_index": 739,
+      "end_index": 800,
+      "average_cadence": 85.3,
+      "device_watts": false,
+      "average_heartrate": 127.9,
+      "max_heartrate": 130.0,
+      "segment": {
+        "id": 7202029,
+        "resource_state": 2,
+        "name": "Holtekilen panorama retning Lysaker",
+        "activity_type": "Run",
+        "distance": 805.3,
+        "average_grade": -0.6,
+        "maximum_grade": 0.0,
+        "elevation_high": 67.6,
+        "elevation_low": 62.4,
+        "start_latlng": [
+          59.898844,
+          10.606926
+        ],
+        "end_latlng": [
+          59.903454,
+          10.61488
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670777753838,
+      "resource_state": 2,
+      "name": "Brygga langs sjøen",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 172,
+      "moving_time": 172,
+      "start_date": "2026-05-10T12:43:35Z",
+      "start_date_local": "2026-05-10T14:43:35Z",
+      "distance": 540.9,
+      "start_index": 749,
+      "end_index": 791,
+      "average_cadence": 85.0,
+      "device_watts": false,
+      "average_heartrate": 128.2,
+      "max_heartrate": 130.0,
+      "segment": {
+        "id": 21389760,
+        "resource_state": 2,
+        "name": "Brygga langs sjøen",
+        "activity_type": "Run",
+        "distance": 540.9,
+        "average_grade": -0.2,
+        "maximum_grade": 6.2,
+        "elevation_high": 1.6,
+        "elevation_low": -0.6,
+        "start_latlng": [
+          59.899584,
+          10.607038
+        ],
+        "end_latlng": [
+          59.902669,
+          10.612405
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Stabekk",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3488548670776482030,
+      "resource_state": 2,
+      "name": "400m opp Bjerkealleen (2 %) fra restaurant til bom",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 135,
+      "moving_time": 135,
+      "start_date": "2026-05-10T12:55:38Z",
+      "start_date_local": "2026-05-10T14:55:38Z",
+      "distance": 410.6,
+      "start_index": 939,
+      "end_index": 971,
+      "average_cadence": 86.3,
+      "device_watts": false,
+      "average_heartrate": 130.0,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 23372472,
+        "resource_state": 2,
+        "name": "400m opp Bjerkealleen (2 %) fra restaurant til bom",
+        "activity_type": "Run",
+        "distance": 410.6,
+        "average_grade": 2.0,
+        "maximum_grade": 9.2,
+        "elevation_high": 22.2,
+        "elevation_low": 13.4,
+        "start_latlng": [
+          59.899797,
+          10.595025
+        ],
+        "end_latlng": [
+          59.8976,
+          10.589213
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Stabekk",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670776698094,
+      "resource_state": 2,
+      "name": "Sarbuvollveien - Onkel Eriks vei",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 139,
+      "moving_time": 139,
+      "start_date": "2026-05-10T13:01:44Z",
+      "start_date_local": "2026-05-10T15:01:44Z",
+      "distance": 394.6,
+      "start_index": 1030,
+      "end_index": 1067,
+      "average_cadence": 82.0,
+      "device_watts": false,
+      "average_heartrate": 126.6,
+      "max_heartrate": 130.0,
+      "segment": {
+        "id": 8324749,
+        "resource_state": 2,
+        "name": "Sarbuvollveien - Onkel Eriks vei",
+        "activity_type": "Run",
+        "distance": 394.6,
+        "average_grade": -0.5,
+        "maximum_grade": 9.9,
+        "elevation_high": 25.8,
+        "elevation_low": 22.0,
+        "start_latlng": [
+          59.893784,
+          10.58387
+        ],
+        "end_latlng": [
+          59.892365,
+          10.578361
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Høvik",
+        "state": "Akershus",
+        "country": "Kingdom of Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670778224878,
+      "resource_state": 2,
+      "name": "Kyststien fra strand Kajakk til Veritas",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 518,
+      "moving_time": 515,
+      "start_date": "2026-05-10T13:01:45Z",
+      "start_date_local": "2026-05-10T15:01:45Z",
+      "distance": 1379.2,
+      "start_index": 1031,
+      "end_index": 1211,
+      "average_cadence": 80.9,
+      "device_watts": false,
+      "average_heartrate": 128.5,
+      "max_heartrate": 141.0,
+      "segment": {
+        "id": 32505856,
+        "resource_state": 2,
+        "name": "Kyststien fra strand Kajakk til Veritas",
+        "activity_type": "Run",
+        "distance": 1379.2,
+        "average_grade": -0.1,
+        "maximum_grade": 27.7,
+        "elevation_high": 3.6,
+        "elevation_low": -18.8,
+        "start_latlng": [
+          59.893694,
+          10.583874
+        ],
+        "end_latlng": [
+          59.887998,
+          10.565435
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Høvik",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670776205550,
+      "resource_state": 2,
+      "name": "Båtstøjordet - Veritas - Høvikodden",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 846,
+      "moving_time": 843,
+      "start_date": "2026-05-10T13:04:03Z",
+      "start_date_local": "2026-05-10T15:04:03Z",
+      "distance": 2359.4,
+      "start_index": 1067,
+      "end_index": 1329,
+      "average_cadence": 82.7,
+      "device_watts": false,
+      "average_heartrate": 130.1,
+      "max_heartrate": 141.0,
+      "segment": {
+        "id": 12118959,
+        "resource_state": 2,
+        "name": "Båtstøjordet - Veritas - Høvikodden",
+        "activity_type": "Run",
+        "distance": 2359.4,
+        "average_grade": -0.1,
+        "maximum_grade": 49.6,
+        "elevation_high": 25.3,
+        "elevation_low": 0.0,
+        "start_latlng": [
+          59.892394,
+          10.578097
+        ],
+        "end_latlng": [
+          59.891617,
+          10.555234
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Høvik",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670775928046,
+      "resource_state": 2,
+      "name": "Båtstøjordet til Høvikbanen",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 234,
+      "moving_time": 232,
+      "start_date": "2026-05-10T13:04:03Z",
+      "start_date_local": "2026-05-10T15:04:03Z",
+      "distance": 573.6,
+      "start_index": 1067,
+      "end_index": 1160,
+      "average_cadence": 79.3,
+      "device_watts": false,
+      "average_heartrate": 131.9,
+      "max_heartrate": 141.0,
+      "segment": {
+        "id": 41210473,
+        "resource_state": 2,
+        "name": "Båtstøjordet til Høvikbanen",
+        "activity_type": "Run",
+        "distance": 573.6,
+        "average_grade": 3.2,
+        "maximum_grade": 27.5,
+        "elevation_high": 29.8,
+        "elevation_low": 11.2,
+        "start_latlng": [
+          59.892584,
+          10.578049
+        ],
+        "end_latlng": [
+          59.889531,
+          10.570459
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670776627438,
+      "resource_state": 2,
+      "name": "Veritas BIL \"1000 m\" westwards",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 281,
+      "moving_time": 281,
+      "start_date": "2026-05-10T13:09:05Z",
+      "start_date_local": "2026-05-10T15:09:05Z",
+      "distance": 875.7,
+      "start_index": 1192,
+      "end_index": 1258,
+      "average_cadence": 85.1,
+      "device_watts": false,
+      "average_heartrate": 128.5,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 14505559,
+        "resource_state": 2,
+        "name": "Veritas BIL \"1000 m\" westwards",
+        "activity_type": "Run",
+        "distance": 875.7,
+        "average_grade": -0.3,
+        "maximum_grade": 23.5,
+        "elevation_high": -11.8,
+        "elevation_low": -17.8,
+        "start_latlng": [
+          59.888086,
+          10.569172
+        ],
+        "end_latlng": [
+          59.8875,
+          10.554889
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670779727086,
+      "resource_state": 2,
+      "name": "Veritasveien - Sonia Henies vei",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 294,
+      "moving_time": 294,
+      "start_date": "2026-05-10T13:09:41Z",
+      "start_date_local": "2026-05-10T15:09:41Z",
+      "distance": 885.0,
+      "start_index": 1200,
+      "end_index": 1276,
+      "average_cadence": 84.5,
+      "device_watts": false,
+      "average_heartrate": 130.4,
+      "max_heartrate": 140.0,
+      "segment": {
+        "id": 8324823,
+        "resource_state": 2,
+        "name": "Veritasveien - Sonia Henies vei",
+        "activity_type": "Run",
+        "distance": 885.0,
+        "average_grade": 0.7,
+        "maximum_grade": 8.7,
+        "elevation_high": 30.0,
+        "elevation_low": 21.6,
+        "start_latlng": [
+          59.888035,
+          10.567549
+        ],
+        "end_latlng": [
+          59.888026,
+          10.553805
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Kingdom of Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3488548670777294062,
+      "resource_state": 2,
+      "name": "VBIL 400 m vestover",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 127,
+      "moving_time": 127,
+      "start_date": "2026-05-10T13:10:29Z",
+      "start_date_local": "2026-05-10T15:10:29Z",
+      "distance": 393.5,
+      "start_index": 1213,
+      "end_index": 1240,
+      "average_cadence": 85.7,
+      "device_watts": false,
+      "average_heartrate": 131.4,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 38872802,
+        "resource_state": 2,
+        "name": "VBIL 400 m vestover",
+        "activity_type": "Run",
+        "distance": 393.5,
+        "average_grade": 0.2,
+        "maximum_grade": 2.7,
+        "elevation_high": 4.7,
+        "elevation_low": 2.7,
+        "start_latlng": [
+          59.887952,
+          10.565022
+        ],
+        "end_latlng": [
+          59.887746,
+          10.558574
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670778623214,
+      "resource_state": 2,
+      "name": "Veritas BIL 600 m westwards",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 192,
+      "moving_time": 192,
+      "start_date": "2026-05-10T13:10:29Z",
+      "start_date_local": "2026-05-10T15:10:29Z",
+      "distance": 591.366,
+      "start_index": 1213,
+      "end_index": 1256,
+      "average_cadence": 85.3,
+      "device_watts": false,
+      "average_heartrate": 130.4,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 3844107,
+        "resource_state": 2,
+        "name": "Veritas BIL 600 m westwards",
+        "activity_type": "Run",
+        "distance": 591.366,
+        "average_grade": -0.5,
+        "maximum_grade": 14.7,
+        "elevation_high": 7.5,
+        "elevation_low": 0.0,
+        "start_latlng": [
+          59.887907,
+          10.564991
+        ],
+        "end_latlng": [
+          59.887466,
+          10.555188
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3488548670776593646,
+      "resource_state": 2,
+      "name": "Sonia Henies vei - Solvik Marina",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 239,
+      "moving_time": 239,
+      "start_date": "2026-05-10T13:14:35Z",
+      "start_date_local": "2026-05-10T15:14:35Z",
+      "distance": 721.0,
+      "start_index": 1276,
+      "end_index": 1334,
+      "average_cadence": 84.4,
+      "device_watts": false,
+      "average_heartrate": 130.2,
+      "max_heartrate": 138.0,
+      "segment": {
+        "id": 8324838,
+        "resource_state": 2,
+        "name": "Sonia Henies vei - Solvik Marina",
+        "activity_type": "Run",
+        "distance": 721.0,
+        "average_grade": -0.8,
+        "maximum_grade": 7.5,
+        "elevation_high": 28.2,
+        "elevation_low": 21.4,
+        "start_latlng": [
+          59.888146,
+          10.553501
+        ],
+        "end_latlng": [
+          59.891925,
+          10.553934
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Kingdom of Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488548670777142510,
+      "resource_state": 2,
+      "name": "Solvibukta sprint",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 59,
+      "moving_time": 59,
+      "start_date": "2026-05-10T13:19:09Z",
+      "start_date_local": "2026-05-10T15:19:09Z",
+      "distance": 189.8,
+      "start_index": 1343,
+      "end_index": 1354,
+      "average_cadence": 77.1,
+      "device_watts": false,
+      "average_heartrate": 133.6,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 8324845,
+        "resource_state": 2,
+        "name": "Solvibukta sprint",
+        "activity_type": "Run",
+        "distance": 189.8,
+        "average_grade": -0.8,
+        "maximum_grade": 1.7,
+        "elevation_high": 22.0,
+        "elevation_low": 19.4,
+        "start_latlng": [
+          59.891997,
+          10.552478
+        ],
+        "end_latlng": [
+          59.893525,
+          10.551035
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Kingdom of Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1006.3,
+      "elapsed_time": 312,
+      "elevation_difference": -10.2,
+      "moving_time": 312,
+      "split": 1,
+      "average_speed": 3.23,
+      "average_grade_adjusted_speed": 3.17,
+      "average_heartrate": 120.90938511326861,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 313,
+      "elevation_difference": -9.0,
+      "moving_time": 313,
+      "split": 2,
+      "average_speed": 3.2,
+      "average_grade_adjusted_speed": 3.16,
+      "average_heartrate": 127.8626198083067,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1011.1,
+      "elapsed_time": 327,
+      "elevation_difference": 2.8,
+      "moving_time": 327,
+      "split": 3,
+      "average_speed": 3.09,
+      "average_grade_adjusted_speed": 3.16,
+      "average_heartrate": 127.74923547400611,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 371,
+      "elevation_difference": 0.6,
+      "moving_time": 371,
+      "split": 4,
+      "average_speed": 2.7,
+      "average_grade_adjusted_speed": 2.9,
+      "average_heartrate": 128.544474393531,
+      "pace_zone": 1
+    },
+    {
+      "distance": 992.7,
+      "elapsed_time": 344,
+      "elevation_difference": -4.2,
+      "moving_time": 344,
+      "split": 5,
+      "average_speed": 2.89,
+      "average_grade_adjusted_speed": 2.94,
+      "average_heartrate": 128.68023255813952,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1005.0,
+      "elapsed_time": 325,
+      "elevation_difference": -8.6,
+      "moving_time": 325,
+      "split": 6,
+      "average_speed": 3.09,
+      "average_grade_adjusted_speed": 3.09,
+      "average_heartrate": 127.49538461538461,
+      "pace_zone": 1
+    },
+    {
+      "distance": 988.0,
+      "elapsed_time": 319,
+      "elevation_difference": -15.0,
+      "moving_time": 319,
+      "split": 7,
+      "average_speed": 3.1,
+      "average_grade_adjusted_speed": 3.08,
+      "average_heartrate": 127.15987460815047,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1011.2,
+      "elapsed_time": 336,
+      "elevation_difference": -2.6,
+      "moving_time": 336,
+      "split": 8,
+      "average_speed": 3.01,
+      "average_grade_adjusted_speed": 3.01,
+      "average_heartrate": 126.47619047619048,
+      "pace_zone": 1
+    },
+    {
+      "distance": 996.4,
+      "elapsed_time": 321,
+      "elevation_difference": -4.4,
+      "moving_time": 321,
+      "split": 9,
+      "average_speed": 3.1,
+      "average_grade_adjusted_speed": 3.12,
+      "average_heartrate": 128.61875,
+      "pace_zone": 1
+    },
+    {
+      "distance": 992.5,
+      "elapsed_time": 330,
+      "elevation_difference": -0.6,
+      "moving_time": 330,
+      "split": 10,
+      "average_speed": 3.01,
+      "average_grade_adjusted_speed": 3.01,
+      "average_heartrate": 128.23636363636365,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1009.0,
+      "elapsed_time": 335,
+      "elevation_difference": 13.4,
+      "moving_time": 335,
+      "split": 11,
+      "average_speed": 3.01,
+      "average_grade_adjusted_speed": 3.24,
+      "average_heartrate": 130.98805970149255,
+      "pace_zone": 1
+    },
+    {
+      "distance": 991.6,
+      "elapsed_time": 323,
+      "elevation_difference": 4.6,
+      "moving_time": 323,
+      "split": 12,
+      "average_speed": 3.07,
+      "average_grade_adjusted_speed": 3.17,
+      "average_heartrate": 130.1547987616099,
+      "pace_zone": 1
+    },
+    {
+      "distance": 993.7,
+      "elapsed_time": 364,
+      "elevation_difference": 5.0,
+      "moving_time": 364,
+      "split": 13,
+      "average_speed": 2.73,
+      "average_grade_adjusted_speed": 2.87,
+      "average_heartrate": 128.90934065934067,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1006.8,
+      "elapsed_time": 354,
+      "elevation_difference": -17.0,
+      "moving_time": 354,
+      "split": 14,
+      "average_speed": 2.84,
+      "average_grade_adjusted_speed": 2.92,
+      "average_heartrate": 128.67236467236467,
+      "pace_zone": 1
+    },
+    {
+      "distance": 994.9,
+      "elapsed_time": 326,
+      "elevation_difference": 2.8,
+      "moving_time": 326,
+      "split": 15,
+      "average_speed": 3.05,
+      "average_grade_adjusted_speed": 3.15,
+      "average_heartrate": 130.56748466257667,
+      "pace_zone": 1
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 334,
+      "elevation_difference": 18.4,
+      "moving_time": 334,
+      "split": 16,
+      "average_speed": 2.99,
+      "average_grade_adjusted_speed": 3.17,
+      "average_heartrate": 138.14414414414415,
+      "pace_zone": 1
+    },
+    {
+      "distance": 49.5,
+      "elapsed_time": 61,
+      "elevation_difference": 2.0,
+      "moving_time": 20,
+      "split": 17,
+      "average_speed": 2.48,
+      "average_grade_adjusted_speed": 2.83,
+      "average_heartrate": 126.8,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1617.5,
+      "elapsed_time": 502,
+      "elevation_difference": -17.4,
+      "moving_time": 502,
+      "split": 1,
+      "average_speed": 3.22,
+      "average_grade_adjusted_speed": 3.17,
+      "average_heartrate": 122.67334669338678,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1611.5,
+      "elapsed_time": 518,
+      "elevation_difference": 1.4,
+      "moving_time": 518,
+      "split": 2,
+      "average_speed": 3.11,
+      "average_grade_adjusted_speed": 3.15,
+      "average_heartrate": 128.55405405405406,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1603.6,
+      "elapsed_time": 588,
+      "elevation_difference": -1.6,
+      "moving_time": 588,
+      "split": 3,
+      "average_speed": 2.73,
+      "average_grade_adjusted_speed": 2.89,
+      "average_heartrate": 128.2891156462585,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1622.1,
+      "elapsed_time": 520,
+      "elevation_difference": -15.4,
+      "moving_time": 520,
+      "split": 4,
+      "average_speed": 3.12,
+      "average_grade_adjusted_speed": 3.11,
+      "average_heartrate": 128.0653846153846,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1603.7,
+      "elapsed_time": 532,
+      "elevation_difference": -13.8,
+      "moving_time": 532,
+      "split": 5,
+      "average_speed": 3.01,
+      "average_grade_adjusted_speed": 3.0,
+      "average_heartrate": 126.74436090225564,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 518,
+      "elevation_difference": -3.0,
+      "moving_time": 518,
+      "split": 6,
+      "average_speed": 3.1,
+      "average_grade_adjusted_speed": 3.12,
+      "average_heartrate": 128.52417794970987,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1624.8,
+      "elapsed_time": 541,
+      "elevation_difference": 11.8,
+      "moving_time": 541,
+      "split": 7,
+      "average_speed": 3.0,
+      "average_grade_adjusted_speed": 3.14,
+      "average_heartrate": 129.91312384473198,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1585.8,
+      "elapsed_time": 553,
+      "elevation_difference": 8.4,
+      "moving_time": 553,
+      "split": 8,
+      "average_speed": 2.87,
+      "average_grade_adjusted_speed": 3.01,
+      "average_heartrate": 129.4502712477396,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1616.2,
+      "elapsed_time": 565,
+      "elevation_difference": -12.6,
+      "moving_time": 565,
+      "split": 9,
+      "average_speed": 2.86,
+      "average_grade_adjusted_speed": 2.96,
+      "average_heartrate": 129.44306049822063,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1558.8,
+      "elapsed_time": 558,
+      "elevation_difference": 20.2,
+      "moving_time": 517,
+      "split": 10,
+      "average_speed": 3.02,
+      "average_grade_adjusted_speed": 3.16,
+      "average_heartrate": 135.40891472868216,
+      "pace_zone": 1
+    }
+  ],
+  "laps": [
+    {
+      "id": 66020846560,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 5393,
+      "moving_time": 5352,
+      "start_date": "2026-05-10T11:54:58Z",
+      "start_date_local": "2026-05-10T13:54:58Z",
+      "distance": 16050.0,
+      "average_speed": 3.0,
+      "max_speed": 4.543,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1377,
+      "total_elevation_gain": 187.0,
+      "average_cadence": 83.9,
+      "device_watts": false,
+      "average_heartrate": 128.7,
+      "max_heartrate": 147.0,
+      "pace_zone": 1
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 77571913891,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 118,
+      "moving_time": 118,
+      "start_date": "2026-05-10T11:54:58Z",
+      "start_date_local": "2026-05-10T13:54:58Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 17,
+      "end_index": 52
+    },
+    {
+      "id": 77571913892,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 242,
+      "moving_time": 242,
+      "start_date": "2026-05-10T11:54:58Z",
+      "start_date_local": "2026-05-10T13:54:58Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 63,
+      "end_index": 127
+    },
+    {
+      "id": 77571913893,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 304,
+      "moving_time": 304,
+      "start_date": "2026-05-10T11:54:58Z",
+      "start_date_local": "2026-05-10T13:54:58Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 10,
+      "end_index": 95
+    },
+    {
+      "id": 77571913886,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 494,
+      "moving_time": 494,
+      "start_date": "2026-05-10T11:54:58Z",
+      "start_date_local": "2026-05-10T13:54:58Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 10,
+      "end_index": 145
+    },
+    {
+      "id": 77571913887,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 1013,
+      "moving_time": 1013,
+      "start_date": "2026-05-10T11:54:58Z",
+      "start_date_local": "2026-05-10T13:54:58Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 8,
+      "end_index": 281
+    },
+    {
+      "id": 77571913888,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 1628,
+      "moving_time": 1628,
+      "start_date": "2026-05-10T11:54:58Z",
+      "start_date_local": "2026-05-10T13:54:58Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 438,
+      "end_index": 821
+    },
+    {
+      "id": 77571913889,
+      "resource_state": 2,
+      "name": "10K",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 3291,
+      "moving_time": 3291,
+      "start_date": "2026-05-10T11:54:58Z",
+      "start_date_local": "2026-05-10T13:54:58Z",
+      "distance": 10000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 8,
+      "end_index": 846
+    },
+    {
+      "id": 77571913890,
+      "resource_state": 2,
+      "name": "15K",
+      "activity": {
+        "id": 18452587037,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 4996,
+      "moving_time": 4996,
+      "start_date": "2026-05-10T11:54:58Z",
+      "start_date_local": "2026-05-10T13:54:58Z",
+      "distance": 15000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 4,
+      "end_index": 1332
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "2fd959ad3b268c2919eb44648b178f3d327018c2",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 2.9988789237668163,
+    "min_average_speed": 2.9988789237668163,
+    "mid_average_speed": 2.9988789237668163,
+    "max_average_speed": 2.9988789237668163,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.9988789237668163
+      ],
+      "current_activity_index": 0,
+      "min_speed": 2.9988789237668163,
+      "mid_speed": 2.9988789237668163,
+      "max_speed": 2.9988789237668163,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}
