@@ -147,6 +147,21 @@ def save_activity(activity: dict) -> Path:
     return path
 
 
+def _clean_laps(laps: list | None) -> list | None:
+    if not laps:
+        return laps
+    keep = {
+        "lap_index", "name", "elapsed_time", "moving_time", "distance",
+        "start_date_local", "total_elevation_gain",
+        "average_speed", "max_speed",
+        "average_heartrate", "max_heartrate",
+        "average_cadence",
+        "average_watts", "device_watts",
+        "pace_zone",
+    }
+    return [{k: v for k, v in lap.items() if k in keep} for lap in laps]
+
+
 def rebuild_summary() -> int:
     """Rebuild the compact summary index from all detailed JSON files on disk."""
     entries = []
@@ -160,18 +175,32 @@ def rebuild_summary() -> int:
             "sport_type": a.get("sport_type"),
             "start_date": a.get("start_date"),             # UTC
             "start_date_local": a.get("start_date_local"), # athlete's local time
+            "description": a.get("description"),
             "distance_m": a.get("distance"),
             "moving_time_s": a.get("moving_time"),
             "elapsed_time_s": a.get("elapsed_time"),
             "total_elevation_gain_m": a.get("total_elevation_gain"),
+            "elev_high_m": a.get("elev_high"),
+            "elev_low_m": a.get("elev_low"),
             "average_speed_mps": a.get("average_speed"),
             "max_speed_mps": a.get("max_speed"),
             "average_heartrate": a.get("average_heartrate"),
             "max_heartrate": a.get("max_heartrate"),
             "average_cadence": a.get("average_cadence"),
+            "average_watts": a.get("average_watts"),
+            "device_watts": a.get("device_watts"),
+            "kilojoules": a.get("kilojoules"),
+            "calories": a.get("calories"),
+            "average_temp_c": a.get("average_temp"),
             "suffer_score": a.get("suffer_score"),
+            "perceived_exertion": a.get("perceived_exertion"),
             "has_heartrate": a.get("has_heartrate"),
             "workout_type": a.get("workout_type"),
+            "pr_count": a.get("pr_count"),
+            "achievement_count": a.get("achievement_count"),
+            "gear_id": a.get("gear_id"),
+            "splits_metric": a.get("splits_metric"),
+            "laps": _clean_laps(a.get("laps")),
         })
     entries.sort(key=lambda e: e["start_date"] or "", reverse=True)
     SUMMARY_PATH.parent.mkdir(parents=True, exist_ok=True)
