@@ -1,0 +1,1436 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 321503,
+    "resource_state": 1
+  },
+  "name": "Lunch Run",
+  "distance": 10162.8,
+  "moving_time": 4041,
+  "elapsed_time": 4044,
+  "total_elevation_gain": 126.0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 745",
+  "id": 18901728152,
+  "start_date": "2026-06-13T09:55:23Z",
+  "start_date_local": "2026-06-13T11:55:23Z",
+  "timezone": "(GMT+01:00) Europe/Stockholm",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 6,
+  "kudos_count": 8,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a18901728152",
+    "polyline": "avjjJ}ummBLc@Aq@@SAc@Os@g@gAK_@EU?UH]v@y@XO\\?^Kf@_@Xa@P_@J]AkACm@CGWSa@OWASHGPULa@DaA[_@g@]s@QOICk@COGMKOa@WIe@PK?OIa@q@Oo@Gi@Ae@CSCeAN_ARe@TDRANMf@MX?D@ZETS\\IFIVi@Hk@@c@Ku@CcDEWAQB[NSJ]BuAEYQa@AWK_@Ae@Hi@Cm@@uBEk@Me@Au@P{AJGF@TG\\OTSj@_BZg@Nc@BUASBk@K_@Ku@QiBEaAOwAQo@y@KWH_@Bi@h@E@m@Ei@J[Iq@m@C]ISmAe@W@YHWLIVIv@EZEDa@Fg@EACCICuACW?gBQ}B?cAMaAAs@Ec@Ig@IsB@aARcBGi@a@i@MYMg@Ak@Ke@AUDQBEZMNO^EJI^w@Tu@Xc@n@YTa@A]My@Pi@x@gBB}APiDBSPURo@TS^CXGVNTrCNjA\\zBHVRj@d@v@f@`BXd@LLV\\Lh@\\dABdAIzBHxAJfAZlATd@Zh@b@h@Hb@HdAV|@DZ@HMn@Gt@W|@Sd@GZA\\Lh@~@lCLj@Fh@BbAHh@ANELWf@Of@SZIp@A|@Gp@Kl@Gx@?z@Br@Jr@ZxDNXRPFNPHJC^Bn@M~@`@ZJ^ZLRJE`@?F@P?`Bb@r@r@Z|@AZ[pAKJM^_@j@KHQZGVEb@Wt@g@`@C?SGOISGUYIEK@O`@iAvAw@rA}@j@k@p@UTk@z@Ir@Az@Gt@?z@^r@ZXRHLGB?v@v@d@bA`@l@Rh@Dl@Pd@LJ`@Vh@|@Bx@Ef@g@`CYPQRYRYCe@FKDIVGj@Qd@SlAc@vBWf@WFk@Q[_@SaAKmBKs@Me@WaBAg@Pa@^c@VQbAWZQ`@a@T[Vk@D[EqAQs@WMKAWJ_@d@UHWT[EMKSYESYe@e@k@WKg@G]M[k@CA[As@HMQQm@YuAMkAAk@LuAPe@d@?XOPEdAHXO\\YT_@Jc@Ce@Ia@Cg@FqA@k@CsAHa@^m@FWD]@s@ESWk@Iu@Qw@Iq@HuBIs@DcBDq@H_@JWNMXG\\QNWh@iBPW@EE_ASsAAm@a@iEOy@UQWBSNW?WFQPGBSXYB[@c@CyAeCc@O_AGWFILK`@ObAGXKJYDa@YGOOuAIcA@q@Ms@Gs@@sBCOIUGqAD[Eu@K}@?e@NkBB}@Ks@OOO[Ks@Y}@C]B[NMNG\\UNQTu@LUN_@^c@p@e@NW@OEm@@e@BQT{@Za@N_@RaEDSAs@`@cAX[VIh@LR^n@|FZjAJ`@l@dAn@hBLP^ZNRXrAN`@@~AE~BL`CJt@V`ANXPXb@ZHRp@dE?XG\\Ev@u@nC?f@tAhDJd@Fn@@z@Dv@U~@]x@EZIdAKv@U|@GlAD`BXrC@XTrAT\\TJj@?XKt@FTFTPr@^D?~@PR?XDh@ZXENL\\b@JRLXJl@CV}@~BGFSJKJOd@Y`B_@f@m@BQK[e@KGSBq@v@g@dAUXo@f@q@La@n@Wj@i@lBIl@C`AGn@Dp@f@bA\\HT?d@RTVX`@Rb@TVX~@B^J`@TTLH`@`@HRLd@@dA]xCQRm@Zc@Cm@NQJADSfASr@QbASx@AXCNK^KFUC_@QKDHdCMtCDfAGdAKh@AV",
+    "resource_state": 3,
+    "summary_polyline": "esjjJgdnmBf@_@t@yA?qAGu@WSy@Q[ZULa@DaA[}@{A[S{@K]m@WIe@P[Ia@q@Oo@O_CAi@N_ARe@h@Bv@[z@Cr@]^s@Hk@@c@Ku@CcDGi@B[Zq@BuAW{@Mw@Ae@Hi@AcDSqAAu@P{AfA]TSj@_BZg@Ry@@_AWuAg@cGQo@y@Kw@Li@h@}AF[Iq@m@Mq@mAe@iAXSnAK`@kAAKwB?gBQ}B?cAMaAGwAIg@IsB@aARcBGi@o@cAMg@OgBHWj@]j@Ot@mBXc@n@YTa@OwAjAqCNeFHu@PURo@TSx@KVNd@~E\\zBNf@x@fB`@lA~@pAj@nBBdAIzBT`Dp@rB~@rARhB^bBUdBk@bBIx@zAbFTvCG\\{@jBIp@InBSfBBnBf@lFj@z@PHzAMzAl@l@n@fAC`Bb@r@r@Z|@AZ[pAwA|BMz@Wt@k@`@w@Yk@]O`@iAvAw@rA}@j@mBbCSdD?z@z@lAd@@v@v@fApBRh@Dl@Pd@n@b@h@|@Bx@Ef@g@`CeAx@kAHQbAiAjFWf@WFk@Q[_@SaAKmBq@{DAg@p@eAvB{@v@}@Vk@D[EqAQs@c@Ow@p@m@^[Ea@e@eAeB}Aa@_@m@oAFMQ[iA]eC@mAHs@Pe@d@?j@UdAHv@i@T_@Jc@QoBH}BCsAHa@^m@FWFqA]_Ae@_DHuBIs@DcBDq@Tw@fAg@lA_DE_ASsAAm@a@iEOy@UQ{AZm@n@yA@yAeCcBWWFILc@~Be@Pa@YGOOuAIcA@q@UgB@sBMe@GqAD[QsBRoEKs@_@k@Ks@Y}@C]B[lA}@r@kBpAiANWC}@Dw@T{@j@aAXuEAs@`@cAX[VIh@LR^n@|Ff@lBl@dAn@hB|@`Ah@tBC~EXvDf@zAt@t@HRp@dEMnBu@nC?f@tAhDJd@NbDy@tCU|BU|@GlAD`BZlDTrAT\\TJzBC~Ax@rBVh@ZXEx@dAXfACV}@~Bg@^i@fC_@f@m@Bm@q@_@Cq@v@}@~Ao@f@q@Ly@zAi@lBU~CDp@f@bAxA\\xAtBX~@N`AdA`AHRLd@@dA]xC_An@c@CaA`@mAxFEh@K^a@B"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    59.53393,
+    18.097753
+  ],
+  "end_latlng": [
+    59.533745,
+    18.094835
+  ],
+  "average_speed": 2.515,
+  "max_speed": 3.62,
+  "average_cadence": 78.9,
+  "average_temp": 27,
+  "has_heartrate": true,
+  "average_heartrate": 119.9,
+  "max_heartrate": 133.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 55.0,
+  "elev_low": 27.6,
+  "upload_id": 20013942483,
+  "upload_id_str": "20013942483",
+  "external_id": "garmin_ping_584338975306",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 14.0,
+  "description": null,
+  "calories": 721.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3500834332994454950,
+      "resource_state": 2,
+      "name": "Okvista 5 km",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 1956,
+      "moving_time": 1956,
+      "start_date": "2026-06-13T09:55:23Z",
+      "start_date_local": "2026-06-13T11:55:23Z",
+      "distance": 5045.7,
+      "start_index": 0,
+      "end_index": 592,
+      "average_cadence": 78.1,
+      "device_watts": false,
+      "average_heartrate": 118.7,
+      "max_heartrate": 131.0,
+      "segment": {
+        "id": 8270376,
+        "resource_state": 2,
+        "name": "Okvista 5 km",
+        "activity_type": "Run",
+        "distance": 5045.7,
+        "average_grade": 0.0,
+        "maximum_grade": 4.9,
+        "elevation_high": 55.4,
+        "elevation_low": 44.7,
+        "start_latlng": [
+          59.533779,
+          18.097343
+        ],
+        "end_latlng": [
+          59.533648,
+          18.097312
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna",
+        "state": "Stockholm County",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3500834332993880486,
+      "resource_state": 2,
+      "name": "Första kilometern på Okvista 5km",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 387,
+      "moving_time": 387,
+      "start_date": "2026-06-13T09:55:23Z",
+      "start_date_local": "2026-06-13T11:55:23Z",
+      "distance": 1013.4,
+      "start_index": 0,
+      "end_index": 140,
+      "average_cadence": 80.7,
+      "device_watts": false,
+      "average_heartrate": 118.6,
+      "max_heartrate": 131.0,
+      "segment": {
+        "id": 20422509,
+        "resource_state": 2,
+        "name": "Första kilometern på Okvista 5km",
+        "activity_type": "Run",
+        "distance": 1013.4,
+        "average_grade": -0.2,
+        "maximum_grade": 9.9,
+        "elevation_high": 51.8,
+        "elevation_low": 42.6,
+        "start_latlng": [
+          59.533772,
+          18.097633
+        ],
+        "end_latlng": [
+          59.534152,
+          18.107436
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna Norra",
+        "state": "Stockholms län",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3500834332995380646,
+      "resource_state": 2,
+      "name": "Vallentuna IP 5km från Olhamrasidan",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 2037,
+      "moving_time": 2036,
+      "start_date": "2026-06-13T10:11:50Z",
+      "start_date_local": "2026-06-13T12:11:50Z",
+      "distance": 4999.0,
+      "start_index": 321,
+      "end_index": 887,
+      "average_cadence": 77.9,
+      "device_watts": false,
+      "average_heartrate": 119.3,
+      "max_heartrate": 130.0,
+      "segment": {
+        "id": 32022224,
+        "resource_state": 2,
+        "name": "Vallentuna IP 5km från Olhamrasidan",
+        "activity_type": "Run",
+        "distance": 4999.0,
+        "average_grade": 0.0,
+        "maximum_grade": 27.3,
+        "elevation_high": 63.0,
+        "elevation_low": 45.0,
+        "start_latlng": [
+          59.535339,
+          18.123643
+        ],
+        "end_latlng": [
+          59.535426,
+          18.123853
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna",
+        "state": "Stockholm County",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3500834332992699814,
+      "resource_state": 2,
+      "name": "Backen på Elljus",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 60,
+      "moving_time": 60,
+      "start_date": "2026-06-13T10:19:41Z",
+      "start_date_local": "2026-06-13T12:19:41Z",
+      "distance": 98.0,
+      "start_index": 452,
+      "end_index": 473,
+      "average_cadence": 53.3,
+      "device_watts": false,
+      "average_heartrate": 120.4,
+      "max_heartrate": 124.0,
+      "segment": {
+        "id": 8009127,
+        "resource_state": 2,
+        "name": "Backen på Elljus",
+        "activity_type": "Run",
+        "distance": 98.0,
+        "average_grade": 0.8,
+        "maximum_grade": 4.5,
+        "elevation_high": 55.5,
+        "elevation_low": 53.3,
+        "start_latlng": [
+          59.531787,
+          18.10843
+        ],
+        "end_latlng": [
+          59.530995,
+          18.108226
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna",
+        "state": "Stockholm County",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3500834332992725414,
+      "resource_state": 2,
+      "name": "backen på elljus2",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 76,
+      "moving_time": 76,
+      "start_date": "2026-06-13T10:19:41Z",
+      "start_date_local": "2026-06-13T12:19:41Z",
+      "distance": 88.5,
+      "start_index": 452,
+      "end_index": 478,
+      "average_cadence": 57.3,
+      "device_watts": false,
+      "average_heartrate": 119.4,
+      "max_heartrate": 124.0,
+      "segment": {
+        "id": 12596081,
+        "resource_state": 2,
+        "name": "backen på elljus2",
+        "activity_type": "Run",
+        "distance": 88.5,
+        "average_grade": -1.0,
+        "maximum_grade": 3.5,
+        "elevation_high": 55.2,
+        "elevation_low": 52.3,
+        "start_latlng": [
+          59.531796,
+          18.108279
+        ],
+        "end_latlng": [
+          59.530662,
+          18.108049
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna",
+        "state": "Stockholms län",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3500834332993939878,
+      "resource_state": 2,
+      "name": "Sista kilometern på Okvista 5km",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 404,
+      "moving_time": 404,
+      "start_date": "2026-06-13T10:21:15Z",
+      "start_date_local": "2026-06-13T12:21:15Z",
+      "distance": 1039.3,
+      "start_index": 485,
+      "end_index": 592,
+      "average_cadence": 79.8,
+      "device_watts": false,
+      "average_heartrate": 119.9,
+      "max_heartrate": 126.0,
+      "segment": {
+        "id": 23049909,
+        "resource_state": 2,
+        "name": "Sista kilometern på Okvista 5km",
+        "activity_type": "Run",
+        "distance": 1039.3,
+        "average_grade": -1.1,
+        "maximum_grade": 3.5,
+        "elevation_high": 61.6,
+        "elevation_low": 47.8,
+        "start_latlng": [
+          59.530401,
+          18.107267
+        ],
+        "end_latlng": [
+          59.533556,
+          18.097451
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna Södra",
+        "state": "Stockholms län",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3500834332992849318,
+      "resource_state": 2,
+      "name": "Sista 500 m",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 227,
+      "moving_time": 227,
+      "start_date": "2026-06-13T10:24:13Z",
+      "start_date_local": "2026-06-13T12:24:13Z",
+      "distance": 557.5,
+      "start_index": 534,
+      "end_index": 593,
+      "average_cadence": 79.9,
+      "device_watts": false,
+      "average_heartrate": 121.1,
+      "max_heartrate": 126.0,
+      "segment": {
+        "id": 21991778,
+        "resource_state": 2,
+        "name": "Sista 500 m",
+        "activity_type": "Run",
+        "distance": 557.5,
+        "average_grade": 0.2,
+        "maximum_grade": 4.7,
+        "elevation_high": 52.9,
+        "elevation_low": 45.5,
+        "start_latlng": [
+          59.53358,
+          18.103085
+        ],
+        "end_latlng": [
+          59.533726,
+          18.097287
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna Södra",
+        "state": "Stockholms län",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3500834332993600934,
+      "resource_state": 2,
+      "name": "Sista 400 m",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 153,
+      "moving_time": 153,
+      "start_date": "2026-06-13T10:25:18Z",
+      "start_date_local": "2026-06-13T12:25:18Z",
+      "distance": 378.6,
+      "start_index": 551,
+      "end_index": 591,
+      "average_cadence": 80.0,
+      "device_watts": false,
+      "average_heartrate": 121.5,
+      "max_heartrate": 126.0,
+      "segment": {
+        "id": 26630390,
+        "resource_state": 2,
+        "name": "Sista 400 m",
+        "activity_type": "Run",
+        "distance": 378.6,
+        "average_grade": -0.2,
+        "maximum_grade": 3.6,
+        "elevation_high": 52.9,
+        "elevation_low": 47.8,
+        "start_latlng": [
+          59.532455,
+          18.101558
+        ],
+        "end_latlng": [
+          59.533437,
+          18.097262
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna Södra",
+        "state": "Stockholms län",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3500834332994708902,
+      "resource_state": 2,
+      "name": "Okvista 5 km",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 2028,
+      "moving_time": 2024,
+      "start_date": "2026-06-13T10:28:06Z",
+      "start_date_local": "2026-06-13T12:28:06Z",
+      "distance": 5045.7,
+      "start_index": 594,
+      "end_index": 1157,
+      "average_cadence": 79.3,
+      "device_watts": false,
+      "average_heartrate": 121.1,
+      "max_heartrate": 133.0,
+      "segment": {
+        "id": 8270376,
+        "resource_state": 2,
+        "name": "Okvista 5 km",
+        "activity_type": "Run",
+        "distance": 5045.7,
+        "average_grade": 0.0,
+        "maximum_grade": 4.9,
+        "elevation_high": 55.4,
+        "elevation_low": 44.7,
+        "start_latlng": [
+          59.533779,
+          18.097343
+        ],
+        "end_latlng": [
+          59.533648,
+          18.097312
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna",
+        "state": "Stockholm County",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3500834332992980390,
+      "resource_state": 2,
+      "name": "Första kilometern på Okvista 5km",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 415,
+      "moving_time": 415,
+      "start_date": "2026-06-13T10:28:08Z",
+      "start_date_local": "2026-06-13T12:28:08Z",
+      "distance": 1013.4,
+      "start_index": 595,
+      "end_index": 706,
+      "average_cadence": 80.5,
+      "device_watts": false,
+      "average_heartrate": 121.6,
+      "max_heartrate": 130.0,
+      "segment": {
+        "id": 20422509,
+        "resource_state": 2,
+        "name": "Första kilometern på Okvista 5km",
+        "activity_type": "Run",
+        "distance": 1013.4,
+        "average_grade": -0.2,
+        "maximum_grade": 9.9,
+        "elevation_high": 51.8,
+        "elevation_low": 42.6,
+        "start_latlng": [
+          59.533772,
+          18.097633
+        ],
+        "end_latlng": [
+          59.534152,
+          18.107436
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna Norra",
+        "state": "Stockholms län",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3500834332995715494,
+      "resource_state": 2,
+      "name": "Backen på Elljus",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 57,
+      "moving_time": 54,
+      "start_date": "2026-06-13T10:53:43Z",
+      "start_date_local": "2026-06-13T12:53:43Z",
+      "distance": 98.0,
+      "start_index": 1008,
+      "end_index": 1028,
+      "average_cadence": 57.6,
+      "device_watts": false,
+      "average_heartrate": 121.5,
+      "max_heartrate": 125.0,
+      "segment": {
+        "id": 8009127,
+        "resource_state": 2,
+        "name": "Backen på Elljus",
+        "activity_type": "Run",
+        "distance": 98.0,
+        "average_grade": 0.8,
+        "maximum_grade": 4.5,
+        "elevation_high": 55.5,
+        "elevation_low": 53.3,
+        "start_latlng": [
+          59.531787,
+          18.10843
+        ],
+        "end_latlng": [
+          59.530995,
+          18.108226
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna",
+        "state": "Stockholm County",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3500834332995797414,
+      "resource_state": 2,
+      "name": "backen på elljus2",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 80,
+      "moving_time": 77,
+      "start_date": "2026-06-13T10:53:43Z",
+      "start_date_local": "2026-06-13T12:53:43Z",
+      "distance": 88.5,
+      "start_index": 1008,
+      "end_index": 1037,
+      "average_cadence": 57.5,
+      "device_watts": false,
+      "average_heartrate": 120.0,
+      "max_heartrate": 125.0,
+      "segment": {
+        "id": 12596081,
+        "resource_state": 2,
+        "name": "backen på elljus2",
+        "activity_type": "Run",
+        "distance": 88.5,
+        "average_grade": -1.0,
+        "maximum_grade": 3.5,
+        "elevation_high": 55.2,
+        "elevation_low": 52.3,
+        "start_latlng": [
+          59.531796,
+          18.108279
+        ],
+        "end_latlng": [
+          59.530662,
+          18.108049
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna",
+        "state": "Stockholms län",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3500834332995668390,
+      "resource_state": 2,
+      "name": "Sista kilometern på Okvista 5km",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 392,
+      "moving_time": 392,
+      "start_date": "2026-06-13T10:55:19Z",
+      "start_date_local": "2026-06-13T12:55:19Z",
+      "distance": 1039.3,
+      "start_index": 1044,
+      "end_index": 1156,
+      "average_cadence": 83.5,
+      "device_watts": false,
+      "average_heartrate": 123.9,
+      "max_heartrate": 133.0,
+      "segment": {
+        "id": 23049909,
+        "resource_state": 2,
+        "name": "Sista kilometern på Okvista 5km",
+        "activity_type": "Run",
+        "distance": 1039.3,
+        "average_grade": -1.1,
+        "maximum_grade": 3.5,
+        "elevation_high": 61.6,
+        "elevation_low": 47.8,
+        "start_latlng": [
+          59.530401,
+          18.107267
+        ],
+        "end_latlng": [
+          59.533556,
+          18.097451
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna Södra",
+        "state": "Stockholms län",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3500834332995831206,
+      "resource_state": 2,
+      "name": "Sista 500 m",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 222,
+      "moving_time": 222,
+      "start_date": "2026-06-13T10:58:13Z",
+      "start_date_local": "2026-06-13T12:58:13Z",
+      "distance": 557.5,
+      "start_index": 1098,
+      "end_index": 1158,
+      "average_cadence": 83.6,
+      "device_watts": false,
+      "average_heartrate": 125.9,
+      "max_heartrate": 133.0,
+      "segment": {
+        "id": 21991778,
+        "resource_state": 2,
+        "name": "Sista 500 m",
+        "activity_type": "Run",
+        "distance": 557.5,
+        "average_grade": 0.2,
+        "maximum_grade": 4.7,
+        "elevation_high": 52.9,
+        "elevation_low": 45.5,
+        "start_latlng": [
+          59.53358,
+          18.103085
+        ],
+        "end_latlng": [
+          59.533726,
+          18.097287
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna Södra",
+        "state": "Stockholms län",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3500834332996363686,
+      "resource_state": 2,
+      "name": "Sista 400 m",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 150,
+      "moving_time": 150,
+      "start_date": "2026-06-13T10:59:15Z",
+      "start_date_local": "2026-06-13T12:59:15Z",
+      "distance": 378.6,
+      "start_index": 1112,
+      "end_index": 1155,
+      "average_cadence": 83.1,
+      "device_watts": false,
+      "average_heartrate": 127.0,
+      "max_heartrate": 133.0,
+      "segment": {
+        "id": 26630390,
+        "resource_state": 2,
+        "name": "Sista 400 m",
+        "activity_type": "Run",
+        "distance": 378.6,
+        "average_grade": -0.2,
+        "maximum_grade": 3.6,
+        "elevation_high": 52.9,
+        "elevation_low": 47.8,
+        "start_latlng": [
+          59.532455,
+          18.101558
+        ],
+        "end_latlng": [
+          59.533437,
+          18.097262
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vallentuna Södra",
+        "state": "Stockholms län",
+        "country": "Sweden",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": true
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1005.0,
+      "elapsed_time": 376,
+      "elevation_difference": 2.0,
+      "moving_time": 376,
+      "split": 1,
+      "average_speed": 2.67,
+      "average_grade_adjusted_speed": 2.76,
+      "average_heartrate": 118.56914893617021,
+      "pace_zone": 1
+    },
+    {
+      "distance": 995.1,
+      "elapsed_time": 367,
+      "elevation_difference": -4.0,
+      "moving_time": 367,
+      "split": 2,
+      "average_speed": 2.71,
+      "average_grade_adjusted_speed": 2.74,
+      "average_heartrate": 120.28337874659401,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1004.5,
+      "elapsed_time": 390,
+      "elevation_difference": -4.8,
+      "moving_time": 390,
+      "split": 3,
+      "average_speed": 2.58,
+      "average_grade_adjusted_speed": 2.59,
+      "average_heartrate": 118.61538461538461,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1010.6,
+      "elapsed_time": 443,
+      "elevation_difference": 4.6,
+      "moving_time": 443,
+      "split": 4,
+      "average_speed": 2.28,
+      "average_grade_adjusted_speed": 2.38,
+      "average_heartrate": 116.3431151241535,
+      "pace_zone": 1
+    },
+    {
+      "distance": 986.4,
+      "elapsed_time": 381,
+      "elevation_difference": -9.8,
+      "moving_time": 381,
+      "split": 5,
+      "average_speed": 2.59,
+      "average_grade_adjusted_speed": 2.58,
+      "average_heartrate": 119.9501312335958,
+      "pace_zone": 1
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 394,
+      "elevation_difference": -3.8,
+      "moving_time": 394,
+      "split": 6,
+      "average_speed": 2.54,
+      "average_grade_adjusted_speed": 2.56,
+      "average_heartrate": 121.50253807106598,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1004.0,
+      "elapsed_time": 407,
+      "elevation_difference": 0.6,
+      "moving_time": 407,
+      "split": 7,
+      "average_speed": 2.47,
+      "average_grade_adjusted_speed": 2.52,
+      "average_heartrate": 120.64127764127764,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1013.0,
+      "elapsed_time": 420,
+      "elevation_difference": 3.2,
+      "moving_time": 420,
+      "split": 8,
+      "average_speed": 2.41,
+      "average_grade_adjusted_speed": 2.48,
+      "average_heartrate": 119.70644391408115,
+      "pace_zone": 1
+    },
+    {
+      "distance": 986.8,
+      "elapsed_time": 433,
+      "elevation_difference": 11.6,
+      "moving_time": 430,
+      "split": 9,
+      "average_speed": 2.29,
+      "average_grade_adjusted_speed": 2.47,
+      "average_heartrate": 120.0093023255814,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1007.8,
+      "elapsed_time": 377,
+      "elevation_difference": -11.2,
+      "moving_time": 377,
+      "split": 10,
+      "average_speed": 2.67,
+      "average_grade_adjusted_speed": 2.65,
+      "average_heartrate": 124.09283819628648,
+      "pace_zone": 1
+    },
+    {
+      "distance": 150.6,
+      "elapsed_time": 56,
+      "elevation_difference": -6.4,
+      "moving_time": 56,
+      "split": 11,
+      "average_speed": 2.69,
+      "average_grade_adjusted_speed": 2.48,
+      "average_heartrate": 119.69642857142857,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1625.6,
+      "elapsed_time": 607,
+      "elevation_difference": -2.0,
+      "moving_time": 607,
+      "split": 1,
+      "average_speed": 2.68,
+      "average_grade_adjusted_speed": 2.74,
+      "average_heartrate": 119.42504118616145,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1593.2,
+      "elapsed_time": 622,
+      "elevation_difference": -4.8,
+      "moving_time": 622,
+      "split": 2,
+      "average_speed": 2.56,
+      "average_grade_adjusted_speed": 2.58,
+      "average_heartrate": 118.20418006430869,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1618.7,
+      "elapsed_time": 667,
+      "elevation_difference": 1.0,
+      "moving_time": 667,
+      "split": 3,
+      "average_speed": 2.43,
+      "average_grade_adjusted_speed": 2.5,
+      "average_heartrate": 118.52173913043478,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 636,
+      "elevation_difference": -5.2,
+      "moving_time": 636,
+      "split": 4,
+      "average_speed": 2.53,
+      "average_grade_adjusted_speed": 2.56,
+      "average_heartrate": 120.72641509433963,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1601.5,
+      "elapsed_time": 659,
+      "elevation_difference": -0.4,
+      "moving_time": 659,
+      "split": 5,
+      "average_speed": 2.43,
+      "average_grade_adjusted_speed": 2.48,
+      "average_heartrate": 120.1033434650456,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1614.1,
+      "elapsed_time": 667,
+      "elevation_difference": 3.8,
+      "moving_time": 664,
+      "split": 6,
+      "average_speed": 2.43,
+      "average_grade_adjusted_speed": 2.54,
+      "average_heartrate": 121.04969879518072,
+      "pace_zone": 1
+    },
+    {
+      "distance": 500.8,
+      "elapsed_time": 186,
+      "elevation_difference": -10.4,
+      "moving_time": 186,
+      "split": 7,
+      "average_speed": 2.69,
+      "average_grade_adjusted_speed": 2.59,
+      "average_heartrate": 124.68817204301075,
+      "pace_zone": 1
+    }
+  ],
+  "laps": [
+    {
+      "id": 67588257388,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 4044,
+      "moving_time": 4044,
+      "start_date": "2026-06-13T09:55:23Z",
+      "start_date_local": "2026-06-13T11:55:23Z",
+      "distance": 10163.1,
+      "average_speed": 2.51,
+      "max_speed": 3.62,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1122,
+      "total_elevation_gain": 147.2,
+      "average_cadence": 78.9,
+      "device_watts": false,
+      "average_heartrate": 119.9,
+      "max_heartrate": 133.0,
+      "pace_zone": 1
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 79424286698,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 145,
+      "moving_time": 145,
+      "start_date": "2026-06-13T09:55:23Z",
+      "start_date_local": "2026-06-13T11:55:23Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 137,
+      "end_index": 182
+    },
+    {
+      "id": 79424286699,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 296,
+      "moving_time": 296,
+      "start_date": "2026-06-13T09:55:23Z",
+      "start_date_local": "2026-06-13T11:55:23Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 63,
+      "end_index": 163
+    },
+    {
+      "id": 79424286700,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 365,
+      "moving_time": 365,
+      "start_date": "2026-06-13T09:55:23Z",
+      "start_date_local": "2026-06-13T11:55:23Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 62,
+      "end_index": 183
+    },
+    {
+      "id": 79424286694,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 592,
+      "moving_time": 592,
+      "start_date": "2026-06-13T09:55:23Z",
+      "start_date_local": "2026-06-13T11:55:23Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 63,
+      "end_index": 249
+    },
+    {
+      "id": 79424286695,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 1228,
+      "moving_time": 1228,
+      "start_date": "2026-06-13T09:55:23Z",
+      "start_date_local": "2026-06-13T11:55:23Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1,
+      "end_index": 394
+    },
+    {
+      "id": 79424286696,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 1954,
+      "moving_time": 1954,
+      "start_date": "2026-06-13T09:55:23Z",
+      "start_date_local": "2026-06-13T11:55:23Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 3,
+      "end_index": 594
+    },
+    {
+      "id": 79424286697,
+      "resource_state": 2,
+      "name": "10K",
+      "activity": {
+        "id": 18901728152,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "resource_state": 1
+      },
+      "elapsed_time": 3982,
+      "moving_time": 3982,
+      "start_date": "2026-06-13T09:55:23Z",
+      "start_date_local": "2026-06-13T11:55:23Z",
+      "distance": 10000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1,
+      "end_index": 1156
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "7110a8c6f0c1f8b0790166617df582526e9b0a18",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 2.514922048997773,
+    "min_average_speed": 2.514922048997773,
+    "mid_average_speed": 2.514922048997773,
+    "max_average_speed": 2.514922048997773,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.514922048997773
+      ],
+      "current_activity_index": 0,
+      "min_speed": 2.514922048997773,
+      "mid_speed": 2.514922048997773,
+      "max_speed": 2.514922048997773,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}
