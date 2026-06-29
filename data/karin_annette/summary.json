@@ -1,5 +1,67 @@
 [
   {
+    "id": 19105199556,
+    "name": "Treningsøkt ved lunsjtider",
+    "type": "Workout",
+    "sport_type": "Workout",
+    "start_date": "2026-06-28T09:13:25Z",
+    "start_date_local": "2026-06-28T11:13:25Z",
+    "description": null,
+    "distance_m": 397.5,
+    "moving_time_s": 550,
+    "elapsed_time_s": 2106,
+    "total_elevation_gain_m": 0.0,
+    "elev_high_m": 141.8,
+    "elev_low_m": 141.7,
+    "average_speed_mps": 0.723,
+    "max_speed_mps": 1.583,
+    "average_heartrate": 62.0,
+    "max_heartrate": 81.0,
+    "average_cadence": 61.5,
+    "average_watts": null,
+    "device_watts": null,
+    "kilojoules": null,
+    "calories": 36.0,
+    "average_temp_c": null,
+    "suffer_score": 0.0,
+    "perceived_exertion": null,
+    "has_heartrate": true,
+    "workout_type": null,
+    "pr_count": 0,
+    "achievement_count": 0,
+    "gear_id": null,
+    "splits_metric": [
+      {
+        "distance": 397.9,
+        "elapsed_time": 2106,
+        "elevation_difference": -0.1,
+        "moving_time": 550,
+        "split": 1,
+        "average_speed": 0.19,
+        "average_grade_adjusted_speed": 0.19,
+        "average_heartrate": 61.96867469879518,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "name": "Lap 1",
+        "elapsed_time": 2106,
+        "moving_time": 2106,
+        "start_date_local": "2026-06-28T11:13:25Z",
+        "distance": 397.86,
+        "average_speed": 0.19,
+        "max_speed": 1.583,
+        "lap_index": 1,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 61.5,
+        "device_watts": false,
+        "average_heartrate": 62.0,
+        "max_heartrate": 81.0
+      }
+    ]
+  },
+  {
     "id": 19095377959,
     "name": "Treningsøkt om morgenen",
     "type": "Workout",
