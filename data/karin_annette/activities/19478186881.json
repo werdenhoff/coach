@@ -1,0 +1,292 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "id_str": "13108506",
+    "resource_state": 1
+  },
+  "name": "Ettermiddag med løping",
+  "distance": 745.8,
+  "moving_time": 322,
+  "elapsed_time": 334,
+  "total_elevation_gain": 22.1,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 235",
+  "id": 19478186881,
+  "id_str": "19478186881",
+  "start_date": "2026-07-26T15:27:58Z",
+  "start_date_local": "2026-07-26T17:27:58Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a19478186881",
+    "polyline": "ypslJyfm_Ad@K^`@tAlDZr@Rj@\\v@Vx@t@jBv@dBx@vAD?YqB?YGg@BcCAi@FgATsAVU|@WVQFIXk@n@y@XW`@Yd@UhAQr@Sn@I",
+    "resource_state": 3,
+    "summary_polyline": "ypslJyfm_Ad@K^`@tAlDZr@Rj@\\v@Vx@t@jBv@dBx@vAD?YqB?YGg@BcCAi@FgATsAVU|@WVQFIXk@n@y@XW`@Yd@UhAQr@Sn@I"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "g28225025",
+  "start_latlng": [
+    59.906852,
+    10.558694
+  ],
+  "end_latlng": [
+    59.902387,
+    10.559206
+  ],
+  "average_speed": 2.316,
+  "max_speed": 3.318,
+  "average_cadence": 79.6,
+  "has_heartrate": true,
+  "average_heartrate": 158.9,
+  "max_heartrate": 175.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 31.7,
+  "elev_low": 9.1,
+  "upload_id": 20600301933,
+  "upload_id_str": "20600301933",
+  "external_id": "garmin_ping_604319195706",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 17.0,
+  "description": null,
+  "calories": 56.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3516562347866455080,
+      "resource_state": 2,
+      "name": "Bakken",
+      "activity": {
+        "id": 19478186881,
+        "id_str": "19478186881",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 179,
+      "moving_time": 165,
+      "start_date": "2026-07-26T15:29:55Z",
+      "start_date_local": "2026-07-26T17:29:55Z",
+      "distance": 318.0,
+      "start_index": 30,
+      "end_index": 76,
+      "average_cadence": 70.1,
+      "device_watts": false,
+      "average_heartrate": 157.8,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 11280693,
+        "resource_state": 2,
+        "name": "Bakken",
+        "activity_type": "Run",
+        "distance": 318.0,
+        "average_grade": 7.6,
+        "maximum_grade": 12.8,
+        "elevation_high": 44.0,
+        "elevation_low": 19.8,
+        "start_latlng": [
+          59.904724,
+          10.555164
+        ],
+        "end_latlng": [
+          59.903314,
+          10.558976
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sandvika",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 745.8,
+      "elapsed_time": 334,
+      "elevation_difference": 19.0,
+      "moving_time": 322,
+      "split": 1,
+      "average_speed": 2.32,
+      "average_grade_adjusted_speed": 2.58,
+      "average_heartrate": 158.87774294670845,
+      "pace_zone": 2
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 745.8,
+      "elapsed_time": 334,
+      "elevation_difference": 19.0,
+      "moving_time": 322,
+      "split": 1,
+      "average_speed": 2.32,
+      "average_grade_adjusted_speed": 2.58,
+      "average_heartrate": 158.87774294670845,
+      "pace_zone": 2
+    }
+  ],
+  "laps": [
+    {
+      "id": 69581410675,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 19478186881,
+        "id_str": "19478186881",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 334,
+      "moving_time": 334,
+      "start_date": "2026-07-26T15:27:58Z",
+      "start_date_local": "2026-07-26T17:27:58Z",
+      "distance": 745.85,
+      "average_speed": 2.23,
+      "max_speed": 3.318,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 82,
+      "total_elevation_gain": 22.1,
+      "average_cadence": 79.6,
+      "device_watts": false,
+      "average_heartrate": 158.9,
+      "max_heartrate": 175.0,
+      "pace_zone": 1
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 81675597162,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 19478186881,
+        "id_str": "19478186881",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 176,
+      "moving_time": 176,
+      "start_date": "2026-07-26T15:27:58Z",
+      "start_date_local": "2026-07-26T17:27:58Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1,
+      "end_index": 42
+    }
+  ],
+  "gear": {
+    "id": "g28225025",
+    "primary": false,
+    "name": "New Balance WRCXCS4",
+    "nickname": null,
+    "resource_state": 2,
+    "retired": false,
+    "distance": 197816,
+    "converted_distance": 197.8
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "1a1262f7e193912be1e217168d79eb3ec25d9f90",
+  "similar_activities": {
+    "effort_count": 2,
+    "average_speed": 2.4783163265306123,
+    "min_average_speed": 2.3161490683229813,
+    "mid_average_speed": 2.44602965791759,
+    "max_average_speed": 2.5913419913419915,
+    "pr_rank": 2,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.5913419913419915,
+        2.44602965791759
+      ],
+      "current_activity_index": 1,
+      "min_speed": 2.3161490683229813,
+      "mid_speed": 2.44602965791759,
+      "max_speed": 2.5913419913419915,
+      "direction": -1
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}
