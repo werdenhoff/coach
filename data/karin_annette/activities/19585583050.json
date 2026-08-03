@@ -1,0 +1,146 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "id_str": "13108506",
+    "resource_state": 1
+  },
+  "name": "Hyrox på Sats",
+  "distance": 0.0,
+  "moving_time": 2893,
+  "elapsed_time": 2893,
+  "total_elevation_gain": 0,
+  "type": "Workout",
+  "sport_type": "HighIntensityIntervalTraining",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 235",
+  "id": 19585583050,
+  "id_str": "19585583050",
+  "start_date": "2026-08-03T16:26:47Z",
+  "start_date_local": "2026-08-03T18:26:47Z",
+  "timezone": "(GMT+01:00) Europe/Stockholm",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 5,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a19585583050",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.0,
+  "max_speed": 0.0,
+  "average_cadence": 65.0,
+  "has_heartrate": true,
+  "average_heartrate": 136.1,
+  "max_heartrate": 176.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "upload_id": 20711244245,
+  "upload_id_str": "20711244245",
+  "external_id": "garmin_ping_608107933024",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 69.0,
+  "description": "Første gang på Hyrox - det likte jeg! Med Tonia, Christine og Gro 💪🏼",
+  "calories": 360.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "laps": [
+    {
+      "id": 69947866624,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 19585583050,
+        "id_str": "19585583050",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 2892,
+      "moving_time": 2892,
+      "start_date": "2026-08-03T16:26:47Z",
+      "start_date_local": "2026-08-03T18:26:47Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1033,
+      "total_elevation_gain": 0,
+      "average_cadence": 65.0,
+      "device_watts": false,
+      "average_heartrate": 136.1,
+      "max_heartrate": 176.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "2E68139B-E5A0-40BC-A474-26A52BDD509B",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/jTaA8yulwj0IxzytK25STsKa2dDsse4jW59wHe04I4Q-768x576.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/jTaA8yulwj0IxzytK25STsKa2dDsse4jW59wHe04I4Q-128x96.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "0db246f3fa58159b932b23952b5b1e16687b9a9e",
+  "available_zones": [
+    "heartrate"
+  ]
+}
