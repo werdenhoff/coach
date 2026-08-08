@@ -1,0 +1,194 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "id_str": "13108506",
+    "resource_state": 1
+  },
+  "name": "Oppvarming før intervall",
+  "distance": 356.9,
+  "moving_time": 437,
+  "elapsed_time": 437,
+  "total_elevation_gain": 0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 235",
+  "id": 19650127764,
+  "id_str": "19650127764",
+  "start_date": "2026-08-08T07:53:06Z",
+  "start_date_local": "2026-08-08T09:53:06Z",
+  "timezone": "(GMT+01:00) Europe/Stockholm",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 1,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a19650127764",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "g28225025",
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.817,
+  "max_speed": 1.5,
+  "average_cadence": 58.0,
+  "has_heartrate": true,
+  "average_heartrate": 91.7,
+  "max_heartrate": 104.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "upload_id": 20778341616,
+  "upload_id_str": "20778341616",
+  "external_id": "garmin_ping_610325080932",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 1.0,
+  "description": "",
+  "calories": 28.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 356.9,
+      "elapsed_time": 437,
+      "elevation_difference": null,
+      "moving_time": 437,
+      "split": 1,
+      "average_speed": 0.82,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 91.69794050343249,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 356.9,
+      "elapsed_time": 437,
+      "elevation_difference": null,
+      "moving_time": 437,
+      "split": 1,
+      "average_speed": 0.82,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 91.69794050343249,
+      "pace_zone": 1
+    }
+  ],
+  "laps": [
+    {
+      "id": 70166345550,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 19650127764,
+        "id_str": "19650127764",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 436,
+      "moving_time": 436,
+      "start_date": "2026-08-08T07:53:06Z",
+      "start_date_local": "2026-08-08T09:53:06Z",
+      "distance": 356.92,
+      "average_speed": 0.82,
+      "max_speed": 1.5,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 31,
+      "total_elevation_gain": 0,
+      "average_cadence": 58.0,
+      "device_watts": false,
+      "average_heartrate": 91.7,
+      "max_heartrate": 104.0,
+      "pace_zone": 1
+    }
+  ],
+  "best_efforts": [],
+  "gear": {
+    "id": "g28225025",
+    "primary": false,
+    "name": "New Balance WRCXCS4",
+    "nickname": null,
+    "resource_state": 2,
+    "retired": false,
+    "distance": 203205,
+    "converted_distance": 203.2
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "2222e46116af056fe2524a901d511152051ce4cc",
+  "similar_activities": {
+    "effort_count": 0,
+    "average_speed": 0,
+    "min_average_speed": 0,
+    "mid_average_speed": 0,
+    "max_average_speed": 0,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [],
+      "current_activity_index": null,
+      "min_speed": 0,
+      "mid_speed": 0,
+      "max_speed": 0,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}
