@@ -1,0 +1,337 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "id_str": "13108506",
+    "resource_state": 1
+  },
+  "name": "Ettermiddag med sykkeltur",
+  "distance": 3012.9,
+  "moving_time": 488,
+  "elapsed_time": 571,
+  "total_elevation_gain": 31.9,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 235",
+  "id": 19682649874,
+  "id_str": "19682649874",
+  "start_date": "2026-08-10T15:17:04Z",
+  "start_date_local": "2026-08-10T17:17:04Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a19682649874",
+    "polyline": "c_tlJovu_Aa@f@IXED@H^L\\Dh@Bl@CVJPhBHvDFv@RdA`@~AL\\Rx@ZxAHjAApH^zElAtDh@tE`@~Ef@|Ef@`BB`@Pp@Nz@XnDz@~D\\v@T^hCjDrAfD`AtDVbCA@?P^vFZpCn@bDTx@hAfDd@fBj@vEXtFJ~C@z@ExBUbBAXDfBp@hHZfEM~PHbDbA|DnAjDl@fCtAdLv@`E~@bEv@xDn@dEHzACb@OJOGyCaDoAfC?V",
+    "resource_state": 3,
+    "summary_polyline": "c_tlJovu_Aa@f@IXED@H^L\\Dh@Bl@CVJPhBHvDFv@RdA`@~AL\\Rx@ZxAHjAApH^zElAtDh@tE`@~Ef@|Ef@`BB`@Pp@Nz@XnDz@~D\\v@T^hCjDrAfD`AtDVbCA@?P^vFZpCn@bDTx@hAfDd@fBj@vEd@tK@z@ExBUbBAXDfBp@hHZfEM~PHbDbA|DnAjDl@fCtAdLv@`E~@bEv@xDn@dEHzA"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    59.909147,
+    10.602168
+  ],
+  "end_latlng": [
+    59.900856,
+    10.559142
+  ],
+  "average_speed": 6.174,
+  "max_speed": 9.409,
+  "average_watts": 94.9,
+  "device_watts": false,
+  "kilojoules": 46.3,
+  "has_heartrate": true,
+  "average_heartrate": 117.8,
+  "max_heartrate": 152.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 48.0,
+  "elev_low": 30.7,
+  "upload_id": 20812227085,
+  "upload_id_str": "20812227085",
+  "external_id": "garmin_ping_611450237829",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 5.0,
+  "description": null,
+  "calories": 63.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3521918678059332834,
+      "resource_state": 2,
+      "name": "Gml Drammensvei (Stabæk → Høvikvn)",
+      "activity": {
+        "id": 19682649874,
+        "id_str": "19682649874",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 313,
+      "moving_time": 255,
+      "start_date": "2026-08-10T15:17:51Z",
+      "start_date_local": "2026-08-10T17:17:51Z",
+      "distance": 1618.11,
+      "start_index": 19,
+      "end_index": 93,
+      "device_watts": false,
+      "average_heartrate": 109.4,
+      "max_heartrate": 143.0,
+      "segment": {
+        "id": 1552533,
+        "resource_state": 2,
+        "name": "Gml Drammensvei (Stabæk → Høvikvn)",
+        "activity_type": "Ride",
+        "distance": 1618.11,
+        "average_grade": 0.1,
+        "maximum_grade": 8.8,
+        "elevation_high": 27.2,
+        "elevation_low": 13.8,
+        "start_latlng": [
+          59.90840904414654,
+          10.60121688991785
+        ],
+        "end_latlng": [
+          59.90230928175151,
+          10.576054835692048
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Stabekk",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3521918678060293346,
+      "resource_state": 2,
+      "name": "Bakke ved Terrasseveien",
+      "activity": {
+        "id": 19682649874,
+        "id_str": "19682649874",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 136,
+      "moving_time": 78,
+      "start_date": "2026-08-10T15:20:17Z",
+      "start_date_local": "2026-08-10T17:20:17Z",
+      "distance": 422.9,
+      "start_index": 57,
+      "end_index": 83,
+      "device_watts": false,
+      "average_heartrate": 109.2,
+      "max_heartrate": 120.0,
+      "segment": {
+        "id": 13462352,
+        "resource_state": 2,
+        "name": "Bakke ved Terrasseveien",
+        "activity_type": "Ride",
+        "distance": 422.9,
+        "average_grade": 4.5,
+        "maximum_grade": 13.0,
+        "elevation_high": 55.5,
+        "elevation_low": 36.3,
+        "start_latlng": [
+          59.904938,
+          10.586762
+        ],
+        "end_latlng": [
+          59.903066,
+          10.580387
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Stabekk",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1009.7,
+      "elapsed_time": 181,
+      "elevation_difference": -4.3,
+      "moving_time": 181,
+      "split": 1,
+      "average_speed": 5.58,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 94.37288135593221,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1016.9,
+      "elapsed_time": 213,
+      "elevation_difference": 4.4,
+      "moving_time": 155,
+      "split": 2,
+      "average_speed": 6.56,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 121.2258064516129,
+      "pace_zone": 0
+    },
+    {
+      "distance": 979.7,
+      "elapsed_time": 152,
+      "elevation_difference": -9.0,
+      "moving_time": 152,
+      "split": 3,
+      "average_speed": 6.45,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 141.7171052631579,
+      "pace_zone": 0
+    },
+    {
+      "distance": 6.6,
+      "elapsed_time": 25,
+      "elevation_difference": 0.1,
+      "moving_time": 0,
+      "split": 4,
+      "average_speed": 6.6,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 0,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1646.4,
+      "elapsed_time": 344,
+      "elevation_difference": 1.3,
+      "moving_time": 286,
+      "split": 1,
+      "average_speed": 5.76,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 100.91134751773049,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1366.5,
+      "elapsed_time": 227,
+      "elevation_difference": -10.1,
+      "moving_time": 202,
+      "split": 2,
+      "average_speed": 6.76,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 141.47524752475246,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 70284329777,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 19682649874,
+        "id_str": "19682649874",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 570,
+      "moving_time": 570,
+      "start_date": "2026-08-10T15:17:04Z",
+      "start_date_local": "2026-08-10T17:17:04Z",
+      "distance": 3012.89,
+      "average_speed": 5.29,
+      "max_speed": 9.409,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 126,
+      "total_elevation_gain": 31.9,
+      "device_watts": false,
+      "average_watts": 94.9,
+      "average_heartrate": 117.8,
+      "max_heartrate": 152.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "13c5193d5939133ea8995549cc0de124ec8de912",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}
