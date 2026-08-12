@@ -1,0 +1,868 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "id_str": "13108506",
+    "resource_state": 1
+  },
+  "name": "Ettermiddag med sykkeltur",
+  "distance": 5814.3,
+  "moving_time": 1516,
+  "elapsed_time": 1642,
+  "total_elevation_gain": 68.5,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 235",
+  "id": 19713730737,
+  "id_str": "19713730737",
+  "start_date": "2026-08-11T13:52:26Z",
+  "start_date_local": "2026-08-11T15:52:26Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 7,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a19713730737",
+    "polyline": "_|tlJ{m~_AkAn@{@kBw@eDWmBw@iEO{B@}BFgBCoBg@yGEw@E{BI{@i@gCqAmCg@{Am@wEGw@kCoRgBsKs@yE_@yE@URqA?k@Gq@o@_Ec@cFi@iCiDgNqCsKk@uICk@BmAAu@AC]Ee@c@GOq@yAU{@_@e@Ic@k@eIMa@_BgBMWs@i@WAMSiAaDI]@gAj@gEJ}B@LSv@]zE_AhAAU~@cE~@iJdA{LUeBqAiCkA}CmBoD}AyBcDgEiDwDEOM}ASa@k@ZSlAMJMEyAaBK?m@[C?X{@XmCs@_ALyEk@mEwAqJe@iEMkECI]g@yBkQUiCBe@Hc@~@_En@kDPgFHeAp@sEdCyJ~@}Dd@{A?G\\gBAMSQqAgCGq@F_@f@eBD_@Au@Yc@{@cAcA{BeAkDiAcG?EbBaB|@oDQ_A{A_@_@TBB?HE?@TDG?IHFHb@DFEYWGIFRYRHAXDTABBA?DGOA@@EAA?DEDC??DC@KGC@?@BDP?VFCOh@b@GFm@u@?PDT",
+    "resource_state": 3,
+    "summary_polyline": "_|tlJ{m~_AkAn@{@kBw@eDWmBw@iEO{B@}BFgBCoBg@yGEw@E{BI{@i@gCqAmCg@{Am@wEGw@kCoRgBsKs@yE_@yE@URqA?k@Gq@o@_Ec@cFi@iCiDgNqCsKk@uICk@BmAAu@AC]Ee@c@GOq@yAU{@_@e@Ic@k@eIMa@_BgBMWs@i@WAMSiAaDI]@gAj@gEJ}B@LSv@]zE_AhAAU~@cE~@iJdA{LUeBqAiCkA}CmBoD}AyBcDgEiDwDEOM}ASa@k@ZSlAMJMEyAaBK?m@[C?X{@XmCs@_ALyEk@mEwAqJe@iEMkECI]g@yBkQUiCBe@Hc@~@_En@kDPgFHeAp@sEdCyJ~@}Dd@{A?G\\gBAMSQqAgCGq@F_@f@eBD_@Au@Yc@{@cAcA{BeAkDiAcG?EbBaB|@oDQ_A{A_@_@TBB?HE?@TDG?IHFHb@DFEYWGIFRYRHAXDTABBA?DGOA@@EAA?DEDC??DC@KGC@?@BDP?VFCOh@b@GFm@u@?PDT"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    59.913762,
+    10.646865
+  ],
+  "end_latlng": [
+    59.928463,
+    10.719049
+  ],
+  "average_speed": 3.835,
+  "max_speed": 8.957,
+  "average_watts": 64.3,
+  "device_watts": false,
+  "kilojoules": 97.4,
+  "has_heartrate": true,
+  "average_heartrate": 135.1,
+  "max_heartrate": 157.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 54.7,
+  "elev_low": 2.1,
+  "upload_id": 20844396473,
+  "upload_id_str": "20844396473",
+  "external_id": "garmin_ping_612453447745",
+  "from_accepted_tag": false,
+  "pr_count": 1,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 38.0,
+  "description": null,
+  "calories": 202.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3522664607085626738,
+      "resource_state": 2,
+      "name": "Du er den eneste som kjenner deg selv dårligere enn meg (bHakkeSphrurt)",
+      "activity": {
+        "id": 19713730737,
+        "id_str": "19713730737",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 32,
+      "moving_time": 32,
+      "start_date": "2026-08-11T13:53:41Z",
+      "start_date_local": "2026-08-11T15:53:41Z",
+      "distance": 190.6,
+      "start_index": 13,
+      "end_index": 19,
+      "device_watts": false,
+      "average_heartrate": 101.2,
+      "max_heartrate": 105.0,
+      "segment": {
+        "id": 7660021,
+        "resource_state": 2,
+        "name": "Du er den eneste som kjenner deg selv dårligere enn meg (bHakkeSphrurt)",
+        "activity_type": "Ride",
+        "distance": 190.6,
+        "average_grade": 2.3,
+        "maximum_grade": 7.9,
+        "elevation_high": 28.2,
+        "elevation_low": 21.2,
+        "start_latlng": [
+          59.914211,
+          10.646829
+        ],
+        "end_latlng": [
+          59.915203,
+          10.64957
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "0890 Oslo, Norway",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3522664607083546994,
+      "resource_state": 2,
+      "name": "Bakkespurt2",
+      "activity": {
+        "id": 19713730737,
+        "id_str": "19713730737",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 39,
+      "moving_time": 39,
+      "start_date": "2026-08-11T13:53:48Z",
+      "start_date_local": "2026-08-11T15:53:48Z",
+      "distance": 273.7,
+      "start_index": 14,
+      "end_index": 26,
+      "device_watts": false,
+      "average_heartrate": 108.5,
+      "max_heartrate": 134.0,
+      "segment": {
+        "id": 5195112,
+        "resource_state": 2,
+        "name": "Bakkespurt2",
+        "activity_type": "Ride",
+        "distance": 273.7,
+        "average_grade": 2.4,
+        "maximum_grade": 11.0,
+        "elevation_high": 24.0,
+        "elevation_low": 12.8,
+        "start_latlng": [
+          59.914393,
+          10.647134
+        ],
+        "end_latlng": [
+          59.915277,
+          10.651392
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3522664607084395890,
+      "resource_state": 2,
+      "name": "Bakkespurt",
+      "activity": {
+        "id": 19713730737,
+        "id_str": "19713730737",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 64,
+      "moving_time": 64,
+      "start_date": "2026-08-11T13:53:51Z",
+      "start_date_local": "2026-08-11T15:53:51Z",
+      "distance": 480.1,
+      "start_index": 15,
+      "end_index": 39,
+      "device_watts": false,
+      "average_heartrate": 123.9,
+      "max_heartrate": 155.0,
+      "segment": {
+        "id": 5193665,
+        "resource_state": 2,
+        "name": "Bakkespurt",
+        "activity_type": "Ride",
+        "distance": 480.1,
+        "average_grade": 0.4,
+        "maximum_grade": 11.8,
+        "elevation_high": 24.0,
+        "elevation_low": 15.3,
+        "start_latlng": [
+          59.914569,
+          10.647478
+        ],
+        "end_latlng": [
+          59.915815,
+          10.655384
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "0890 Oslo, Norway",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3522664607080584562,
+      "resource_state": 2,
+      "name": "Vækerø - Bestumkilen",
+      "activity": {
+        "id": 19713730737,
+        "id_str": "19713730737",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 109,
+      "moving_time": 109,
+      "start_date": "2026-08-11T13:54:38Z",
+      "start_date_local": "2026-08-11T15:54:38Z",
+      "distance": 834.5,
+      "start_index": 30,
+      "end_index": 59,
+      "device_watts": false,
+      "average_heartrate": 144.5,
+      "max_heartrate": 155.0,
+      "segment": {
+        "id": 12177878,
+        "resource_state": 2,
+        "name": "Vækerø - Bestumkilen",
+        "activity_type": "Ride",
+        "distance": 834.5,
+        "average_grade": -1.3,
+        "maximum_grade": 1.8,
+        "elevation_high": 18.0,
+        "elevation_low": 4.8,
+        "start_latlng": [
+          59.915376,
+          10.652699
+        ],
+        "end_latlng": [
+          59.918152,
+          10.666121
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ullern",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3522664596867472250,
+      "resource_state": 2,
+      "name": "Vækerø - Sjølyst",
+      "activity": {
+        "id": 19713730737,
+        "id_str": "19713730737",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 157,
+      "moving_time": 157,
+      "start_date": "2026-08-11T13:55:00Z",
+      "start_date_local": "2026-08-11T15:55:00Z",
+      "distance": 1179.9,
+      "start_index": 40,
+      "end_index": 72,
+      "device_watts": false,
+      "average_heartrate": 140.2,
+      "max_heartrate": 152.0,
+      "segment": {
+        "id": 31910510,
+        "resource_state": 2,
+        "name": "Vækerø - Sjølyst",
+        "activity_type": "Ride",
+        "distance": 1179.9,
+        "average_grade": -0.9,
+        "maximum_grade": 0.5,
+        "elevation_high": 18.0,
+        "elevation_low": 7.0,
+        "start_latlng": [
+          59.915966,
+          10.65557
+        ],
+        "end_latlng": [
+          59.920474,
+          10.674322
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ullern",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3522664607082595698,
+      "resource_state": 2,
+      "name": "Løype!",
+      "activity": {
+        "id": 19713730737,
+        "id_str": "19713730737",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 72,
+      "moving_time": 72,
+      "start_date": "2026-08-11T13:55:06Z",
+      "start_date_local": "2026-08-11T15:55:06Z",
+      "distance": 513.5,
+      "start_index": 44,
+      "end_index": 54,
+      "device_watts": false,
+      "average_heartrate": 143.7,
+      "max_heartrate": 147.0,
+      "segment": {
+        "id": 25343818,
+        "resource_state": 2,
+        "name": "Løype!",
+        "activity_type": "Ride",
+        "distance": 513.5,
+        "average_grade": -0.7,
+        "maximum_grade": 2.1,
+        "elevation_high": 4.4,
+        "elevation_low": -3.0,
+        "start_latlng": [
+          59.91626,
+          10.656259
+        ],
+        "end_latlng": [
+          59.918125,
+          10.66464
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ullern",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3522664607079522674,
+      "resource_state": 2,
+      "name": "Bestumkilen drag",
+      "activity": {
+        "id": 19713730737,
+        "id_str": "19713730737",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 72,
+      "moving_time": 72,
+      "start_date": "2026-08-11T13:56:23Z",
+      "start_date_local": "2026-08-11T15:56:23Z",
+      "distance": 513.4,
+      "start_index": 57,
+      "end_index": 71,
+      "device_watts": false,
+      "average_heartrate": 136.2,
+      "max_heartrate": 145.0,
+      "segment": {
+        "id": 9630236,
+        "resource_state": 2,
+        "name": "Bestumkilen drag",
+        "activity_type": "Ride",
+        "distance": 513.4,
+        "average_grade": -0.7,
+        "maximum_grade": 10.2,
+        "elevation_high": 11.1,
+        "elevation_low": 2.2,
+        "start_latlng": [
+          59.918187,
+          10.665659
+        ],
+        "end_latlng": [
+          59.920347,
+          10.673647
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3522664596867638138,
+      "resource_state": 2,
+      "name": "Passage du Maritim",
+      "activity": {
+        "id": 19713730737,
+        "id_str": "19713730737",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 65,
+      "moving_time": 65,
+      "start_date": "2026-08-11T13:56:27Z",
+      "start_date_local": "2026-08-11T15:56:27Z",
+      "distance": 435.184,
+      "start_index": 59,
+      "end_index": 69,
+      "device_watts": false,
+      "average_heartrate": 135.9,
+      "max_heartrate": 145.0,
+      "segment": {
+        "id": 924795,
+        "resource_state": 2,
+        "name": "Passage du Maritim",
+        "activity_type": "Ride",
+        "distance": 435.184,
+        "average_grade": -0.8,
+        "maximum_grade": 10.1,
+        "elevation_high": 12.6,
+        "elevation_low": 3.4,
+        "start_latlng": [
+          59.918402,
+          10.666143
+        ],
+        "end_latlng": [
+          59.920119,
+          10.673021
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3522664596867821434,
+      "resource_state": 2,
+      "name": "Opp Gustav Vigelands vei",
+      "activity": {
+        "id": 19713730737,
+        "id_str": "19713730737",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 67,
+      "moving_time": 67,
+      "start_date": "2026-08-11T14:01:27Z",
+      "start_date_local": "2026-08-11T16:01:27Z",
+      "distance": 433.018,
+      "start_index": 117,
+      "end_index": 130,
+      "device_watts": false,
+      "average_heartrate": 140.0,
+      "max_heartrate": 148.0,
+      "segment": {
+        "id": 1778000,
+        "resource_state": 2,
+        "name": "Opp Gustav Vigelands vei",
+        "activity_type": "Ride",
+        "distance": 433.018,
+        "average_grade": 6.4,
+        "maximum_grade": 9.1,
+        "elevation_high": 38.7,
+        "elevation_low": 11.1,
+        "start_latlng": [
+          59.92292867973447,
+          10.687381094321609
+        ],
+        "end_latlng": [
+          59.92607549764216,
+          10.691872704774141
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [
+        {
+          "type_id": 2,
+          "type": "overall",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": 3,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1011.2,
+      "elapsed_time": 206,
+      "elevation_difference": -3.8,
+      "moving_time": 145,
+      "split": 1,
+      "average_speed": 6.97,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 127.62758620689655,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.0,
+      "elapsed_time": 153,
+      "elevation_difference": 1.1,
+      "moving_time": 153,
+      "split": 2,
+      "average_speed": 6.57,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 140.0261437908497,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1040.2,
+      "elapsed_time": 191,
+      "elevation_difference": 6.5,
+      "moving_time": 191,
+      "split": 3,
+      "average_speed": 5.45,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 146.97905759162305,
+      "pace_zone": 0
+    },
+    {
+      "distance": 967.5,
+      "elapsed_time": 197,
+      "elevation_difference": 36.7,
+      "moving_time": 197,
+      "split": 4,
+      "average_speed": 4.91,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 146.43654822335026,
+      "pace_zone": 0
+    },
+    {
+      "distance": 979.8,
+      "elapsed_time": 239,
+      "elevation_difference": -1.6,
+      "moving_time": 239,
+      "split": 5,
+      "average_speed": 4.1,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 149.22321428571428,
+      "pace_zone": 0
+    },
+    {
+      "distance": 810.6,
+      "elapsed_time": 656,
+      "elevation_difference": 6.7,
+      "moving_time": 591,
+      "split": 6,
+      "average_speed": 1.37,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 121.5404411764706,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1673.6,
+      "elapsed_time": 297,
+      "elevation_difference": -5.3,
+      "moving_time": 236,
+      "split": 1,
+      "average_speed": 7.09,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 132.29661016949152,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1587.1,
+      "elapsed_time": 285,
+      "elevation_difference": 21.6,
+      "moving_time": 285,
+      "split": 2,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 145.1157894736842,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1593.0,
+      "elapsed_time": 328,
+      "elevation_difference": 20.6,
+      "moving_time": 328,
+      "split": 3,
+      "average_speed": 4.86,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 149.3079268292683,
+      "pace_zone": 0
+    },
+    {
+      "distance": 960.6,
+      "elapsed_time": 732,
+      "elevation_difference": 8.7,
+      "moving_time": 667,
+      "split": 4,
+      "average_speed": 1.44,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 123.70578512396695,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 70389603185,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 19713730737,
+        "id_str": "19713730737",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 985,
+      "moving_time": 985,
+      "start_date": "2026-08-11T13:52:26Z",
+      "start_date_local": "2026-08-11T15:52:26Z",
+      "distance": 5000.0,
+      "average_speed": 5.08,
+      "max_speed": 8.957,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 189,
+      "total_elevation_gain": 60.8,
+      "device_watts": false,
+      "average_watts": 91.3,
+      "average_heartrate": 143.2,
+      "max_heartrate": 155.0
+    },
+    {
+      "id": 70389603219,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 19713730737,
+        "id_str": "19713730737",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 656,
+      "moving_time": 656,
+      "start_date": "2026-08-11T14:08:56Z",
+      "start_date_local": "2026-08-11T16:08:56Z",
+      "distance": 814.31,
+      "average_speed": 1.24,
+      "max_speed": 6.189,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 190,
+      "end_index": 260,
+      "total_elevation_gain": 7.5,
+      "device_watts": false,
+      "average_watts": 18.5,
+      "average_heartrate": 121.3,
+      "max_heartrate": 157.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "41198449e1cac661a872ed58d2e1db547a78450a",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}
