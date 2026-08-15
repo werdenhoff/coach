@@ -1,0 +1,715 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "id_str": "13108506",
+    "resource_state": 1
+  },
+  "name": "Hyttejogg med Marte",
+  "distance": 6692.1,
+  "moving_time": 3041,
+  "elapsed_time": 3153,
+  "total_elevation_gain": 131.0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 235",
+  "id": 19749692151,
+  "id_str": "19749692151",
+  "start_date": "2026-08-15T08:57:58Z",
+  "start_date_local": "2026-08-15T10:57:58Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 5,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a19749692151",
+    "polyline": "ulrdJ{rzu@ASHk@FW\\k@DS@}@DSLo@Vw@@o@EiAYq@c@Je@Vc@`@y@~AYzBcA|@Wt@MTc@PUXg@b@eAh@YX]Jc@IGEWAm@fAa@K_@?a@R_@b@w@dBQx@Wv@]nDSvA]f@YLg@L_@d@IZ]j@EBCCELe@Hc@G[H_@b@YVYGOc@WoAc@YS^Yx@EfANnCAfAKpCWbCIdAQjAYn@c@d@SBe@Ye@BI`AFfAG~@e@JoBt@c@Ma@Ue@E_@RWx@UbAYr@YtAa@PsAkAi@mAi@aCEGe@KMD[f@Ux@S`@_@`@]f@S~@W|@Wr@UV]AcA[m@w@QQUI_@LiAKMDI`@@dA?jAXdC?NGH?IN|@DlCJjC@t@?hAK`AI`@EDHmA?cAMgE?kBDi@?Sa@{EAkCL[`@Hb@E`@Ub@Dv@x@`@PjAV\\i@Vu@b@gB\\g@`@c@Zq@T_A`@a@b@X^fARx@Tv@pAbB`@NNeApAkEb@Yd@AjAd@b@IlBk@FeAAeAN{@d@Bb@\\`@SZq@R}@JoCXiEFqC?mCR_AZu@`@]Zj@JdAJTb@Kd@]RKf@Kf@@b@e@Vs@^k@b@@\\SZg@Pm@b@wDN}@n@kBz@_Bb@[d@Cd@@v@eAT@d@G\\MZ]jA]TMf@o@d@WXs@^i@^a@FSJeAPy@x@}Ad@[`@MZDXl@R`A\\h@`@Nb@VVt@bAbAVp@XdCz@hA`@Pt@F\\?RE|@s@v@lAb@Kd@C\\Pv@x@x@TlAJd@?b@O`@g@`@Ob@Df@CJCDGEHK?CDO@KF_@BKCa@Fu@z@e@Je@?_@IWC]Ka@[a@g@a@Uc@Cc@He@OU{@IIa@Va@Re@?mAMgAu@Uk@MeAUu@]m@OIYs@[k@a@Ec@WIKCDKr@Wt@Kh@Gn@Sp@Yp@IhAOx@DLCGYRJ|A",
+    "resource_state": 3,
+    "summary_polyline": "ulrdJ{rzu@ASHk@FW\\k@DS@}@DSLo@Vw@@o@EiAYq@c@Je@Vc@`@y@~AYzBcA|@Wt@MTc@PUXg@b@eAh@YX]Jc@IGEWAm@fAa@K_@?a@R_@b@w@dBQx@Wv@]nDSvA]f@YLg@L_@d@IZ]j@EBCCELe@Hc@G[H_@b@YVYGOc@WoAc@YS^Yx@EfANnCAfAKpCWbCIdAQjAYn@c@d@SBe@Ye@BI`AFfAG~@e@JoBt@c@Ma@Ue@E_@RWx@UbAYr@YtAa@PsAkAi@mAi@aCEGe@KMD[f@Ux@S`@_@`@]f@S~@W|@Wr@UV]AcA[m@w@QQUI_@LiAKMDI`@@dA?jAXdC?NGH?IN|@DlCJjC@t@?hAK`AI`@EDHmA?cAMgE?kBDi@?Sa@{EAkCL[`@Hb@E`@Ub@Dv@x@`@PjAV\\i@Vu@b@gB\\g@`@c@Zq@T_A`@a@b@X^fARx@Tv@pAbB`@NNeApAkEb@Yd@AjAd@b@IlBk@FeAAeAN{@d@Bb@\\`@SZq@R}@JoCXiEFqC?mCR_AZu@`@]Zj@JdAJTb@Kd@]RKf@Kf@@b@e@Vs@^k@b@@\\SZg@Pm@b@wDN}@n@kBz@_Bb@[d@Cd@@v@eAT@d@G\\MZ]jA]TMf@o@d@WXs@^i@^a@FSJeAPy@x@}Ad@[`@MZDXl@R`A\\h@`@Nb@VVt@bAbAVp@XdCz@hA`@Pt@F\\?RE|@s@v@lAb@Kd@C\\Pv@x@x@TlAJd@?b@O`@g@`@Ob@Df@CJCDGEHK?CDO@KF_@BKCa@Fu@z@e@Je@?_@IWC]Ka@[a@g@a@Uc@Cc@He@OU{@IIa@Va@Re@?mAMgAu@Uk@MeAUu@]m@OIYs@[k@a@Ec@WIKCDKr@Wt@Kh@Gn@Sp@Yp@IhAOx@DLCGYRJ|A"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "g28225025",
+  "start_latlng": [
+    58.590353,
+    8.988781
+  ],
+  "end_latlng": [
+    58.590475,
+    8.987825
+  ],
+  "average_speed": 2.201,
+  "max_speed": 2.887,
+  "average_cadence": 82.4,
+  "has_heartrate": true,
+  "average_heartrate": 142.2,
+  "max_heartrate": 163.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 47.4,
+  "elev_low": 4.0,
+  "upload_id": 20881420220,
+  "upload_id_str": "20881420220",
+  "external_id": "garmin_ping_613729097211",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 4,
+  "has_kudoed": false,
+  "suffer_score": 93.0,
+  "description": "Deilig rolig (men ganske kupert) joggetur i Tvedestrand. Deilig vær!☀️☀️☀️",
+  "calories": 446.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3523646567040116382,
+      "resource_state": 2,
+      "name": "Hovdanvannet til Eiketoppen",
+      "activity": {
+        "id": 19749692151,
+        "id_str": "19749692151",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 564,
+      "moving_time": 564,
+      "start_date": "2026-08-15T09:06:18Z",
+      "start_date_local": "2026-08-15T11:06:18Z",
+      "distance": 1199.1,
+      "start_index": 70,
+      "end_index": 139,
+      "average_cadence": 82.5,
+      "device_watts": false,
+      "average_heartrate": 140.5,
+      "max_heartrate": 151.0,
+      "segment": {
+        "id": 7605140,
+        "resource_state": 2,
+        "name": "Hovdanvannet til Eiketoppen",
+        "activity_type": "Run",
+        "distance": 1199.1,
+        "average_grade": 1.4,
+        "maximum_grade": 14.4,
+        "elevation_high": 56.6,
+        "elevation_low": 24.5,
+        "start_latlng": [
+          58.595553,
+          8.984659
+        ],
+        "end_latlng": [
+          58.602639,
+          8.977417
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Tvedestrand, Norway",
+        "state": "Aust-Agder",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3523646567038229150,
+      "resource_state": 2,
+      "name": "Nesveitoppen til Eikhaugen",
+      "activity": {
+        "id": 19749692151,
+        "id_str": "19749692151",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 194,
+      "moving_time": 194,
+      "start_date": "2026-08-15T09:12:21Z",
+      "start_date_local": "2026-08-15T11:12:21Z",
+      "distance": 450.7,
+      "start_index": 113,
+      "end_index": 138,
+      "average_cadence": 82.8,
+      "device_watts": false,
+      "average_heartrate": 136.1,
+      "max_heartrate": 144.0,
+      "segment": {
+        "id": 41709971,
+        "resource_state": 2,
+        "name": "Nesveitoppen til Eikhaugen",
+        "activity_type": "Run",
+        "distance": 450.7,
+        "average_grade": -1.2,
+        "maximum_grade": 5.9,
+        "elevation_high": 47.5,
+        "elevation_low": 39.7,
+        "start_latlng": [
+          58.599754,
+          8.979129
+        ],
+        "end_latlng": [
+          58.602568,
+          8.97742
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Tvedestrand",
+        "state": "Agder",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3523646567038843550,
+      "resource_state": 2,
+      "name": "Nesveien Sagesund 260 Climb",
+      "activity": {
+        "id": 19749692151,
+        "id_str": "19749692151",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 241,
+      "moving_time": 241,
+      "start_date": "2026-08-15T09:19:35Z",
+      "start_date_local": "2026-08-15T11:19:35Z",
+      "distance": 567.484,
+      "start_index": 173,
+      "end_index": 204,
+      "average_cadence": 76.5,
+      "device_watts": false,
+      "average_heartrate": 149.6,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 1694821,
+        "resource_state": 2,
+        "name": "Nesveien Sagesund 260 Climb",
+        "activity_type": "Run",
+        "distance": 567.484,
+        "average_grade": 7.4,
+        "maximum_grade": 25.3,
+        "elevation_high": 49.9,
+        "elevation_low": 6.7,
+        "start_latlng": [
+          58.60406900593913,
+          8.972850973417408
+        ],
+        "end_latlng": [
+          58.60222870654914,
+          8.9778041668371
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Tvedestrand",
+        "state": "Aust-Agder",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3523646567040377502,
+      "resource_state": 2,
+      "name": "Grusveien helt ut til fyret",
+      "activity": {
+        "id": 19749692151,
+        "id_str": "19749692151",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 1229,
+      "moving_time": 1229,
+      "start_date": "2026-08-15T09:22:07Z",
+      "start_date_local": "2026-08-15T11:22:07Z",
+      "distance": 2803.2,
+      "start_index": 193,
+      "end_index": 343,
+      "average_cadence": 83.2,
+      "device_watts": false,
+      "average_heartrate": 148.1,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 13069789,
+        "resource_state": 2,
+        "name": "Grusveien helt ut til fyret",
+        "activity_type": "Run",
+        "distance": 2803.2,
+        "average_grade": -1.1,
+        "maximum_grade": 15.9,
+        "elevation_high": 56.3,
+        "elevation_low": 2.0,
+        "start_latlng": [
+          58.603909,
+          8.977915
+        ],
+        "end_latlng": [
+          58.584476,
+          8.988127
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Tvedestrand",
+        "state": "Aust-Agder",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1010.5,
+      "elapsed_time": 524,
+      "elevation_difference": 12.2,
+      "moving_time": 505,
+      "split": 1,
+      "average_speed": 2.0,
+      "average_grade_adjusted_speed": 2.16,
+      "average_heartrate": 132.33267326732673,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1006.3,
+      "elapsed_time": 467,
+      "elevation_difference": 20.8,
+      "moving_time": 467,
+      "split": 2,
+      "average_speed": 2.15,
+      "average_grade_adjusted_speed": 2.35,
+      "average_heartrate": 141.56316916488223,
+      "pace_zone": 2
+    },
+    {
+      "distance": 993.2,
+      "elapsed_time": 499,
+      "elevation_difference": -7.7,
+      "moving_time": 462,
+      "split": 3,
+      "average_speed": 2.15,
+      "average_grade_adjusted_speed": 2.33,
+      "average_heartrate": 134.78787878787878,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1008.4,
+      "elapsed_time": 430,
+      "elevation_difference": -1.3,
+      "moving_time": 430,
+      "split": 4,
+      "average_speed": 2.35,
+      "average_grade_adjusted_speed": 2.39,
+      "average_heartrate": 150.2232558139535,
+      "pace_zone": 2
+    },
+    {
+      "distance": 990.1,
+      "elapsed_time": 404,
+      "elevation_difference": -29.2,
+      "moving_time": 404,
+      "split": 5,
+      "average_speed": 2.45,
+      "average_grade_adjusted_speed": 2.39,
+      "average_heartrate": 145.73019801980197,
+      "pace_zone": 2
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 501,
+      "elevation_difference": 5.6,
+      "moving_time": 448,
+      "split": 6,
+      "average_speed": 2.22,
+      "average_grade_adjusted_speed": 2.32,
+      "average_heartrate": 144.51116071428572,
+      "pace_zone": 1
+    },
+    {
+      "distance": 688.3,
+      "elapsed_time": 328,
+      "elevation_difference": -3.2,
+      "moving_time": 325,
+      "split": 7,
+      "average_speed": 2.12,
+      "average_grade_adjusted_speed": 2.14,
+      "average_heartrate": 150.3230769230769,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1619.4,
+      "elapsed_time": 808,
+      "elevation_difference": 34.8,
+      "moving_time": 789,
+      "split": 1,
+      "average_speed": 2.05,
+      "average_grade_adjusted_speed": 2.27,
+      "average_heartrate": 136.40557667934092,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 776,
+      "elevation_difference": -2.1,
+      "moving_time": 739,
+      "split": 2,
+      "average_speed": 2.18,
+      "average_grade_adjusted_speed": 2.33,
+      "average_heartrate": 138.702300405954,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1604.3,
+      "elapsed_time": 671,
+      "elevation_difference": -32.8,
+      "moving_time": 671,
+      "split": 3,
+      "average_speed": 2.39,
+      "average_grade_adjusted_speed": 2.35,
+      "average_heartrate": 147.57078986587183,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 768,
+      "elevation_difference": 3.5,
+      "moving_time": 715,
+      "split": 4,
+      "average_speed": 2.25,
+      "average_grade_adjusted_speed": 2.32,
+      "average_heartrate": 146.09230769230768,
+      "pace_zone": 1
+    },
+    {
+      "distance": 253.1,
+      "elapsed_time": 130,
+      "elevation_difference": -6.2,
+      "moving_time": 127,
+      "split": 5,
+      "average_speed": 1.99,
+      "average_grade_adjusted_speed": 1.94,
+      "average_heartrate": 147.0551181102362,
+      "pace_zone": 1
+    }
+  ],
+  "laps": [
+    {
+      "id": 70512735584,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 19749692151,
+        "id_str": "19749692151",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 3151,
+      "moving_time": 3151,
+      "start_date": "2026-08-15T08:57:58Z",
+      "start_date_local": "2026-08-15T10:57:58Z",
+      "distance": 6692.11,
+      "average_speed": 2.12,
+      "max_speed": 2.887,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 411,
+      "total_elevation_gain": 131.0,
+      "average_cadence": 82.4,
+      "device_watts": false,
+      "average_heartrate": 142.2,
+      "max_heartrate": 163.0,
+      "pace_zone": 1
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 82717393514,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 19749692151,
+        "id_str": "19749692151",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 159,
+      "moving_time": 159,
+      "start_date": "2026-08-15T08:57:58Z",
+      "start_date_local": "2026-08-15T10:57:58Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 279,
+      "end_index": 301
+    },
+    {
+      "id": 82717393515,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 19749692151,
+        "id_str": "19749692151",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 330,
+      "moving_time": 330,
+      "start_date": "2026-08-15T08:57:58Z",
+      "start_date_local": "2026-08-15T10:57:58Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 226,
+      "end_index": 265
+    },
+    {
+      "id": 82717393516,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 19749692151,
+        "id_str": "19749692151",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 410,
+      "moving_time": 410,
+      "start_date": "2026-08-15T08:57:58Z",
+      "start_date_local": "2026-08-15T10:57:58Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 241,
+      "end_index": 292
+    },
+    {
+      "id": 82717393511,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 19749692151,
+        "id_str": "19749692151",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 667,
+      "moving_time": 667,
+      "start_date": "2026-08-15T08:57:58Z",
+      "start_date_local": "2026-08-15T10:57:58Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 224,
+      "end_index": 305
+    },
+    {
+      "id": 82717393512,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 19749692151,
+        "id_str": "19749692151",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 1427,
+      "moving_time": 1427,
+      "start_date": "2026-08-15T08:57:58Z",
+      "start_date_local": "2026-08-15T10:57:58Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 163,
+      "end_index": 339
+    },
+    {
+      "id": 82717393513,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 19749692151,
+        "id_str": "19749692151",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 2267,
+      "moving_time": 2267,
+      "start_date": "2026-08-15T08:57:58Z",
+      "start_date_local": "2026-08-15T10:57:58Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 56,
+      "end_index": 342
+    }
+  ],
+  "gear": {
+    "id": "g28225025",
+    "primary": false,
+    "name": "New Balance WRCXCS4",
+    "nickname": null,
+    "resource_state": 2,
+    "retired": false,
+    "distance": 209897,
+    "converted_distance": 209.9
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "0714802F-2E9E-475F-A881-15D9797902D5",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/3HlEWtV5jS0yZHicSUi0vQBfbfvdjiCluFnfHoajI8A-576x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/3HlEWtV5jS0yZHicSUi0vQBfbfvdjiCluFnfHoajI8A-96x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 4
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "71ed99f41056d6300e781183f2bc664fbe4b950d",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 2.2006247944755017,
+    "min_average_speed": 2.2006247944755017,
+    "mid_average_speed": 2.2006247944755017,
+    "max_average_speed": 2.2006247944755017,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.2006247944755017
+      ],
+      "current_activity_index": 0,
+      "min_speed": 2.2006247944755017,
+      "mid_speed": 2.2006247944755017,
+      "max_speed": 2.2006247944755017,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}
