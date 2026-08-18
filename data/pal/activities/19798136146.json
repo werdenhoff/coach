@@ -1,0 +1,3227 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 321503,
+    "id_str": "321503",
+    "resource_state": 1
+  },
+  "name": "Løping på kvelden",
+  "distance": 12097.5,
+  "moving_time": 3635,
+  "elapsed_time": 4086,
+  "total_elevation_gain": 110.0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 745",
+  "id": 19798136146,
+  "id_str": "19798136146",
+  "start_date": "2026-08-18T17:01:31Z",
+  "start_date_local": "2026-08-18T19:01:31Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 24,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a19798136146",
+    "polyline": "c|tlJwqq_ATRIIa@k@aA{AqAwCc@y@GEUc@Oo@{@oBUu@o@uA{@aCc@cA_@yAgAqCMSUs@_@g@]aA[m@GE}@eBq@u@g@iACaAMk@EUiAwCAOTu@PmALUH]Da@BgAA{@OuBMs@Uw@MUOQUIOBQC[c@q@aCa@iAiA_Fk@_BIi@YgASgAaAkE]{BIiBC{BDsBRaCJm@F_@\\oAb@qCBU?wAIaBYeBe@gBsAyCs@sA}AcEw@cB_@i@KW]g@e@g@gBuBg@eAg@qAu@_BoA{Ca@oAaAmCUu@Q{@XeCBe@Ee@J_Ay@iCYm@Ya@U[e@_@c@O[E\\?h@JXTj@t@r@~AX|@d@jAVz@Vf@BCCESQOSESAs@EHDPGIB?FT\\~@hCzGVn@n@fB\\d@f@PV@\\Gh@ST]Pa@BKCg@Oq@oAcCgAiA_@o@wCuHwAcD}@}Bs@qAGE}@g@SYSa@GE?@M][mAMSEKGK_@?QHW^Wr@Kr@A`@D\\tAhFR^LJf@N^D`Aj@TX\\n@bAtCP`@Nt@h@`A|@zBhAbDt@lBTf@RPRJRF\\Id@Yb@g@Xu@@KAWGSe@q@i@kA{AgBABMCEI?KGM?E?@GI?KYg@_@y@W}@iAeDWi@Sm@iCyF[]g@_@W[]o@y@sBQUYD]d@]bAU`A@ZNp@hAxD`@r@f@TN@f@LLFd@`@^l@Vh@Xt@V|@`AtC?MB?DB@HvAvD`@v@Zx@Vn@Rp@BVDHD@GBOKQ]Mc@Wa@Sg@Ia@Yc@yAuEH?P^Vx@d@dAPp@b@dAN`@n@vARj@`@b@d@F^Qf@[Ta@Pe@Bk@Ka@EK[c@Wi@GUeBeB]k@g@mAaAkDYg@sAaD_AuC}@{Ac@[k@YSQ]u@Y}@S_@DDCGE?KIBE@DEOSO[B_@n@S|@Kv@?^XlAfAjDLZLLRJp@NnAz@^p@n@`BLh@t@vBd@j@bAvC|@|Bz@zBZf@JJd@RF?hAa@R[P{@EiAsAaCmAqAI?FK?MCMAB?A@ASCm@mA[}@g@gBe@oAs@aB]cAe@}@m@}AYe@KOwA_AYc@Ss@Uk@Wc@UG_@Fa@R]~@E~@Hr@hAjETf@`@^h@DTFv@f@`@f@T^j@vAbAhDPZLb@C@GODa@KQGy@KWIIARM\\GXUzBOz@P`Al@zANRZn@FFFRFJBXTl@NTR`AX`@PC?P~@rCPx@DLR`@d@^l@fARTTLvBnDrA`Dv@xALLv@|AVv@p@bC\\vBHl@FjA@f@CjAGhAa@xB_@vAUtBMzC@`AR~DLbA`@jBb@pAjB|Hp@bD`B`GXv@fAVVb@X~@NnAl@lBTv@N\\H~@T~@l@~BZ|@`@rABRL?NI@bAJ^PdAH`@DLDTQh@UHEJOhAF~@?RPNv@`BZ|@zBfFhAtDfAhC\\dA\\|@\\hATf@BHF|@Zb@l@j@j@pAbAfB^z@dBbDpBlDz@nB~ApCz@xBjBnDdAzAf@^p@Hp@IP@p@Nl@Fd@VPLx@`@ZX^PrAjA^Vj@TXd@d@Tb@N^h@j@j@|AjCj@xA^rA",
+    "resource_state": 3,
+    "summary_polyline": "ueulJebr_A[aAo@uA{@aCc@cA_@yAkByE_@g@]aAaByCq@u@g@iACaAMk@oAmDAOTu@PmAVs@Da@@cCOuBMs@c@mAOQUIa@?[c@sAkEiA_Fk@_ByBeKa@}CIcEDsBRaCRmA\\oAP_ATgB?wAIaBYeBe@gBsAyCs@sA}AcEw@cBiAiBmC}Cg@eAmDmIcB}Eg@qBXeCBe@Ee@J_Ay@iCs@oA{@{@_AUfAJXTj@t@r@~AvAdEVf@BCi@q@CMAs@EHDPGIB?d@tAtEzLX\\n@RvA[T]Tm@Cg@Oq@oAcCgAiA_@o@oFyM}@}Bs@qAeAm@o@_Ak@oBYg@q@HW^Wr@Gb@Ep@D\\zArFZ`@fAT`Aj@TX\\n@tAvDNt@h@`A|@zBhAbDjAtCRPf@RbAc@b@g@Xu@?c@GSe@q@i@kA{AgBO?Mi@GG?Ky@aBW}@uB}FiCyF{AyAwAcDQUYD]d@]bAU`A@ZNp@hAxD`@r@f@TdAVd@`@^l@p@~AxArE?MJHvAzD|@pBVn@VhAJJGBOK_@aAWa@]iAYc@yAuEH?P^bCxGbAbC`@b@d@FfAm@f@gABk@Qm@[c@_@_AeBeB]k@g@mAaAkDmBiE_AuC}@{AcBgA]u@Y}@Qa@QID?EOSO[B_@n@S|@Kv@Bn@|AhFZh@dAZnAz@^p@n@`BLh@t@vBd@j@bAvCxBxFZf@p@^pAa@R[P{@KsAmAwBmAqAI?FK?MCMSCm@mAcAeDe@oAwBcFm@}AYe@KOwA_AYc@Ss@m@oAUGaAZ]~@E~@Hr@hAjETf@`@^~@Lv@f@`@f@T^j@vAbAhDPZLb@G?CMDa@KQGy@Ua@_@pBMtAOz@P`Al@zAbAjBBXd@bAR`AX`@PC?P~@rCVfAR`@d@^l@fAh@b@vBnDrA`DdAfBv@|AhAzDf@dDHrBKtCa@xB_@vAUtBMzC@`AR~DLbA`@jBb@pAjB|Hp@bD`B`GXv@fAVVb@X~@NnArAbEH~@T~@l@~B|@pCBR\\I@bAJ^f@jCQh@UHEJOhAFrAPNv@`BZ|@zBfFhAtDfAhCnBtFJfAZb@l@j@j@pAbAfBdC~EpBlDz@nB~ApCz@xBjBnDdAzAf@^p@Hp@IpBXpBfAz@j@rAjAdAh@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    59.913781,
+    10.580927
+  ],
+  "end_latlng": [
+    59.905693,
+    10.571411
+  ],
+  "average_speed": 3.328,
+  "max_speed": 5.48,
+  "average_cadence": 78.7,
+  "average_temp": 20,
+  "has_heartrate": true,
+  "average_heartrate": 135.5,
+  "max_heartrate": 166.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 90.2,
+  "elev_low": 56.6,
+  "upload_id": 20931231095,
+  "upload_id_str": "20931231095",
+  "external_id": "garmin_ping_615370051585",
+  "from_accepted_tag": false,
+  "pr_count": 10,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 34.0,
+  "description": null,
+  "calories": 875.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3524861754419384292,
+      "resource_state": 2,
+      "name": "Gjønnes T-bane - Bekkestua busstasjon",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 166,
+      "moving_time": 166,
+      "start_date": "2026-08-18T17:01:44Z",
+      "start_date_local": "2026-08-18T19:01:44Z",
+      "distance": 557.0,
+      "start_index": 7,
+      "end_index": 59,
+      "average_cadence": 80.7,
+      "device_watts": false,
+      "average_heartrate": 141.3,
+      "max_heartrate": 152.0,
+      "segment": {
+        "id": 36998312,
+        "resource_state": 2,
+        "name": "Gjønnes T-bane - Bekkestua busstasjon",
+        "activity_type": "Run",
+        "distance": 557.0,
+        "average_grade": 1.5,
+        "maximum_grade": 5.2,
+        "elevation_high": 70.7,
+        "elevation_low": 61.9,
+        "start_latlng": [
+          59.91412,
+          10.580889
+        ],
+        "end_latlng": [
+          59.917568,
+          10.587684
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754422535140,
+      "resource_state": 2,
+      "name": "Gjønnes T - Bekkis",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 125,
+      "moving_time": 125,
+      "start_date": "2026-08-18T17:01:58Z",
+      "start_date_local": "2026-08-18T19:01:58Z",
+      "distance": 393.4,
+      "start_index": 12,
+      "end_index": 52,
+      "average_cadence": 80.7,
+      "device_watts": false,
+      "average_heartrate": 142.3,
+      "max_heartrate": 151.0,
+      "segment": {
+        "id": 33946517,
+        "resource_state": 2,
+        "name": "Gjønnes T - Bekkis",
+        "activity_type": "Run",
+        "distance": 393.4,
+        "average_grade": 1.9,
+        "maximum_grade": 6.4,
+        "elevation_high": 69.0,
+        "elevation_low": 61.2,
+        "start_latlng": [
+          59.914413,
+          10.581665
+        ],
+        "end_latlng": [
+          59.916823,
+          10.586777
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754420030436,
+      "resource_state": 2,
+      "name": "Bekkestua busstasjon - Ringstabekk T-bane",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 305,
+      "moving_time": 305,
+      "start_date": "2026-08-18T17:04:30Z",
+      "start_date_local": "2026-08-18T19:04:30Z",
+      "distance": 1007.4,
+      "start_index": 59,
+      "end_index": 146,
+      "average_cadence": 81.2,
+      "device_watts": false,
+      "average_heartrate": 153.6,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 34682820,
+        "resource_state": 2,
+        "name": "Bekkestua busstasjon - Ringstabekk T-bane",
+        "activity_type": "Run",
+        "distance": 1007.4,
+        "average_grade": 0.4,
+        "maximum_grade": 9.3,
+        "elevation_high": 74.6,
+        "elevation_low": 67.5,
+        "start_latlng": [
+          59.917706,
+          10.587377
+        ],
+        "end_latlng": [
+          59.920465,
+          10.602361
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754421829604,
+      "resource_state": 2,
+      "name": "1000 ish Jarmyra",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 400,
+      "moving_time": 254,
+      "start_date": "2026-08-18T17:14:54Z",
+      "start_date_local": "2026-08-18T19:14:54Z",
+      "distance": 928.6,
+      "start_index": 233,
+      "end_index": 345,
+      "average_cadence": 48.7,
+      "device_watts": false,
+      "average_heartrate": 125.9,
+      "max_heartrate": 155.0,
+      "segment": {
+        "id": 23272599,
+        "resource_state": 2,
+        "name": "1000 ish Jarmyra",
+        "activity_type": "Run",
+        "distance": 928.6,
+        "average_grade": -0.1,
+        "maximum_grade": 7.6,
+        "elevation_high": 65.7,
+        "elevation_low": 60.7,
+        "start_latlng": [
+          59.925567,
+          10.615097
+        ],
+        "end_latlng": [
+          59.925277,
+          10.616573
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754419399652,
+      "resource_state": 2,
+      "name": "Jarmyra 2k",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 758,
+      "moving_time": 541,
+      "start_date": "2026-08-18T17:15:00Z",
+      "start_date_local": "2026-08-18T19:15:00Z",
+      "distance": 1872.4,
+      "start_index": 235,
+      "end_index": 469,
+      "average_cadence": 53.2,
+      "device_watts": false,
+      "average_heartrate": 133.1,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 39494950,
+        "resource_state": 2,
+        "name": "Jarmyra 2k",
+        "activity_type": "Run",
+        "distance": 1872.4,
+        "average_grade": -0.0,
+        "maximum_grade": 7.7,
+        "elevation_high": 76.4,
+        "elevation_low": 71.0,
+        "start_latlng": [
+          59.925392,
+          10.615017
+        ],
+        "end_latlng": [
+          59.923589,
+          10.613352
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754421495780,
+      "resource_state": 2,
+      "name": "Jarmyrarunden fra Barnehagen",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 477,
+      "moving_time": 334,
+      "start_date": "2026-08-18T17:16:30Z",
+      "start_date_local": "2026-08-18T19:16:30Z",
+      "distance": 1302.0,
+      "start_index": 264,
+      "end_index": 409,
+      "average_cadence": 54.2,
+      "device_watts": false,
+      "average_heartrate": 127.6,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 36856680,
+        "resource_state": 2,
+        "name": "Jarmyrarunden fra Barnehagen",
+        "activity_type": "Run",
+        "distance": 1302.0,
+        "average_grade": 0.1,
+        "maximum_grade": 6.3,
+        "elevation_high": 65.8,
+        "elevation_low": 60.0,
+        "start_latlng": [
+          59.924826,
+          10.613889
+        ],
+        "end_latlng": [
+          59.92473,
+          10.61365
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754420530148,
+      "resource_state": 2,
+      "name": "Jarmyra 1 runde fra sørvest",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 349,
+      "moving_time": 331,
+      "start_date": "2026-08-18T17:20:00Z",
+      "start_date_local": "2026-08-18T19:20:00Z",
+      "distance": 1267.1,
+      "start_index": 315,
+      "end_index": 433,
+      "average_cadence": 73.7,
+      "device_watts": false,
+      "average_heartrate": 145.1,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 9415246,
+        "resource_state": 2,
+        "name": "Jarmyra 1 runde fra sørvest",
+        "activity_type": "Run",
+        "distance": 1267.1,
+        "average_grade": -0.2,
+        "maximum_grade": 9.2,
+        "elevation_high": 80.6,
+        "elevation_low": 72.4,
+        "start_latlng": [
+          59.922435,
+          10.611778
+        ],
+        "end_latlng": [
+          59.922432,
+          10.611385
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754421613540,
+      "resource_state": 2,
+      "name": "Nesten 1000",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 264,
+      "moving_time": 246,
+      "start_date": "2026-08-18T17:20:31Z",
+      "start_date_local": "2026-08-18T19:20:31Z",
+      "distance": 908.1,
+      "start_index": 325,
+      "end_index": 418,
+      "average_cadence": 70.3,
+      "device_watts": false,
+      "average_heartrate": 142.0,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 10867572,
+        "resource_state": 2,
+        "name": "Nesten 1000",
+        "activity_type": "Run",
+        "distance": 908.1,
+        "average_grade": -0.1,
+        "maximum_grade": 1.4,
+        "elevation_high": 85.8,
+        "elevation_low": 82.6,
+        "start_latlng": [
+          59.923441,
+          10.613015
+        ],
+        "end_latlng": [
+          59.923944,
+          10.612201
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754421825508,
+      "resource_state": 2,
+      "name": "Jarmyra (vestsiden fra skogen til apparatene)",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 145,
+      "moving_time": 128,
+      "start_date": "2026-08-18T17:20:34Z",
+      "start_date_local": "2026-08-18T19:20:34Z",
+      "distance": 403.7,
+      "start_index": 326,
+      "end_index": 373,
+      "average_cadence": 61.0,
+      "device_watts": false,
+      "average_heartrate": 144.5,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 37254767,
+        "resource_state": 2,
+        "name": "Jarmyra (vestsiden fra skogen til apparatene)",
+        "activity_type": "Run",
+        "distance": 403.7,
+        "average_grade": 1.2,
+        "maximum_grade": 5.9,
+        "elevation_high": 75.8,
+        "elevation_low": 71.0,
+        "start_latlng": [
+          59.923492,
+          10.613198
+        ],
+        "end_latlng": [
+          59.926191,
+          10.617851
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754422364132,
+      "resource_state": 2,
+      "name": "Jarmyra 1 runde",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 360,
+      "moving_time": 307,
+      "start_date": "2026-08-18T17:23:16Z",
+      "start_date_local": "2026-08-18T19:23:16Z",
+      "distance": 1259.97,
+      "start_index": 381,
+      "end_index": 510,
+      "average_cadence": 70.1,
+      "device_watts": false,
+      "average_heartrate": 141.1,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 2641676,
+        "resource_state": 2,
+        "name": "Jarmyra 1 runde",
+        "activity_type": "Run",
+        "distance": 1259.97,
+        "average_grade": 0.1,
+        "maximum_grade": 11.3,
+        "elevation_high": 81.0,
+        "elevation_low": 72.7,
+        "start_latlng": [
+          59.9267135,
+          10.6172789
+        ],
+        "end_latlng": [
+          59.9265861,
+          10.6176197
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754419038180,
+      "resource_state": 2,
+      "name": "Jarmyra 3000m",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 1066,
+      "moving_time": 869,
+      "start_date": "2026-08-18T17:23:18Z",
+      "start_date_local": "2026-08-18T19:23:18Z",
+      "distance": 3001.3,
+      "start_index": 382,
+      "end_index": 738,
+      "average_cadence": 64.9,
+      "device_watts": false,
+      "average_heartrate": 138.7,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 21886638,
+        "resource_state": 2,
+        "name": "Jarmyra 3000m",
+        "activity_type": "Run",
+        "distance": 3001.3,
+        "average_grade": -0.1,
+        "maximum_grade": 2.9,
+        "elevation_high": 66.3,
+        "elevation_low": 61.6,
+        "start_latlng": [
+          59.926672,
+          10.617165
+        ],
+        "end_latlng": [
+          59.924135,
+          10.612525
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754419036132,
+      "resource_state": 2,
+      "name": "Jarmyra 1000m",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 299,
+      "moving_time": 246,
+      "start_date": "2026-08-18T17:23:19Z",
+      "start_date_local": "2026-08-18T19:23:19Z",
+      "distance": 999.9,
+      "start_index": 383,
+      "end_index": 488,
+      "average_cadence": 66.8,
+      "device_watts": false,
+      "average_heartrate": 140.7,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 21991254,
+        "resource_state": 2,
+        "name": "Jarmyra 1000m",
+        "activity_type": "Run",
+        "distance": 999.9,
+        "average_grade": -0.1,
+        "maximum_grade": 3.4,
+        "elevation_high": 66.3,
+        "elevation_low": 61.6,
+        "start_latlng": [
+          59.926697,
+          10.617093
+        ],
+        "end_latlng": [
+          59.92471,
+          10.615697
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754422971364,
+      "resource_state": 2,
+      "name": "Jarmyra 1500m",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 416,
+      "moving_time": 363,
+      "start_date": "2026-08-18T17:23:19Z",
+      "start_date_local": "2026-08-18T19:23:19Z",
+      "distance": 1502.5,
+      "start_index": 383,
+      "end_index": 529,
+      "average_cadence": 72.2,
+      "device_watts": false,
+      "average_heartrate": 143.5,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 21991286,
+        "resource_state": 2,
+        "name": "Jarmyra 1500m",
+        "activity_type": "Run",
+        "distance": 1502.5,
+        "average_grade": -0.1,
+        "maximum_grade": 3.4,
+        "elevation_high": 66.3,
+        "elevation_low": 61.6,
+        "start_latlng": [
+          59.926697,
+          10.617093
+        ],
+        "end_latlng": [
+          59.925284,
+          10.614895
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754421645284,
+      "resource_state": 2,
+      "name": "Jarmyra 800m",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 254,
+      "moving_time": 201,
+      "start_date": "2026-08-18T17:23:29Z",
+      "start_date_local": "2026-08-18T19:23:29Z",
+      "distance": 797.6,
+      "start_index": 387,
+      "end_index": 471,
+      "average_cadence": 63.1,
+      "device_watts": false,
+      "average_heartrate": 144.0,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 24425514,
+        "resource_state": 2,
+        "name": "Jarmyra 800m",
+        "activity_type": "Run",
+        "distance": 797.6,
+        "average_grade": -0.3,
+        "maximum_grade": 2.8,
+        "elevation_high": 66.4,
+        "elevation_low": 62.1,
+        "start_latlng": [
+          59.926486,
+          10.61645
+        ],
+        "end_latlng": [
+          59.92376,
+          10.613502
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Viken fylke",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754419521508,
+      "resource_state": 2,
+      "name": "1000 ish Jarmyra",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 281,
+      "moving_time": 228,
+      "start_date": "2026-08-18T17:23:57Z",
+      "start_date_local": "2026-08-18T19:23:57Z",
+      "distance": 928.6,
+      "start_index": 401,
+      "end_index": 496,
+      "average_cadence": 65.5,
+      "device_watts": false,
+      "average_heartrate": 141.8,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 23272599,
+        "resource_state": 2,
+        "name": "1000 ish Jarmyra",
+        "activity_type": "Run",
+        "distance": 928.6,
+        "average_grade": -0.1,
+        "maximum_grade": 7.6,
+        "elevation_high": 65.7,
+        "elevation_low": 60.7,
+        "start_latlng": [
+          59.925567,
+          10.615097
+        ],
+        "end_latlng": [
+          59.925277,
+          10.616573
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754420606948,
+      "resource_state": 2,
+      "name": "Jarmyrarunden fra Barnehagen",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 373,
+      "moving_time": 320,
+      "start_date": "2026-08-18T17:24:24Z",
+      "start_date_local": "2026-08-18T19:24:24Z",
+      "distance": 1302.0,
+      "start_index": 408,
+      "end_index": 535,
+      "average_cadence": 70.4,
+      "device_watts": false,
+      "average_heartrate": 145.5,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 36856680,
+        "resource_state": 2,
+        "name": "Jarmyrarunden fra Barnehagen",
+        "activity_type": "Run",
+        "distance": 1302.0,
+        "average_grade": 0.1,
+        "maximum_grade": 6.3,
+        "elevation_high": 65.8,
+        "elevation_low": 60.0,
+        "start_latlng": [
+          59.924826,
+          10.613889
+        ],
+        "end_latlng": [
+          59.92473,
+          10.61365
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754419362788,
+      "resource_state": 2,
+      "name": "Nesten 1000",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 302,
+      "moving_time": 228,
+      "start_date": "2026-08-18T17:27:12Z",
+      "start_date_local": "2026-08-18T19:27:12Z",
+      "distance": 908.1,
+      "start_index": 462,
+      "end_index": 568,
+      "average_cadence": 62.6,
+      "device_watts": false,
+      "average_heartrate": 139.9,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 10867572,
+        "resource_state": 2,
+        "name": "Nesten 1000",
+        "activity_type": "Run",
+        "distance": 908.1,
+        "average_grade": -0.1,
+        "maximum_grade": 1.4,
+        "elevation_high": 85.8,
+        "elevation_low": 82.6,
+        "start_latlng": [
+          59.923441,
+          10.613015
+        ],
+        "end_latlng": [
+          59.923944,
+          10.612201
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754420994020,
+      "resource_state": 2,
+      "name": "Jarmyra (vestsiden fra skogen til apparatene)",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 95,
+      "moving_time": 95,
+      "start_date": "2026-08-18T17:27:32Z",
+      "start_date_local": "2026-08-18T19:27:32Z",
+      "distance": 403.7,
+      "start_index": 467,
+      "end_index": 508,
+      "average_cadence": 84.4,
+      "device_watts": false,
+      "average_heartrate": 131.6,
+      "max_heartrate": 151.0,
+      "segment": {
+        "id": 37254767,
+        "resource_state": 2,
+        "name": "Jarmyra (vestsiden fra skogen til apparatene)",
+        "activity_type": "Run",
+        "distance": 403.7,
+        "average_grade": 1.2,
+        "maximum_grade": 5.9,
+        "elevation_high": 75.8,
+        "elevation_low": 71.0,
+        "start_latlng": [
+          59.923492,
+          10.613198
+        ],
+        "end_latlng": [
+          59.926191,
+          10.617851
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754418931684,
+      "resource_state": 2,
+      "name": "Jarmyra 1 runde fra sørvest",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 359,
+      "moving_time": 307,
+      "start_date": "2026-08-18T17:36:03Z",
+      "start_date_local": "2026-08-18T19:36:03Z",
+      "distance": 1267.1,
+      "start_index": 641,
+      "end_index": 758,
+      "average_cadence": 72.1,
+      "device_watts": false,
+      "average_heartrate": 146.4,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 9415246,
+        "resource_state": 2,
+        "name": "Jarmyra 1 runde fra sørvest",
+        "activity_type": "Run",
+        "distance": 1267.1,
+        "average_grade": -0.2,
+        "maximum_grade": 9.2,
+        "elevation_high": 80.6,
+        "elevation_low": 72.4,
+        "start_latlng": [
+          59.922435,
+          10.611778
+        ],
+        "end_latlng": [
+          59.922432,
+          10.611385
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754420429796,
+      "resource_state": 2,
+      "name": "Nesten 1000",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 276,
+      "moving_time": 224,
+      "start_date": "2026-08-18T17:36:36Z",
+      "start_date_local": "2026-08-18T19:36:36Z",
+      "distance": 908.1,
+      "start_index": 651,
+      "end_index": 741,
+      "average_cadence": 68.3,
+      "device_watts": false,
+      "average_heartrate": 144.3,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 10867572,
+        "resource_state": 2,
+        "name": "Nesten 1000",
+        "activity_type": "Run",
+        "distance": 908.1,
+        "average_grade": -0.1,
+        "maximum_grade": 1.4,
+        "elevation_high": 85.8,
+        "elevation_low": 82.6,
+        "start_latlng": [
+          59.923441,
+          10.613015
+        ],
+        "end_latlng": [
+          59.923944,
+          10.612201
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754420497380,
+      "resource_state": 2,
+      "name": "Jarmyra (vestsiden fra skogen til apparatene)",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 156,
+      "moving_time": 104,
+      "start_date": "2026-08-18T17:36:37Z",
+      "start_date_local": "2026-08-18T19:36:37Z",
+      "distance": 403.7,
+      "start_index": 652,
+      "end_index": 701,
+      "average_cadence": 56.9,
+      "device_watts": false,
+      "average_heartrate": 148.2,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 37254767,
+        "resource_state": 2,
+        "name": "Jarmyra (vestsiden fra skogen til apparatene)",
+        "activity_type": "Run",
+        "distance": 403.7,
+        "average_grade": 1.2,
+        "maximum_grade": 5.9,
+        "elevation_high": 75.8,
+        "elevation_low": 71.0,
+        "start_latlng": [
+          59.923492,
+          10.613198
+        ],
+        "end_latlng": [
+          59.926191,
+          10.617851
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754419768292,
+      "resource_state": 2,
+      "name": "Jarmyra 1 runde",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 357,
+      "moving_time": 318,
+      "start_date": "2026-08-18T17:39:31Z",
+      "start_date_local": "2026-08-18T19:39:31Z",
+      "distance": 1259.97,
+      "start_index": 706,
+      "end_index": 830,
+      "average_cadence": 70.0,
+      "device_watts": false,
+      "average_heartrate": 144.2,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 2641676,
+        "resource_state": 2,
+        "name": "Jarmyra 1 runde",
+        "activity_type": "Run",
+        "distance": 1259.97,
+        "average_grade": 0.1,
+        "maximum_grade": 11.3,
+        "elevation_high": 81.0,
+        "elevation_low": 72.7,
+        "start_latlng": [
+          59.9267135,
+          10.6172789
+        ],
+        "end_latlng": [
+          59.9265861,
+          10.6176197
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754419889124,
+      "resource_state": 2,
+      "name": "Jarmyra 1000m",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 297,
+      "moving_time": 258,
+      "start_date": "2026-08-18T17:39:33Z",
+      "start_date_local": "2026-08-18T19:39:33Z",
+      "distance": 999.9,
+      "start_index": 707,
+      "end_index": 810,
+      "average_cadence": 67.0,
+      "device_watts": false,
+      "average_heartrate": 143.8,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 21991254,
+        "resource_state": 2,
+        "name": "Jarmyra 1000m",
+        "activity_type": "Run",
+        "distance": 999.9,
+        "average_grade": -0.1,
+        "maximum_grade": 3.4,
+        "elevation_high": 66.3,
+        "elevation_low": 61.6,
+        "start_latlng": [
+          59.926697,
+          10.617093
+        ],
+        "end_latlng": [
+          59.92471,
+          10.615697
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754418974692,
+      "resource_state": 2,
+      "name": "Jarmyra 1500m",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 413,
+      "moving_time": 374,
+      "start_date": "2026-08-18T17:39:33Z",
+      "start_date_local": "2026-08-18T19:39:33Z",
+      "distance": 1502.5,
+      "start_index": 707,
+      "end_index": 844,
+      "average_cadence": 71.9,
+      "device_watts": false,
+      "average_heartrate": 144.7,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 21991286,
+        "resource_state": 2,
+        "name": "Jarmyra 1500m",
+        "activity_type": "Run",
+        "distance": 1502.5,
+        "average_grade": -0.1,
+        "maximum_grade": 3.4,
+        "elevation_high": 66.3,
+        "elevation_low": 61.6,
+        "start_latlng": [
+          59.926697,
+          10.617093
+        ],
+        "end_latlng": [
+          59.925284,
+          10.614895
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754419459044,
+      "resource_state": 2,
+      "name": "Jarmyra 800m",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 252,
+      "moving_time": 213,
+      "start_date": "2026-08-18T17:39:43Z",
+      "start_date_local": "2026-08-18T19:39:43Z",
+      "distance": 797.6,
+      "start_index": 711,
+      "end_index": 795,
+      "average_cadence": 63.4,
+      "device_watts": false,
+      "average_heartrate": 147.7,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 24425514,
+        "resource_state": 2,
+        "name": "Jarmyra 800m",
+        "activity_type": "Run",
+        "distance": 797.6,
+        "average_grade": -0.3,
+        "maximum_grade": 2.8,
+        "elevation_high": 66.4,
+        "elevation_low": 62.1,
+        "start_latlng": [
+          59.926486,
+          10.61645
+        ],
+        "end_latlng": [
+          59.92376,
+          10.613502
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Viken fylke",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754420920292,
+      "resource_state": 2,
+      "name": "1000 ish Jarmyra",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 271,
+      "moving_time": 232,
+      "start_date": "2026-08-18T17:40:15Z",
+      "start_date_local": "2026-08-18T19:40:15Z",
+      "distance": 928.6,
+      "start_index": 724,
+      "end_index": 818,
+      "average_cadence": 65.2,
+      "device_watts": false,
+      "average_heartrate": 144.9,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 23272599,
+        "resource_state": 2,
+        "name": "1000 ish Jarmyra",
+        "activity_type": "Run",
+        "distance": 928.6,
+        "average_grade": -0.1,
+        "maximum_grade": 7.6,
+        "elevation_high": 65.7,
+        "elevation_low": 60.7,
+        "start_latlng": [
+          59.925567,
+          10.615097
+        ],
+        "end_latlng": [
+          59.925277,
+          10.616573
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Jar",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754421391332,
+      "resource_state": 2,
+      "name": "Jarmyrarunden fra Barnehagen",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 367,
+      "moving_time": 328,
+      "start_date": "2026-08-18T17:40:40Z",
+      "start_date_local": "2026-08-18T19:40:40Z",
+      "distance": 1302.0,
+      "start_index": 730,
+      "end_index": 851,
+      "average_cadence": 70.2,
+      "device_watts": false,
+      "average_heartrate": 145.7,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 36856680,
+        "resource_state": 2,
+        "name": "Jarmyrarunden fra Barnehagen",
+        "activity_type": "Run",
+        "distance": 1302.0,
+        "average_grade": 0.1,
+        "maximum_grade": 6.3,
+        "elevation_high": 65.8,
+        "elevation_low": 60.0,
+        "start_latlng": [
+          59.924826,
+          10.613889
+        ],
+        "end_latlng": [
+          59.92473,
+          10.61365
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754419976164,
+      "resource_state": 2,
+      "name": "Jarmyra (vestsiden fra skogen til apparatene)",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 97,
+      "moving_time": 97,
+      "start_date": "2026-08-18T17:43:41Z",
+      "start_date_local": "2026-08-18T19:43:41Z",
+      "distance": 403.7,
+      "start_index": 790,
+      "end_index": 828,
+      "average_cadence": 80.5,
+      "device_watts": false,
+      "average_heartrate": 132.4,
+      "max_heartrate": 151.0,
+      "segment": {
+        "id": 37254767,
+        "resource_state": 2,
+        "name": "Jarmyra (vestsiden fra skogen til apparatene)",
+        "activity_type": "Run",
+        "distance": 403.7,
+        "average_grade": 1.2,
+        "maximum_grade": 5.9,
+        "elevation_high": 75.8,
+        "elevation_low": 71.0,
+        "start_latlng": [
+          59.923492,
+          10.613198
+        ],
+        "end_latlng": [
+          59.926191,
+          10.617851
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754421175268,
+      "resource_state": 2,
+      "name": "Ringstabekk T - Bekkestua T",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 313,
+      "moving_time": 313,
+      "start_date": "2026-08-18T17:55:17Z",
+      "start_date_local": "2026-08-18T19:55:17Z",
+      "distance": 921.7,
+      "start_index": 984,
+      "end_index": 1053,
+      "average_cadence": 79.8,
+      "device_watts": false,
+      "average_heartrate": 126.5,
+      "max_heartrate": 131.0,
+      "segment": {
+        "id": 14532637,
+        "resource_state": 2,
+        "name": "Ringstabekk T - Bekkestua T",
+        "activity_type": "Run",
+        "distance": 921.7,
+        "average_grade": 0.1,
+        "maximum_grade": 10.0,
+        "elevation_high": 76.1,
+        "elevation_low": 70.0,
+        "start_latlng": [
+          59.920437,
+          10.602305
+        ],
+        "end_latlng": [
+          59.917088,
+          10.58898
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bekkestua",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754421691364,
+      "resource_state": 2,
+      "name": "Tbane linja",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 139,
+      "moving_time": 139,
+      "start_date": "2026-08-18T17:58:31Z",
+      "start_date_local": "2026-08-18T19:58:31Z",
+      "distance": 407.1,
+      "start_index": 1024,
+      "end_index": 1059,
+      "average_cadence": 79.8,
+      "device_watts": false,
+      "average_heartrate": 126.6,
+      "max_heartrate": 131.0,
+      "segment": {
+        "id": 34294008,
+        "resource_state": 2,
+        "name": "Tbane linja",
+        "activity_type": "Run",
+        "distance": 407.1,
+        "average_grade": -0.5,
+        "maximum_grade": 10.5,
+        "elevation_high": 66.8,
+        "elevation_low": 60.2,
+        "start_latlng": [
+          59.918954,
+          10.593594
+        ],
+        "end_latlng": [
+          59.916691,
+          10.588261
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754419884004,
+      "resource_state": 2,
+      "name": "Bekkestua - Mixen (2)",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 420,
+      "moving_time": 412,
+      "start_date": "2026-08-18T18:01:28Z",
+      "start_date_local": "2026-08-18T20:01:28Z",
+      "distance": 1360.5,
+      "start_index": 1079,
+      "end_index": 1187,
+      "average_cadence": 76.5,
+      "device_watts": false,
+      "average_heartrate": 132.8,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 13666341,
+        "resource_state": 2,
+        "name": "Bekkestua - Mixen (2)",
+        "activity_type": "Run",
+        "distance": 1360.5,
+        "average_grade": -2.0,
+        "maximum_grade": 3.9,
+        "elevation_high": 74.5,
+        "elevation_low": 47.2,
+        "start_latlng": [
+          59.916922,
+          10.586994
+        ],
+        "end_latlng": [
+          59.90733,
+          10.573451
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bekkestua",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754419745764,
+      "resource_state": 2,
+      "name": "Bekkestua - Gjønnes",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 155,
+      "moving_time": 147,
+      "start_date": "2026-08-18T18:01:30Z",
+      "start_date_local": "2026-08-18T20:01:30Z",
+      "distance": 413.5,
+      "start_index": 1080,
+      "end_index": 1117,
+      "average_cadence": 67.4,
+      "device_watts": false,
+      "average_heartrate": 124.1,
+      "max_heartrate": 138.0,
+      "segment": {
+        "id": 14660385,
+        "resource_state": 2,
+        "name": "Bekkestua - Gjønnes",
+        "activity_type": "Run",
+        "distance": 413.5,
+        "average_grade": -3.0,
+        "maximum_grade": 4.1,
+        "elevation_high": 76.3,
+        "elevation_low": 63.8,
+        "start_latlng": [
+          59.91689,
+          10.58681
+        ],
+        "end_latlng": [
+          59.914328,
+          10.581585
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bekkestua",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3524861754422353892,
+      "resource_state": 2,
+      "name": "Gjønnes T-bane - Dragveien",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 250,
+      "moving_time": 250,
+      "start_date": "2026-08-18T18:04:24Z",
+      "start_date_local": "2026-08-18T20:04:24Z",
+      "distance": 897.8,
+      "start_index": 1121,
+      "end_index": 1188,
+      "average_cadence": 81.8,
+      "device_watts": false,
+      "average_heartrate": 139.3,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 36554038,
+        "resource_state": 2,
+        "name": "Gjønnes T-bane - Dragveien",
+        "activity_type": "Run",
+        "distance": 897.8,
+        "average_grade": -2.4,
+        "maximum_grade": 1.9,
+        "elevation_high": 61.6,
+        "elevation_low": 39.7,
+        "start_latlng": [
+          59.913988,
+          10.581
+        ],
+        "end_latlng": [
+          59.907083,
+          10.573808
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3524861754419516388,
+      "resource_state": 2,
+      "name": "Gjønnes - Mixen",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 215,
+      "moving_time": 215,
+      "start_date": "2026-08-18T18:04:48Z",
+      "start_date_local": "2026-08-18T20:04:48Z",
+      "distance": 772.8,
+      "start_index": 1127,
+      "end_index": 1185,
+      "average_cadence": 81.9,
+      "device_watts": false,
+      "average_heartrate": 141.4,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 28170998,
+        "resource_state": 2,
+        "name": "Gjønnes - Mixen",
+        "activity_type": "Run",
+        "distance": 772.8,
+        "average_grade": -2.3,
+        "maximum_grade": 6.3,
+        "elevation_high": 62.0,
+        "elevation_low": 43.9,
+        "start_latlng": [
+          59.913297,
+          10.579958
+        ],
+        "end_latlng": [
+          59.90736,
+          10.573762
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bekkestua",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1003.9,
+      "elapsed_time": 308,
+      "elevation_difference": 17.8,
+      "moving_time": 308,
+      "split": 1,
+      "average_speed": 3.26,
+      "average_grade_adjusted_speed": 3.48,
+      "average_heartrate": 142.3355048859935,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1010.9,
+      "elapsed_time": 298,
+      "elevation_difference": 4.2,
+      "moving_time": 298,
+      "split": 2,
+      "average_speed": 3.39,
+      "average_grade_adjusted_speed": 3.44,
+      "average_heartrate": 149.54697986577182,
+      "pace_zone": 2
+    },
+    {
+      "distance": 987.5,
+      "elapsed_time": 439,
+      "elevation_difference": -13.4,
+      "moving_time": 293,
+      "split": 3,
+      "average_speed": 3.37,
+      "average_grade_adjusted_speed": 3.36,
+      "average_heartrate": 130.24914675767917,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 287,
+      "elevation_difference": 10.2,
+      "moving_time": 271,
+      "split": 4,
+      "average_speed": 3.7,
+      "average_grade_adjusted_speed": 3.82,
+      "average_heartrate": 138.59851301115242,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1006.3,
+      "elapsed_time": 301,
+      "elevation_difference": 0.0,
+      "moving_time": 248,
+      "split": 5,
+      "average_speed": 4.06,
+      "average_grade_adjusted_speed": 4.14,
+      "average_heartrate": 143.2459677419355,
+      "pace_zone": 3
+    },
+    {
+      "distance": 992.3,
+      "elapsed_time": 389,
+      "elevation_difference": -7.2,
+      "moving_time": 299,
+      "split": 6,
+      "average_speed": 3.32,
+      "average_grade_adjusted_speed": 3.37,
+      "average_heartrate": 132.73737373737373,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1006.7,
+      "elapsed_time": 299,
+      "elevation_difference": 5.4,
+      "moving_time": 247,
+      "split": 7,
+      "average_speed": 4.08,
+      "average_grade_adjusted_speed": 4.21,
+      "average_heartrate": 142.52226720647772,
+      "pace_zone": 3
+    },
+    {
+      "distance": 992.3,
+      "elapsed_time": 292,
+      "elevation_difference": 2.0,
+      "moving_time": 253,
+      "split": 8,
+      "average_speed": 3.92,
+      "average_grade_adjusted_speed": 4.04,
+      "average_heartrate": 144.53754940711462,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1005.0,
+      "elapsed_time": 464,
+      "elevation_difference": 0.2,
+      "moving_time": 417,
+      "split": 9,
+      "average_speed": 2.41,
+      "average_grade_adjusted_speed": 2.51,
+      "average_heartrate": 121.13493975903614,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1014.0,
+      "elapsed_time": 343,
+      "elevation_difference": 2.4,
+      "moving_time": 343,
+      "split": 10,
+      "average_speed": 2.96,
+      "average_grade_adjusted_speed": 2.99,
+      "average_heartrate": 127.82507288629738,
+      "pace_zone": 1
+    },
+    {
+      "distance": 983.9,
+      "elapsed_time": 353,
+      "elevation_difference": -8.2,
+      "moving_time": 345,
+      "split": 11,
+      "average_speed": 2.85,
+      "average_grade_adjusted_speed": 2.85,
+      "average_heartrate": 126.28488372093024,
+      "pace_zone": 1
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 281,
+      "elevation_difference": -19.4,
+      "moving_time": 281,
+      "split": 12,
+      "average_speed": 3.55,
+      "average_grade_adjusted_speed": 3.43,
+      "average_heartrate": 138.76868327402136,
+      "pace_zone": 2
+    },
+    {
+      "distance": 94.9,
+      "elapsed_time": 32,
+      "elevation_difference": -0.2,
+      "moving_time": 32,
+      "split": 13,
+      "average_speed": 2.97,
+      "average_grade_adjusted_speed": 2.96,
+      "average_heartrate": 136.5625,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1617.8,
+      "elapsed_time": 490,
+      "elevation_difference": 26.0,
+      "moving_time": 490,
+      "split": 1,
+      "average_speed": 3.3,
+      "average_grade_adjusted_speed": 3.49,
+      "average_heartrate": 147.94478527607362,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1611.1,
+      "elapsed_time": 607,
+      "elevation_difference": -14.2,
+      "moving_time": 461,
+      "split": 2,
+      "average_speed": 3.49,
+      "average_grade_adjusted_speed": 3.49,
+      "average_heartrate": 132.03253796095444,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1600.4,
+      "elapsed_time": 494,
+      "elevation_difference": 2.0,
+      "moving_time": 425,
+      "split": 3,
+      "average_speed": 3.77,
+      "average_grade_adjusted_speed": 3.84,
+      "average_heartrate": 142.6501182033097,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1625.4,
+      "elapsed_time": 538,
+      "elevation_difference": 2.6,
+      "moving_time": 448,
+      "split": 4,
+      "average_speed": 3.63,
+      "average_grade_adjusted_speed": 3.72,
+      "average_heartrate": 135.61659192825113,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1592.3,
+      "elapsed_time": 495,
+      "elevation_difference": 3.2,
+      "moving_time": 404,
+      "split": 5,
+      "average_speed": 3.94,
+      "average_grade_adjusted_speed": 4.06,
+      "average_heartrate": 143.6509900990099,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1613.4,
+      "elapsed_time": 676,
+      "elevation_difference": 2.6,
+      "moving_time": 629,
+      "split": 6,
+      "average_speed": 2.57,
+      "average_grade_adjusted_speed": 2.65,
+      "average_heartrate": 123.37480063795853,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1615.3,
+      "elapsed_time": 548,
+      "elevation_difference": -11.4,
+      "moving_time": 540,
+      "split": 7,
+      "average_speed": 2.99,
+      "average_grade_adjusted_speed": 2.98,
+      "average_heartrate": 127.02411873840445,
+      "pace_zone": 1
+    },
+    {
+      "distance": 821.8,
+      "elapsed_time": 238,
+      "elevation_difference": -17.0,
+      "moving_time": 238,
+      "split": 8,
+      "average_speed": 3.45,
+      "average_grade_adjusted_speed": 3.32,
+      "average_heartrate": 140.55882352941177,
+      "pace_zone": 1
+    }
+  ],
+  "laps": [
+    {
+      "id": 70684149525,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 1024,
+      "moving_time": 1025,
+      "start_date": "2026-08-18T17:01:31Z",
+      "start_date_local": "2026-08-18T19:01:31Z",
+      "distance": 2915.75,
+      "average_speed": 2.84,
+      "max_speed": 4.46,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 254,
+      "total_elevation_gain": 38.8,
+      "average_cadence": 80.5,
+      "device_watts": false,
+      "average_heartrate": 141.9,
+      "max_heartrate": 166.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 70684149537,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 191,
+      "moving_time": 191,
+      "start_date": "2026-08-18T17:18:40Z",
+      "start_date_local": "2026-08-18T19:18:40Z",
+      "distance": 813.14,
+      "average_speed": 4.26,
+      "max_speed": 5.24,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 255,
+      "end_index": 321,
+      "total_elevation_gain": 10.6,
+      "average_cadence": 85.6,
+      "device_watts": false,
+      "average_heartrate": 141.0,
+      "max_heartrate": 155.0,
+      "pace_zone": 3
+    },
+    {
+      "id": 70684149548,
+      "resource_state": 2,
+      "name": "Lap 3",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 76,
+      "moving_time": 76,
+      "start_date": "2026-08-18T17:21:49Z",
+      "start_date_local": "2026-08-18T19:21:49Z",
+      "distance": 92.54,
+      "average_speed": 1.22,
+      "max_speed": 3.66,
+      "lap_index": 3,
+      "split": 3,
+      "start_index": 322,
+      "end_index": 347,
+      "total_elevation_gain": 0.4,
+      "average_cadence": 49.8,
+      "device_watts": false,
+      "average_heartrate": 131.3,
+      "max_heartrate": 157.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 70684149557,
+      "resource_state": 2,
+      "name": "Lap 4",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 195,
+      "moving_time": 195,
+      "start_date": "2026-08-18T17:23:05Z",
+      "start_date_local": "2026-08-18T19:23:05Z",
+      "distance": 826.65,
+      "average_speed": 4.24,
+      "max_speed": 5.1,
+      "lap_index": 4,
+      "split": 4,
+      "start_index": 348,
+      "end_index": 416,
+      "total_elevation_gain": 7.4,
+      "average_cadence": 85.2,
+      "device_watts": false,
+      "average_heartrate": 146.8,
+      "max_heartrate": 158.0,
+      "pace_zone": 3
+    },
+    {
+      "id": 70684149570,
+      "resource_state": 2,
+      "name": "Lap 5",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 75,
+      "moving_time": 75,
+      "start_date": "2026-08-18T17:26:24Z",
+      "start_date_local": "2026-08-18T19:26:24Z",
+      "distance": 62.96,
+      "average_speed": 0.84,
+      "max_speed": 3.283,
+      "lap_index": 5,
+      "split": 5,
+      "start_index": 417,
+      "end_index": 439,
+      "total_elevation_gain": 0.0,
+      "average_cadence": 46.0,
+      "device_watts": false,
+      "average_heartrate": 116.9,
+      "max_heartrate": 154.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 70684149587,
+      "resource_state": 2,
+      "name": "Lap 6",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 187,
+      "moving_time": 187,
+      "start_date": "2026-08-18T17:27:38Z",
+      "start_date_local": "2026-08-18T19:27:38Z",
+      "distance": 797.96,
+      "average_speed": 4.27,
+      "max_speed": 4.8,
+      "lap_index": 6,
+      "split": 6,
+      "start_index": 440,
+      "end_index": 508,
+      "total_elevation_gain": 10.0,
+      "average_cadence": 86.2,
+      "device_watts": false,
+      "average_heartrate": 145.9,
+      "max_heartrate": 164.0,
+      "pace_zone": 3
+    },
+    {
+      "id": 70684149605,
+      "resource_state": 2,
+      "name": "Lap 7",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 75,
+      "moving_time": 75,
+      "start_date": "2026-08-18T17:30:44Z",
+      "start_date_local": "2026-08-18T19:30:44Z",
+      "distance": 35.22,
+      "average_speed": 0.47,
+      "max_speed": 4.1,
+      "lap_index": 7,
+      "split": 7,
+      "start_index": 509,
+      "end_index": 531,
+      "total_elevation_gain": 0.0,
+      "average_cadence": 80.5,
+      "device_watts": false,
+      "average_heartrate": 161.9,
+      "max_heartrate": 164.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 70684149623,
+      "resource_state": 2,
+      "name": "Lap 8",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 171,
+      "moving_time": 171,
+      "start_date": "2026-08-18T17:32:00Z",
+      "start_date_local": "2026-08-18T19:32:00Z",
+      "distance": 356.72,
+      "average_speed": 2.09,
+      "max_speed": 5.08,
+      "lap_index": 8,
+      "split": 8,
+      "start_index": 532,
+      "end_index": 578,
+      "total_elevation_gain": 5.6,
+      "average_cadence": 66.0,
+      "device_watts": false,
+      "average_heartrate": 115.7,
+      "max_heartrate": 140.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 70684149642,
+      "resource_state": 2,
+      "name": "Lap 9",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 3,
+      "moving_time": 3,
+      "start_date": "2026-08-18T17:34:50Z",
+      "start_date_local": "2026-08-18T19:34:50Z",
+      "distance": 8.24,
+      "average_speed": 2.75,
+      "max_speed": 2.18,
+      "lap_index": 9,
+      "split": 9,
+      "start_index": 579,
+      "end_index": 580,
+      "total_elevation_gain": 0.0,
+      "average_cadence": 0.0,
+      "device_watts": false,
+      "average_heartrate": 101.0,
+      "max_heartrate": 101.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 70684149656,
+      "resource_state": 2,
+      "name": "Lap 10",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 188,
+      "moving_time": 188,
+      "start_date": "2026-08-18T17:34:55Z",
+      "start_date_local": "2026-08-18T19:34:55Z",
+      "distance": 809.53,
+      "average_speed": 4.31,
+      "max_speed": 5.48,
+      "lap_index": 10,
+      "split": 10,
+      "start_index": 581,
+      "end_index": 646,
+      "total_elevation_gain": 9.8,
+      "average_cadence": 86.0,
+      "device_watts": false,
+      "average_heartrate": 144.4,
+      "max_heartrate": 158.0,
+      "pace_zone": 3
+    },
+    {
+      "id": 70684149670,
+      "resource_state": 2,
+      "name": "Lap 11",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 77,
+      "moving_time": 77,
+      "start_date": "2026-08-18T17:38:04Z",
+      "start_date_local": "2026-08-18T19:38:04Z",
+      "distance": 64.33,
+      "average_speed": 0.84,
+      "max_speed": 4.386,
+      "lap_index": 11,
+      "split": 11,
+      "start_index": 647,
+      "end_index": 674,
+      "total_elevation_gain": 0.0,
+      "average_cadence": 62.0,
+      "device_watts": false,
+      "average_heartrate": 129.7,
+      "max_heartrate": 158.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 70684149684,
+      "resource_state": 2,
+      "name": "Lap 12",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 192,
+      "moving_time": 192,
+      "start_date": "2026-08-18T17:39:22Z",
+      "start_date_local": "2026-08-18T19:39:22Z",
+      "distance": 810.95,
+      "average_speed": 4.22,
+      "max_speed": 4.917,
+      "lap_index": 12,
+      "split": 12,
+      "start_index": 675,
+      "end_index": 736,
+      "total_elevation_gain": 5.0,
+      "average_cadence": 85.2,
+      "device_watts": false,
+      "average_heartrate": 148.4,
+      "max_heartrate": 165.0,
+      "pace_zone": 3
+    },
+    {
+      "id": 70684149699,
+      "resource_state": 2,
+      "name": "Lap 13",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 74,
+      "moving_time": 74,
+      "start_date": "2026-08-18T17:42:35Z",
+      "start_date_local": "2026-08-18T19:42:35Z",
+      "distance": 70.43,
+      "average_speed": 0.95,
+      "max_speed": 3.933,
+      "lap_index": 13,
+      "split": 13,
+      "start_index": 737,
+      "end_index": 763,
+      "total_elevation_gain": 0.0,
+      "average_cadence": 48.7,
+      "device_watts": false,
+      "average_heartrate": 132.2,
+      "max_heartrate": 161.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 70684149713,
+      "resource_state": 2,
+      "name": "Lap 14",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 189,
+      "moving_time": 189,
+      "start_date": "2026-08-18T17:43:49Z",
+      "start_date_local": "2026-08-18T19:43:49Z",
+      "distance": 811.15,
+      "average_speed": 4.29,
+      "max_speed": 4.79,
+      "lap_index": 14,
+      "split": 14,
+      "start_index": 764,
+      "end_index": 826,
+      "total_elevation_gain": 9.0,
+      "average_cadence": 85.1,
+      "device_watts": false,
+      "average_heartrate": 141.7,
+      "max_heartrate": 153.0,
+      "pace_zone": 3
+    },
+    {
+      "id": 70684149723,
+      "resource_state": 2,
+      "name": "Lap 15",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 1361,
+      "moving_time": 1361,
+      "start_date": "2026-08-18T17:46:59Z",
+      "start_date_local": "2026-08-18T19:46:59Z",
+      "distance": 3621.95,
+      "average_speed": 2.66,
+      "max_speed": 4.05,
+      "lap_index": 15,
+      "split": 15,
+      "start_index": 827,
+      "end_index": 1155,
+      "total_elevation_gain": 27.8,
+      "average_cadence": 74.8,
+      "device_watts": false,
+      "average_heartrate": 126.0,
+      "max_heartrate": 158.0,
+      "pace_zone": 1
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 82916360750,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 90,
+      "moving_time": 90,
+      "start_date": "2026-08-18T17:01:31Z",
+      "start_date_local": "2026-08-18T19:01:31Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 379,
+      "end_index": 415
+    },
+    {
+      "id": 82916360751,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 186,
+      "moving_time": 186,
+      "start_date": "2026-08-18T17:01:31Z",
+      "start_date_local": "2026-08-18T19:01:31Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 284,
+      "end_index": 349
+    },
+    {
+      "id": 82916360752,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 283,
+      "moving_time": 283,
+      "start_date": "2026-08-18T17:01:31Z",
+      "start_date_local": "2026-08-18T19:01:31Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 324,
+      "end_index": 422
+    },
+    {
+      "id": 82916360746,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 429,
+      "moving_time": 429,
+      "start_date": "2026-08-18T17:01:31Z",
+      "start_date_local": "2026-08-18T19:01:31Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 284,
+      "end_index": 433
+    },
+    {
+      "id": 82916360747,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 1027,
+      "moving_time": 1027,
+      "start_date": "2026-08-18T17:01:31Z",
+      "start_date_local": "2026-08-18T19:01:31Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 285,
+      "end_index": 638
+    },
+    {
+      "id": 82916360748,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 1565,
+      "moving_time": 1565,
+      "start_date": "2026-08-18T17:01:31Z",
+      "start_date_local": "2026-08-18T19:01:31Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 323,
+      "end_index": 845
+    },
+    {
+      "id": 82916360749,
+      "resource_state": 2,
+      "name": "10K",
+      "activity": {
+        "id": 19798136146,
+        "id_str": "19798136146",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 3414,
+      "moving_time": 3414,
+      "start_date": "2026-08-18T17:01:31Z",
+      "start_date_local": "2026-08-18T19:01:31Z",
+      "distance": 10000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 4,
+      "end_index": 1025
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "f15c49bc37112be65c602b07db91ad0006fc6778",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 3.328060522696011,
+    "min_average_speed": 3.328060522696011,
+    "mid_average_speed": 3.328060522696011,
+    "max_average_speed": 3.328060522696011,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        3.328060522696011
+      ],
+      "current_activity_index": 0,
+      "min_speed": 3.328060522696011,
+      "mid_speed": 3.328060522696011,
+      "max_speed": 3.328060522696011,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}
