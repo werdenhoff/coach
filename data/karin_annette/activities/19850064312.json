@@ -1,0 +1,266 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "id_str": "13108506",
+    "resource_state": 1
+  },
+  "name": "Tur til Gubben",
+  "distance": 4944.7,
+  "moving_time": 6064,
+  "elapsed_time": 8495,
+  "total_elevation_gain": 240.4,
+  "type": "Hike",
+  "sport_type": "Hike",
+  "device_name": "Garmin Forerunner 235",
+  "id": 19850064312,
+  "id_str": "19850064312",
+  "start_date": "2026-08-22T10:18:03Z",
+  "start_date_local": "2026-08-22T12:18:03Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 3,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a19850064312",
+    "polyline": "obyuJge{|@LbB?`AC`@Jd@IpAOpAM^Ab@GBETE@S\\[`@QZCBKp@MLI@]h@Qz@@fDFpAAz@Eh@JlBHOA@POR?ZSZ_@XCHDBEDD?JBIDEV\\NId@FLRAH?ABB?ACDCCPWj@ZDFF?DD\\B`@OBHD?HGZi@XMPELHb@HDA\\`@FQl@JADFHHAVPNAFIFAH@RQVBNFF?HD\\XJDPRFB^CBLJBFHTr@HJH@HHFEb@S\\WLGb@HDClA?|@SPR@CZDBARDNAHBFJBARJJ@PLd@fANRBJNJZZVGHK\\QXUTWpAAFAVITSNGh@e@^IHBPCLG@BLJ^Eb@ADDRAdBTXATHJCF@DPv@R`Az@bCzAn@|@\\VNRb@`@t@q@\\o@ZmBNcHG}Ck@sBOQIQMMCGMGOOOWOS]o@OQSM{AoB?}@Y}BQQG[JeBFWCEH_B?q@GF?EAA@EC@q@Yk@Aa@OM?yB~@oBw@u@IW[wAg@g@b@SIM@MCCGE@@oABi@EeAFk@Ao@GQ?YYWC@W@MIg@q@EOO[UO[a@SIMMKEINE@_@?Mo@GKAS{@sB_@i@My@e@aAMQC]fAsBf@y@r@sAVy@Lk@Sg@MKAEOaAIw@c@{BSc@G[JmBa@_AEEwAg@_@e@oAoAe@IAXc@rA{@`C]~C]pBqAlAwAj@kA?@BAAG?@IBFAFUDUG@@_@AKGWDmA`Bm@bAi@}@o@_Be@k@IEwAc@s@`BUnBA~@RvBTfGN|@f@d@f@x@Ex@a@rAEv@",
+    "resource_state": 3,
+    "summary_polyline": "obyuJge{|@LbB?`AC`@Jd@IpAOpAM^Ab@GBETE@S\\[`@QZCBKp@MLI@]h@Qz@@fDFpAAz@Eh@JlBHOA@POR?ZSZ_@XCHDBEDD?JBIDEV\\NId@FLRAH?ABB?ACDCCPWj@ZDFF?DD\\B`@OBHD?HGZi@XMPELHb@HDA\\`@FQl@JADFHHAVPNAFIFAH@RQVBNFF?HD\\XJDPRFB^CBLJBFHTr@HJH@HHFEb@S\\WLGb@HDClA?|@SPR@CZDBARDNAHBFJBARJJ@PLd@fANRBJNJZZVGHK\\QXUTWpAAFAVITSNGh@e@^IHBPCLG@BLJ^Eb@ADDRAdBTXATHJCF@DPv@R`Az@bCzAn@|@\\VNRb@`@t@q@\\o@ZmBNcHG}Ck@sBOQIQMMCGMGOOOWOS]o@OQSM{AoB?}@Y}BQQG[JeBFWCEH_B?q@GF?EAA@EC@q@Yk@Aa@OM?yB~@oBw@u@IW[wAg@g@b@SIM@MCCGE@@oABi@EeAFk@Ao@GQ?YYWC@W@MIg@q@EOO[UO[a@SIMMKEINE@_@?Mo@GKAS{@sB_@i@My@e@aAMQC]fAsBf@y@r@sAVy@Lk@Sg@MKAEOaAIw@c@{BSc@G[JmBa@_AEEwAg@_@e@oAoAe@IAXc@rA{@`C]~C]pBqAlAwAj@kA?@BAAG?@IBFAFUDUG@@_@AKGWDmA`Bm@bAi@}@o@_Be@k@IEwAc@s@`BUnBA~@RvBTfGN|@f@d@f@x@Ex@a@rAEv@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "g7653424",
+  "start_latlng": [
+    61.409847,
+    10.138607
+  ],
+  "end_latlng": [
+    61.409897,
+    10.140777
+  ],
+  "average_speed": 0.815,
+  "max_speed": 1.32,
+  "average_cadence": 57.9,
+  "has_heartrate": true,
+  "average_heartrate": 101.2,
+  "max_heartrate": 136.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 1116.1,
+  "elev_low": 867.7,
+  "upload_id": 20984577666,
+  "upload_id_str": "20984577666",
+  "external_id": "garmin_ping_617182914925",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 2,
+  "has_kudoed": false,
+  "suffer_score": 20.0,
+  "description": "Med Pål, Anton, Mimo og Kompis - sprek 86 åring! Slapp unna det meldte regnet - en del vind på toppen🌬️",
+  "calories": 497.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 1004.5,
+      "elapsed_time": 2250,
+      "elevation_difference": 101.6,
+      "moving_time": 1598,
+      "split": 1,
+      "average_speed": 0.63,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 101.63030303030303,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1008.0,
+      "elapsed_time": 1893,
+      "elevation_difference": 112.9,
+      "moving_time": 1155,
+      "split": 2,
+      "average_speed": 0.87,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 103.97105263157894,
+      "pace_zone": 0
+    },
+    {
+      "distance": 989.4,
+      "elapsed_time": 1561,
+      "elevation_difference": -88.8,
+      "moving_time": 1129,
+      "split": 3,
+      "average_speed": 0.88,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 105.56193078324226,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1012.9,
+      "elapsed_time": 1605,
+      "elevation_difference": -152.9,
+      "moving_time": 1209,
+      "split": 4,
+      "average_speed": 0.84,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 99.50838926174497,
+      "pace_zone": 0
+    },
+    {
+      "distance": 929.9,
+      "elapsed_time": 1186,
+      "elevation_difference": 21.1,
+      "moving_time": 973,
+      "split": 5,
+      "average_speed": 0.96,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 94.55087358684482,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1617.9,
+      "elapsed_time": 3459,
+      "elevation_difference": 174.3,
+      "moving_time": 2402,
+      "split": 1,
+      "average_speed": 0.67,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 102.3745054945055,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 2781,
+      "elevation_difference": -103.7,
+      "moving_time": 1779,
+      "split": 2,
+      "average_speed": 0.9,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 105.15212399540758,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1623.9,
+      "elapsed_time": 2111,
+      "elevation_difference": -81.1,
+      "moving_time": 1739,
+      "split": 3,
+      "average_speed": 0.93,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 95.73827446438911,
+      "pace_zone": 0
+    },
+    {
+      "distance": 95.7,
+      "elapsed_time": 144,
+      "elevation_difference": 4.4,
+      "moving_time": 144,
+      "split": 4,
+      "average_speed": 0.66,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 101.04166666666667,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 70863614876,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 19850064312,
+        "id_str": "19850064312",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 8495,
+      "moving_time": 8495,
+      "start_date": "2026-08-22T10:18:03Z",
+      "start_date_local": "2026-08-22T12:18:03Z",
+      "distance": 4944.69,
+      "average_speed": 0.58,
+      "max_speed": 1.32,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 724,
+      "total_elevation_gain": 240.4,
+      "average_cadence": 57.9,
+      "device_watts": false,
+      "average_heartrate": 101.2,
+      "max_heartrate": 136.0
+    }
+  ],
+  "gear": {
+    "id": "g7653424",
+    "primary": false,
+    "name": "Adidas boost Mølle",
+    "nickname": "Mølle",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 1191483,
+    "converted_distance": 1191.5
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "75282024-A038-4DE9-8933-8F0F9E8339DF",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/Q74CTwCQECpm9nU_bsYAmjYc85Lmdh6iqmUZmQt8suc-768x576.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/Q74CTwCQECpm9nU_bsYAmjYc85Lmdh6iqmUZmQt8suc-128x96.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 2
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "763e1881794038421c7ddaf7c9a7c146fecfed57",
+  "available_zones": [
+    "heartrate"
+  ]
+}
