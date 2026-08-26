@@ -1,0 +1,423 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "id_str": "13108506",
+    "resource_state": 1
+  },
+  "name": "Til jobb",
+  "distance": 6070.8,
+  "moving_time": 913,
+  "elapsed_time": 1004,
+  "total_elevation_gain": 31.7,
+  "type": "EBikeRide",
+  "sport_type": "EBikeRide",
+  "device_name": "Garmin Forerunner 235",
+  "id": 19903864051,
+  "id_str": "19903864051",
+  "start_date": "2026-08-26T06:46:19Z",
+  "start_date_local": "2026-08-26T08:46:19Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 11,
+  "kudos_count": 2,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a19903864051",
+    "polyline": "kkrlJgkm_AKOGDGQPo@xAg@zAxAlAdA^BAa@e@{E{AqH{@{Dw@aEk@eEOyAu@iEgA}DcAgCUoAE}@BqBFkAE{@DgELuDbEgEt@kAUkBOqFPa@T?VEb@[Ra@Jk@Bk@Co@Iq@iAoGi@qEs@cIBg@J_@RUbAw@j@k@Ha@QoAg@gKOg@k@{@}@qBeAeDs@}DyCmRcBqLu@uEyB{JY}DDs@d@aB@k@Ii@sCiImAyDy@yDMgC?[HgB`@yGFgB?mACq@g@cFmAwIk@aDuG_Y_@uB[wCe@gIm@yEQeA{@sD_CuHm@kCyAeJm@cCkA{Dw@uCaAsDaAqEGo@HgE|@cEj@{CB_BE}@Mw@_C_IwCgJAk@@UDU\\eA@a@G[[}@_AoIEw@e@oA\\SRoA?s@e@mE_@yEq@wF@e@Ha@@c@g@gCWeCoBoNQaCDi@NIPEt@KV?LLBNXtC",
+    "resource_state": 3,
+    "summary_polyline": "qbrlJwim_AAa@e@{E{AqH{@{Dw@aEk@eEOyAu@iEgA}DcAgCUoAE}@BqBFkAE{@DgELuDbEgEt@kAUkBOqFPa@T?VEb@[Ra@Jk@Bk@Co@Iq@iAoGi@qEs@cIBg@J_@RUbAw@j@k@Ha@QoAg@gKOg@k@{@}@qBeAeDs@}DyCmRcBqLu@uEyB{JY}DDs@d@aB@k@Ii@sCiImAyDy@yDMgC?[HgB`@yGFgB?mACq@g@cFmAwIk@aDuG_Y_@uB[wCe@gIm@yEQeA{@sD_CuHm@kCyAeJm@cCkA{Dw@uCaAsDaAqEGo@HgE|@cEj@{CB_BE}@Mw@_C_IwCgJAk@@UDU\\eA@a@G[[}@_AoIEw@e@oA\\SRoA?s@e@mE_@yEq@wF@e@Ha@@c@g@gCWeCoBoNQaCDi@NIPEt@KV?LLBNXtC"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    59.900865,
+    10.559404
+  ],
+  "end_latlng": [
+    59.913305,
+    10.645905
+  ],
+  "average_speed": 6.649,
+  "max_speed": 10.48,
+  "average_watts": 87.7,
+  "device_watts": false,
+  "kilojoules": 80.1,
+  "has_heartrate": true,
+  "average_heartrate": 113.3,
+  "max_heartrate": 153.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 45.8,
+  "elev_low": 4.3,
+  "upload_id": 21039804269,
+  "upload_id_str": "21039804269",
+  "external_id": "garmin_ping_619061538965",
+  "from_accepted_tag": false,
+  "pr_count": 7,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 6.0,
+  "description": "☀️☀️☀️",
+  "calories": 103.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3527600049412236940,
+      "resource_state": 2,
+      "name": "Høvik-Lysaker - tøffere enn toget - elspressen",
+      "activity": {
+        "id": 19903864051,
+        "id_str": "19903864051",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 476,
+      "moving_time": 476,
+      "start_date": "2026-08-26T06:51:48Z",
+      "start_date_local": "2026-08-26T08:51:48Z",
+      "distance": 3490.2,
+      "start_index": 63,
+      "end_index": 165,
+      "device_watts": false,
+      "average_heartrate": 117.6,
+      "max_heartrate": 153.0,
+      "segment": {
+        "id": 17730613,
+        "resource_state": 2,
+        "name": "Høvik-Lysaker - tøffere enn toget - elspressen",
+        "activity_type": "EBikeRide",
+        "distance": 3490.2,
+        "average_grade": -0.2,
+        "maximum_grade": 15.0,
+        "elevation_high": 29.6,
+        "elevation_low": 17.4,
+        "start_latlng": [
+          59.900775,
+          10.584201
+        ],
+        "end_latlng": [
+          59.912816,
+          10.63735
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Høvik",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3527600049413067404,
+      "resource_state": 2,
+      "name": "Markallen EL",
+      "activity": {
+        "id": 19903864051,
+        "id_str": "19903864051",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 95,
+      "moving_time": 95,
+      "start_date": "2026-08-26T06:51:58Z",
+      "start_date_local": "2026-08-26T08:51:58Z",
+      "distance": 711.2,
+      "start_index": 65,
+      "end_index": 77,
+      "device_watts": false,
+      "average_heartrate": 105.6,
+      "max_heartrate": 110.0,
+      "segment": {
+        "id": 37945514,
+        "resource_state": 2,
+        "name": "Markallen EL",
+        "activity_type": "EBikeRide",
+        "distance": 711.2,
+        "average_grade": -0.6,
+        "maximum_grade": 0.4,
+        "elevation_high": 22.8,
+        "elevation_low": 18.4,
+        "start_latlng": [
+          59.901332,
+          10.585086
+        ],
+        "end_latlng": [
+          59.904057,
+          10.596345
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1010.3,
+      "elapsed_time": 188,
+      "elevation_difference": 8.8,
+      "moving_time": 188,
+      "split": 1,
+      "average_speed": 5.37,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 103.10227272727273,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1046.4,
+      "elapsed_time": 159,
+      "elevation_difference": -19.9,
+      "moving_time": 159,
+      "split": 2,
+      "average_speed": 6.58,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 106.19496855345912,
+      "pace_zone": 0
+    },
+    {
+      "distance": 965.8,
+      "elapsed_time": 131,
+      "elevation_difference": -0.7,
+      "moving_time": 131,
+      "split": 3,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 105.57251908396947,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.9,
+      "elapsed_time": 134,
+      "elevation_difference": 2.5,
+      "moving_time": 134,
+      "split": 4,
+      "average_speed": 7.41,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 134.30597014925374,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.7,
+      "elapsed_time": 129,
+      "elevation_difference": -7.4,
+      "moving_time": 129,
+      "split": 5,
+      "average_speed": 7.69,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 108.5891472868217,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 157,
+      "elevation_difference": -9.2,
+      "moving_time": 157,
+      "split": 6,
+      "average_speed": 6.36,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 121.68789808917198,
+      "pace_zone": 0
+    },
+    {
+      "distance": 64.4,
+      "elapsed_time": 106,
+      "elevation_difference": -1.7,
+      "moving_time": 15,
+      "split": 7,
+      "average_speed": 4.29,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 139.46666666666667,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1652.4,
+      "elapsed_time": 285,
+      "elevation_difference": 1.5,
+      "moving_time": 285,
+      "split": 1,
+      "average_speed": 5.8,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 104.0915750915751,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1578.9,
+      "elapsed_time": 221,
+      "elevation_difference": -12.1,
+      "moving_time": 221,
+      "split": 2,
+      "average_speed": 7.14,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 108.0497737556561,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1598.6,
+      "elapsed_time": 213,
+      "elevation_difference": -5.2,
+      "moving_time": 213,
+      "split": 3,
+      "average_speed": 7.51,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 122.83568075117371,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1240.9,
+      "elapsed_time": 285,
+      "elevation_difference": -11.8,
+      "moving_time": 194,
+      "split": 4,
+      "average_speed": 6.4,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 121.66494845360825,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 71050947010,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 19903864051,
+        "id_str": "19903864051",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 738,
+      "moving_time": 738,
+      "start_date": "2026-08-26T06:46:19Z",
+      "start_date_local": "2026-08-26T08:46:19Z",
+      "distance": 5000.0,
+      "average_speed": 6.78,
+      "max_speed": 9.0,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 131,
+      "total_elevation_gain": 21.0,
+      "device_watts": false,
+      "average_watts": 89.4,
+      "average_heartrate": 110.9,
+      "max_heartrate": 153.0
+    },
+    {
+      "id": 71050947019,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 19903864051,
+        "id_str": "19903864051",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 263,
+      "moving_time": 263,
+      "start_date": "2026-08-26T06:58:45Z",
+      "start_date_local": "2026-08-26T08:58:45Z",
+      "distance": 1070.79,
+      "average_speed": 4.07,
+      "max_speed": 10.48,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 132,
+      "end_index": 238,
+      "total_elevation_gain": 10.7,
+      "device_watts": false,
+      "average_watts": 78.2,
+      "average_heartrate": 123.3,
+      "max_heartrate": 147.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "9949df611d1a0841b8347e82823c4ea46476bb07",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}
