@@ -1,0 +1,3516 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 321503,
+    "id_str": "321503",
+    "resource_state": 1
+  },
+  "name": "Afternoon Ride",
+  "distance": 11858.7,
+  "moving_time": 1831,
+  "elapsed_time": 1853,
+  "total_elevation_gain": 106.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 745",
+  "id": 19991178941,
+  "id_str": "19991178941",
+  "start_date": "2026-09-01T14:12:03Z",
+  "start_date_local": "2026-09-01T16:12:03Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 3,
+  "comment_count": 0,
+  "athlete_count": 3,
+  "photo_count": 0,
+  "map": {
+    "id": "a19991178941",
+    "polyline": "ibvlJmnn`AUbAUh@Ib@Qf@?Zn@zA\\b@hAvB`ItMj@fAtAzBd@t@NLLFn@LhBNv@Jh@?XDFBVXFPHp@L|IFb@JlAB~@FdAb@~D\\jBNTRNHLFP`@xELv@J`@VrBjDtMj@nBZEb@d@R^b@ZTFFHf@nAlA`BZj@bAvAv@zAbA`Bz@zA@h@k@rISl@q@~E{@jEe@lBy@nCe@fA]n@gM`TsB|D}@bCe@jBWvA_@zDMlDUfDe@`Dy@dDcA|BmAfBwA`B{@nAw@jBU`BAXAr@Br@Fn@Lh@p@lBBR?Tc@nEGzEStCYzBiA`E[x@q@tAq@d@SZi@jAm@nBOhASjD[~CqAzH_@zIEhBBr@h@tHNr@~@bDdF`Sz@lE`@lFr@fF@ZSfAAp@L~B\\rCfDhT`BdMT`CNjAb@dCHb@Tp@pAdCL\\Lx@H~@DzCh@zJ?tAGnDHbC\\rBfA~E|@xCd@~@Np@VzDbAdIVhBTjATxBLp@Rr@@N?PG`@Eb@@Ph@dE\\~ENzANz@LrBEbBCHOJKT@LdAvLF\\B@VKH?JHLd@Bf@Gj@Id@O\\CR@TJf@Z`ANR@JKNGRBZtBhHd@xBp@pBNz@Dx@Al@K~@UdAWt@_@tAStAGzA?x@N|BDZbAlDjBhHlBxGt@~Dz@nFZzAj@pB|ApEPl@t@rDf@jD^xDf@zHh@vDlEfRxAvGfAxHz@fHFfA?fDq@pL@n@RtC\\`B|FzQBX?V[rAIn@AXD`BFt@VpAr@tC~@jEjD|U`ChOt@bE`AbDjAdDJt@\\x@Jh@\\tIMn@_@d@uApAIZC`@`@`Fr@rGv@nF`@bDAh@I`@IRY\\WLOBmCF}AGs@@SGUMORARBfA~@rJRfE?|BGvA?rDC~@M~@Ul@]Xi@R_@VINM^Eb@?j@PxDI~A[lAi@nAQVAN?TBJj@j@rAlBb@t@l@rA`@fAvDlMfAbD`@bA@RARO\\[RKRAJH\\R`@CI?AB?",
+    "resource_state": 3,
+    "summary_polyline": "oyulJwvm`AvBlDj@fAtAzBd@t@NLLFn@LhBNv@Jh@?XDFBVXFPHp@L|IFb@JlAB~@FdAb@~D\\jBNTRNHLFP`@xELv@J`@VrBdBxGpBjHZEb@d@R^b@ZTFFHf@nAlA`BZj@bAvAv@zAbA`Bz@zA@h@k@rISl@q@~E{@jEe@lBy@nCe@fA]n@gM`TsB|D}@bCe@jBWvA_@zDMlDUfDe@`Dy@dDcA|BmAfBwA`B{@nAw@jBU`BAXAr@Br@Fn@Lh@p@lBBR?Tc@nEGzEStCYzBiA`E[x@q@tAq@d@SZi@jAm@nBOhASjD[~CqAzH_@zIEhBBr@h@tHNr@~@bDdF`Sz@lE`@lFr@fF@ZSfAAp@L~B\\rCfDhT`BdMT`CNjAb@dCHb@Tp@pAdCL\\Lx@H~@DzCh@zJ?tAGnDHbC\\rBfA~E|@xCd@~@Np@VzDbAdIVhBTjATxBLp@Rr@@N?PG`@Eb@@Ph@dE\\~ENzANz@LrBEbBCHOJKT@LdAvLF\\B@VKH?JHLd@Bf@Gj@Id@O\\CR@TJf@Z`ANR@JKNGRBZtBhHd@xBp@pBNz@Dx@Al@K~@UdAWt@_@tAStAGzA?x@N|BDZbAlDjBhHlBxGt@~Dz@nFZzAj@pB|ApEPl@t@rDf@jD^xDf@zHh@vDlEfRxAvGfAxHz@fHFfA?fDq@pL@n@RtC\\`B|FzQBX?V[rAIn@AXD`BFt@VpAr@tC~@jEjD|U`ChOt@bE`AbDjAdDJt@\\x@Jh@\\tIMn@_@d@uApAIZC`@`@`Fr@rGv@nF`@bDAh@I`@IRY\\WLOBmCF}AGs@@SGUMORARBfA~@rJRfE?|BGvA?rDC~@M~@Ul@]Xi@R_@VINM^Eb@?j@PxDI~A[lAi@nAQVAN?TBJj@j@rAlBb@t@l@rA`@fAbClI"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b439356",
+  "start_latlng": [
+    59.919892,
+    10.728878
+  ],
+  "end_latlng": [
+    59.900835,
+    10.559263
+  ],
+  "average_speed": 6.477,
+  "max_speed": 10.88,
+  "average_temp": 24,
+  "average_watts": 202.5,
+  "device_watts": false,
+  "kilojoules": 370.8,
+  "has_heartrate": true,
+  "average_heartrate": 111.5,
+  "max_heartrate": 135.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 58.6,
+  "elev_low": 17.6,
+  "upload_id": 21129672930,
+  "upload_id_str": "21129672930",
+  "external_id": "garmin_ping_622230404298",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 5.0,
+  "description": null,
+  "calories": 258.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3529880340607986650,
+      "resource_state": 2,
+      "name": "Parkveien bort",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 40,
+      "moving_time": 40,
+      "start_date": "2026-09-01T14:12:47Z",
+      "start_date_local": "2026-09-01T16:12:47Z",
+      "distance": 244.176,
+      "start_index": 14,
+      "end_index": 25,
+      "device_watts": false,
+      "average_heartrate": 100.5,
+      "max_heartrate": 103.0,
+      "segment": {
+        "id": 2358015,
+        "resource_state": 2,
+        "name": "Parkveien bort",
+        "activity_type": "Ride",
+        "distance": 244.176,
+        "average_grade": -1.9,
+        "maximum_grade": -0.4,
+        "elevation_high": 43.1,
+        "elevation_low": 38.4,
+        "start_latlng": [
+          59.91974259266622,
+          10.72723763064549
+        ],
+        "end_latlng": [
+          59.91805657284326,
+          10.724473362798545
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880340610497498,
+      "resource_state": 2,
+      "name": "Parkveien ned",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 43,
+      "moving_time": 43,
+      "start_date": "2026-09-01T14:13:31Z",
+      "start_date_local": "2026-09-01T16:13:31Z",
+      "distance": 325.8,
+      "start_index": 26,
+      "end_index": 48,
+      "device_watts": false,
+      "average_heartrate": 95.5,
+      "max_heartrate": 103.0,
+      "segment": {
+        "id": 24786967,
+        "resource_state": 2,
+        "name": "Parkveien ned",
+        "activity_type": "Ride",
+        "distance": 325.8,
+        "average_grade": -1.1,
+        "maximum_grade": 0.1,
+        "elevation_high": 27.9,
+        "elevation_low": 24.3,
+        "start_latlng": [
+          59.917924,
+          10.724332
+        ],
+        "end_latlng": [
+          59.915238,
+          10.722493
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Majorstuen",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880340609898458,
+      "resource_state": 2,
+      "name": "Bryte fartsgrensa!",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 38,
+      "moving_time": 38,
+      "start_date": "2026-09-01T14:15:17Z",
+      "start_date_local": "2026-09-01T16:15:17Z",
+      "distance": 302.4,
+      "start_index": 75,
+      "end_index": 93,
+      "device_watts": false,
+      "average_heartrate": 92.3,
+      "max_heartrate": 99.0,
+      "segment": {
+        "id": 25586955,
+        "resource_state": 2,
+        "name": "Bryte fartsgrensa!",
+        "activity_type": "Ride",
+        "distance": 302.4,
+        "average_grade": -3.3,
+        "maximum_grade": -2.8,
+        "elevation_high": 21.0,
+        "elevation_low": 11.1,
+        "start_latlng": [
+          59.91435,
+          10.716581
+        ],
+        "end_latlng": [
+          59.912883,
+          10.712044
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Frogner",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880340608255962,
+      "resource_state": 2,
+      "name": "Frognerstranda",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 206,
+      "moving_time": 206,
+      "start_date": "2026-09-01T14:16:56Z",
+      "start_date_local": "2026-09-01T16:16:56Z",
+      "distance": 1488.7,
+      "start_index": 115,
+      "end_index": 167,
+      "device_watts": false,
+      "average_heartrate": 107.2,
+      "max_heartrate": 114.0,
+      "segment": {
+        "id": 25341184,
+        "resource_state": 2,
+        "name": "Frognerstranda",
+        "activity_type": "Ride",
+        "distance": 1488.7,
+        "average_grade": 0.0,
+        "maximum_grade": 1.2,
+        "elevation_high": 2.2,
+        "elevation_low": 1.3,
+        "start_latlng": [
+          59.910278,
+          10.70848
+        ],
+        "end_latlng": [
+          59.917972,
+          10.688292
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sentrum",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880340609163226,
+      "resource_state": 2,
+      "name": "Tour de Frognerkilen",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 203,
+      "moving_time": 203,
+      "start_date": "2026-09-01T14:17:01Z",
+      "start_date_local": "2026-09-01T16:17:01Z",
+      "distance": 1473.8,
+      "start_index": 119,
+      "end_index": 168,
+      "device_watts": false,
+      "average_heartrate": 107.5,
+      "max_heartrate": 114.0,
+      "segment": {
+        "id": 25210876,
+        "resource_state": 2,
+        "name": "Tour de Frognerkilen",
+        "activity_type": "Ride",
+        "distance": 1473.8,
+        "average_grade": 0.0,
+        "maximum_grade": 1.2,
+        "elevation_high": 2.2,
+        "elevation_low": 1.3,
+        "start_latlng": [
+          59.910369,
+          10.707763
+        ],
+        "end_latlng": [
+          59.917858,
+          10.688004
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Frogner",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880340609001434,
+      "resource_state": 2,
+      "name": "Fra \"S\" sving - statuetten",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 54,
+      "moving_time": 54,
+      "start_date": "2026-09-01T14:17:13Z",
+      "start_date_local": "2026-09-01T16:17:13Z",
+      "distance": 385.2,
+      "start_index": 127,
+      "end_index": 138,
+      "device_watts": false,
+      "average_heartrate": 102.4,
+      "max_heartrate": 110.0,
+      "segment": {
+        "id": 15810611,
+        "resource_state": 2,
+        "name": "Fra \"S\" sving - statuetten",
+        "activity_type": "Ride",
+        "distance": 385.2,
+        "average_grade": 0.7,
+        "maximum_grade": 1.2,
+        "elevation_high": 2.6,
+        "elevation_low": 0.0,
+        "start_latlng": [
+          59.910546,
+          10.706247
+        ],
+        "end_latlng": [
+          59.912801,
+          10.701216
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331070882344,
+      "resource_state": 2,
+      "name": "Kongen - Vækerø",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 509,
+      "moving_time": 509,
+      "start_date": "2026-09-01T14:17:13Z",
+      "start_date_local": "2026-09-01T16:17:13Z",
+      "distance": 3627.8,
+      "start_index": 127,
+      "end_index": 277,
+      "device_watts": false,
+      "average_heartrate": 114.2,
+      "max_heartrate": 125.0,
+      "segment": {
+        "id": 21757378,
+        "resource_state": 2,
+        "name": "Kongen - Vækerø",
+        "activity_type": "Ride",
+        "distance": 3627.8,
+        "average_grade": 0.4,
+        "maximum_grade": 10.4,
+        "elevation_high": -12.2,
+        "elevation_low": -27.2,
+        "start_latlng": [
+          59.910468,
+          10.706383
+        ],
+        "end_latlng": [
+          59.915374,
+          10.652795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Frogner",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880340607394778,
+      "resource_state": 2,
+      "name": "reTour de Finans",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 197,
+      "moving_time": 197,
+      "start_date": "2026-09-01T14:17:13Z",
+      "start_date_local": "2026-09-01T16:17:13Z",
+      "distance": 1402.99,
+      "start_index": 127,
+      "end_index": 169,
+      "device_watts": false,
+      "average_heartrate": 108.7,
+      "max_heartrate": 114.0,
+      "segment": {
+        "id": 2305069,
+        "resource_state": 2,
+        "name": "reTour de Finans",
+        "activity_type": "Ride",
+        "distance": 1402.99,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 2.0,
+        "elevation_low": 2.0,
+        "start_latlng": [
+          59.910577,
+          10.706184
+        ],
+        "end_latlng": [
+          59.917663,
+          10.687624
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331069816360,
+      "resource_state": 2,
+      "name": "Pendlerdrag nummer 1",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 535,
+      "moving_time": 535,
+      "start_date": "2026-09-01T14:17:18Z",
+      "start_date_local": "2026-09-01T16:17:18Z",
+      "distance": 3753.0,
+      "start_index": 128,
+      "end_index": 287,
+      "device_watts": false,
+      "average_heartrate": 115.2,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 16538150,
+        "resource_state": 2,
+        "name": "Pendlerdrag nummer 1",
+        "activity_type": "Ride",
+        "distance": 3753.0,
+        "average_grade": 0.4,
+        "maximum_grade": 6.9,
+        "elevation_high": 16.6,
+        "elevation_low": 0.6,
+        "start_latlng": [
+          59.910663,
+          10.705807
+        ],
+        "end_latlng": [
+          59.915222,
+          10.649767
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331068917288,
+      "resource_state": 2,
+      "name": "Marina Vest",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 608,
+      "moving_time": 608,
+      "start_date": "2026-09-01T14:17:18Z",
+      "start_date_local": "2026-09-01T16:17:18Z",
+      "distance": 4350.5,
+      "start_index": 128,
+      "end_index": 321,
+      "device_watts": false,
+      "average_heartrate": 115.7,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 31534025,
+        "resource_state": 2,
+        "name": "Marina Vest",
+        "activity_type": "Ride",
+        "distance": 4350.5,
+        "average_grade": 0.1,
+        "maximum_grade": 14.7,
+        "elevation_high": 20.0,
+        "elevation_low": 1.8,
+        "start_latlng": [
+          59.910683,
+          10.705734
+        ],
+        "end_latlng": [
+          59.912944,
+          10.641192
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Frogner",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331071751720,
+      "resource_state": 2,
+      "name": "Frognerkilen-Høvik",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 1150,
+      "moving_time": 1150,
+      "start_date": "2026-09-01T14:17:30Z",
+      "start_date_local": "2026-09-01T16:17:30Z",
+      "distance": 7813.98,
+      "start_index": 130,
+      "end_index": 492,
+      "device_watts": false,
+      "average_heartrate": 114.9,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 697420,
+        "resource_state": 2,
+        "name": "Frognerkilen-Høvik",
+        "activity_type": "Ride",
+        "distance": 7813.98,
+        "average_grade": 0.2,
+        "maximum_grade": 14.7,
+        "elevation_high": 67.0,
+        "elevation_low": 36.0,
+        "start_latlng": [
+          59.91088271141052,
+          10.70492684841156
+        ],
+        "end_latlng": [
+          59.901344776153564,
+          10.585037469863892
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331071040040,
+      "resource_state": 2,
+      "name": "Mellom hodeløse ryttere på EL-moped retur",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 472,
+      "moving_time": 472,
+      "start_date": "2026-09-01T14:17:30Z",
+      "start_date_local": "2026-09-01T16:17:30Z",
+      "distance": 3443.4,
+      "start_index": 130,
+      "end_index": 268,
+      "device_watts": false,
+      "average_heartrate": 114.6,
+      "max_heartrate": 125.0,
+      "segment": {
+        "id": 27077755,
+        "resource_state": 2,
+        "name": "Mellom hodeløse ryttere på EL-moped retur",
+        "activity_type": "Ride",
+        "distance": 3443.4,
+        "average_grade": 0.2,
+        "maximum_grade": 6.1,
+        "elevation_high": 102.2,
+        "elevation_low": 93.2,
+        "start_latlng": [
+          59.910867,
+          10.704938
+        ],
+        "end_latlng": [
+          59.915544,
+          10.654511
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Frogner",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880340609140698,
+      "resource_state": 2,
+      "name": "Frognerstranda",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 149,
+      "moving_time": 149,
+      "start_date": "2026-09-01T14:17:46Z",
+      "start_date_local": "2026-09-01T16:17:46Z",
+      "distance": 1065.4,
+      "start_index": 134,
+      "end_index": 163,
+      "device_watts": false,
+      "average_heartrate": 111.0,
+      "max_heartrate": 114.0,
+      "segment": {
+        "id": 7613850,
+        "resource_state": 2,
+        "name": "Frognerstranda",
+        "activity_type": "Ride",
+        "distance": 1065.4,
+        "average_grade": -0.4,
+        "maximum_grade": 19.5,
+        "elevation_high": 9.5,
+        "elevation_low": -3.4,
+        "start_latlng": [
+          59.911736,
+          10.702714
+        ],
+        "end_latlng": [
+          59.918,
+          10.689204
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo, Norway",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880340609223642,
+      "resource_state": 2,
+      "name": "Fra statuetten - slem kengeru",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 44,
+      "moving_time": 44,
+      "start_date": "2026-09-01T14:18:07Z",
+      "start_date_local": "2026-09-01T16:18:07Z",
+      "distance": 336.9,
+      "start_index": 138,
+      "end_index": 145,
+      "device_watts": false,
+      "average_heartrate": 111.9,
+      "max_heartrate": 114.0,
+      "segment": {
+        "id": 15810655,
+        "resource_state": 2,
+        "name": "Fra statuetten - slem kengeru",
+        "activity_type": "Ride",
+        "distance": 336.9,
+        "average_grade": 0.1,
+        "maximum_grade": 0.8,
+        "elevation_high": 3.0,
+        "elevation_low": 2.1,
+        "start_latlng": [
+          59.912801,
+          10.701216
+        ],
+        "end_latlng": [
+          59.915109,
+          10.697455
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880340609682394,
+      "resource_state": 2,
+      "name": "Slem Kenguru jager TdF syklist",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 84,
+      "moving_time": 84,
+      "start_date": "2026-09-01T14:19:00Z",
+      "start_date_local": "2026-09-01T16:19:00Z",
+      "distance": 612.0,
+      "start_index": 147,
+      "end_index": 168,
+      "device_watts": false,
+      "average_heartrate": 110.6,
+      "max_heartrate": 114.0,
+      "segment": {
+        "id": 4751751,
+        "resource_state": 2,
+        "name": "Slem Kenguru jager TdF syklist",
+        "activity_type": "Ride",
+        "distance": 612.0,
+        "average_grade": -0.4,
+        "maximum_grade": 0.0,
+        "elevation_high": 17.0,
+        "elevation_low": 14.8,
+        "start_latlng": [
+          59.915334,
+          10.69674
+        ],
+        "end_latlng": [
+          59.917877,
+          10.688073
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880340610300890,
+      "resource_state": 2,
+      "name": "Draget",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 83,
+      "start_date": "2026-09-01T14:19:01Z",
+      "start_date_local": "2026-09-01T16:19:01Z",
+      "distance": 569.3,
+      "start_index": 148,
+      "end_index": 168,
+      "device_watts": false,
+      "average_heartrate": 110.6,
+      "max_heartrate": 114.0,
+      "segment": {
+        "id": 15139608,
+        "resource_state": 2,
+        "name": "Draget",
+        "activity_type": "Ride",
+        "distance": 569.3,
+        "average_grade": 0.1,
+        "maximum_grade": 0.6,
+        "elevation_high": 68.0,
+        "elevation_low": 66.6,
+        "start_latlng": [
+          59.915481,
+          10.696196
+        ],
+        "end_latlng": [
+          59.917983,
+          10.688224
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880340610290650,
+      "resource_state": 2,
+      "name": "Pendler Dropp Sjølyst",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 72,
+      "moving_time": 72,
+      "start_date": "2026-09-01T14:20:30Z",
+      "start_date_local": "2026-09-01T16:20:30Z",
+      "distance": 481.782,
+      "start_index": 169,
+      "end_index": 197,
+      "device_watts": false,
+      "average_heartrate": 112.4,
+      "max_heartrate": 116.0,
+      "segment": {
+        "id": 960444,
+        "resource_state": 2,
+        "name": "Pendler Dropp Sjølyst",
+        "activity_type": "Ride",
+        "distance": 481.782,
+        "average_grade": 1.8,
+        "maximum_grade": 10.7,
+        "elevation_high": 23.0,
+        "elevation_low": 9.7,
+        "start_latlng": [
+          59.91767483333333,
+          10.687637350000001
+        ],
+        "end_latlng": [
+          59.91970786666668,
+          10.68052746666667
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880340608560090,
+      "resource_state": 2,
+      "name": "reCol du SjøystAmour",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 50,
+      "moving_time": 50,
+      "start_date": "2026-09-01T14:21:20Z",
+      "start_date_local": "2026-09-01T16:21:20Z",
+      "distance": 367.2,
+      "start_index": 186,
+      "end_index": 206,
+      "device_watts": false,
+      "average_heartrate": 118.0,
+      "max_heartrate": 122.0,
+      "segment": {
+        "id": 4235421,
+        "resource_state": 2,
+        "name": "reCol du SjøystAmour",
+        "activity_type": "Ride",
+        "distance": 367.2,
+        "average_grade": -0.2,
+        "maximum_grade": 3.9,
+        "elevation_high": 7.2,
+        "elevation_low": 2.8,
+        "start_latlng": [
+          59.91885,
+          10.682321
+        ],
+        "end_latlng": [
+          59.92047,
+          10.676923
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331069674024,
+      "resource_state": 2,
+      "name": "Skøyen-Lysaker",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 321,
+      "moving_time": 321,
+      "start_date": "2026-09-01T14:21:59Z",
+      "start_date_local": "2026-09-01T16:21:59Z",
+      "distance": 2311.5,
+      "start_index": 203,
+      "end_index": 317,
+      "device_watts": false,
+      "average_heartrate": 120.3,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 17562200,
+        "resource_state": 2,
+        "name": "Skøyen-Lysaker",
+        "activity_type": "Ride",
+        "distance": 2311.5,
+        "average_grade": -0.0,
+        "maximum_grade": 7.8,
+        "elevation_high": -90.4,
+        "elevation_low": -108.4,
+        "start_latlng": [
+          59.920022,
+          10.678689
+        ],
+        "end_latlng": [
+          59.913095,
+          10.641611
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331071540776,
+      "resource_state": 2,
+      "name": "Sjølyst-Lysaker",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 281,
+      "moving_time": 281,
+      "start_date": "2026-09-01T14:22:08Z",
+      "start_date_local": "2026-09-01T16:22:08Z",
+      "distance": 2005.5,
+      "start_index": 205,
+      "end_index": 303,
+      "device_watts": false,
+      "average_heartrate": 120.9,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 4283736,
+        "resource_state": 2,
+        "name": "Sjølyst-Lysaker",
+        "activity_type": "Ride",
+        "distance": 2005.5,
+        "average_grade": 0.4,
+        "maximum_grade": 14.4,
+        "elevation_high": 24.0,
+        "elevation_low": 2.4,
+        "start_latlng": [
+          59.920348,
+          10.677483
+        ],
+        "end_latlng": [
+          59.91406,
+          10.645486
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331069103656,
+      "resource_state": 2,
+      "name": "Oslo - bye bye",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 364,
+      "moving_time": 364,
+      "start_date": "2026-09-01T14:22:15Z",
+      "start_date_local": "2026-09-01T16:22:15Z",
+      "distance": 2453.0,
+      "start_index": 207,
+      "end_index": 343,
+      "device_watts": false,
+      "average_heartrate": 119.1,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 18785271,
+        "resource_state": 2,
+        "name": "Oslo - bye bye",
+        "activity_type": "Ride",
+        "distance": 2453.0,
+        "average_grade": 0.6,
+        "maximum_grade": 11.0,
+        "elevation_high": 24.4,
+        "elevation_low": 2.1,
+        "start_latlng": [
+          59.920489,
+          10.676654
+        ],
+        "end_latlng": [
+          59.912842,
+          10.637215
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331069193768,
+      "resource_state": 2,
+      "name": "ULTRAMAGNUS - Part 2",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 311,
+      "moving_time": 311,
+      "start_date": "2026-09-01T14:22:21Z",
+      "start_date_local": "2026-09-01T16:22:21Z",
+      "distance": 2174.5,
+      "start_index": 208,
+      "end_index": 322,
+      "device_watts": false,
+      "average_heartrate": 119.8,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 23108622,
+        "resource_state": 2,
+        "name": "ULTRAMAGNUS - Part 2",
+        "activity_type": "Ride",
+        "distance": 2174.5,
+        "average_grade": -0.0,
+        "maximum_grade": 9.6,
+        "elevation_high": 17.9,
+        "elevation_low": 0.5,
+        "start_latlng": [
+          59.920545,
+          10.67547
+        ],
+        "end_latlng": [
+          59.912913,
+          10.64075
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331069022760,
+      "resource_state": 2,
+      "name": "Sjølyst-Vækerø",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 159,
+      "moving_time": 159,
+      "start_date": "2026-09-01T14:22:25Z",
+      "start_date_local": "2026-09-01T16:22:25Z",
+      "distance": 1201.6,
+      "start_index": 210,
+      "end_index": 256,
+      "device_watts": false,
+      "average_heartrate": 118.8,
+      "max_heartrate": 125.0,
+      "segment": {
+        "id": 16139993,
+        "resource_state": 2,
+        "name": "Sjølyst-Vækerø",
+        "activity_type": "Ride",
+        "distance": 1201.6,
+        "average_grade": 0.9,
+        "maximum_grade": 4.9,
+        "elevation_high": 14.9,
+        "elevation_low": 2.3,
+        "start_latlng": [
+          59.920559,
+          10.674961
+        ],
+        "end_latlng": [
+          59.916192,
+          10.65574
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331069300264,
+      "resource_state": 2,
+      "name": "Sjølyst - Rundkjøringen v/Strand",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 748,
+      "moving_time": 748,
+      "start_date": "2026-09-01T14:22:25Z",
+      "start_date_local": "2026-09-01T16:22:25Z",
+      "distance": 4975.2,
+      "start_index": 210,
+      "end_index": 467,
+      "device_watts": false,
+      "average_heartrate": 116.5,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 17564101,
+        "resource_state": 2,
+        "name": "Sjølyst - Rundkjøringen v/Strand",
+        "activity_type": "Ride",
+        "distance": 4975.2,
+        "average_grade": 0.4,
+        "maximum_grade": 9.2,
+        "elevation_high": -0.4,
+        "elevation_low": -22.4,
+        "start_latlng": [
+          59.92055,
+          10.675013
+        ],
+        "end_latlng": [
+          59.903963,
+          10.596878
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331071311400,
+      "resource_state": 2,
+      "name": "Sjølystveien",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 159,
+      "moving_time": 159,
+      "start_date": "2026-09-01T14:22:25Z",
+      "start_date_local": "2026-09-01T16:22:25Z",
+      "distance": 1193.5,
+      "start_index": 210,
+      "end_index": 256,
+      "device_watts": false,
+      "average_heartrate": 118.8,
+      "max_heartrate": 125.0,
+      "segment": {
+        "id": 7083455,
+        "resource_state": 2,
+        "name": "Sjølystveien",
+        "activity_type": "Ride",
+        "distance": 1193.5,
+        "average_grade": 1.0,
+        "maximum_grade": 6.5,
+        "elevation_high": 16.5,
+        "elevation_low": 2.2,
+        "start_latlng": [
+          59.920575,
+          10.67512
+        ],
+        "end_latlng": [
+          59.916109,
+          10.655885
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": true,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331071809064,
+      "resource_state": 2,
+      "name": "Skøyen - Glassverkveien",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 882,
+      "moving_time": 882,
+      "start_date": "2026-09-01T14:22:27Z",
+      "start_date_local": "2026-09-01T16:22:27Z",
+      "distance": 5845.9,
+      "start_index": 211,
+      "end_index": 505,
+      "device_watts": false,
+      "average_heartrate": 115.9,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 15338961,
+        "resource_state": 2,
+        "name": "Skøyen - Glassverkveien",
+        "activity_type": "Ride",
+        "distance": 5845.9,
+        "average_grade": 0.3,
+        "maximum_grade": 10.2,
+        "elevation_high": 28.0,
+        "elevation_low": 5.0,
+        "start_latlng": [
+          59.920494,
+          10.674473
+        ],
+        "end_latlng": [
+          59.900536,
+          10.582673
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331072111144,
+      "resource_state": 2,
+      "name": "Skøyen → Lysaker",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 344,
+      "moving_time": 344,
+      "start_date": "2026-09-01T14:22:36Z",
+      "start_date_local": "2026-09-01T16:22:36Z",
+      "distance": 2277.5,
+      "start_index": 214,
+      "end_index": 344,
+      "device_watts": false,
+      "average_heartrate": 119.3,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 28762454,
+        "resource_state": 2,
+        "name": "Skøyen → Lysaker",
+        "activity_type": "Ride",
+        "distance": 2277.5,
+        "average_grade": 0.4,
+        "maximum_grade": 9.3,
+        "elevation_high": 15.2,
+        "elevation_low": 2.6,
+        "start_latlng": [
+          59.920412,
+          10.673412
+        ],
+        "end_latlng": [
+          59.912718,
+          10.637011
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ullern",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880340610445274,
+      "resource_state": 2,
+      "name": "Besservisser Bestumkilen",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 53,
+      "moving_time": 53,
+      "start_date": "2026-09-01T14:22:38Z",
+      "start_date_local": "2026-09-01T16:22:38Z",
+      "distance": 431.2,
+      "start_index": 215,
+      "end_index": 227,
+      "device_watts": false,
+      "average_heartrate": 113.9,
+      "max_heartrate": 116.0,
+      "segment": {
+        "id": 4122493,
+        "resource_state": 2,
+        "name": "Besservisser Bestumkilen",
+        "activity_type": "Ride",
+        "distance": 431.2,
+        "average_grade": 0.8,
+        "maximum_grade": 2.8,
+        "elevation_high": 11.8,
+        "elevation_low": 3.0,
+        "start_latlng": [
+          59.920214,
+          10.673216
+        ],
+        "end_latlng": [
+          59.918324,
+          10.666555
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880340610599898,
+      "resource_state": 2,
+      "name": "Relatude spurten!",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 109,
+      "moving_time": 109,
+      "start_date": "2026-09-01T14:22:38Z",
+      "start_date_local": "2026-09-01T16:22:38Z",
+      "distance": 844.0,
+      "start_index": 215,
+      "end_index": 246,
+      "device_watts": false,
+      "average_heartrate": 117.6,
+      "max_heartrate": 124.0,
+      "segment": {
+        "id": 23814904,
+        "resource_state": 2,
+        "name": "Relatude spurten!",
+        "activity_type": "Ride",
+        "distance": 844.0,
+        "average_grade": 0.1,
+        "maximum_grade": 1.0,
+        "elevation_high": 2.7,
+        "elevation_low": 1.0,
+        "start_latlng": [
+          59.920315,
+          10.673223
+        ],
+        "end_latlng": [
+          59.917072,
+          10.65993
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ullern",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331070045736,
+      "resource_state": 2,
+      "name": "Sjølyst - toppen av vækerødraget",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 208,
+      "moving_time": 208,
+      "start_date": "2026-09-01T14:22:40Z",
+      "start_date_local": "2026-09-01T16:22:40Z",
+      "distance": 1423.1,
+      "start_index": 216,
+      "end_index": 286,
+      "device_watts": false,
+      "average_heartrate": 120.6,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 21770467,
+        "resource_state": 2,
+        "name": "Sjølyst - toppen av vækerødraget",
+        "activity_type": "Ride",
+        "distance": 1423.1,
+        "average_grade": 1.1,
+        "maximum_grade": 9.8,
+        "elevation_high": 16.4,
+        "elevation_low": -0.1,
+        "start_latlng": [
+          59.92027,
+          10.672887
+        ],
+        "end_latlng": [
+          59.915252,
+          10.65011
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331071692328,
+      "resource_state": 2,
+      "name": "Gutta gønner til jobb",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 232,
+      "moving_time": 232,
+      "start_date": "2026-09-01T14:23:34Z",
+      "start_date_local": "2026-09-01T16:23:34Z",
+      "distance": 1568.1,
+      "start_index": 228,
+      "end_index": 321,
+      "device_watts": false,
+      "average_heartrate": 122.0,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 38958883,
+        "resource_state": 2,
+        "name": "Gutta gønner til jobb",
+        "activity_type": "Ride",
+        "distance": 1568.1,
+        "average_grade": 0.2,
+        "maximum_grade": 9.7,
+        "elevation_high": 3.2,
+        "elevation_low": -13.0,
+        "start_latlng": [
+          59.91828,
+          10.666417
+        ],
+        "end_latlng": [
+          59.913193,
+          10.641136
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331070456360,
+      "resource_state": 2,
+      "name": "Max Knekker",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 114,
+      "moving_time": 114,
+      "start_date": "2026-09-01T14:24:26Z",
+      "start_date_local": "2026-09-01T16:24:26Z",
+      "distance": 693.756,
+      "start_index": 245,
+      "end_index": 291,
+      "device_watts": false,
+      "average_heartrate": 124.6,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 1268070,
+        "resource_state": 2,
+        "name": "Max Knekker",
+        "activity_type": "Ride",
+        "distance": 693.756,
+        "average_grade": 2.7,
+        "maximum_grade": 8.1,
+        "elevation_high": 23.9,
+        "elevation_low": 5.3,
+        "start_latlng": [
+          59.917185,
+          10.660382
+        ],
+        "end_latlng": [
+          59.915049,
+          10.649014
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331070979624,
+      "resource_state": 2,
+      "name": "Max knekker kort",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 85,
+      "moving_time": 85,
+      "start_date": "2026-09-01T14:24:48Z",
+      "start_date_local": "2026-09-01T16:24:48Z",
+      "distance": 480.5,
+      "start_index": 251,
+      "end_index": 287,
+      "device_watts": false,
+      "average_heartrate": 124.3,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 5400530,
+        "resource_state": 2,
+        "name": "Max knekker kort",
+        "activity_type": "Ride",
+        "distance": 480.5,
+        "average_grade": 2.2,
+        "maximum_grade": 8.2,
+        "elevation_high": 23.8,
+        "elevation_low": 13.3,
+        "start_latlng": [
+          59.916729,
+          10.657382
+        ],
+        "end_latlng": [
+          59.915314,
+          10.64985
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331072999976,
+      "resource_state": 2,
+      "name": "Vækerødraget",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 47,
+      "moving_time": 47,
+      "start_date": "2026-09-01T14:24:55Z",
+      "start_date_local": "2026-09-01T16:24:55Z",
+      "distance": 282.1,
+      "start_index": 253,
+      "end_index": 277,
+      "device_watts": false,
+      "average_heartrate": 121.3,
+      "max_heartrate": 125.0,
+      "segment": {
+        "id": 10033708,
+        "resource_state": 2,
+        "name": "Vækerødraget",
+        "activity_type": "Ride",
+        "distance": 282.1,
+        "average_grade": 0.9,
+        "maximum_grade": 4.0,
+        "elevation_high": 18.0,
+        "elevation_low": 14.6,
+        "start_latlng": [
+          59.916367,
+          10.65692
+        ],
+        "end_latlng": [
+          59.915337,
+          10.652788
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331069879848,
+      "resource_state": 2,
+      "name": "Den feige frisørens skitne vitenskaplige triks",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 111,
+      "moving_time": 111,
+      "start_date": "2026-09-01T14:26:42Z",
+      "start_date_local": "2026-09-01T16:26:42Z",
+      "distance": 665.0,
+      "start_index": 302,
+      "end_index": 347,
+      "device_watts": false,
+      "average_heartrate": 114.6,
+      "max_heartrate": 122.0,
+      "segment": {
+        "id": 34474931,
+        "resource_state": 2,
+        "name": "Den feige frisørens skitne vitenskaplige triks",
+        "activity_type": "Ride",
+        "distance": 665.0,
+        "average_grade": 1.5,
+        "maximum_grade": 11.8,
+        "elevation_high": 30.4,
+        "elevation_low": 15.4,
+        "start_latlng": [
+          59.91415,
+          10.646503
+        ],
+        "end_latlng": [
+          59.912604,
+          10.635647
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331069873704,
+      "resource_state": 2,
+      "name": "Opp på lokket",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 55,
+      "moving_time": 55,
+      "start_date": "2026-09-01T14:27:24Z",
+      "start_date_local": "2026-09-01T16:27:24Z",
+      "distance": 264.595,
+      "start_index": 319,
+      "end_index": 343,
+      "device_watts": false,
+      "average_heartrate": 113.1,
+      "max_heartrate": 119.0,
+      "segment": {
+        "id": 1606824,
+        "resource_state": 2,
+        "name": "Opp på lokket",
+        "activity_type": "Ride",
+        "distance": 264.595,
+        "average_grade": 4.0,
+        "maximum_grade": 8.6,
+        "elevation_high": 22.4,
+        "elevation_low": 10.7,
+        "start_latlng": [
+          59.913275744766,
+          10.641404008492827
+        ],
+        "end_latlng": [
+          59.91286746226251,
+          10.637124124914408
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lysaker",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331070360104,
+      "resource_state": 2,
+      "name": "Vennskapelig relasjon som lykkes med å mislykkes med å mislykkes med å lykkes med å utvikles til noe annet",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 287,
+      "moving_time": 287,
+      "start_date": "2026-09-01T14:29:16Z",
+      "start_date_local": "2026-09-01T16:29:16Z",
+      "distance": 2002.8,
+      "start_index": 364,
+      "end_index": 457,
+      "device_watts": false,
+      "average_heartrate": 113.5,
+      "max_heartrate": 129.0,
+      "segment": {
+        "id": 41166092,
+        "resource_state": 2,
+        "name": "Vennskapelig relasjon som lykkes med å mislykkes med å mislykkes med å lykkes med å utvikles til noe annet",
+        "activity_type": "Ride",
+        "distance": 2002.8,
+        "average_grade": -0.0,
+        "maximum_grade": 6.3,
+        "elevation_high": 25.6,
+        "elevation_low": 16.0,
+        "start_latlng": [
+          59.912337,
+          10.633402
+        ],
+        "end_latlng": [
+          59.905389,
+          10.60235
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331071480360,
+      "resource_state": 2,
+      "name": "Lysaker - Høvik, før bom",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 433,
+      "moving_time": 433,
+      "start_date": "2026-09-01T14:29:27Z",
+      "start_date_local": "2026-09-01T16:29:27Z",
+      "distance": 3062.8,
+      "start_index": 371,
+      "end_index": 492,
+      "device_watts": false,
+      "average_heartrate": 113.0,
+      "max_heartrate": 129.0,
+      "segment": {
+        "id": 14818957,
+        "resource_state": 2,
+        "name": "Lysaker - Høvik, før bom",
+        "activity_type": "Ride",
+        "distance": 3062.8,
+        "average_grade": 0.1,
+        "maximum_grade": 10.2,
+        "elevation_high": -71.8,
+        "elevation_low": -80.6,
+        "start_latlng": [
+          59.912032,
+          10.63276
+        ],
+        "end_latlng": [
+          59.901364,
+          10.585055
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lysaker",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331071472168,
+      "resource_state": 2,
+      "name": "Lysaker - Høvik",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 468,
+      "moving_time": 468,
+      "start_date": "2026-09-01T14:29:29Z",
+      "start_date_local": "2026-09-01T16:29:29Z",
+      "distance": 3274.62,
+      "start_index": 372,
+      "end_index": 508,
+      "device_watts": false,
+      "average_heartrate": 113.2,
+      "max_heartrate": 129.0,
+      "segment": {
+        "id": 1357178,
+        "resource_state": 2,
+        "name": "Lysaker - Høvik",
+        "activity_type": "Ride",
+        "distance": 3274.62,
+        "average_grade": -0.0,
+        "maximum_grade": 7.1,
+        "elevation_high": 51.4,
+        "elevation_low": 46.8,
+        "start_latlng": [
+          59.91215114481747,
+          10.632805433124304
+        ],
+        "end_latlng": [
+          59.90055997855961,
+          10.582110257819295
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lysaker",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331070898728,
+      "resource_state": 2,
+      "name": "Cisco spurt",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 111,
+      "moving_time": 111,
+      "start_date": "2026-09-01T14:29:29Z",
+      "start_date_local": "2026-09-01T16:29:29Z",
+      "distance": 837.456,
+      "start_index": 372,
+      "end_index": 414,
+      "device_watts": false,
+      "average_heartrate": 111.3,
+      "max_heartrate": 117.0,
+      "segment": {
+        "id": 1950441,
+        "resource_state": 2,
+        "name": "Cisco spurt",
+        "activity_type": "Ride",
+        "distance": 837.456,
+        "average_grade": 0.1,
+        "maximum_grade": 7.3,
+        "elevation_high": 27.8,
+        "elevation_low": 17.1,
+        "start_latlng": [
+          59.91218666666666,
+          10.63286
+        ],
+        "end_latlng": [
+          59.90953666666667,
+          10.620221666666666
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lysaker",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331069614632,
+      "resource_state": 2,
+      "name": "Prof. Kohtsvei mot Høvik",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 318,
+      "moving_time": 318,
+      "start_date": "2026-09-01T14:29:29Z",
+      "start_date_local": "2026-09-01T16:29:29Z",
+      "distance": 2235.6,
+      "start_index": 372,
+      "end_index": 466,
+      "device_watts": false,
+      "average_heartrate": 113.3,
+      "max_heartrate": 129.0,
+      "segment": {
+        "id": 9438762,
+        "resource_state": 2,
+        "name": "Prof. Kohtsvei mot Høvik",
+        "activity_type": "Ride",
+        "distance": 2235.6,
+        "average_grade": -0.3,
+        "maximum_grade": 16.7,
+        "elevation_high": 5.0,
+        "elevation_low": -1.0,
+        "start_latlng": [
+          59.912028,
+          10.632706
+        ],
+        "end_latlng": [
+          59.90422,
+          10.597621
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lysaker",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331070517800,
+      "resource_state": 2,
+      "name": "Meridaspurt og Kohtspurt fra Lysaker",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 101,
+      "moving_time": 101,
+      "start_date": "2026-09-01T14:30:25Z",
+      "start_date_local": "2026-09-01T16:30:25Z",
+      "distance": 726.2,
+      "start_index": 399,
+      "end_index": 431,
+      "device_watts": false,
+      "average_heartrate": 114.0,
+      "max_heartrate": 129.0,
+      "segment": {
+        "id": 29652626,
+        "resource_state": 2,
+        "name": "Meridaspurt og Kohtspurt fra Lysaker",
+        "activity_type": "Ride",
+        "distance": 726.2,
+        "average_grade": 0.7,
+        "maximum_grade": 2.7,
+        "elevation_high": 22.6,
+        "elevation_low": 16.9,
+        "start_latlng": [
+          59.911545,
+          10.626365
+        ],
+        "end_latlng": [
+          59.907995,
+          10.615552
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lysaker",
+        "state": "Viken",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331068941864,
+      "resource_state": 2,
+      "name": "Merida-spurt fra Lysaker (450m)",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 59,
+      "moving_time": 59,
+      "start_date": "2026-09-01T14:30:28Z",
+      "start_date_local": "2026-09-01T16:30:28Z",
+      "distance": 472.8,
+      "start_index": 400,
+      "end_index": 417,
+      "device_watts": false,
+      "average_heartrate": 112.4,
+      "max_heartrate": 117.0,
+      "segment": {
+        "id": 11836616,
+        "resource_state": 2,
+        "name": "Merida-spurt fra Lysaker (450m)",
+        "activity_type": "Ride",
+        "distance": 472.8,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 6.0,
+        "elevation_low": 6.0,
+        "start_latlng": [
+          59.911426,
+          10.626023
+        ],
+        "end_latlng": [
+          59.909116,
+          10.618968
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lysaker",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331071278632,
+      "resource_state": 2,
+      "name": "Koht spurten",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 36,
+      "moving_time": 36,
+      "start_date": "2026-09-01T14:31:20Z",
+      "start_date_local": "2026-09-01T16:31:20Z",
+      "distance": 235.888,
+      "start_index": 414,
+      "end_index": 427,
+      "device_watts": false,
+      "average_heartrate": 112.7,
+      "max_heartrate": 116.0,
+      "segment": {
+        "id": 3784909,
+        "resource_state": 2,
+        "name": "Koht spurten",
+        "activity_type": "Ride",
+        "distance": 235.888,
+        "average_grade": -0.5,
+        "maximum_grade": 3.4,
+        "elevation_high": 26.8,
+        "elevation_low": 24.2,
+        "start_latlng": [
+          59.909446,
+          10.619894
+        ],
+        "end_latlng": [
+          59.908183,
+          10.616563
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331072714280,
+      "resource_state": 2,
+      "name": "Fantomet sprinten retur",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 87,
+      "moving_time": 87,
+      "start_date": "2026-09-01T14:32:41Z",
+      "start_date_local": "2026-09-01T16:32:41Z",
+      "distance": 603.1,
+      "start_index": 439,
+      "end_index": 459,
+      "device_watts": false,
+      "average_heartrate": 113.2,
+      "max_heartrate": 116.0,
+      "segment": {
+        "id": 7712550,
+        "resource_state": 2,
+        "name": "Fantomet sprinten retur",
+        "activity_type": "Ride",
+        "distance": 603.1,
+        "average_grade": 0.4,
+        "maximum_grade": 4.8,
+        "elevation_high": 25.4,
+        "elevation_low": 19.9,
+        "start_latlng": [
+          59.907074,
+          10.611268
+        ],
+        "end_latlng": [
+          59.905471,
+          10.601464
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331069752872,
+      "resource_state": 2,
+      "name": "Markspurten vest",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 105,
+      "moving_time": 105,
+      "start_date": "2026-09-01T14:34:55Z",
+      "start_date_local": "2026-09-01T16:34:55Z",
+      "distance": 722.8,
+      "start_index": 469,
+      "end_index": 492,
+      "device_watts": false,
+      "average_heartrate": 112.4,
+      "max_heartrate": 114.0,
+      "segment": {
+        "id": 4105902,
+        "resource_state": 2,
+        "name": "Markspurten vest",
+        "activity_type": "Ride",
+        "distance": 722.8,
+        "average_grade": -0.1,
+        "maximum_grade": 2.8,
+        "elevation_high": 28.4,
+        "elevation_low": 25.6,
+        "start_latlng": [
+          59.903931,
+          10.596528
+        ],
+        "end_latlng": [
+          59.901409,
+          10.585176
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331066305064,
+      "resource_state": 2,
+      "name": "Markaleén - Høvik Skole - Kirkeveien",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 348,
+      "moving_time": 348,
+      "start_date": "2026-09-01T14:34:55Z",
+      "start_date_local": "2026-09-01T16:34:55Z",
+      "distance": 2151.1,
+      "start_index": 469,
+      "end_index": 587,
+      "device_watts": false,
+      "average_heartrate": 116.7,
+      "max_heartrate": 130.0,
+      "segment": {
+        "id": 24441815,
+        "resource_state": 2,
+        "name": "Markaleén - Høvik Skole - Kirkeveien",
+        "activity_type": "Ride",
+        "distance": 2151.1,
+        "average_grade": 0.7,
+        "maximum_grade": 25.9,
+        "elevation_high": 44.8,
+        "elevation_low": 16.8,
+        "start_latlng": [
+          59.903927,
+          10.596599
+        ],
+        "end_latlng": [
+          59.903226,
+          10.565866
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Stabekk",
+        "state": "Viken fylke",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331072569896,
+      "resource_state": 2,
+      "name": "Mettemark",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 30,
+      "moving_time": 30,
+      "start_date": "2026-09-01T14:36:02Z",
+      "start_date_local": "2026-09-01T16:36:02Z",
+      "distance": 197.3,
+      "start_index": 486,
+      "end_index": 491,
+      "device_watts": false,
+      "average_heartrate": 112.7,
+      "max_heartrate": 114.0,
+      "segment": {
+        "id": 7317514,
+        "resource_state": 2,
+        "name": "Mettemark",
+        "activity_type": "Ride",
+        "distance": 197.3,
+        "average_grade": -0.2,
+        "maximum_grade": 1.0,
+        "elevation_high": 28.4,
+        "elevation_low": 27.0,
+        "start_latlng": [
+          59.902449,
+          10.58896
+        ],
+        "end_latlng": [
+          59.901623,
+          10.585839
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331070556712,
+      "resource_state": 2,
+      "name": "markalleen-rundkjøringen",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 48,
+      "moving_time": 48,
+      "start_date": "2026-09-01T14:36:40Z",
+      "start_date_local": "2026-09-01T16:36:40Z",
+      "distance": 215.8,
+      "start_index": 492,
+      "end_index": 512,
+      "device_watts": false,
+      "average_heartrate": 115.3,
+      "max_heartrate": 119.0,
+      "segment": {
+        "id": 4930666,
+        "resource_state": 2,
+        "name": "markalleen-rundkjøringen",
+        "activity_type": "Ride",
+        "distance": 215.8,
+        "average_grade": 2.8,
+        "maximum_grade": 7.8,
+        "elevation_high": 73.8,
+        "elevation_low": 67.8,
+        "start_latlng": [
+          59.90114,
+          10.584639
+        ],
+        "end_latlng": [
+          59.900351,
+          10.581219
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "1363, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331067997736,
+      "resource_state": 2,
+      "name": "Høvikrampen Vest",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 137,
+      "moving_time": 137,
+      "start_date": "2026-09-01T14:36:57Z",
+      "start_date_local": "2026-09-01T16:36:57Z",
+      "distance": 743.8,
+      "start_index": 498,
+      "end_index": 546,
+      "device_watts": false,
+      "average_heartrate": 122.6,
+      "max_heartrate": 130.0,
+      "segment": {
+        "id": 5295180,
+        "resource_state": 2,
+        "name": "Høvikrampen Vest",
+        "activity_type": "Ride",
+        "distance": 743.8,
+        "average_grade": 2.3,
+        "maximum_grade": 7.2,
+        "elevation_high": 45.2,
+        "elevation_low": 27.0,
+        "start_latlng": [
+          59.90067,
+          10.58354
+        ],
+        "end_latlng": [
+          59.902302,
+          10.57519
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "1363, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3529880331065785896,
+      "resource_state": 2,
+      "name": "Fra rundkjøring til rundkjøring",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 99,
+      "moving_time": 99,
+      "start_date": "2026-09-01T14:37:33Z",
+      "start_date_local": "2026-09-01T16:37:33Z",
+      "distance": 580.6,
+      "start_index": 513,
+      "end_index": 545,
+      "device_watts": false,
+      "average_heartrate": 124.7,
+      "max_heartrate": 130.0,
+      "segment": {
+        "id": 7323330,
+        "resource_state": 2,
+        "name": "Fra rundkjøring til rundkjøring",
+        "activity_type": "Ride",
+        "distance": 580.6,
+        "average_grade": 1.4,
+        "maximum_grade": 9.1,
+        "elevation_high": -5.8,
+        "elevation_low": -14.6,
+        "start_latlng": [
+          59.900659,
+          10.581189
+        ],
+        "end_latlng": [
+          59.902169,
+          10.575144
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "1363, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3529880331067584040,
+      "resource_state": 2,
+      "name": "HøvIk skolehump",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 75,
+      "moving_time": 75,
+      "start_date": "2026-09-01T14:39:22Z",
+      "start_date_local": "2026-09-01T16:39:22Z",
+      "distance": 530.0,
+      "start_index": 551,
+      "end_index": 583,
+      "device_watts": false,
+      "average_heartrate": 112.8,
+      "max_heartrate": 117.0,
+      "segment": {
+        "id": 5295215,
+        "resource_state": 2,
+        "name": "HøvIk skolehump",
+        "activity_type": "Ride",
+        "distance": 530.0,
+        "average_grade": 0.1,
+        "maximum_grade": 10.1,
+        "elevation_high": 47.3,
+        "elevation_low": 39.3,
+        "start_latlng": [
+          59.902413,
+          10.574473
+        ],
+        "end_latlng": [
+          59.903098,
+          10.566211
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bærum, Norway",
+        "state": "Akershus",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1000.5,
+      "elapsed_time": 181,
+      "elevation_difference": -4.6,
+      "moving_time": 181,
+      "split": 1,
+      "average_speed": 5.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 96.97619047619048,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1011.8,
+      "elapsed_time": 148,
+      "elevation_difference": -19.4,
+      "moving_time": 148,
+      "split": 2,
+      "average_speed": 6.84,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 94.35135135135135,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.1,
+      "elapsed_time": 139,
+      "elevation_difference": -0.4,
+      "moving_time": 139,
+      "split": 3,
+      "average_speed": 7.22,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 110.35971223021583,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.1,
+      "elapsed_time": 144,
+      "elevation_difference": 2.8,
+      "moving_time": 144,
+      "split": 4,
+      "average_speed": 6.99,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 113.27777777777777,
+      "pace_zone": 0
+    },
+    {
+      "distance": 976.6,
+      "elapsed_time": 125,
+      "elevation_difference": 0.2,
+      "moving_time": 125,
+      "split": 5,
+      "average_speed": 7.81,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 116.936,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1020.2,
+      "elapsed_time": 158,
+      "elevation_difference": 7.8,
+      "moving_time": 158,
+      "split": 6,
+      "average_speed": 6.46,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 124.13924050632912,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.7,
+      "elapsed_time": 179,
+      "elevation_difference": 2.0,
+      "moving_time": 179,
+      "split": 7,
+      "average_speed": 5.55,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 114.20111731843575,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1035.8,
+      "elapsed_time": 146,
+      "elevation_difference": 6.2,
+      "moving_time": 146,
+      "split": 8,
+      "average_speed": 7.09,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 114.3013698630137,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.9,
+      "elapsed_time": 144,
+      "elevation_difference": -1.6,
+      "moving_time": 144,
+      "split": 9,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 113.05555555555556,
+      "pace_zone": 0
+    },
+    {
+      "distance": 944.3,
+      "elapsed_time": 139,
+      "elevation_difference": 7.4,
+      "moving_time": 139,
+      "split": 10,
+      "average_speed": 6.79,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 112.55395683453237,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 172,
+      "elevation_difference": 9.2,
+      "moving_time": 172,
+      "split": 11,
+      "average_speed": 5.83,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 120.87790697674419,
+      "pace_zone": 0
+    },
+    {
+      "distance": 853.0,
+      "elapsed_time": 178,
+      "elevation_difference": -6.0,
+      "moving_time": 156,
+      "split": 12,
+      "average_speed": 5.47,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 106.9090909090909,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1614.9,
+      "elapsed_time": 272,
+      "elevation_difference": -18.4,
+      "moving_time": 272,
+      "split": 1,
+      "average_speed": 5.94,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 95.52123552123552,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 225,
+      "elevation_difference": -5.4,
+      "moving_time": 225,
+      "split": 2,
+      "average_speed": 7.15,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 106.75111111111111,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 217,
+      "elevation_difference": 0.8,
+      "moving_time": 217,
+      "split": 3,
+      "average_speed": 7.42,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 114.83870967741936,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.9,
+      "elapsed_time": 255,
+      "elevation_difference": 16.0,
+      "moving_time": 255,
+      "split": 4,
+      "average_speed": 6.33,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 120.60392156862746,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.3,
+      "elapsed_time": 251,
+      "elevation_difference": 1.6,
+      "moving_time": 251,
+      "split": 5,
+      "average_speed": 6.38,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 114.88446215139442,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1620.4,
+      "elapsed_time": 230,
+      "elevation_difference": -0.6,
+      "moving_time": 230,
+      "split": 6,
+      "average_speed": 7.05,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 112.82173913043478,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1598.0,
+      "elapsed_time": 260,
+      "elevation_difference": 17.0,
+      "moving_time": 260,
+      "split": 7,
+      "average_speed": 6.15,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 118.12307692307692,
+      "pace_zone": 0
+    },
+    {
+      "distance": 591.5,
+      "elapsed_time": 143,
+      "elevation_difference": -7.4,
+      "moving_time": 121,
+      "split": 8,
+      "average_speed": 4.89,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 105.02777777777777,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 71358148626,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 736,
+      "moving_time": 736,
+      "start_date": "2026-09-01T14:12:03Z",
+      "start_date_local": "2026-09-01T16:12:03Z",
+      "distance": 5000.0,
+      "average_speed": 6.79,
+      "max_speed": 9.52,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 223,
+      "total_elevation_gain": 19.0,
+      "device_watts": false,
+      "average_watts": 188.1,
+      "average_heartrate": 105.7,
+      "max_heartrate": 124.0
+    },
+    {
+      "id": 71358148638,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 765,
+      "moving_time": 765,
+      "start_date": "2026-09-01T14:24:26Z",
+      "start_date_local": "2026-09-01T16:24:26Z",
+      "distance": 5000.0,
+      "average_speed": 6.54,
+      "max_speed": 10.88,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 224,
+      "end_index": 483,
+      "total_elevation_gain": 59.8,
+      "device_watts": false,
+      "average_watts": 216.8,
+      "average_heartrate": 115.7,
+      "max_heartrate": 135.0
+    },
+    {
+      "id": 71358148650,
+      "resource_state": 2,
+      "name": "Lap 3",
+      "activity": {
+        "id": 19991178941,
+        "id_str": "19991178941",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 321503,
+        "id_str": "321503",
+        "resource_state": 1
+      },
+      "elapsed_time": 350,
+      "moving_time": 350,
+      "start_date": "2026-09-01T14:37:09Z",
+      "start_date_local": "2026-09-01T16:37:09Z",
+      "distance": 1858.66,
+      "average_speed": 5.31,
+      "max_speed": 10.42,
+      "lap_index": 3,
+      "split": 3,
+      "start_index": 484,
+      "end_index": 586,
+      "total_elevation_gain": 28.8,
+      "device_watts": false,
+      "average_watts": 201.1,
+      "average_heartrate": 114.5,
+      "max_heartrate": 130.0
+    }
+  ],
+  "gear": {
+    "id": "b439356",
+    "primary": false,
+    "name": "Stumpjumper",
+    "nickname": "Stumpjumper",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 13985354,
+    "converted_distance": 13985.4
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "054cb2387e60773d616e845aeda071e62375e031",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}
