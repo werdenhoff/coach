@@ -1,0 +1,146 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "id_str": "13108506",
+    "resource_state": 1
+  },
+  "name": "Pure strength Hyrox Sats",
+  "distance": 0.0,
+  "moving_time": 2875,
+  "elapsed_time": 2875,
+  "total_elevation_gain": 0,
+  "type": "Workout",
+  "sport_type": "HighIntensityIntervalTraining",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 235",
+  "id": 20203438880,
+  "id_str": "20203438880",
+  "start_date": "2026-09-16T17:01:19Z",
+  "start_date_local": "2026-09-16T19:01:19Z",
+  "timezone": "(GMT+01:00) Europe/Stockholm",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 5,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a20203438880",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.0,
+  "max_speed": 0.0,
+  "average_cadence": 61.3,
+  "has_heartrate": true,
+  "average_heartrate": 103.2,
+  "max_heartrate": 152.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "upload_id": 21355276795,
+  "upload_id_str": "21355276795",
+  "external_id": "garmin_ping_629615141187",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 10.0,
+  "description": "Med Marianne, Eeva, Hilde og Tonia.",
+  "calories": 205.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "laps": [
+    {
+      "id": 72103666290,
+      "resource_state": 2,
+      "name": "Lap 0",
+      "activity": {
+        "id": 20203438880,
+        "id_str": "20203438880",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 2874,
+      "moving_time": 2873,
+      "start_date": "2026-09-16T17:01:19Z",
+      "start_date_local": "2026-09-16T19:01:19Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 0,
+      "split": 0,
+      "start_index": 0,
+      "end_index": 968,
+      "total_elevation_gain": 0,
+      "average_cadence": 61.3,
+      "device_watts": false,
+      "average_heartrate": 103.2,
+      "max_heartrate": 152.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "800A4926-D0F0-49B6-B012-6C5C7F4AEF24",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/GTUZy3o-0Ez73-m0dzu9hes4zsiZa219ItIEoDEfoKI-576x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/GTUZy3o-0Ez73-m0dzu9hes4zsiZa219ItIEoDEfoKI-96x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "2caadf6b6613e0b63c6f0cca17ef15dba2616e57",
+  "available_zones": [
+    "heartrate"
+  ]
+}
