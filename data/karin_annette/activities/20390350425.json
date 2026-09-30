@@ -1,0 +1,1200 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 13108506,
+    "id_str": "13108506",
+    "resource_state": 1
+  },
+  "name": "Sonitor lunsj run",
+  "distance": 4326.0,
+  "moving_time": 1937,
+  "elapsed_time": 1967,
+  "total_elevation_gain": 22.0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Garmin Forerunner 745",
+  "id": 20390350425,
+  "id_str": "20390350425",
+  "start_date": "2026-09-30T09:36:03Z",
+  "start_date_local": "2026-09-30T11:36:03Z",
+  "timezone": "(GMT+01:00) Europe/Oslo",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 9,
+  "kudos_count": 3,
+  "comment_count": 0,
+  "athlete_count": 4,
+  "photo_count": 0,
+  "map": {
+    "id": "a20390350425",
+    "polyline": "{vtlJk`~_AYkF?gBFcATaBAiABWJk@\\s@`@SXGD@DCBSLe@Ge@OQMWGi@AiA_@}AMw@DaAAk@Ho@?cAMa@m@kAY?[GKe@Wm@Og@YqBWaFMg@_@}@Uw@q@qIKk@Sg@Ug@{@_Aa@o@_@u@e@mAOMWKg@Mc@QQcAo@uEIE]COF[PwAc@Mu@Qu@}@}Fe@_Cc@_D]aFBm@Ry@Aq@s@eFc@{Fg@gCgB}Gm@gCmBwHm@uBQaAg@}GEsADq@Ag@Fg@AbBCz@l@xIRbAt@jCh@vBVz@t@zCz@zCp@vCRr@`@|BJr@Z`Fr@tE@dAMp@Cr@`@hFLbA~C`SDHDAf@q@TO^Kd@ALDbA|GVL`AZZTPl@r@zA^f@b@d@Zf@Tl@Rz@ZdENjCf@fBXp@JbENp@bArDRVh@?\\l@P^R~@@r@EhDDn@^vB?r@Ht@Xx@?\\Qr@EDOCUH]XQ`@GRE^CbCKr@GbA?jADvA",
+    "resource_state": 3,
+    "summary_polyline": "{vtlJk`~_AYkF?gBFcATaBAiABWJk@\\s@`@SXGD@DCBSLe@Ge@OQMWGi@AiA_@}AMw@DaAAk@Ho@?cAMa@m@kAY?[GKe@Wm@Og@YqBWaFMg@_@}@Uw@q@qIKk@Sg@Ug@{@_Aa@o@_@u@e@mAOMWKg@Mc@QQcAo@uEIE]COF[PwAc@Mu@Qu@}@}Fe@_Cc@_D]aFBm@Ry@Aq@s@eFc@{Fg@gCgB}Gm@gCmBwHm@uBQaAg@}GEsADq@Ag@Fg@AbBCz@l@xIRbAt@jCh@vBVz@t@zCz@zCp@vCRr@`@|BJr@Z`Fr@tE@dAMp@Cr@`@hFLbA~C`SDHDAf@q@TO^Kd@ALDbA|GVL`AZZTPl@r@zA^f@b@d@Zf@Tl@Rz@ZdENjCf@fBXp@JbENp@bArDRVh@?\\l@P^R~@@r@EhDDn@^vB?r@Ht@Xx@?\\Qr@EDOCUH]XQ`@GRE^CbCKr@GbA?jADvA"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "g28225025",
+  "start_latlng": [
+    59.912949,
+    10.644702
+  ],
+  "end_latlng": [
+    59.913005,
+    10.645618
+  ],
+  "average_speed": 2.233,
+  "max_speed": 2.733,
+  "average_cadence": 82.5,
+  "average_temp": 19,
+  "has_heartrate": true,
+  "average_heartrate": 134.0,
+  "max_heartrate": 144.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 21.6,
+  "elev_low": 11.8,
+  "upload_id": 21546095501,
+  "upload_id_str": "21546095501",
+  "external_id": "garmin_ping_636062813681",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 42.0,
+  "description": "Rolig tur med gjeng fra jobb - Vibeke, Anders og Helene💪🏼",
+  "calories": 263.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3540321098015462370,
+      "resource_state": 2,
+      "name": "Ullerns praktfulle riviera",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 431,
+      "moving_time": 431,
+      "start_date": "2026-09-30T09:37:44Z",
+      "start_date_local": "2026-09-30T11:37:44Z",
+      "distance": 977.4,
+      "start_index": 29,
+      "end_index": 129,
+      "average_cadence": 80.7,
+      "device_watts": false,
+      "average_heartrate": 134.8,
+      "max_heartrate": 144.0,
+      "segment": {
+        "id": 7886121,
+        "resource_state": 2,
+        "name": "Ullerns praktfulle riviera",
+        "activity_type": "Run",
+        "distance": 977.4,
+        "average_grade": -0.6,
+        "maximum_grade": 11.1,
+        "elevation_high": 19.8,
+        "elevation_low": 13.4,
+        "start_latlng": [
+          59.912882,
+          10.648155
+        ],
+        "end_latlng": [
+          59.916635,
+          10.660465
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "0890 Oslo, Norway",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3540321098015986658,
+      "resource_state": 2,
+      "name": "Maxbo - Sjølyst",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 346,
+      "moving_time": 346,
+      "start_date": "2026-09-30T09:45:32Z",
+      "start_date_local": "2026-09-30T11:45:32Z",
+      "distance": 850.0,
+      "start_index": 132,
+      "end_index": 191,
+      "average_cadence": 84.9,
+      "device_watts": false,
+      "average_heartrate": 138.1,
+      "max_heartrate": 141.0,
+      "segment": {
+        "id": 10771369,
+        "resource_state": 2,
+        "name": "Maxbo - Sjølyst",
+        "activity_type": "Run",
+        "distance": 850.0,
+        "average_grade": -0.4,
+        "maximum_grade": 38.5,
+        "elevation_high": 11.4,
+        "elevation_low": 2.3,
+        "start_latlng": [
+          59.917102,
+          10.660208
+        ],
+        "end_latlng": [
+          59.920292,
+          10.673573
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ullern",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3540321098019100642,
+      "resource_state": 2,
+      "name": "\tDen Ømme Herskerens Sjel er Marinert i Irrgrønn Patina",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 397,
+      "moving_time": 397,
+      "start_date": "2026-09-30T09:45:32Z",
+      "start_date_local": "2026-09-30T11:45:32Z",
+      "distance": 947.2,
+      "start_index": 132,
+      "end_index": 202,
+      "average_cadence": 84.8,
+      "device_watts": false,
+      "average_heartrate": 138.2,
+      "max_heartrate": 141.0,
+      "segment": {
+        "id": 33664572,
+        "resource_state": 2,
+        "name": "\tDen Ømme Herskerens Sjel er Marinert i Irrgrønn Patina",
+        "activity_type": "Run",
+        "distance": 947.2,
+        "average_grade": -0.0,
+        "maximum_grade": 2.3,
+        "elevation_high": 0.4,
+        "elevation_low": -2.6,
+        "start_latlng": [
+          59.917181,
+          10.660445
+        ],
+        "end_latlng": [
+          59.920547,
+          10.675343
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": true
+    },
+    {
+      "id": 3540321098016955362,
+      "resource_state": 2,
+      "name": "Maritimpark1",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 171,
+      "moving_time": 171,
+      "start_date": "2026-09-30T09:48:09Z",
+      "start_date_local": "2026-09-30T11:48:09Z",
+      "distance": 397.8,
+      "start_index": 160,
+      "end_index": 188,
+      "average_cadence": 85.0,
+      "device_watts": false,
+      "average_heartrate": 138.0,
+      "max_heartrate": 141.0,
+      "segment": {
+        "id": 26949027,
+        "resource_state": 2,
+        "name": "Maritimpark1",
+        "activity_type": "Run",
+        "distance": 397.8,
+        "average_grade": -0.0,
+        "maximum_grade": 0.5,
+        "elevation_high": 2.7,
+        "elevation_low": 2.1,
+        "start_latlng": [
+          59.918328,
+          10.66675
+        ],
+        "end_latlng": [
+          59.92017,
+          10.672786
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ullern",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3540321098015079394,
+      "resource_state": 2,
+      "name": "Duck run",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 110,
+      "moving_time": 110,
+      "start_date": "2026-09-30T09:49:01Z",
+      "start_date_local": "2026-09-30T11:49:01Z",
+      "distance": 253.8,
+      "start_index": 170,
+      "end_index": 187,
+      "average_cadence": 84.7,
+      "device_watts": false,
+      "average_heartrate": 137.2,
+      "max_heartrate": 139.0,
+      "segment": {
+        "id": 34578936,
+        "resource_state": 2,
+        "name": "Duck run",
+        "activity_type": "Run",
+        "distance": 253.8,
+        "average_grade": 0.2,
+        "maximum_grade": 3.8,
+        "elevation_high": 13.4,
+        "elevation_low": 12.6,
+        "start_latlng": [
+          59.918691,
+          10.668784
+        ],
+        "end_latlng": [
+          59.919994,
+          10.67249
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3540321098017269730,
+      "resource_state": 2,
+      "name": "BestumIntervall",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 123,
+      "moving_time": 123,
+      "start_date": "2026-09-30T09:54:18Z",
+      "start_date_local": "2026-09-30T11:54:18Z",
+      "distance": 285.0,
+      "start_index": 230,
+      "end_index": 252,
+      "average_cadence": 83.4,
+      "device_watts": false,
+      "average_heartrate": 126.7,
+      "max_heartrate": 134.0,
+      "segment": {
+        "id": 33373064,
+        "resource_state": 2,
+        "name": "BestumIntervall",
+        "activity_type": "Run",
+        "distance": 285.0,
+        "average_grade": 0.1,
+        "maximum_grade": 3.5,
+        "elevation_high": 25.4,
+        "elevation_low": 24.2,
+        "start_latlng": [
+          59.92024,
+          10.673005
+        ],
+        "end_latlng": [
+          59.91877,
+          10.66886
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ullern",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3540321098017152994,
+      "resource_state": 2,
+      "name": "Maritimpark2",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 178,
+      "moving_time": 178,
+      "start_date": "2026-09-30T09:54:33Z",
+      "start_date_local": "2026-09-30T11:54:33Z",
+      "distance": 412.7,
+      "start_index": 233,
+      "end_index": 263,
+      "average_cadence": 83.7,
+      "device_watts": false,
+      "average_heartrate": 131.2,
+      "max_heartrate": 138.0,
+      "segment": {
+        "id": 26949035,
+        "resource_state": 2,
+        "name": "Maritimpark2",
+        "activity_type": "Run",
+        "distance": 412.7,
+        "average_grade": 0.1,
+        "maximum_grade": 0.5,
+        "elevation_high": 2.9,
+        "elevation_low": 2.1,
+        "start_latlng": [
+          59.92002,
+          10.672506
+        ],
+        "end_latlng": [
+          59.918128,
+          10.666242
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ullern",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3540321098015257570,
+      "resource_state": 2,
+      "name": "Bestumkilen til Maxbo",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 316,
+      "moving_time": 316,
+      "start_date": "2026-09-30T09:54:50Z",
+      "start_date_local": "2026-09-30T11:54:50Z",
+      "distance": 728.4,
+      "start_index": 239,
+      "end_index": 292,
+      "average_cadence": 84.4,
+      "device_watts": false,
+      "average_heartrate": 135.1,
+      "max_heartrate": 141.0,
+      "segment": {
+        "id": 7823455,
+        "resource_state": 2,
+        "name": "Bestumkilen til Maxbo",
+        "activity_type": "Run",
+        "distance": 728.4,
+        "average_grade": -0.1,
+        "maximum_grade": 17.1,
+        "elevation_high": 12.1,
+        "elevation_low": 5.0,
+        "start_latlng": [
+          59.919833,
+          10.67187
+        ],
+        "end_latlng": [
+          59.917136,
+          10.660295
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Oslo",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3540321098017977314,
+      "resource_state": 2,
+      "name": "Alfonso Von Roccamonfina",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 349,
+      "moving_time": 349,
+      "start_date": "2026-09-30T10:01:56Z",
+      "start_date_local": "2026-09-30T12:01:56Z",
+      "distance": 764.0,
+      "start_index": 313,
+      "end_index": 375,
+      "average_cadence": 82.8,
+      "device_watts": false,
+      "average_heartrate": 136.6,
+      "max_heartrate": 139.0,
+      "segment": {
+        "id": 32735194,
+        "resource_state": 2,
+        "name": "Alfonso Von Roccamonfina",
+        "activity_type": "Run",
+        "distance": 764.0,
+        "average_grade": 0.1,
+        "maximum_grade": 7.8,
+        "elevation_high": 13.8,
+        "elevation_low": 7.4,
+        "start_latlng": [
+          59.91536,
+          10.658676
+        ],
+        "end_latlng": [
+          59.91281,
+          10.648124
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ullern",
+        "state": "Oslo",
+        "country": "Norway",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1001.2,
+      "elapsed_time": 455,
+      "elevation_difference": 8.6,
+      "moving_time": 455,
+      "split": 1,
+      "average_speed": 2.2,
+      "average_grade_adjusted_speed": 2.27,
+      "average_heartrate": 127.38716814159292,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1012.7,
+      "elapsed_time": 459,
+      "elevation_difference": -1.2,
+      "moving_time": 430,
+      "split": 2,
+      "average_speed": 2.36,
+      "average_grade_adjusted_speed": 2.35,
+      "average_heartrate": 137.979020979021,
+      "pace_zone": 2
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 473,
+      "elevation_difference": -1.6,
+      "moving_time": 473,
+      "split": 3,
+      "average_speed": 2.11,
+      "average_grade_adjusted_speed": 2.11,
+      "average_heartrate": 132.82750582750583,
+      "pace_zone": 1
+    },
+    {
+      "distance": 987.4,
+      "elapsed_time": 439,
+      "elevation_difference": 3.2,
+      "moving_time": 439,
+      "split": 4,
+      "average_speed": 2.25,
+      "average_grade_adjusted_speed": 2.28,
+      "average_heartrate": 136.49430523917997,
+      "pace_zone": 1
+    },
+    {
+      "distance": 325.7,
+      "elapsed_time": 140,
+      "elevation_difference": -1.2,
+      "moving_time": 140,
+      "split": 5,
+      "average_speed": 2.33,
+      "average_grade_adjusted_speed": 2.32,
+      "average_heartrate": 138.43571428571428,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1623.4,
+      "elapsed_time": 745,
+      "elevation_difference": 7.2,
+      "moving_time": 716,
+      "split": 1,
+      "average_speed": 2.27,
+      "average_grade_adjusted_speed": 2.31,
+      "average_heartrate": 131.3806179775281,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 736,
+      "elevation_difference": -0.8,
+      "moving_time": 736,
+      "split": 2,
+      "average_speed": 2.19,
+      "average_grade_adjusted_speed": 2.2,
+      "average_heartrate": 134.67196531791907,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1094.2,
+      "elapsed_time": 485,
+      "elevation_difference": 1.4,
+      "moving_time": 485,
+      "split": 3,
+      "average_speed": 2.26,
+      "average_grade_adjusted_speed": 2.27,
+      "average_heartrate": 136.7443298969072,
+      "pace_zone": 1
+    }
+  ],
+  "laps": [
+    {
+      "id": 72761859190,
+      "resource_state": 2,
+      "name": "Lap 0",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 120,
+      "moving_time": 120,
+      "start_date": "2026-09-30T09:36:03Z",
+      "start_date_local": "2026-09-30T11:36:03Z",
+      "distance": 233.13,
+      "average_speed": 1.94,
+      "max_speed": 2.58,
+      "lap_index": 0,
+      "split": 0,
+      "start_index": 0,
+      "end_index": 33,
+      "total_elevation_gain": 2.6,
+      "average_cadence": 71.4,
+      "device_watts": false,
+      "average_heartrate": 105.5,
+      "max_heartrate": 121.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 72761859191,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 300,
+      "moving_time": 300,
+      "start_date": "2026-09-30T09:38:07Z",
+      "start_date_local": "2026-09-30T11:38:07Z",
+      "distance": 683.55,
+      "average_speed": 2.28,
+      "max_speed": 2.73333,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 34,
+      "end_index": 105,
+      "total_elevation_gain": 6.2,
+      "average_cadence": 80.5,
+      "device_watts": false,
+      "average_heartrate": 135.0,
+      "max_heartrate": 144.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 72761859192,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 120,
+      "moving_time": 120,
+      "start_date": "2026-09-30T09:43:10Z",
+      "start_date_local": "2026-09-30T11:43:10Z",
+      "distance": 273.55,
+      "average_speed": 2.28,
+      "max_speed": 2.55556,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 106,
+      "end_index": 131,
+      "total_elevation_gain": 1.0,
+      "average_cadence": 81.5,
+      "device_watts": false,
+      "average_heartrate": 137.6,
+      "max_heartrate": 139.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 72761859193,
+      "resource_state": 2,
+      "name": "Lap 3",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 429,
+      "moving_time": 429,
+      "start_date": "2026-09-30T09:45:32Z",
+      "start_date_local": "2026-09-30T11:45:32Z",
+      "distance": 1000.0,
+      "average_speed": 2.33,
+      "max_speed": 2.6,
+      "lap_index": 3,
+      "split": 3,
+      "start_index": 132,
+      "end_index": 210,
+      "total_elevation_gain": 2.4,
+      "average_cadence": 84.6,
+      "device_watts": false,
+      "average_heartrate": 138.0,
+      "max_heartrate": 141.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 72761859194,
+      "resource_state": 2,
+      "name": "Lap 4",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 467,
+      "moving_time": 467,
+      "start_date": "2026-09-30T09:52:54Z",
+      "start_date_local": "2026-09-30T11:52:54Z",
+      "distance": 1000.0,
+      "average_speed": 2.14,
+      "max_speed": 2.54444,
+      "lap_index": 4,
+      "split": 4,
+      "start_index": 211,
+      "end_index": 299,
+      "total_elevation_gain": 3.6,
+      "average_cadence": 84.3,
+      "device_watts": false,
+      "average_heartrate": 132.8,
+      "max_heartrate": 141.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 72761859195,
+      "resource_state": 2,
+      "name": "Lap 5",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 443,
+      "moving_time": 444,
+      "start_date": "2026-09-30T10:00:36Z",
+      "start_date_local": "2026-09-30T12:00:36Z",
+      "distance": 1000.0,
+      "average_speed": 2.25,
+      "max_speed": 2.62,
+      "lap_index": 5,
+      "split": 5,
+      "start_index": 300,
+      "end_index": 377,
+      "total_elevation_gain": 5.8,
+      "average_cadence": 83.0,
+      "device_watts": false,
+      "average_heartrate": 136.3,
+      "max_heartrate": 139.0,
+      "pace_zone": 1
+    },
+    {
+      "id": 72761859196,
+      "resource_state": 2,
+      "name": "Lap 6",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 58,
+      "moving_time": 58,
+      "start_date": "2026-09-30T10:07:59Z",
+      "start_date_local": "2026-09-30T12:07:59Z",
+      "distance": 135.77,
+      "average_speed": 2.34,
+      "max_speed": 2.45333,
+      "lap_index": 6,
+      "split": 6,
+      "start_index": 378,
+      "end_index": 386,
+      "total_elevation_gain": 2.6,
+      "average_cadence": 83.8,
+      "device_watts": false,
+      "average_heartrate": 140.3,
+      "max_heartrate": 142.0,
+      "pace_zone": 2
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 85366979934,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 164,
+      "moving_time": 164,
+      "start_date": "2026-09-30T09:36:03Z",
+      "start_date_local": "2026-09-30T11:36:03Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 136,
+      "end_index": 165
+    },
+    {
+      "id": 85366979935,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 339,
+      "moving_time": 339,
+      "start_date": "2026-09-30T09:36:03Z",
+      "start_date_local": "2026-09-30T11:36:03Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 134,
+      "end_index": 191
+    },
+    {
+      "id": 85366979936,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 428,
+      "moving_time": 428,
+      "start_date": "2026-09-30T09:36:03Z",
+      "start_date_local": "2026-09-30T11:36:03Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 230,
+      "end_index": 309
+    },
+    {
+      "id": 85366979932,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 705,
+      "moving_time": 705,
+      "start_date": "2026-09-30T09:36:03Z",
+      "start_date_local": "2026-09-30T11:36:03Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 229,
+      "end_index": 352
+    },
+    {
+      "id": 85366979933,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 20390350425,
+        "id_str": "20390350425",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 13108506,
+        "id_str": "13108506",
+        "resource_state": 1
+      },
+      "elapsed_time": 1455,
+      "moving_time": 1455,
+      "start_date": "2026-09-30T09:36:03Z",
+      "start_date_local": "2026-09-30T11:36:03Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 17,
+      "end_index": 306
+    }
+  ],
+  "gear": {
+    "id": "g28225025",
+    "primary": false,
+    "name": "New Balance WRCXCS4",
+    "nickname": null,
+    "resource_state": 2,
+    "retired": false,
+    "distance": 218571,
+    "converted_distance": 218.6
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "8752597F-65D7-475F-B4B3-65C660C29427",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/ENBkn6e8iZIAWzOyyMQ9wj4PXDWrbonWYct4IqLITDA-768x576.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/ENBkn6e8iZIAWzOyyMQ9wj4PXDWrbonWYct4IqLITDA-128x96.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "17f799a4f83fa529311e69bfd517ae33a0f5b6cd",
+  "similar_activities": {
+    "effort_count": 2,
+    "average_speed": 2.3954708644020988,
+    "min_average_speed": 2.233350542075374,
+    "mid_average_speed": 2.395031024265521,
+    "max_average_speed": 2.5819477434679334,
+    "pr_rank": 2,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.5819477434679334,
+        2.395031024265521
+      ],
+      "current_activity_index": 1,
+      "min_speed": 2.233350542075374,
+      "mid_speed": 2.395031024265521,
+      "max_speed": 2.5819477434679334,
+      "direction": -1
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}
