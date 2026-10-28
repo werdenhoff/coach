@@ -1,5 +1,114 @@
 [
   {
+    "id": 20763336832,
+    "name": "Sonitor lunsj jogg",
+    "type": "Run",
+    "sport_type": "Run",
+    "start_date": "2026-10-28T10:40:36Z",
+    "start_date_local": "2026-10-28T11:40:36Z",
+    "description": "Fint at været er på vår side på onsdagene☀️🍁🍂💪🏼",
+    "distance_m": 5037.5,
+    "moving_time_s": 2123,
+    "elapsed_time_s": 2178,
+    "total_elevation_gain_m": 10.9,
+    "elev_high_m": 7.2,
+    "elev_low_m": 2.2,
+    "average_speed_mps": 2.373,
+    "max_speed_mps": 3.351,
+    "average_heartrate": null,
+    "max_heartrate": null,
+    "average_cadence": null,
+    "average_watts": null,
+    "device_watts": null,
+    "kilojoules": null,
+    "calories": 360.0,
+    "average_temp_c": null,
+    "suffer_score": null,
+    "perceived_exertion": null,
+    "has_heartrate": false,
+    "workout_type": null,
+    "pr_count": 1,
+    "achievement_count": 11,
+    "gear_id": "g28225025",
+    "splits_metric": [
+      {
+        "distance": 1002.5,
+        "elapsed_time": 446,
+        "elevation_difference": -3.1,
+        "moving_time": 432,
+        "split": 1,
+        "average_speed": 2.32,
+        "average_grade_adjusted_speed": 2.33,
+        "pace_zone": 1
+      },
+      {
+        "distance": 998.0,
+        "elapsed_time": 405,
+        "elevation_difference": -1.5,
+        "moving_time": 405,
+        "split": 2,
+        "average_speed": 2.46,
+        "average_grade_adjusted_speed": 2.46,
+        "pace_zone": 2
+      },
+      {
+        "distance": 1000.5,
+        "elapsed_time": 462,
+        "elevation_difference": -0.1,
+        "moving_time": 427,
+        "split": 3,
+        "average_speed": 2.34,
+        "average_grade_adjusted_speed": 2.35,
+        "pace_zone": 2
+      },
+      {
+        "distance": 1000.9,
+        "elapsed_time": 424,
+        "elevation_difference": 2.2,
+        "moving_time": 424,
+        "split": 4,
+        "average_speed": 2.36,
+        "average_grade_adjusted_speed": 2.38,
+        "pace_zone": 2
+      },
+      {
+        "distance": 1000.6,
+        "elapsed_time": 418,
+        "elevation_difference": -0.1,
+        "moving_time": 415,
+        "split": 5,
+        "average_speed": 2.41,
+        "average_grade_adjusted_speed": 2.43,
+        "pace_zone": 2
+      },
+      {
+        "distance": 35.0,
+        "elapsed_time": 23,
+        "elevation_difference": 0.7,
+        "moving_time": 20,
+        "split": 6,
+        "average_speed": 1.75,
+        "average_grade_adjusted_speed": 1.84,
+        "pace_zone": 1
+      }
+    ],
+    "laps": [
+      {
+        "name": "Lap 0",
+        "elapsed_time": 2230,
+        "moving_time": 2178,
+        "start_date_local": "2026-10-28T11:40:36Z",
+        "distance": 5037.48,
+        "average_speed": 2.31,
+        "max_speed": 3.35077,
+        "lap_index": 0,
+        "total_elevation_gain": 10.9,
+        "device_watts": false,
+        "pace_zone": 1
+      }
+    ]
+  },
+  {
     "id": 20710511692,
     "name": "Intervall på mølle",
     "type": "Run",
